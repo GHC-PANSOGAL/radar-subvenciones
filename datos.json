@@ -1,5 +1,5 @@
 {
- "generado": "06/09/2026 09:53",
+ "generado": "07/09/2026 08:30",
  "version": "1.9.5",
  "convocatorias": [
   {
@@ -205,7 +205,7 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:27",
    "actualizado": "2026-09-04T18:00:16",
-   "estado": "proxima",
+   "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
     "Industria / pymes"
@@ -615,7 +615,7 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:43",
    "actualizado": "2026-09-04T18:00:19",
-   "estado": "proxima",
+   "estado": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
     "Edificios / comunidades de propietarios"
@@ -5874,6 +5874,17 @@
  },
  "ejecuciones": [
   {
+   "id": 28,
+   "inicio": "2026-09-07T08:30:03",
+   "fin": "2026-09-07T08:30:31",
+   "ok": 1,
+   "nuevas_convocatorias": 0,
+   "nuevas_noticias": 0,
+   "resumenes": 0,
+   "errores": [],
+   "nuevas_licitaciones": 0
+  },
+  {
    "id": 27,
    "inicio": "2026-09-06T09:52:44",
    "fin": "2026-09-06T09:53:26",
@@ -6026,17 +6037,6 @@
    "resumenes": 0,
    "errores": [],
    "nuevas_licitaciones": 0
-  },
-  {
-   "id": 13,
-   "inicio": "2026-09-05T10:47:48",
-   "fin": "2026-09-05T10:48:44",
-   "ok": 1,
-   "nuevas_convocatorias": 0,
-   "nuevas_noticias": 0,
-   "resumenes": 0,
-   "errores": [],
-   "nuevas_licitaciones": 3
   }
  ],
  "categorias": {
@@ -6059,9 +6059,9 @@
   "industria": "Industria / empresas"
  },
  "kpis": {
-  "abiertas": 20,
+  "abiertas": 22,
   "por_confirmar": 7,
-  "proximas": 3,
+  "proximas": 1,
   "licitaciones_abiertas": 24,
   "licitaciones_nuevas_7d": 25,
   "nuevas_7d": 2,
