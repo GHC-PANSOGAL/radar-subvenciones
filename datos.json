@@ -1,7 +1,146 @@
 {
- "generado": "07/09/2026 08:30",
+ "generado": "12/09/2026 17:34",
  "version": "1.9.5",
  "convocatorias": [
+  {
+   "id_bdns": "928909",
+   "fuente": "bdns",
+   "titulo": "Subvención al Ayuntamiento de Campo para la mejora eficiencia energética en instalación de calefacción del CEIP Cerbín de Campo",
+   "organo": "DIPUTACIÓN PROVINCIAL DE HUESCA",
+   "ambito": "Local",
+   "ccaa": "Aragón",
+   "fecha_publicacion": "2026-09-11",
+   "fecha_inicio": null,
+   "fecha_fin": null,
+   "texto_inicio": "SIN PLAZO",
+   "texto_fin": "SIN PLAZO",
+   "abierto": 0,
+   "presupuesto": 48307.99,
+   "beneficiarios": [
+    "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+   ],
+   "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+   "finalidad": "Infraestructuras",
+   "regiones": [
+    "ES241 - Huesca"
+   ],
+   "mrr": 0,
+   "url_ficha": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/928909",
+   "url_bases": "https://diputaciondehuesca.transparencialocal.gob.es/es_ES/categoria/normativa",
+   "url_sede": "https://www.dphuesca.es",
+   "categorias": [
+    "eficiencia"
+   ],
+   "clientes": [],
+   "resumen_json": {
+    "titulo_corto": "Subvención al Ayuntamiento de Campo para la mejora eficiencia energética en instalación de calefacción del CEIP Cerbín d",
+    "fecha_inicio": "SIN PLAZO",
+    "fecha_fin": "SIN PLAZO",
+    "importe": "Presupuesto total: 48.308 €",
+    "porcentaje": "No consta (ver bases)",
+    "que_se_subvenciona": "Subvención al Ayuntamiento de Campo para la mejora eficiencia energética en instalación de calefacción del CEIP Cerbín de Campo",
+    "quien_puede_solicitar": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+    "condiciones": [
+     "Instrumento: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+     "Resumen generado sin LLM: revisar la ficha BDNS y las bases"
+    ],
+    "encaje_ghc": "bajo",
+    "encaje_motivo": "Detección automática por palabras clave",
+    "resumen": "Subvención al Ayuntamiento de Campo para la mejora eficiencia energética en instalación de calefacción del CEIP Cerbín de Campo",
+    "confianza": "baja"
+   },
+   "resumen_proveedor": "basico",
+   "texto_pdf_chars": 12683,
+   "creado": "2026-09-12T17:33:44",
+   "actualizado": "2026-09-12T17:34:28",
+   "estado": "plazo_por_confirmar",
+   "categorias_txt": [
+    "Eficiencia energética / descarbonización"
+   ],
+   "clientes_txt": [],
+   "puntuacion": 1,
+   "geo": {
+    "nombre": "Huesca",
+    "lat": 42.15,
+    "lon": -0.15,
+    "nivel": "provincia",
+    "codigo": "ES241"
+   }
+  },
+  {
+   "id_bdns": "928318",
+   "fuente": "bdns",
+   "titulo": "Subvenciones destinadas a la realización de actuaciones orientadas al ahorro energético 2026",
+   "organo": "AYUNTAMIENTO DE SANTA PAU",
+   "ambito": "Local",
+   "ccaa": "Cataluña",
+   "fecha_publicacion": "2026-09-08",
+   "fecha_inicio": null,
+   "fecha_fin": null,
+   "texto_inicio": "A partir del dia siguiente de la publicación del extracto de la convocatoria en el BOP de Girona",
+   "texto_fin": "20 dies hábiles desde la publicación del extracto de la convocatoria en el BOP de Girona",
+   "abierto": 0,
+   "presupuesto": 3000.0,
+   "beneficiarios": [
+    "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+    "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+   ],
+   "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+   "finalidad": "Industria y Energía",
+   "regiones": [
+    "ES512 - Girona"
+   ],
+   "mrr": 0,
+   "url_ficha": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/928318",
+   "url_bases": "https://ssl4.ddgi.cat/bopV1/pdf/2026/147/202614706726.pdf",
+   "url_sede": "www.santapau.cat",
+   "categorias": [
+    "eficiencia",
+    "industria"
+   ],
+   "clientes": [
+    "comunidades",
+    "industria"
+   ],
+   "resumen_json": {
+    "titulo_corto": "Subvenciones destinadas a la realización de actuaciones orientadas al ahorro energético 2026",
+    "fecha_inicio": "A partir del dia siguiente de la publicación del extracto de la convocatoria en el BOP de Girona",
+    "fecha_fin": "20 dies hábiles desde la publicación del extracto de la convocatoria en el BOP de Girona",
+    "importe": "Presupuesto total: 3.000 €",
+    "porcentaje": "No consta (ver bases)",
+    "que_se_subvenciona": "Subvenciones destinadas a la realización de actuaciones orientadas al ahorro energético 2026",
+    "quien_puede_solicitar": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA; PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+    "condiciones": [
+     "Instrumento: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+     "Resumen generado sin LLM: revisar la ficha BDNS y las bases"
+    ],
+    "encaje_ghc": "comunidades, industria",
+    "encaje_motivo": "Detección automática por palabras clave",
+    "resumen": "Subvenciones destinadas a la realización de actuaciones orientadas al ahorro energético 2026",
+    "confianza": "baja"
+   },
+   "resumen_proveedor": "basico",
+   "texto_pdf_chars": 14196,
+   "creado": "2026-09-10T08:34:32",
+   "actualizado": "2026-09-12T17:34:37",
+   "estado": "plazo_por_confirmar",
+   "categorias_txt": [
+    "Eficiencia energética / descarbonización",
+    "Industria / pymes"
+   ],
+   "clientes_txt": [
+    "Comunidades de propietarios / edificios",
+    "Industria / empresas"
+   ],
+   "puntuacion": 4,
+   "geo": {
+    "nombre": "Girona",
+    "lat": 42.05,
+    "lon": 2.7,
+    "nivel": "provincia",
+    "codigo": "ES512"
+   }
+  },
   {
    "id_bdns": "927526",
    "fuente": "bdns",
@@ -3582,6 +3721,257 @@
  ],
  "licitaciones": [
   {
+   "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20384762",
+   "fuente": "Plataformas CCAA",
+   "titulo": "Execució de les obres del projecte d'instal·lació d’aerotèrmia a la casa de colònies de Can Grau",
+   "expediente": "2025/0048760",
+   "organo": "Diputació de Barcelona",
+   "organo_padre": "Entitats de l'administració local",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Obras",
+   "procedimiento": "Otros",
+   "cpv": [
+    "45331000"
+   ],
+   "presupuesto_sin_iva": 61246.33,
+   "presupuesto_con_iva": null,
+   "valor_estimado": 73495.6,
+   "fecha_limite": "2026-09-30",
+   "hora_limite": "14:00:00",
+   "lugar": null,
+   "nuts": "ES511",
+   "ccaa": "Cataluña",
+   "municipio": null,
+   "duracion": "4 meses",
+   "fondos_ue": "No hay financiación con fondos de la UE",
+   "n_lotes": 0,
+   "url": "https://contractaciopublica.cat/ca/detall-publicacio/87c13f5a-9834-496d-829b-439f2509302f/300879575",
+   "documentos": [
+    {
+     "nombre": "Pliego administrativo (PCAP)",
+     "fichero": "2025_48760_PCAP_obres_aerotermia_Can_Grau_def.pdf",
+     "url": "https://contractaciopublica.cat/portal-api/descarrega-document/302582158/B5266D48AFC22579B6390F9E2C09DDB1"
+    },
+    {
+     "nombre": "Pliego técnico (PPT)",
+     "fichero": "25_45760 Estudi Projecte VOL 1 2025-48760.pdf",
+     "url": "https://contractaciopublica.cat/portal-api/descarrega-document/302584016/081115DD6F8B96A455413F37C635A58F"
+    }
+   ],
+   "fecha_publicacion": "2026-09-10",
+   "actualizado": "2026-09-10",
+   "categorias": [
+    "aerotermia"
+   ],
+   "clientes": [],
+   "creado": "2026-09-12T17:34:15",
+   "estado_panel": "abierta",
+   "categorias_txt": [
+    "Aerotermia / bomba de calor"
+   ],
+   "clientes_txt": [],
+   "puntuacion": 1,
+   "geo": {
+    "nombre": "Barcelona",
+    "lat": 41.65,
+    "lon": 1.95,
+    "nivel": "provincia",
+    "codigo": "ES511"
+   }
+  },
+  {
+   "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20384784",
+   "fuente": "Plataformas CCAA",
+   "titulo": "L'objecte del present contracte administratiu d'obra l'execució de les obres del “Projecte executiu per la implementació d’un sistema d’aerotèrmia a Sant Vicenç de Castellet, situat a la comarca del Bages, a la província de Barcelona, que es composa de memòria, estudi de seguretat i salut, control de qualitat,plecs de condicions, pressupost i plànols, , valorat amb un pressupost d’execució per contracte (PEC) de 219.094,28 €, que un cop aplicat l’IVA actual (21%), ascendeix a un total de dos-centsseixanta-cinc mil cent quatreeuros amb vuit cèntims (265.104,08€) redactat pel Sr. Raimon Renau Permanyer, enginyer industrial amb número de col·legiat 12.676, contractat per la Agència Comarcal de l'Energia del Bages amb l’informe favorable dels serveis tècnics municipals de data 14 de maig de 2026 i aprovat inicialmentper acord de la Junta de Govern Local de data 29 de juliol de 2026.",
+   "expediente": "X2026004235",
+   "organo": "Ajuntament de Sant Vicenç de Castellet",
+   "organo_padre": "Entitats de l'administració local",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Obras",
+   "procedimiento": "Abierto simplificado",
+   "cpv": [
+    "42164000",
+    "45000000",
+    "45300000",
+    "45330000",
+    "45331110"
+   ],
+   "presupuesto_sin_iva": 219094.28,
+   "presupuesto_con_iva": null,
+   "valor_estimado": 219094.28,
+   "fecha_limite": "2026-09-30",
+   "hora_limite": "14:15:00",
+   "lugar": null,
+   "nuts": "ES511",
+   "ccaa": "Cataluña",
+   "municipio": null,
+   "duracion": "35 días",
+   "fondos_ue": "No hay financiación con fondos de la UE",
+   "n_lotes": 0,
+   "url": "https://contractaciopublica.cat/ca/detall-publicacio/a45fc485-dd92-45c6-ad20-635e8dba900f/300879652",
+   "documentos": [
+    {
+     "nombre": "Pliego administrativo (PCAP)",
+     "fichero": "PCAP AEROTERMIA 10092026.pdf",
+     "url": "https://contractaciopublica.cat/portal-api/descarrega-document/302582428/D9DF2DB727E19ADBD6A82EF6601E6DDD"
+    },
+    {
+     "nombre": "Pliego técnico (PPT)",
+     "fichero": "51242801_6f67d79c_1_Resum7930096964862863573.pdf",
+     "url": "https://contractaciopublica.cat/portal-api/descarrega-document/302582433/9F30A88C6F2559D1BE17CF25596CC0EF"
+    }
+   ],
+   "fecha_publicacion": "2026-09-10",
+   "actualizado": "2026-09-10",
+   "categorias": [
+    "aerotermia",
+    "industria"
+   ],
+   "clientes": [
+    "industria"
+   ],
+   "creado": "2026-09-12T17:34:15",
+   "estado_panel": "abierta",
+   "categorias_txt": [
+    "Aerotermia / bomba de calor",
+    "Industria / pymes"
+   ],
+   "clientes_txt": [
+    "Industria / empresas"
+   ],
+   "puntuacion": 3,
+   "geo": {
+    "nombre": "Barcelona",
+    "lat": 41.65,
+    "lon": 1.95,
+    "nivel": "provincia",
+    "codigo": "ES511"
+   }
+  },
+  {
+   "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20389906",
+   "fuente": "Plataformas CCAA",
+   "titulo": "El contracte té per objecte el subministrament dels aparells que s’indiquen en la taula, el desmuntatge de les màquines existents, instal·lació i posada en marxa de nous equips de climatització (bombes de calor d'alta eficiència energètica) als edificis esmentats, amb retirada i gestió de residus dels equips vells en abocador autoritzat. \n\nVeure apartat A \"Objecte\" del quadre de característiques del plec de clàusules administratives.",
+   "expediente": "GCON2026000057",
+   "organo": "Ajuntament del Vendrell",
+   "organo_padre": "Entitats de l'administració local",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Suministros",
+   "procedimiento": "Otros",
+   "cpv": [
+    "39717200",
+    "42512000"
+   ],
+   "presupuesto_sin_iva": 46475.0,
+   "presupuesto_con_iva": null,
+   "valor_estimado": 46475.0,
+   "fecha_limite": "2026-09-25",
+   "hora_limite": "23:59:59",
+   "lugar": null,
+   "nuts": "ES514",
+   "ccaa": "Cataluña",
+   "municipio": null,
+   "duracion": "2026-10-15 → 2027-02-25",
+   "fondos_ue": "No hay financiación con fondos de la UE",
+   "n_lotes": 0,
+   "url": "https://contractaciopublica.cat/ca/detall-publicacio/b21870fd-ae93-4c8a-8660-b0989a696627/300876083",
+   "documentos": [
+    {
+     "nombre": "Pliego administrativo (PCAP)",
+     "fichero": "Plec de clàusules administratives.pdf",
+     "url": "https://contractaciopublica.cat/portal-api/descarrega-document/302574728/7C185C021F9D91FFC9D16EAE9B1C0C06"
+    },
+    {
+     "nombre": "Pliego técnico (PPT)",
+     "fichero": "Plec de prescripcions tècnicques.pdf",
+     "url": "https://contractaciopublica.cat/portal-api/descarrega-document/302574736/633E8D04B69FB851B1FC4C6D456CA26F"
+    }
+   ],
+   "fecha_publicacion": "2026-09-10",
+   "actualizado": "2026-09-10",
+   "categorias": [
+    "aerotermia",
+    "eficiencia"
+   ],
+   "clientes": [],
+   "creado": "2026-09-12T17:34:15",
+   "estado_panel": "abierta",
+   "categorias_txt": [
+    "Aerotermia / bomba de calor",
+    "Eficiencia energética / descarbonización"
+   ],
+   "clientes_txt": [],
+   "puntuacion": 2,
+   "geo": {
+    "nombre": "Tarragona",
+    "lat": 41.15,
+    "lon": 0.8,
+    "nivel": "provincia",
+    "codigo": "ES514"
+   }
+  },
+  {
+   "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20383940",
+   "fuente": "Plataformas CCAA",
+   "titulo": "L’objecte de la present licitació és adjudicar, mitjançant procediment obert, tramitació ordinària, la prestació consistent en les obres definides al projecte d’instal·lació de climatització de la piscina municipal de Lloret de Mar.",
+   "expediente": "13792026000010- CLIMA PISCINA",
+   "organo": "Ajuntament de Lloret de Mar",
+   "organo_padre": "Entitats de l'administració local",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Obras",
+   "procedimiento": "Abierto",
+   "cpv": [
+    "45310000",
+    "45331000",
+    "45331220"
+   ],
+   "presupuesto_sin_iva": 98504.21,
+   "presupuesto_con_iva": null,
+   "valor_estimado": 118205.05,
+   "fecha_limite": "2026-10-05",
+   "hora_limite": "23:59:59",
+   "lugar": null,
+   "nuts": "ES51",
+   "ccaa": "Cataluña",
+   "municipio": null,
+   "duracion": "1 meses",
+   "fondos_ue": "No hay financiación con fondos de la UE",
+   "n_lotes": 0,
+   "url": "https://contractaciopublica.cat/ca/detall-publicacio/cec5f15a-35fe-47e6-a780-a0a860ddbffc/300878852",
+   "documentos": [
+    {
+     "nombre": "Pliego administrativo (PCAP)",
+     "fichero": "DOC 02 PCAP DEFINITIU.pdf",
+     "url": "https://contractaciopublica.cat/portal-api/descarrega-document/302580096/4AA0576CD9E9D8F0D2990D90A1A11B20"
+    },
+    {
+     "nombre": "Pliego técnico (PPT)",
+     "fichero": "DOC 01 PLEC TECNIC.pdf",
+     "url": "https://contractaciopublica.cat/portal-api/descarrega-document/302580098/4E6288989BA36E7B8ED38FDD362693A5"
+    }
+   ],
+   "fecha_publicacion": "2026-09-09",
+   "actualizado": "2026-09-09",
+   "categorias": [],
+   "clientes": [],
+   "creado": "2026-09-12T17:34:15",
+   "estado_panel": "abierta",
+   "categorias_txt": [],
+   "clientes_txt": [],
+   "puntuacion": 0,
+   "geo": {
+    "nombre": "Cataluña",
+    "lat": 41.8,
+    "lon": 1.6,
+    "nivel": "ccaa",
+    "codigo": "ES51"
+   }
+  },
+  {
    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20371745",
    "fuente": "Plataformas CCAA",
    "titulo": "Contractació obres de reparació menor de la coberta de l'edifici del Palau Firal de Sant Antoni de Calonge.",
@@ -4511,7 +4901,7 @@
     "comunidades"
    ],
    "creado": "2026-09-04T22:53:13",
-   "estado_panel": "abierta",
+   "estado_panel": "cerrada",
    "categorias_txt": [
     "Solar FV / autoconsumo",
     "Eficiencia energética / descarbonización",
@@ -4574,7 +4964,7 @@
    "categorias": [],
    "clientes": [],
    "creado": "2026-09-04T18:27:20",
-   "estado_panel": "abierta",
+   "estado_panel": "cerrada",
    "categorias_txt": [],
    "clientes_txt": [],
    "puntuacion": 0,
@@ -4694,7 +5084,7 @@
    "categorias": [],
    "clientes": [],
    "creado": "2026-09-04T22:53:13",
-   "estado_panel": "abierta",
+   "estado_panel": "cerrada",
    "categorias_txt": [],
    "clientes_txt": [],
    "puntuacion": 0,
@@ -4757,7 +5147,7 @@
    "categorias": [],
    "clientes": [],
    "creado": "2026-09-04T22:53:13",
-   "estado_panel": "abierta",
+   "estado_panel": "cerrada",
    "categorias_txt": [],
    "clientes_txt": [],
    "puntuacion": 0,
@@ -4815,7 +5205,7 @@
    "url": "https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=981992",
    "documentos": [],
    "fecha_publicacion": "2026-07-31",
-   "actualizado": "2026-09-04",
+   "actualizado": "2026-09-10",
    "categorias": [
     "fotovoltaica",
     "comunidades_energeticas"
@@ -4835,6 +5225,77 @@
     "lon": -5.85,
     "nivel": "provincia",
     "codigo": "ES618"
+   }
+  },
+  {
+   "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20194040",
+   "fuente": "Plataformas CCAA",
+   "titulo": "El objeto del presente acuerdo marco es la selección de empresas para la ejecución de obras vinculadas al despliegue de instalaciones de generación de energía renovable, instalaciones eléctricas vinculadas a la transición energética e infraestructuras de recarga de vehículo eléctrico, conjuntamente, si procede, con la elaboración de los respectivos proyectos y otras prestaciones complementarias.",
+   "expediente": "ERPC-2026-64",
+   "organo": "Energies Renovables Públiques de Catalunya, SAU",
+   "organo_padre": "Departaments i sector públic de la Generalitat de Catalunya",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Obras",
+   "procedimiento": "Abierto",
+   "cpv": [
+    "45315100",
+    "71300000"
+   ],
+   "presupuesto_sin_iva": 47500000.0,
+   "presupuesto_con_iva": null,
+   "valor_estimado": 228000000.0,
+   "fecha_limite": "2026-10-10",
+   "hora_limite": "23:59:59",
+   "lugar": null,
+   "nuts": "ES51",
+   "ccaa": "Cataluña",
+   "municipio": null,
+   "duracion": "1 años",
+   "fondos_ue": "No hay financiación con fondos de la UE",
+   "n_lotes": 8,
+   "url": "https://contractaciopublica.cat/ca/detall-publicacio/b582cbfb-e05c-4f95-837d-c07ee9de2969/300879988",
+   "documentos": [
+    {
+     "nombre": "Pliego administrativo (PCAP)",
+     "fichero": "PCP 090926.pdf",
+     "url": "https://contractaciopublica.cat/portal-api/descarrega-document/302583380/5C5B72BD1813305D6DD7E6E4E34256C9"
+    },
+    {
+     "nombre": "Pliego técnico (PPT)",
+     "fichero": "PPT_AM_Obres_vdef_signed.pdf",
+     "url": "https://contractaciopublica.cat/portal-api/descarrega-document/302583376/25C3FE140E0BFA7FF553C478D3062F87"
+    }
+   ],
+   "fecha_publicacion": "2026-07-31",
+   "actualizado": "2026-09-10",
+   "categorias": [
+    "eficiencia",
+    "renovables",
+    "movilidad",
+    "industria"
+   ],
+   "clientes": [
+    "industria"
+   ],
+   "creado": "2026-09-12T17:34:15",
+   "estado_panel": "abierta",
+   "categorias_txt": [
+    "Eficiencia energética / descarbonización",
+    "Energías renovables",
+    "Movilidad eléctrica / recarga",
+    "Industria / pymes"
+   ],
+   "clientes_txt": [
+    "Industria / empresas"
+   ],
+   "puntuacion": 5,
+   "geo": {
+    "nombre": "Cataluña",
+    "lat": 41.8,
+    "lon": 1.6,
+    "nivel": "ccaa",
+    "codigo": "ES51"
    }
   },
   {
@@ -4896,6 +5357,72 @@
     "lon": -5.85,
     "nivel": "provincia",
     "codigo": "ES612"
+   }
+  },
+  {
+   "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20133220",
+   "fuente": "Plataformas CCAA",
+   "titulo": "Dirección facultativa de las obras de rehabilitación energética bajo el estándar enerphit passivhaus del edificio social del Centro Cívico Aldabe de Vitoria-Gasteiz; y obras de adecuación/adaptación a la normativa actual de protección en caso de incendio y accesibilidad del edificio social y deportivo del mismo centro cívico.",
+   "expediente": "2026/CO_ASER/0087",
+   "organo": "Ayuntamiento de Vitoria-Gasteiz-Junta de Gobierno Local",
+   "organo_padre": "Ayuntamiento de Vitoria-Gasteiz",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Servicios",
+   "procedimiento": "Abierto",
+   "cpv": [
+    "71200000"
+   ],
+   "presupuesto_sin_iva": 186000.0,
+   "presupuesto_con_iva": null,
+   "valor_estimado": 204600.0,
+   "fecha_limite": "2026-09-14",
+   "hora_limite": "14:00:00",
+   "lugar": null,
+   "nuts": "ES211",
+   "ccaa": "País Vasco",
+   "municipio": null,
+   "duracion": "18 meses",
+   "fondos_ue": "No hay financiación con fondos de la UE",
+   "n_lotes": 0,
+   "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso732783/es_doc/index.html",
+   "documentos": [
+    {
+     "nombre": "Pliego administrativo (PCAP)",
+     "fichero": "PCAP-Pliego_Clausulas_Administrativas_Particulares FIRMADO.pdf",
+     "url": "https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13238252&R01HNoPortal=true"
+    },
+    {
+     "nombre": "Pliego técnico (PPT)",
+     "fichero": "PPTP-Pliego Técnico FIRMADO.pdf",
+     "url": "https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13238253&R01HNoPortal=true"
+    }
+   ],
+   "fecha_publicacion": "2026-07-27",
+   "actualizado": "2026-09-10",
+   "categorias": [
+    "rehabilitacion",
+    "edificios"
+   ],
+   "clientes": [
+    "comunidades"
+   ],
+   "creado": "2026-09-12T17:34:15",
+   "estado_panel": "abierta",
+   "categorias_txt": [
+    "Rehabilitación energética de edificios",
+    "Edificios / comunidades de propietarios"
+   ],
+   "clientes_txt": [
+    "Comunidades de propietarios / edificios"
+   ],
+   "puntuacion": 3,
+   "geo": {
+    "nombre": "Araba/Álava",
+    "lat": 42.85,
+    "lon": -2.7,
+    "nivel": "provincia",
+    "codigo": "ES211"
    }
   },
   {
@@ -5089,7 +5616,7 @@
    ],
    "clientes": [],
    "creado": "2026-09-04T18:27:20",
-   "estado_panel": "abierta",
+   "estado_panel": "cerrada",
    "categorias_txt": [
     "Solar FV / autoconsumo"
    ],
@@ -5109,6 +5636,84 @@
   "pansogal": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAaQAAAB6CAIAAAB/bbCJAAAKMWlDQ1BJQ0MgUHJvZmlsZQAAeJydlndUU9kWh8+9N71QkhCKlNBraFICSA29SJEuKjEJEErAkAAiNkRUcERRkaYIMijggKNDkbEiioUBUbHrBBlE1HFwFBuWSWStGd+8ee/Nm98f935rn73P3Wfvfda6AJD8gwXCTFgJgAyhWBTh58WIjYtnYAcBDPAAA2wA4HCzs0IW+EYCmQJ82IxsmRP4F726DiD5+yrTP4zBAP+flLlZIjEAUJiM5/L42VwZF8k4PVecJbdPyZi2NE3OMErOIlmCMlaTc/IsW3z2mWUPOfMyhDwZy3PO4mXw5Nwn4405Er6MkWAZF+cI+LkyviZjg3RJhkDGb+SxGXxONgAoktwu5nNTZGwtY5IoMoIt43kA4EjJX/DSL1jMzxPLD8XOzFouEiSniBkmXFOGjZMTi+HPz03ni8XMMA43jSPiMdiZGVkc4XIAZs/8WRR5bRmyIjvYODk4MG0tbb4o1H9d/JuS93aWXoR/7hlEH/jD9ld+mQ0AsKZltdn6h21pFQBd6wFQu/2HzWAvAIqyvnUOfXEeunxeUsTiLGcrq9zcXEsBn2spL+jv+p8Of0NffM9Svt3v5WF485M4knQxQ143bmZ6pkTEyM7icPkM5p+H+B8H/nUeFhH8JL6IL5RFRMumTCBMlrVbyBOIBZlChkD4n5r4D8P+pNm5lona+BHQllgCpSEaQH4eACgqESAJe2Qr0O99C8ZHA/nNi9GZmJ37z4L+fVe4TP7IFiR/jmNHRDK4ElHO7Jr8WgI0IABFQAPqQBvoAxPABLbAEbgAD+ADAkEoiARxYDHgghSQAUQgFxSAtaAYlIKtYCeoBnWgETSDNnAYdIFj4DQ4By6By2AE3AFSMA6egCnwCsxAEISFyBAVUod0IEPIHLKFWJAb5AMFQxFQHJQIJUNCSAIVQOugUqgcqobqoWboW+godBq6AA1Dt6BRaBL6FXoHIzAJpsFasBFsBbNgTzgIjoQXwcnwMjgfLoK3wJVwA3wQ7oRPw5fgEVgKP4GnEYAQETqiizARFsJGQpF4JAkRIauQEqQCaUDakB6kH7mKSJGnyFsUBkVFMVBMlAvKHxWF4qKWoVahNqOqUQdQnag+1FXUKGoK9RFNRmuizdHO6AB0LDoZnYsuRlegm9Ad6LPoEfQ4+hUGg6FjjDGOGH9MHCYVswKzGbMb0445hRnGjGGmsVisOtYc64oNxXKwYmwxtgp7EHsSewU7jn2DI+J0cLY4X1w8TogrxFXgWnAncFdwE7gZvBLeEO+MD8Xz8MvxZfhGfA9+CD+OnyEoE4wJroRIQiphLaGS0EY4S7hLeEEkEvWITsRwooC4hlhJPEQ8TxwlviVRSGYkNimBJCFtIe0nnSLdIr0gk8lGZA9yPFlM3kJuJp8h3ye/UaAqWCoEKPAUVivUKHQqXFF4pohXNFT0VFysmK9YoXhEcUjxqRJeyUiJrcRRWqVUo3RU6YbStDJV2UY5VDlDebNyi/IF5UcULMWI4kPhUYoo+yhnKGNUhKpPZVO51HXURupZ6jgNQzOmBdBSaaW0b2iDtCkVioqdSrRKnkqNynEVKR2hG9ED6On0Mvph+nX6O1UtVU9Vvuom1TbVK6qv1eaoeajx1UrU2tVG1N6pM9R91NPUt6l3qd/TQGmYaYRr5Grs0Tir8XQObY7LHO6ckjmH59zWhDXNNCM0V2ju0xzQnNbS1vLTytKq0jqj9VSbru2hnaq9Q/uE9qQOVcdNR6CzQ+ekzmOGCsOTkc6oZPQxpnQ1df11Jbr1uoO6M3rGelF6hXrtevf0Cfos/ST9Hfq9+lMGOgYhBgUGrQa3DfGGLMMUw12G/YavjYyNYow2GHUZPTJWMw4wzjduNb5rQjZxN1lm0mByzRRjyjJNM91tetkMNrM3SzGrMRsyh80dzAXmu82HLdAWThZCiwaLG0wS05OZw2xljlrSLYMtCy27LJ9ZGVjFW22z6rf6aG1vnW7daH3HhmITaFNo02Pzq62ZLde2xvbaXPJc37mr53bPfW5nbse322N3055qH2K/wb7X/oODo4PIoc1h0tHAMdGx1vEGi8YKY21mnXdCO3k5rXY65vTW2cFZ7HzY+RcXpkuaS4vLo3nG8/jzGueNueq5clzrXaVuDLdEt71uUnddd457g/sDD30PnkeTx4SnqWeq50HPZ17WXiKvDq/XbGf2SvYpb8Tbz7vEe9CH4hPlU+1z31fPN9m31XfKz95vhd8pf7R/kP82/xsBWgHcgOaAqUDHwJWBfUGkoAVB1UEPgs2CRcE9IXBIYMj2kLvzDecL53eFgtCA0O2h98KMw5aFfR+OCQ8Lrwl/GGETURDRv4C6YMmClgWvIr0iyyLvRJlESaJ6oxWjE6Kbo1/HeMeUx0hjrWJXxl6K04gTxHXHY+Oj45vipxf6LNy5cDzBPqE44foi40V5iy4s1licvvj4EsUlnCVHEtGJMYktie85oZwGzvTSgKW1S6e4bO4u7hOeB28Hb5Lvyi/nTyS5JpUnPUp2Td6ePJninlKR8lTAFlQLnqf6p9alvk4LTduf9ik9Jr09A5eRmHFUSBGmCfsytTPzMoezzLOKs6TLnJftXDYlChI1ZUPZi7K7xTTZz9SAxESyXjKa45ZTk/MmNzr3SJ5ynjBvYLnZ8k3LJ/J9879egVrBXdFboFuwtmB0pefK+lXQqqWrelfrry5aPb7Gb82BtYS1aWt/KLQuLC98uS5mXU+RVtGaorH1futbixWKRcU3NrhsqNuI2ijYOLhp7qaqTR9LeCUXS61LK0rfb+ZuvviVzVeVX33akrRlsMyhbM9WzFbh1uvb3LcdKFcuzy8f2x6yvXMHY0fJjpc7l+y8UGFXUbeLsEuyS1oZXNldZVC1tep9dUr1SI1XTXutZu2m2te7ebuv7PHY01anVVda926vYO/Ner/6zgajhop9mH05+x42Rjf2f836urlJo6m06cN+4X7pgYgDfc2Ozc0tmi1lrXCrpHXyYMLBy994f9Pdxmyrb6e3lx4ChySHHn+b+O31w0GHe4+wjrR9Z/hdbQe1o6QT6lzeOdWV0iXtjusePhp4tLfHpafje8vv9x/TPVZzXOV42QnCiaITn07mn5w+lXXq6enk02O9S3rvnIk9c60vvG/wbNDZ8+d8z53p9+w/ed71/LELzheOXmRd7LrkcKlzwH6g4wf7HzoGHQY7hxyHui87Xe4Znjd84or7ldNXva+euxZw7dLI/JHh61HXb95IuCG9ybv56Fb6ree3c27P3FlzF3235J7SvYr7mvcbfjT9sV3qID0+6j068GDBgztj3LEnP2X/9H686CH5YcWEzkTzI9tHxyZ9Jy8/Xvh4/EnWk5mnxT8r/1z7zOTZd794/DIwFTs1/lz0/NOvm1+ov9j/0u5l73TY9P1XGa9mXpe8UX9z4C3rbf+7mHcTM7nvse8rP5h+6PkY9PHup4xPn34D94Tz+6TMXDkAAD0bSURBVHja7Z13dFXF9sf3zJx6S5KbDqH3agNFRQVpIopi74rt2X3oszyxYy8P67NgefZn+VlRFERBsCAIinSllxDSk9tOm9m/P07uzU1AQIXg0/msLJcr3Mw9Z+ac7+zZs/ce0rZHgWVbhBCQSCSSPymMMcVyLMuSYieRSP7sYkeA+MjukEgkf1YIIVT2gkQi+SsgxU4ikUixk0gkEil2EolEIsVOIpFIpNhJJBKJFDuJRCKRYieRSCRS7CQSiUSKnUQikWInkUgkUuwkEolEip1EIpFIsZNIJBIpdhKJRCLFTiKRSKTYSSQSiRQ7iUQikWInkUik2EkkEokUO4lEIpFiJ5FIJFLsJBKJRIqdRCKRSLGTSCQSKXYSiUQixU4ikUik2EkkEil2EolEIsVOIpFIpNhJJBLJHx/lj36BCAjAOQoBKACx8V8IBUqBUUIoECKHUvI/iRDgOpnPNWgaodII+euIHSJwDz0OikJMkxS1YoXFSnYuDQSo/xy4LkbrsbqSl5V6NVXCcRARVIVQJsdU8r+kdHkF9NAhJmMEAQgAAnwxLVFVKaTe/fnFTnBwXdQN0qWn1v9Avd8Beo++Wl4+C4aJoVC10eADGzCRxFid2LjB+2GePf9be+F8u7KcA4CqEmnrSf74cA/bdVDufCgvAEQAEAAOcNJop7zMppp8gv+8Ysc5uC4WFLLBI8yjxgT36q9FQowACAABKAA4oJfxeQIQNEnIZCXFykH7G/aluGmj98WnyQ/fif8433EdVDUpeZL/AePOspHo0CB2AoSQvfLnFTtEcGzMzadjTgmfcla4SxeVAriADuD2/goa/pkD+trXro167rnqiWeEvpxhvfh0/byvLUBQVCl4EonkDyB23EMAOHJM4NJ/ZPfpqXMAr8k+xE4rJoAH6AHoGhl5RODQw80P3449+VDdutWepksTTyL5q7OHvaCOg7n5bMLEvIcnFfTqqduAv03pmqwLAGxATYNTTwu/+G7R6JODnodyaSCRSLHbY9gW9t1Xe+b1wtNPDwMFF3AXNi4ALMA2JeqDj+Vfd3tE1RpMSIlEIsWupZVu0AjzqZcL+/bRrd9tzf0SHiAwuOji7Hsfzw9nU8+VeieRSLFrWaUbelRg4pP5RYWKA7tXgPwglWOODt7/ZH52hHnSvpNIpNi1mNIdPMi495G8nGzqQgtJjwU4fEhgwsRc06SCy3GXSP5ytPRurOtglx7qXQ/n5eUwB1rUyLIAjx4VLL+Z3zW+muCu2Z8VzTLYCDQLfEcEwYELRNHwAUKBUsJ+faYHIggBQmBm2ly6QbrdnDn/b7dznf5nOEfBGxr3P0PZr0tdEhyEQIGAqa8jFCj51e1k9p7fIGDj/TL6G1NlUAAXDamH229N8CZP5467l4MQiJgaGgKEACVAKGEUQAYD/NXETggIhsjN9+Z2bKtasAeWkzbgmWPDyxY7b70U041d8ACGQkTRSFodHButJKZfANdBpkBRa9aug1rUWlEUiMfEpg28dINbVSkIgLJzmR5+uLWukYJCml/Eilop4SyqKOC5UF/PyzfzinJeVSFsGzV12yqg68QwSeo1BCEgFhPpEfDTM80gaddR7dBRycljQkBdDd+0wSsr5bXVgimgKGT7quQ6CACRPJpfqLRqo0QiTNXAdaGmipdu9Cq28NpqQRmoOxf26N+yYZCi1qxVCStspQQCxL+q0o28vMyrrhKAsPNx436DwSApaaW0aafmFTJ/ODau8zZt8KqrBGON90gphLMoIYApmUrEhedto1nPQ8+FQJAUFrPCYlZQxIJhSim4NtbWii2lXlWFqKrkQoCqyozXv5LYeS6OvTr7sEPMPaJ0AIAAjJKrbogs/M5eucJVf1+8sevitbfnHnig4QgEAJ2Sye/HH7m3VlEI50gADhtmnnhGqN8APbegwZJDAJdD6Xr32y/t996MfT/PJkCYsj1LxHGwVRtlyEhj0PBAj15qfpHCaKP3QQBwARVl3rIl7ucfJz7/JFlVwTW9yX05Do46LnDF1Tn+dSqElG72LjurwraQUHAdDIbpmFOCx54c7L23Hgw0qIcAcBxcu9L7akby7ddjK5e7v6QsroOaTg4Zah55TGCffnqbjoquEZq6XwSwbFy30p37lT35nfjiH2xCtmfY+rdcXMKGjwocPjLQo7eam8cogcar8nDTWu/77+yP34vP/dp2LFS1HQixY2NxCRt1bHDoqECPPmooREkqEdXlsH6V+8X05P+9Glv5k6tpRHBs1U55+D8FAZMIBEIAESZcXz1nlpX5RZwD97BzN3XE0YGDDjO69FBzIoxmDA0HcF0s28gXL7SnTk58+XkyHkdNJoH9FcTOdbHPvtrYv2V5WymdAgT8ndNdCgFQgXiNKyrwv6V1Abvi+pyrL6xE/F3lUhChdRvWtaNmAwKAAaSw2AIEx8GCQvqPmyPHnBgyGXEBBUD6GhQGHTtqXTtqY04Kvv9/8cceqC3fzLf5unIPVZ2MvSBr7IXhdm1VApC+l8w7YhRat1batVZHDA+suMR97P7aTz6IK0qjMCFCdg5NX6cCRAs03Lht4d799etvjwwYYJBUOHd6GDSN9Oql9e2lHXdq6PF/1b7+Qsw3YDNnD8fBvftpV1yXM/Bw0yDESyW0ZF6hoZPevfW9eusnnRl6783Yvx+sq6zg25xpPA81jZx1bvjci7I6tGu85SZXpZAuXbQeXbTjTgl9/YX17wdrF3xr/5IQCwGIeMIZoUuuzu7cXsWMe8TUcHTtpvXspo05OfT4xNo3/hPlHFSNdO6qBbWGfFUBEAjSTH+F62Ikl11wedYJp4UKchlmRMKLjMdPU0nHjmqXjurRY4Lz5tgT766d/43VbCqStBgtZ1hTRv729+zcLMab6pEOZOkyZ/58i+1qpUta+OmniXgS1aYuExtwxMjAoOGm4/xeeeXcT9to+HE9cF1o3VZ5/IXCU08JUwYWIE+9WukfD9AC1AxyxpnhZ/5b2LOv5ti49Wufk8seeCr/1gm5bdoqDqCd0RRk2E0IwAFsQAewW1d14lP5F12VzT3MfDmFaHKdngeIYNs4YnRg0muFBw0w/OQ80bRZBHABLcDcPHrb3XmX/COL84xWERwXjz0l+NybRUOHBAgBKxUTvvUV+u2YATJ2bNZTrxR26KS6W4UBuS4WFLF/Tcq//a68du3UZre8dQcSAocPNp97vfDsi8KcI4ptjI6qwg135t77SH6H9qqdusdttpaXT2+/O+/qWyJAgAtw3Yzuwiad6TrYuZv69KsFl1yWHcmlzZptduMeoA0oAA460Jj0auGo4wNbj7XkTyV2joP7H6QPGRHI3JSgAAzIW2/GLjipbNkiR9mlXlwCgC68NKn+4tO2rFrj6hmNI4DKyNhLwqZJdmGAHwGoruRmgNzzaN6A/kYSEAEYgA7ESP2oGYaRH/bcp5f+6HMF3XqpbobyCg6BILn7sbzRRwadVPkDAqAB0YEoQPxVGAPQgBhA0l3nAlIGV12fc8KZoV+ScgIQrROJuDhsuHHfY/l5ucwG9K/Tb1kB0IFkzhAcgANeflXOyGOC6XfVdvCIYwJ3TszPzmLpSEmWuk3fKe83pUHj0jgJuN8++gNP5eXlM86biHtxa+XR/xSMGhl0AdNmvm+eGxk/LOVH84OKgiF28515l12bzXkTSUIESuGfd+aef36WyGgQMgbF/68GhAL4eYp/uyT7vMuyYvUiFhPbfBw9D0raKQ8/W9B/P8OfyfwnWW86NErqNyzjUrPD9I4H8vcfaEi9+zMvYymFU84JBVWS9tYxAM+FiQ9UP/No/dU35Zw5Nsve1RkUoTB54N8Fl5xdfs6YsvufzD/kYDP9FS7g/gOMAYcaX0xL7pJlBQGwEZcsdM6/POuwgWYS0H/uN5S6i753yjZ5rgeRXNqlu9azrxpQqJtSBxuwcwf1jofy/nZaeawefWeWx/GCK3JGDA0kUxesArGEmD/PWrjA2bDGq68TQoBhkoIi2rmb2m+A0aGdylPrZYWQv/8zZ+5X1oa1XNlqhBnAT8vc4hLltgfyskLUA9SBbNzizfo8uWiBU18jAmHSuas6cLDRu5fOMxbOKiWXXpv9zaxktB5RQNsOyj8nREyNuKlCDCqQtRvduV9aPy1zKiuE52IgSNt3Vg44yNinv64A+KptAfbf27j46uy7xlczRnzDMxCkdz6ce8B+htVU5hKuWLjIXrXCrakWqgpFrZXee2vt2yoAxNcvDkgBLr86p2IL/+9/YnpqNF0Hz70s64yzwnbGhjkDQgHKKrwlC52N671kAoNh0r6j2ncfLTeLeYAC8PJ/5Cyc76xYbLcpCjbdkgVEUBhcNyHSu7uWvk4NSF1CfPdNcsmPTukGLx5DBAwGaVFr1r2X1m+AXpyv+MPtAkay6DW35lxwYnkyiXK/4k8odp4Lnburhw4xnQylsy2846aalyfVX/KP7Isvz+G7YcuCAxQXskeezR97wpZLzyq//9/5I0cGfb1DAJ2QMacEZ3+W/J2eu5SVStaud+tqxTkXZbmAGpANm7xn/1037cNEZbnwrTZKIRSmPfuq512ePXyEmXbkWYAH7Gecf1nWxDtqGSOeC117qqefH3YzlG7ZCuf+W6vnfW3HY9hYmRlBIFAKBYXs+NODl4zLCQSJAPAASwqUk84MP3h7DTTdRSUAHuI3s5LnXZrVua3qAKKAF16sf/7f9RvWeSiAUkAEgRDJpedcFL5kXA5TGq7TBezZVRs8wnz7tTglcOIZoQ6tG3bVCQAgPDup7rl/12/ZzFEAoUCgoalQiAw/OnD9rZGCQsUfaBvwuFODb70c/XmZp6jgunjZtdmHDwqkFcQ3DD+eEv/Pk/XLFzuxaEN2s6qR3Hw6eIT5tyuyO3dUnZR/UCFw9Y2RRfOdpYsdVSWuiz36aJdcnd3E2QekrNz7z1P1U95LVGzhVtL3yIEZJG3bsRPPCp9+TjhgkkiIjr04/M1sa8jQ4NZbMUNHmSOODNgZQ/PFrMTEO2qXL3FtCyltNDuFAFWDkrbK2EuyTj837O/tOoD99jUOP9L84I24dN61MCwY0T3P261VQRwXTzwjNGJY0Es9x54DE8ZXvzQpOvyowB0P5lEFdlOePgfIy2Ld+qrvvxn/7ONk515q985aevGUV6hMm5yoqxWU/pbb5xyOOSnYsYPKAQiQWEx066l1764xIPO+s648r2LG1KRtA2OgakRViaIQz4ON67xpHyY8xAEHGemVIgLp3EOdOS1ZVcE5h3MuyhoyKOCmjJFNm73LziqfP8ehlGgaUZTGH7/ZRALnzLJiMRw81Ey3mVtAP3wnYSdRCNi7n3740AAHoACxJC790Tl1bNgwiG3DHTdW/fvBuli90DSiqISlmrVt+HqWZYbIgANMnrGVxAE+fj8RDNNrbsnJL1BESkfefzd+6zXVyTj67ShKY1Ocw4/f22vXeMOODPgVtxAgrNGyCj5nloUAPfpotz+Qq+oUU0+I4DDx3pp7bqrZtJ4jElVt+CEEkgn8cYHzxafJrr3Uju1UnjI8sw2aVUCnfZj0TcVrbo0csJ/hZNhfS5bZV55X+fH7iWQCKW0YFFUliFBVKWZ9Zq1Y6hx4qBEI0pIOStsOanYuhdSm7ZT3Eqt/dhWN/OPmnO5dNC+ldPPmWVeeW7FutacoRN1qaAghdTXii0+TObms/34GT/2VYpAp78UpJYJDqzbKsSeHVCVVqRjhnf/Gykq5b/NKdt3icvdb0ohgmuSQIWY6yIsAPPJAzWvPR0vaKtdPiAQNulsrktiABx9oXnhldk01v2lc1bz5lgbE18H8CNv/YIN7u2TVjG3aKIcealKAJcudqy6sWP2za5iEsSZmI6Wg6QQFPH5/3cvPR9N+MQ5YmM3GnBJyXQxn0cOGmRRAAaIA0QHefDm6YrFrBn4xUIsxMEz6/pvxZcsbXJ8coKSt2qO36nFstro3THLV+EgkhyLCxHtqXnsupqpk66p/jIGiwAtPRFeuaXSncsBuvbRIHovk0pK2StoeF4AfvRPnfNvVAymFQIDOnJqcPjVhAmEADIAC9DvQMAJECDj1nFBemKXrEjIgTz9W9/RD9QBE05vcNSHAGJgm2bjOu/bSykVL7XQfOoCHDzf33V+3kqJLd23oEabbuJIgm8q8ay+pXPqjY5pEUZoMCiGgqkTXyWcfJ8dfVRWLC0MlXTpruNXcVtKW9T/I8EVfBYIAzz9RV1UpdGPb1gIhoKiEUHjl2fryau777zzAXn21ViUK/02ZPI6DO/OHzcLIm0W/yw2K3WNbcSwuUXr01nwPiwbk/96IPfd4lFJy9kXh3t20Fsij8ADPvjC8dz998yZ+89XVm8o8JbWGP+BgfVcZtX4t5URS3HNT9aYNfDuLFMqAUvLkxLrlKxt1xAMYcoSZk8uCYUIo/LzOXbvOXbvO/Wmd+8WnSUXbsVc0Wi9WLnfTAW5BhXTrqW2dG+enRqhApk9LvDKpXv/lYn+KQirK+YypSSXTM9CaRXKpYZKm5jDB7U5ZfrTazKnJsipeWcUrqnhZFQ8EiKGT4tZs6JGBtDApQObPt555tF5RtheFq+mkrJQ/eHuN5Yj07kdQpUefEHA9OHSIkZ+x708Qnnq4bumP7nYiyQkBM0BmTE2+9Hw9A7K1XwUFFhaxaK1Ytc5du85dt879YaH9/Vx7h6FzikJKN/CyzR4F4l9nXh5r11H5tWV4fH/LtbdFDh5kuNstaYEIigpZ2Y0jG86imk7gr613u91nJzh07a5GsikHUIEsWu5MvKPWc7Bzd/Xks8ItkxvrL2bPuii8/MqqZYuc+yfUPPhYPmHAAbr31rJyaCK+a7zFKpAPPo7PmW0Zxg5fAKgo42+/Ervxtty00dShs9q9l/bDd9YFJ5U3LJ8AECBWL7Yf/4wInAMlEM6mmOGea9NeYWwbZb4JQDQpnnm03nVB03ew8fLDd7aNSFJviqaSwmK2+mfX89L5BUAAjjstOGe2lUz+YhaHppOZnyYXLyzLnAijUXHI0GBRIROpdgTgS8/UR+uEYe6gDw2DfDPLnv1FcsTwoD9legADDjEKCumBhxoiY+m9crUz5d24vhM+MkUhb7wQG3NyqLiINZsmFJUsW+yeMqoMUosUziEexe1n/vm5JaEsaqYyWBDAoKRVifLbnMUDDzc2rfNsCzkHJSOzxfOQe0AoqCqxbezeW7v65si4cytqa4RuwO3/yv3w7fjk/4uHwpQQcF3kHFgqocV1kDLCOVLS3DbnHDwXgTRkgHAOQiBjxHWRQGMGyzY/RgnxOGoa8TvBt3O5h0whnoeqQvzQc//D6u6vKL77xU5A994aAyIALUdMnFBTXsYJgWNPDhblMrul5hoHcPhRwReeiP60zJnyTvzQIeZJJ4ZcwDYdlJxcGovy3y92BMDiOPmt+E4WClVUmPlp8tJreDhE/SgtjZK99tO+/dKqrRHNjA4hGs6TBARCGgIcCDT8j6KQNu3YmFNDBx/auHYTALn5lG5L7BQgc+ckF33v7NBHThmsX+vZLhoa8Z39DCA7Qqsq+LrV3n776L7KuICjRoeys9lr/4kunG9XVXDBgYsGk9NPPiUErCSuW+1m9BjhHPbdX1OhYZueAqxb730721Z3LtPAdfGT9xPDhwV91eWArVor/QYYJe2VDLGDWdOtmmqxc2IHm9Z7X82wTjk11My489MBbav5LzkHwRv2T5oNDSFE1aBTL/WcS7I7dlDT4S8IUFDIfluolWOj6+Le/bRuPfUlP9qrfnL9DZku3bVee6s1lWLuV1ZRK3boELNHb23ISPOnZW5eAe29t1ZRzutqxJIfnWRC7HeA3r6DunqVu+h7W1HIvgfoZaW8QyclkcBF3ztp+XZdLGrF+g3QPQ+++8auquRt2imRPLppPT/wUD2ZwHnf2HYSPY6tSth+BxiOg/O+tmqqRdv2SnYOTcRF5+7aVzOTpkkPOFi3HVj4ndWhs7Zxvdexs7p8iROPIgK0asOKitniH5zdvdBuid3YNh0UCqABee/d2KzPkqpKsrLJEccEWrL4iADIC9IRo83lix3G4Kl/1R0y2CzMp4EAbd1G2bDG+/252gxg02Zv0Q/2Ts5RlJItm/mqn9x++xl+nioD6NBFzczS91zkAgyDFLViJe2UvHyalc2CYWIGiK5T3STBAMmO0OLWrHUbpTBPaVbnORAk29x6IQAzpyVdB3eYIEwJqasRnguQsY7WdZKI4ZT34v330TPMZzzsMPPgw4zNpXzNKnflCnfDWq+inFdV8C2lXkU5t5PguqgowFLZHYhgqqRjl0bvmAJk6UKnsoJrO9eHigJLfnCq6nlOdsOEYRhkvwF6JELTqb8ewMIFv2JWRYS5X1snnhra5lI3feWei4hgBknb9krrtiySx8JZNBiihkl0g5gmCQRJJJe1aqOUtGWREGu2iDGDv9F94tg4ZKQ5+qSgqdOikpzbrqme9mHi+NOCl1+fs36Nmxdhy5c7Uycnhh0ZMAPk1LPCMz5PduqiRnLoQYcYkQi979aaC6/MOeKo4Pq1bpv2yrtvxF55JnrdhEhdjWjbVnnv/+Lfz7P9vRHXhT776Hc+kltfIygh51wM486rGDjYPGVsaM0qNztEu/fSZs1M3jSuep/++h0P5VVXcEUhZ/8tfMW5FYcONc84P1xbIxwbyzZ5t9yXFw6TinJRXR3stZf2z8sqb7gr99Vn6994MUYojLshRwhY8G2luptz6Xav2CGCYZL8AkoAKur480/UEwTu4d79jA4dVd6yLgQBMHhE4LnH610HVv3svv5C9OprcgTBwmK2S4q2UyBrfnbjUdzJp5hSiMfExvXeAfuBm5rw8wqobhBEQAEex6491OFHBQ453OzQWQll0YBKlaZh+pCK1N/aAe0nAgMh0LSfKUDUFiuWuDtlzBLgHrguNpsMFJW881ps6JHmIQMCydReugNIAEpaK21bK4MPNQmAC5B0RTyKVZV8+SLn+/n2vK/s1T87rgOqRhBBN0hhcZMF4+qVruBNtHV7Ewwlm0t5TbXIzWYiFVTUrZcWCjfselGAuC3KNnk7b7lTCmt+dryMlXtzF7CHhMA+++sjRgcOPMRo3UYJhanBCNvpoQGA3xb/gAiGST0Xrjq/sqaajxufc9l12csW25dfn/3iU/VvvBht3VZ59s2iGVOT99xcffdj+eP+VlGxhZtB0qV78ZsvR1+ZFB14uHnimaFx51cs+NY5aJBx58O5X82wGCXRenH6MWV2En37FxEYg3E35Cz+3rnzhhpFgYnP5p/1t/DqlV6HTurTD9VNfjs+4qjAvY/nP92+7vLrsud9Y993S7WmkcdeLDjj/KyyTV5hMbtpXNXC7+wb7owIxFOP2hKrx3MvCw8ablZV8E8/Sow6LvjWy7Gi1my/AcatV1e1wP7Jbhc7TSfBEFWATHk/vmKpq+vEtnD/gw2DkBYuB+ABduyiduysLlvkqAq889/YyWeF2hQpWdl0l3Q0Bago556HOx80wD2oz1ixIkAwRBUFrCRm5dALr8w5+cxQQQ7ztz783CN3KxvNT0RRgSz40XZd7NfP2H6WMQGIRbGs1KO/I7iBMqivE+OvqLrnMXLwAMNLpTZj0xxnAqCrxMglBbmsdzft+BNC1THx7ZfJV5+LzpllARBFIaEwwYyld1UF/xU6QMB1sbaak45q5gox00ZwbIzHBNlpsSMEolG0HTR1snU/Og62aadceX3OEccEsnXqpc753HqfzR8aBQgBMvOLRNsOaof2v3eCJwQIwPQpiS2lXFFhyjvxUccF+x2o50TY6BOCI48NokCdkcJi5h+gzDkIAf4mlRDgedCtlxoy6eXX5TBGAEFwKChmhMDs6cnKcmGaDSIsBETyaNuOSkEhe/q1AiBQkMe2bOKmyTes8z7/JKlrZN0az7Yxr4B16qrl5/NJrxcCQFG+UljkVZTx1T97i753EKFbb236lERlhVBV+PSjxBkXZKkamfJO/ITTgx06K3321Wtr+PxvrT+Dz45R0HVS74h3X4v5AatGgPTeW2v5A3AEQJZJe/TRFn3vGCbZuM77+IP4pRfm7MKzFn9DFAtvGhrCKHAOkTz2wJP5Qwabfkpppp6yVCaWf9FJxNpasX6NO31K8o2XohP+lcf6gbcDfSCOI2L14nduQ6sq2bCOX3p2+dkXhk88I9Smleqf8YypRFFoetylL9PhEBk1MjhoaODlZ+sfubtWiOZbQ7+6tCqC52HmrbDf/VBvZQ2nfFgOduupPvRMQe9umg2YzEj2YAA0lSvm/3WCi7oa8dNSd8p78WkfJl6ZXOwnpf1O64FQKG6tcIHCgdwCBgC11cJK4nOP16/6ydUNsv9B+tyv7Jxc6jvdOEdCCSHAOYKL8ThWVPIHbquxEpCVQ/rso69d6TEGHofMMClCwHXQdfCjd+NTJydUjey1r7a5lHfopMRjwr8M/3XmHBIJMfnt+GcfJxWF7N1f27jO69xddRykFFwBsXpR0k4RAm0LWpUogQChFFascFcsdY84NthrL23a5EQsijvcj/ofEDsEUFT4/gd76SJXVYhACARIh84tvYZN323HLoo/yVMKn7yfOOvcrF0Va4gAoSz6q+KTCQEz2PgHBMCyEBGumxAZOthMNk2cQoCqOl5Txcu38M0b+eZN3uaNXlkpX7/W27zRSyRQ06C4hO3MLCIEcL4LUpFVFeL1+Nh9dW+/Fhs42Bw42OzRR43ksVCYmrRBMTAVlJMuCmIBqipcfEm2osCj99VZFpLU3jMBCIQI/kphCoWb7EHX1QjXQU1raEfTSDBEUfwKQQmGiL6VWecbO3c8nNerm5Y5NBoQD7CiitdUifIyXrrRK9vklW7yNm/k69d45WXcSmJJO5ad4Ub8PSrMOQ4+wtywLqt0g3fNrZG5X1lff2EtXeScem74iX/V9t1bP/vi8Jczy5NxkZ1DjxgVmP+dvW61F4+JgYeaa3/2fphrex6OOSk0+e34cacEu/TQPno3rurNi25RCnU14tOPEmNODf60zFE1cul12ffcWMMFaKkdWEJAN0gs6n8s9PMy1wyQy6/LuemqKkIaN2rffT1+98N55aV8y2Y+fHRA8Ia7eO+N+DW35tTXiofvqlVb5HDnltiNRYTPP07YNhoGERxz85Xgr3ygd6Fx16qNoih+IBJZtsj5eaWzC+Ps2nVUVBU8b2dfKt0ghUUssyhQxRa+3wH66OODdkbiFCJ8PjPxwVvx5Yudsk08kRAo/KrFQCkwRigDVSHFrVnrtopo2VmEMtAY2bJZvPlS7O1XY6EsWtxaieTRSC4tbq2UtGMdOqtt2ymt2ykhlXqpzHl/3Xf6uVlfz7K2bOZdOjb2QJt2Cv6azYTsHBrJYyKju1avdLv2VPNymS+1QYMWt2ZcgLrTT2ynrppCSDNvgOPgsScH99/XyMjvJpYlPvgwPnVyfOUKr6LMs230x8VPvGMKoRSYAu07qrmRXRM8v2yRs3yx0/9Ao/d54fkL7IfvqkUBt11TdeU/cybcl1cfFXeNr1nzs2sGyKvPRU8/JyuvVfzRe2qfeqjuoiuyL702e/wVVddeXHXlddn3PJS3br1327VVsXqx7Eenuko0m/VVjTzzSB0KGDc+BwW8PCk6/aPEyGMDyxY5vtJZFi78znZdfPqhOkLgHzfncA7PPlY3e3oy64Tg8sWO38jXM5P33Fp93MmhWBQ/eS/epYcqBDBGvvwsedWNORvWemtWun8GsSMEPBe//sKaM9vyM9IRIZxFW+betml85UQajC9CwLbwvTfiG9Z6dFeUl+KA7Toobdorq1a4O7M0FgIiubRTt0YjFwHKNnlDRpkBRtI5p54LD9xR8/IzUc9FpgBjhDECbBte8157aUUFSsuYzM1Kqqgq8Td2k3FcucJpqHvuR2BQyImw9p2Uw0eYJ50ZKshXvFRCa0Ahg4aZpRs8mjFA3XtpoRDxXNgZL5vnYadual6k0bITCAu+tQcMNApyFX9nQAHou5/+0buJnb+7/Q/SGTTxBqDAUIiOPCaIGS6F2lo+flzV9I8SiKAohDJ/dLZ66gT0P0gPqtT63Q47RLjtmhpAfOOFuGaAlUCmEFUjFVvEjVdWmQHiuuB5qGrEdeGxe2sfu6+WUhII0m9mWV9/YRECikIqy+2Lziw3TGIlEYAoClx/WSWlpNlbSQg4DjxyT+3TD9f5BcFUjUyfkpz2YUJRCGNkSym/9MxyphBAeOiO2icfbPiYbpBpkxOfvB9XFOK5OOaU0EGDjEvOLK+rE3/7e7adxC2lPJJH27ZXKYHJb8WxpVxau13sUMCj99YKnop+RFBVQvZcvQc/YcC3HRSFvPps1F/p7BLLLhJig4abK5a4irpTL2qffbSSEoWnjBoHcN0a7/TzwmnPjgrkk09iLzxZr6TU5JcMHKbA6BOD7Hd7hXZmwjBMMvbicCTC/G6kBCa/Hd+0kTMGhIKy1UI+Wi8Wfmd/N8f+fFry8f8UFKXidQVAuw7qt19Z6afdBezZV+vUVV36o7MzgQhCwMDBZlBr0BEGUFktvp9rb1jnde+ipTamYNAw86mJdfHYjkPHPQ9K2isDDzebmXVCQF4B7dKjMVaOAXnp2fqP348HA3Q7HgEhIDuHHnFMkO+6d4pSQih4LqS7iDFgjLguEGiIE/YXko3veUY9CKUhkLjxl79Uc58Q0HTiZ6f574j/7el/bZjUt/oYpQ0fUxTy1QzrsGHmi+8V+9HI991SU1XJx92YM2ZM6IvPkrNnJNWWqt68++PsCHCvSaS4ELgH01aarDEJCAG7sAaCADjxjNB7r8drqneQyI0IjMKYU0MaIXbKiKuuFqt+cotbN1mKfvm55Zdm2w62jYcOMQYPNb3d37MIQAhccGV2t5LGFMAtW/ibL8d+6ZYpBaoRVYPvvrY/nZIYe24WT23dBsNk/hwrZgtDbwhazjLo8aeHFv9QvRPbQdi6hB11XMBtfJrJ8qXOutXut19aI4YG0hZ3187akWOCrz4XNbfvBUfwXDz57FCb4uYnfAqE3HwaCtF0irfN8auZlqqS7fs+bQtPHRvq1UPbVUPTug2LRTEW3cb+0q96krf+sOuib/r9tma3+THKoHwLv/biyjbtFU0jWzZ7NdXCDNC3Xop98GZ88yYOCC1m+rTE9zRJuqYQj6Hn7TGxi9aLZuds7TpVBwHYrZN20dXZ3IPtx+5ZSRx8RGDYEY3VTFUg382xKrY0KdGOALaF23+dHBtblbDrbo0EdNoCkwgBsJK4arnrAFqpn6GjAoqy40qolEAsKpppwbJF7o/zbS2j/ujxpwQHHGKkjy76pdnC43D+ldkd2jTxA0x9Py4EzP48WRnl6cKZQOCSq7N79Fab5T80U7pkEgcNN865IIsDNs9vQDDMJhacAHAs3P7jYyVxn/21S6/O3iXj4qeX3fFw7uEjTMfGXx0vhc3j/TDjN0JAvwON3ntpzcIDtj3dZbSwQ/yExTUr3RVLnPo69EvXVFWKTeu5Lwgt519uYa0hhFRXcssSe8RpRwG2lHmc4+6oaGU7GI2hB3jW2PC5l2V5Hm7zQG5ESCawzz7a+DsjhtZ44pcH+P6b8WidcGwkGTmne++v/1I0Bgqwkti6jXLf4/l9e+sC8OVno+vWuGx3ntznbxn/8J1NM9aegw43jz4hkEyI7Tz9nEMgRPYbYGSU0oT1a73qKv72azEOjUfqZAXZbQ/kdu2pJpPbfqU5B9vGMy8In3lOOHO2WLnG/eyTpGHSlcvdGdOSamORBSwpVh54Kr9HHzWZEF7TRBM/HcKy8PAjzHseyc8K0qSDK1c5pOmE7RdMTb/vOiN999Vc9xdsfA7JBO7dX3vgyfyifCXpimcer4/Wi9//voXCVFGJL3a2hf4pjuky14jgOE0rNgtwHXRddD0UosHZ6jvXBG9sxEqK088Ljzo+6JcOdF1M32z6SfaDUVwPAYB7YNvoT1c7rMLiG4xKxvlq/r4NIS39+rfs91GIRUXpBk73xFGaCLBulcd3g12pANm03rvzn1UuR8rgulsiN96Vm1fAkkl0HPRc9Fx0HbQsFAKPGG0+9mJBx3aqm1Ftbc7X1pefJ10HVi530j5uD/CYE4KHDTMSceE6yDlwDp6HroNWEimDkccGnnmr8LBDTQ6wfoM3dXI8FKSwmxezlMKMacl6W6QrrCgKuemu3ONPDwmOtoWe13A2qx/j4rloJVFV4fLrsg84oCGdlgB4AHNmWYpCPv0wMecbS8so1tS9q/bEK4XDRplCoGWhm+pDx0EriVk55Jqbc8ZPyKUKZJYO+8+T9RVlnDEAIC88UV9Zz1mGIvftpT/7etH5l2cVtWKcg5VEy8JkAhGhQ2fl+gmRR54tKCpiFGDq5MT/vRLNPCeAUigv46WbPNY4D+HYi7O791ITCfTz6v2hcRxMJjEQImdfFH76lcIunTQAmD/HXjDHCpi7IAjBcyErh4y/O/L8f4su+Uc2pXDsqcHzLs/yPBAcsrLprQ/kdumu+osn7mH7zur1d+T2P1B/4Kn8J18uGHF0gHtIKJx8VuiJlwufeqXwwnFZjMG4G3MGDDCGjgw88UpBz720K/+Z02cfzXXR8/D4U0Mnnx3WTXLdhMiRY4KPv1Bw0GFGcQm7Y2LepFcKb7w7kl9I+J5bq/2RfHZbaXwyicsWO/330d0WN+vinvh5uUvZrm+cA7Zpp5SV8s+nJY86Migonndh1qBh5scfxOfMtiq2CEQMBEmPPtrwUYGBg02NQWbd5vqEePTeWstCFDB9SvLwwwMkFaEWyWYPPV3w6gvRzz5OVldywVE3aCSP7tNfH3pUoP8AXQViA+pAXnmuvrCItS5Udnd5BVUhi7+3P/s4cdyYkJWqjZ6TQ+99LP+IowPvvRn/aalTXydcBygDwyQ5EbbXftqYU0MHDDBEhiG2aKk9+/OkbpBEHB+cUNPj9cKcbOql9K5TB/XxFwpnz0hO/yixYomTSCClJC+fHjDQOGJ0oEc3zc04N04HMmVq/L3XY74TQFVh6Y/OUw/Xjb8lN52t5QAWFbObJuSde6m3dJGzcZ0Xj4twmLbvrPTZWy/IYb7BV1nHX3suOm58DmnieyJVFXz29GTX81Qvte/RpbP69H8LX3q6/tuv7Po6gYimSQuL2QED9aFHBnr31tE/+0LAi0/V77O/HlJp8ncPDRc4+sTgjKnJTz6OX3BFlmmSHxfY427I+ejtxMb17pGDAoOHm088UOfbUP6+ypiTgx06K9M/SnTtqd7xUN6yxc6+/fULr8x+4l+1tgUXXZVtW7jgW3vIcK+2js/+PJmIiSNGB1aucL6fC4TCvgcYukGmTo4fd1qoR2/nx7m27eDEZ/NXLnVfeq5+9AnBCRPzx51X6WfRSbFrbuEvmGOddmaIQItuVFAgZaXeT0ud7Z/3/JttxrBGe+6lTbyzZv8BRl4udQA7dlSv+HvOxX/HeAI5x0CQ6pQQADd1hg401B8nj9xXPe8bW9eJEPDx+/ETzgz121u3G8oWYXaEXnlVzgVXZFdVcM9DM0Aiucyvw+cCuoAGkNnfWK89G/v7jTktMmWBEOSx++v23V9vV9JQG50DUAojjwyOODJYUe1VVXDHBsogGKIFhSzLpP4hDGl9Tzjikbtr62qEphNNJz/Ms++8qfruifmq2lBLzgNkDIYPCwwbFrAFJuKCMRIMEBUIb5qeZQBZuMS+64Yax4H0mRuKSl6eFO3YWT3jjMZjKPyTg1oVs7bFgYbNlpTd5wBSAArkkftrSzd4XXo0j3unlLz2fHTk6EBhAfNSf9W+nXrrXXlRS1RXcRQQDNNIDlWBiNTNmkBeei06a3ryrAuzfv+GLCIEAnT+HPv+22oEh4ot/J8TIm++HKuq5AMPN/77gjtidGDah4nyMp7eu+ccVB1eey469YNEYTEbMjLQs4/2w3f23TdW19UKVSXlpd6Bh5iTJtYff3poy2bvv5NihW2Yb6s2GNoOUtaQGfPGi9F3X46dfH64bVvl2Ufr4jGc9Vny5nvzuvdWF86391RI2R9X7BSVzPvG3lLJC/MZb9lbnTMrWVMtdofY+bTroKxY7N7+z6r7HikwTeKlRC0YIAAk821PXxIiPPZw7UuTouk9+7pacecNVU+8WFhcoKTPWHAAVQVat2IEiG+qpN92A8jiZc4tV1XFopgToS01iLDmZ3f836v+9VRBcT5Ln+zhX1VeLivMVdLTAAfM1CYViGXj3bfWzMw47Ug3yAdvxBWF3HRHblaIOk0bZBSywtTvCrtZ7i2QeQvs6y+rLN3oZYYQ+VXV7r6x2nXxzLHh9AE9aclr7kcHIECefLzu5UnRTl3VQKD5bo+iwKoV7j0319z7SL6uN7Tm/9cwSJsSBYD4qXLp7XUDyNTPEg/eXkMoCWXtgu0jv6LUz8tdRohuwrrVnh/88fH7ieFHB775Itmjt/bMY/WZaxdKIFaPyxY5wTARAhIxwRj06Ktdfm12ZTlfu8rTDSKS6CdRMEYUg1DaUFXMtw11o+G7k0lRupEzgxS1YiqjJ58VVlXCPfxmdtIvV/cHZw8EvFEKpRu9WdOTagu67QhAUuDUycldG2vSfH2nEsMgU95NXH9lZXk5N1J7Tf7ZOtj01TKAVFWKW66vfvy+Wkoaq2BoGvlhnvP3Cyp+WukaQFjj6ToNx/2JlEmiAtGAzJiZvHxs+brVrl/NmGT8NOuBxh/yq9+xrZvVdPLNF9ZFZ5bP/c7SMs5L9O/XNznd1EmykLpgHcjPK51xF5W//ny0Wei1qpK3X4ldck75wkW23vTYSUz1Yfpe/NMLPRdeeTl66Vnla1e5WwdLMgaODXeNrxl/ddX69a6eOjWRNP1RgBhAqirEbTdUPXJXLQFgDCiDzBNy/T1KTScfvRP/51WVlRWNg5semvRJbH4OGUF49bXo9ZdW+ofGbbMPt9G9ZAeWHaUw8HDDDBLXhYMHGYk41lTzTz9MlLRTzr44a/0ad9miX167NKR5kTMvCM/+PHnakWUT76jRDZJOoFRUEBw9FwBJ6xLFsrBVa9b/ICNzi5ZSWLPKiyb4jeOqThmx+YEJtRVb+OZNHqN/dLXbA5adH2n8zmux0ccHNY20TPi0BuTLb5PffdMSxRU0jUx5L77qJ+fiq7KHHBHINhtMEky9pQKgqpZP/yTxwlP1Kxa72laF0XWdfPe1fe6JZWMvyhp9QrCokPkn3WDG22IjLl/hvP5i9J3XY8kEqhqxbaQMWOqsUgaN0fyUNvn9r613wlij5rKMcAFNJ4sW2BeeVj76+OBxp4R69FWDKiUpVUpfrZ8An3DFsmXOR+8l3n8rVl7Gt1FKk4CmkzmzrPNO3HLMScHjTgl166WZjJCM3vNb8wBqo/yb2dZ//xOdM9tqFkDbZGZlgAhvvhSb/bl19HGBoUcGuvVWzQBVCBAgHNB1Ye0GZ+a05FuvxFYudzWdEAqGSTKlkwtMxBosF1Ujk9+K/7zUueDy7CFHmDlhRpsOLgAkPPH9AvvFSfXTpyT9eO/0EIj0ENDG1yHdvQQAyPb0jhCwbczOoQ8/X+BaOOBQ48EJNYkYrl3lLvnBOfnM8N03VdsWZhbKJgQyj9NkCiDi3C+to08IhkOspL3ieg3FF5YsdM46PysQoJMerp/6Yfxvf8/q1FmN5NN0HRpFIX4g8Tczkz8uCL74TtEP39n9DjS+mpmsr/sfsOxIYacsy7JIC18pAhd4/5P5x6c83LvbrAMBl59X/umHyR2Wq9x5HAeffbNwyOCGg/UMIK++Gr3l6iq/OKXrIqXQo482cLDRs7eWX6QoKiTionQDX7rI+fZLa+1KF1Px7tt2RXvABbZprxw40Oi7n17SjgVDlHtQU83XrvIWfGt/P8+qqRKq1vDmcI79DzI6dVGFaLSgv/7CEgK79lD33d9IV9ONxcRnUxKet2MTz69IOGxUQNcbwugIgblfW+tWu+kQYiHAdTAUJt16aXv31zt1UYtasVCYUgaei9F6Ub6Zr1nlLVpg/7TcjdYJRSXbL2XuN5iVQ3v11fY9QOvURc0vVkyTCAH1dWLzRm/5Ymf+t/a61Z7nYjrhvNllN48pE+B6GAqRotZK+05KXj5TFIjFcNM6b90ar6aKU9qQD2DbeMQxgcefK+Sp4snxJJ4wdPO61W7aYnJdpAQ6dVMPOszs2VdtVaLoBnFdrNzCV/3szfsqufgHJx7Hhpx5BCAwaLiZX8DSQ7NssbP4exsI5BWwQ4eYftIVEEABMz9NVFfyrStK+GbdYcPMdavdDp3UXntp335lzf3KIoRE68Rp54Wuuy13zOGlVRUi3b1CQH4hO2Cg/vnHSctCRYHBI8zlS9zNm7yRxwQ6dla/nGElkyK/gH05I2ma9NChRmGx8ulHiepKPvKYYPtOyoypCaYSXSc/LnCGHml+O9uqqRIIoBtk2JGBTt2UFUuczz9Jeh78wY/BZYztIbEDcF3s1lN76d2iSITubs+dAeSDj+LXXFi5/Wlz14qd/3T6JwOoGtG0BoeLYyPnoKjA2E71ul87kzLQdcKY3ybYdsNxAc2eMNfFzCAAyhrSd1IFOBtn+50XfURoFsKqattQK79wvOeBwho+4KflcQ6Og4KDn9i786+EEOB5yDmoKmgaoRQQgHvg2CjEDjpQUUHTSDosRQjwQ5RRABcoOAhsKHDvJ7RmXlUyidfemnPZlTm+u1ABsnqNc+rIsmi0SbYZInAPPa/hu/x6R47jn+cAW58W5F925hX60tkQ+5bRvc0OVGv+1NlIGRG84QwKppC8fDrsqMBxpwbnfm3ff2tNs+W8P3OkVw+OjX55gnQ3+u45/6QIx0EU4H/Y/4CqNUwbqkpsC9MzKwpwHBSi4Rn745t1jDFlT323qpLli51//6v2ljvzdusxbwqQDWXeI3fXehxbeLfIP6NPVRsUKn3jqvZrBkkBlnor0m/LLx3o43/ddhr5bXexM8rop0P63555v/BbU48pbfhDXzHTm4M7PDfDcfCAgcb423MdjgDACNTUifFXVG3e5DFGFEq247wRArKyyEGDjIxK8bBssVtf3/xwYX9Bp6ipy/MACFAKv1SX7Zcum1Iwfs1qo6EdpXGz1QzSvvtqM6YmX3k2urW3jtImw5e5I7SNgc64yK0/kPkbQmEXLpL+tD67zH7/7wvRPvvoJ524uxazDMBx8e6bq1etcPfg2OySeY/87zxau/ZSf8N2SiyK7buqBmtMUOmzj7Z+jcfMHfytbeOwUYG+fXUvtaPKAb6emXQdMMztXt4eGh3GYNN6b/yVVYJvw9KXNNH9PftKCE7uvrH6iy+Txm54WCgACPKvu2s+eT/xPzcLSX77BK6Qn5Y5y5c4kNoUBoDTzw8HQ2T7R7XaFrbrqFz5zxyFNqgkA9hQ6n0xveUqc/y290hRyPYXv5I9LHb+vFRfh9ddUjnry6SxSw0CBoACJt5X88IT9X/wWEfJLn/54zF89/VYOsjDATz4IOPGeyKhLGol0U/89DcxEBu8ZlYSe/TRJj6d372LlhH8TF5/ob5sE2dM9uv/PCwY0T3P24MORj9b9ovpycI2Sq8eGuyKtAoNSCwq7r61+sWnooqyu26OczjmpGDHDipv8AiQRYucGVOTlBIi1XXPzuGUrPrJ3ecgvWNJQ3YXAuzV1xg41FB16jpoJxFTGxTBEO3dVzvzwvD4OyNdO2uZ0drfzLXuvblmt8ZmSlrqkaDKH+E6FJXU1uANV1QuW2xfdEV2Xjazf+uWBQOiAixcYt9zc82cWdbWIWySv8aTDbGomHBd1RMvFXZqq1qAfvpKn15637v02rioreG1NcK2UNNJXj7LzadZGnUzMj0MID+tdm+5uipaJ/7Ia1jJr9CZP4yfBTiHSQ/Xz/3SuuQfOYOGmjolmZneO3EnRAEor+FvvBh9cVK0soJLP91fGVUlyxe7V55bcedDefv01V1AnkrXCwVJVlBt36bhk/7RrhknS4AKZO4C66ZxVatWuDvc/JXIZexvcbUoCtm8kU/7MPHjAtsI0cJiJaz5iXrbqI2TPpdTBUKBbCz13nwtesf46o/eSTgOtICfjnM47tRgl/YaAlAgGpBFS+zPP5HL2D/MTK6QslL+2cdJD6FDFyXHZH5hsXTymcjIQvM1TgVSXsWfn1R/1w3VpRu4VDq5jN2dE7JGEGHmtOSXM5Jde2oDBxsHDzI7dlZyC1hIa3LqoAtYFxUVW/ji750vZyS//craUsophRZ7QAmBinK+fpPrr310QmqqhZS5PxSaRmqqxQO31/zfq7Gho8zDhpkdO6mRfBpgNHPWtAArKvjaNd7MaYlPP0ysXeUpCpGr1z8ZeyyDYof46Qd+9FB+IW1VouQX0JwIU3VAhEQMa6pFxRZeusGL1guBoCikhbfMECErm6paw5aKf7hcPIbyqfoD4idjaBopasValSi5BTQ7m6oa4RyjdVhVwTeX8s0bPdtCphBFkR32p1vD7sF0sV+F4MA5ikwZ8bfSKDC2J88qE02TPygBImOd/sggcAGco3/SY+az5B+/Kw3zP7HY/W9MYZTBry3U0VKOAPkU/W+tZBpOHZQ98RdEvqwSiUSKnUQikUixk0gkEil2EolEIsVOIpFIpNhJJBKJFDuJRCKRYieRSCRS7CQSiRQ7iUQikWInkUgkUuwkEolEip1EIpFIsZNIJBIpdhKJRCLFTiKRSKTYSSQSiRQ7iUQixU4ikUik2EkkEokUO4lEIpFiJ5FIJFLsJBKJRIqdRCKRSLGTSCQSKXYSiUQixU4ikUixk0gkEil2EolEIsVOIpFIpNhJJBLJHwIFERFRdoREIvkTg4iKaQYopQSI7A6JRPJnhTH2/8SjXJBEZWsrAAAAAElFTkSuQmCC"
  },
  "noticias": [
+  {
+   "id": "b197ba70d0ac6916",
+   "fuente": "Gobierno de Canarias (noticias)",
+   "titulo": "Zapata: “Canarias avanza con más renovables, más autoconsumo y municipios mejor preparados»",
+   "url": "https://www3.gobiernodecanarias.org/noticias/zapata-canarias-avanza-con-mas-renovables-mas-autoconsumo-y-municipios-mejor-preparados/",
+   "fecha": "2026-09-09",
+   "resumen": "Canarias alcanza los 1.204 MW de potencia renovable instalada, 232 MW más que en 2023, y eleva hasta alrededor del 23% la presencia de renovables en la generación eléctrica La potencia de autoconsumo se ha más que duplicado desde 2023, pasando de 136 a más de 302 MW, con más de 24.800 instalaciones en hogares, [&#8230;]",
+   "ambito": "Canarias",
+   "categorias": [
+    "fotovoltaica"
+   ],
+   "creado": "2026-09-10T08:34:51",
+   "categorias_txt": [
+    "Solar FV / autoconsumo"
+   ]
+  },
+  {
+   "id": "a6f37388051495a4",
+   "fuente": "Gobierno de Canarias (noticias)",
+   "titulo": "Culminan los trabajos para la instalación de energías renovables en varios campus de la ULPGC",
+   "url": "https://www3.gobiernodecanarias.org/noticias/culminan-los-trabajos-para-la-instalacion-de-energias-renovables-en-varios-campus-de-la-ulpgc/",
+   "fecha": "2026-09-09",
+   "resumen": "La Consejería de Transición Ecológica y Energía ha concedido una subvención de cerca de 1,8 millones de euros de fondos Next Generation para 15 proyectos de instalaciones fotovoltaicas de la Universidad de Las Palmas de Gran Canaria Schallenberg: “Las universidades, además de ser espacios de referencia para la transferencia de conocimiento, también deben ser referentes [&#8230;]",
+   "ambito": "Canarias",
+   "categorias": [
+    "fotovoltaica",
+    "renovables"
+   ],
+   "creado": "2026-09-10T08:34:51",
+   "categorias_txt": [
+    "Solar FV / autoconsumo",
+    "Energías renovables"
+   ]
+  },
+  {
+   "id": "291b0d109a5dc69c",
+   "fuente": "IDAE",
+   "titulo": "El IDAE redoblará su apuesta por la cadena de valor industrial española de tecnologías renovables con un nuevo programa de ayudas",
+   "url": "https://www.idae.es/noticias/el-idae-redoblara-su-apuesta-por-la-cadena-de-valor-industrial-espanola-de-tecnologias",
+   "fecha": "2026-09-07",
+   "resumen": "El IDAE redoblará su apuesta por la cadena de valor industrial española de tecnologías renovables con un nuevo programa de ayudas Apoyará la fabricación en España de equipos y componentes en las energías limpias: baterías, redes eléctricas, energía eólica, hidrógeno renovable, solar fotovoltaica, bombas de calor… El programa contribuirá a garantizar la seguridad energética, aumentar la competitividad y descarbonizar la industria, en línea con los objetivos del Pacto por una Industria Limpia de la Comisión Europea y del Reglamento por el que se crea la Plataforma de Tecnologías Estratégicas par",
+   "ambito": "Estado",
+   "categorias": [
+    "fotovoltaica",
+    "baterias",
+    "aerotermia",
+    "renovables",
+    "industria"
+   ],
+   "creado": "2026-09-08T10:32:53",
+   "categorias_txt": [
+    "Solar FV / autoconsumo",
+    "Baterías / BESS",
+    "Aerotermia / bomba de calor",
+    "Energías renovables",
+    "Industria / pymes"
+   ]
+  },
+  {
+   "id": "3b320e1df952455f",
+   "fuente": "Institut Balear de l'Energia",
+   "titulo": "Les oficines itinerants de l’OTEIB duran assessorament energètic gratuït a onze municipis durant el mes de setembre",
+   "url": "https://institutbalearenergia.com/les-oficines-itinerants-de-loteib-duran-assessorament-energetic-gratuit-a-onze-municipis-durant-el-mes-de-setembre/",
+   "fecha": "2026-09-07",
+   "resumen": "L’Institut Balear de l’Energia instal·larà dotze punts temporals d’atenció a Mallorca i Menorca i organitzarà un taller sobre autoconsum col·lectiu a Eivissa Ciutadans, empreses i administracions locals hi podran resoldre dubtes sobre estalvi, eficiència energètica i autoconsum La Conselleria d’Empresa, Autònoms i Energia, a través de l’Institut Balear de l’Energia (IBE), desplegarà durant el mes [&#8230;] L'entrada Les oficines itinerants de l’OTEIB duran assessorament energètic gratuït a onze municipis durant el mes de setembre ha aparegut primer a Institut Balear de l&#039;Energia .",
+   "ambito": "Baleares",
+   "categorias": [
+    "fotovoltaica",
+    "eficiencia",
+    "industria"
+   ],
+   "creado": "2026-09-08T10:32:53",
+   "categorias_txt": [
+    "Solar FV / autoconsumo",
+    "Eficiencia energética / descarbonización",
+    "Industria / pymes"
+   ]
+  },
   {
    "id": "744b5ce14b47e7b3",
    "fuente": "EVE (Euskadi)",
@@ -5874,6 +6479,17 @@
  },
  "ejecuciones": [
   {
+   "id": 29,
+   "inicio": "2026-09-12T17:33:36",
+   "fin": "2026-09-12T17:34:38",
+   "ok": 1,
+   "nuevas_convocatorias": 1,
+   "nuevas_noticias": 0,
+   "resumenes": 2,
+   "errores": [],
+   "nuevas_licitaciones": 6
+  },
+  {
    "id": 28,
    "inicio": "2026-09-07T08:30:03",
    "fin": "2026-09-07T08:30:31",
@@ -6026,17 +6642,6 @@
    "resumenes": 0,
    "errores": [],
    "nuevas_licitaciones": 0
-  },
-  {
-   "id": 14,
-   "inicio": "2026-09-05T10:48:03",
-   "fin": "2026-09-05T10:48:52",
-   "ok": 1,
-   "nuevas_convocatorias": 0,
-   "nuevas_noticias": 0,
-   "resumenes": 0,
-   "errores": [],
-   "nuevas_licitaciones": 0
   }
  ],
  "categorias": {
@@ -6060,10 +6665,10 @@
  },
  "kpis": {
   "abiertas": 22,
-  "por_confirmar": 7,
+  "por_confirmar": 9,
   "proximas": 1,
-  "licitaciones_abiertas": 24,
-  "licitaciones_nuevas_7d": 25,
+  "licitaciones_abiertas": 25,
+  "licitaciones_nuevas_7d": 9,
   "nuevas_7d": 2,
   "noticias_7d": 4
  }
