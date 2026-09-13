@@ -1,5 +1,5 @@
 {
- "generado": "12/09/2026 17:34",
+ "generado": "13/09/2026 21:38",
  "version": "1.9.5",
  "convocatorias": [
   {
@@ -3721,6 +3721,55 @@
  ],
  "licitaciones": [
   {
+   "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20400955",
+   "fuente": "Plataformas CCAA",
+   "titulo": "AB-ASL1-26-016. Obra de sustitución de tres unidades exteriores de climatización tipo Roof Top bomba de calor con modernización tecnológica y energética y digitalización de la instalación existente en él Centro de Salud de Monforte de Lemos.",
+   "expediente": "PcPG/2026/829117",
+   "organo": "Consellería de Sanidade- SERGAS",
+   "organo_padre": null,
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Obras",
+   "procedimiento": "Abierto simplificado",
+   "cpv": [
+    "45331220"
+   ],
+   "presupuesto_sin_iva": 138216.0,
+   "presupuesto_con_iva": null,
+   "valor_estimado": 114228.1,
+   "fecha_limite": "2026-10-02",
+   "hora_limite": "14:00:00",
+   "lugar": null,
+   "nuts": "ES112",
+   "ccaa": "Galicia",
+   "municipio": null,
+   "duracion": null,
+   "fondos_ue": "No hay financiación con fondos de la UE",
+   "n_lotes": 1,
+   "url": "https://www.contratosdegalicia.gal/licitacion?N=829117",
+   "documentos": [],
+   "fecha_publicacion": "2026-09-11",
+   "actualizado": "2026-09-11",
+   "categorias": [
+    "aerotermia"
+   ],
+   "clientes": [],
+   "creado": "2026-09-13T21:38:06",
+   "estado_panel": "abierta",
+   "categorias_txt": [
+    "Aerotermia / bomba de calor"
+   ],
+   "clientes_txt": [],
+   "puntuacion": 1,
+   "geo": {
+    "nombre": "Lugo",
+    "lat": 43.0,
+    "lon": -7.55,
+    "nivel": "provincia",
+    "codigo": "ES112"
+   }
+  },
+  {
    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20384762",
    "fuente": "Plataformas CCAA",
    "titulo": "Execució de les obres del projecte d'instal·lació d’aerotèrmia a la casa de colònies de Can Grau",
@@ -5160,6 +5209,86 @@
    }
   },
   {
+   "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20257520",
+   "fuente": "Plataformas CCAA",
+   "titulo": "Rehabilitación del edificio como Centro de Formación Profesional para el Empleo, sito en el Cerro de la Cantueña Ctra. A-42 Madrid-Toledo, PK. 18, 28946 Fuenlabrada, Madrid.",
+   "expediente": "A/OBR-038692/2025",
+   "organo": "Consejería de Economía, Hacienda y Empleo",
+   "organo_padre": null,
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Obras",
+   "procedimiento": "Abierto",
+   "cpv": [
+    "45111100",
+    "45111250",
+    "45111300",
+    "45112100",
+    "45223110",
+    "45232332",
+    "45232410",
+    "45262311",
+    "45313100",
+    "45317000",
+    "45321000",
+    "45331000",
+    "45332000",
+    "45343000",
+    "45421100",
+    "45421146",
+    "45421160",
+    "45431000",
+    "45432100",
+    "45432120",
+    "45440000"
+   ],
+   "presupuesto_sin_iva": 2267050.09,
+   "presupuesto_con_iva": null,
+   "valor_estimado": 2720460.11,
+   "fecha_limite": "2026-09-15",
+   "hora_limite": "14:30:00",
+   "lugar": null,
+   "nuts": "ES300",
+   "ccaa": "Comunidad de Madrid",
+   "municipio": null,
+   "duracion": "5 meses",
+   "fondos_ue": "No hay financiación con fondos de la UE",
+   "n_lotes": 0,
+   "url": "https://contratos-publicos.comunidad.madrid/contrato-publico/rehabilitacion-edificio-centro-formacion-profesional-empleo-sito-cerro-cantuena",
+   "documentos": [
+    {
+     "nombre": "Pliego administrativo (PCAP)",
+     "fichero": "241a-009-26_pcap.pdf",
+     "url": "https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-08/241a-009-26_pcap.pdf"
+    },
+    {
+     "nombre": "Pliego técnico (PPT)",
+     "fichero": "241a-009-26_pliego_tecnicas.pdf",
+     "url": "https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-08/241a-009-26_pliego_tecnicas.pdf"
+    }
+   ],
+   "fecha_publicacion": "2026-08-05",
+   "actualizado": "2026-09-11",
+   "categorias": [],
+   "clientes": [
+    "comunidades"
+   ],
+   "creado": "2026-09-13T21:38:06",
+   "estado_panel": "abierta",
+   "categorias_txt": [],
+   "clientes_txt": [
+    "Comunidades de propietarios / edificios"
+   ],
+   "puntuacion": 1,
+   "geo": {
+    "nombre": "Madrid",
+    "lat": 40.45,
+    "lon": -3.7,
+    "nivel": "provincia",
+    "codigo": "ES300"
+   }
+  },
+  {
    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20194156",
    "fuente": "Plataformas CCAA",
    "titulo": "actuacion 01servicio de autoconsumo compartido y recursos de energía \r\ndistribuidos (der), incluyendo b2g",
@@ -6479,6 +6608,17 @@
  },
  "ejecuciones": [
   {
+   "id": 30,
+   "inicio": "2026-09-13T21:37:41",
+   "fin": "2026-09-13T21:38:06",
+   "ok": 1,
+   "nuevas_convocatorias": 0,
+   "nuevas_noticias": 0,
+   "resumenes": 0,
+   "errores": [],
+   "nuevas_licitaciones": 2
+  },
+  {
    "id": 29,
    "inicio": "2026-09-12T17:33:36",
    "fin": "2026-09-12T17:34:38",
@@ -6631,17 +6771,6 @@
    "resumenes": 0,
    "errores": [],
    "nuevas_licitaciones": 0
-  },
-  {
-   "id": 15,
-   "inicio": "2026-09-05T11:12:26",
-   "fin": "2026-09-05T11:13:29",
-   "ok": 1,
-   "nuevas_convocatorias": 0,
-   "nuevas_noticias": 0,
-   "resumenes": 0,
-   "errores": [],
-   "nuevas_licitaciones": 0
   }
  ],
  "categorias": {
@@ -6667,8 +6796,8 @@
   "abiertas": 22,
   "por_confirmar": 9,
   "proximas": 1,
-  "licitaciones_abiertas": 25,
-  "licitaciones_nuevas_7d": 9,
+  "licitaciones_abiertas": 27,
+  "licitaciones_nuevas_7d": 8,
   "nuevas_7d": 2,
   "noticias_7d": 4
  }
