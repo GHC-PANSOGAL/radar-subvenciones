@@ -1,5 +1,5 @@
 {
- "generado": "13/09/2026 21:38",
+ "generado": "14/09/2026 13:32",
  "version": "1.9.5",
  "convocatorias": [
   {
@@ -5766,6 +5766,26 @@
  },
  "noticias": [
   {
+   "id": "4960686e55df195b",
+   "fuente": "Gobierno de Canarias (noticias)",
+   "titulo": "El Gobierno de Canarias aprueba técnicamente el proyecto para rehabilitar 96 viviendas en Las Palmas de G.C.",
+   "url": "https://www3.gobiernodecanarias.org/noticias/el-gobierno-de-canarias-aprueba-tecnicamente-el-proyecto-para-rehabilitar-96-viviendas-en-las-palmas-de-g-c/",
+   "fecha": "2026-09-14",
+   "resumen": "La actuación, en el barrio de Risco Negro, en Tamaraceite, cuenta con un presupuesto base de licitación de 2,73 millones de euros y un plazo de ejecución de siete meses Las obras permitirán mejorar la eficiencia energética de los edificios mediante sistemas de aerotermia, nuevas carpinterías y actuaciones de aislamiento, además de incorporar siete ascensores [&#8230;]",
+   "ambito": "Canarias",
+   "categorias": [
+    "aerotermia",
+    "eficiencia",
+    "edificios"
+   ],
+   "creado": "2026-09-14T13:32:26",
+   "categorias_txt": [
+    "Aerotermia / bomba de calor",
+    "Eficiencia energética / descarbonización",
+    "Edificios / comunidades de propietarios"
+   ]
+  },
+  {
    "id": "b197ba70d0ac6916",
    "fuente": "Gobierno de Canarias (noticias)",
    "titulo": "Zapata: “Canarias avanza con más renovables, más autoconsumo y municipios mejor preparados»",
@@ -6608,6 +6628,17 @@
  },
  "ejecuciones": [
   {
+   "id": 31,
+   "inicio": "2026-09-14T13:32:01",
+   "fin": "2026-09-14T13:32:33",
+   "ok": 1,
+   "nuevas_convocatorias": 0,
+   "nuevas_noticias": 1,
+   "resumenes": 0,
+   "errores": [],
+   "nuevas_licitaciones": 0
+  },
+  {
    "id": 30,
    "inicio": "2026-09-13T21:37:41",
    "fin": "2026-09-13T21:38:06",
@@ -6760,17 +6791,6 @@
    "resumenes": 0,
    "errores": [],
    "nuevas_licitaciones": 0
-  },
-  {
-   "id": 16,
-   "inicio": "2026-09-05T11:26:33",
-   "fin": "2026-09-05T11:27:24",
-   "ok": 1,
-   "nuevas_convocatorias": 0,
-   "nuevas_noticias": 0,
-   "resumenes": 0,
-   "errores": [],
-   "nuevas_licitaciones": 0
   }
  ],
  "categorias": {
@@ -6799,6 +6819,6 @@
   "licitaciones_abiertas": 27,
   "licitaciones_nuevas_7d": 8,
   "nuevas_7d": 2,
-  "noticias_7d": 4
+  "noticias_7d": 5
  }
 }
