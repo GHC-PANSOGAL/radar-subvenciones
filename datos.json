@@ -1,6 +1,6 @@
 {
- "generado": "15/09/2026 12:25",
- "version": "1.10.0",
+ "generado": "15/09/2026 12:41",
+ "version": "1.10.1",
  "convocatorias": [
   {
    "id_bdns": "928909",
@@ -7711,6 +7711,17 @@
  },
  "ejecuciones": [
   {
+   "id": 33,
+   "inicio": "2026-09-15T12:41:57",
+   "fin": "2026-09-15T12:41:57",
+   "ok": 1,
+   "nuevas_convocatorias": 0,
+   "nuevas_noticias": 0,
+   "resumenes": 0,
+   "errores": [],
+   "nuevas_licitaciones": 0
+  },
+  {
    "id": 32,
    "inicio": "2026-09-15T12:17:40",
    "fin": "2026-09-15T12:25:34",
@@ -7857,17 +7868,6 @@
    "id": 19,
    "inicio": "2026-09-05T12:20:49",
    "fin": "2026-09-05T12:21:41",
-   "ok": 1,
-   "nuevas_convocatorias": 0,
-   "nuevas_noticias": 0,
-   "resumenes": 0,
-   "errores": [],
-   "nuevas_licitaciones": 0
-  },
-  {
-   "id": 18,
-   "inicio": "2026-09-05T11:40:02",
-   "fin": "2026-09-05T11:41:07",
    "ok": 1,
    "nuevas_convocatorias": 0,
    "nuevas_noticias": 0,
