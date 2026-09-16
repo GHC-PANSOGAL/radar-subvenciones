@@ -1,7 +1,92 @@
 {
- "generado": "16/09/2026 19:10",
+ "generado": "16/09/2026 19:17",
  "version": "1.11.1",
  "convocatorias": [
+  {
+   "id_bdns": "929841",
+   "fuente": "bdns",
+   "titulo": "CONVOCATORIA PARA EL EJERCICIO 2026 DE SUBVENCIONES PARA INSTALACIONES DE PRODUCCIÓN DE ENERGÍA ELÉCTRICA DE AUTOCONSUMO Y AGUA CALIENTE SANITARIA EN VIVIENDAS DEL TÉRMINO MUNICIPAL DE BREÑA BAJA",
+   "organo": "AYUNTAMIENTO DE BREÑA BAJA",
+   "ambito": "Local",
+   "ccaa": "Canarias",
+   "fecha_publicacion": "2026-09-16",
+   "fecha_inicio": null,
+   "fecha_fin": null,
+   "texto_inicio": "Al día sigueinte de la publicación del extracto de la convocatoria en el B.O.P. S/C Tenerife",
+   "texto_fin": "30 días naturales",
+   "abierto": 0,
+   "presupuesto": 22400.0,
+   "beneficiarios": [
+    "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+   ],
+   "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+   "finalidad": "Otras Prestaciones económicas",
+   "regiones": [
+    "ES707 - La Palma"
+   ],
+   "mrr": 0,
+   "url_ficha": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/929841",
+   "url_bases": "https://www.bopsantacruzdetenerife.es/bopsc2/index.php",
+   "url_sede": null,
+   "categorias": [
+    "fotovoltaica",
+    "edificios"
+   ],
+   "clientes": [
+    "comunidades"
+   ],
+   "resumen_json": {
+    "titulo_corto": "CONVOCATORIA PARA EL EJERCICIO 2026 DE SUBVENCIONES PARA INSTALACIONES DE PRODUCCIÓN DE ENERGÍA ELÉCTRICA DE AUTOCONSUMO",
+    "fecha_inicio": "Al día sigueinte de la publicación del extracto de la convocatoria en el B.O.P. S/C Tenerife",
+    "fecha_fin": "30 días naturales",
+    "importe": "Presupuesto total: 22.400 €",
+    "cuantia_maxima": "No consta (ver bases)",
+    "porcentaje": "No consta (ver bases)",
+    "que_se_subvenciona": "CONVOCATORIA PARA EL EJERCICIO 2026 DE SUBVENCIONES PARA INSTALACIONES DE PRODUCCIÓN DE ENERGÍA ELÉCTRICA DE AUTOCONSUMO Y AGUA CALIENTE SANITARIA EN VIVIENDAS DEL TÉRMINO MUNICIPAL DE BREÑA BAJA",
+    "quien_puede_solicitar": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+    "procedimiento_concesion": "No consta",
+    "plazo_ejecucion": "No consta",
+    "compatibilidad": "No consta",
+    "donde_se_solicita": "No consta",
+    "condiciones": [
+     "Instrumento: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+     "Resumen generado sin LLM: revisar la ficha BDNS y las bases reguladoras"
+    ],
+    "encaje_ghc": "comunidades",
+    "encaje_motivo": "Detección automática por palabras clave del título",
+    "resumen": "CONVOCATORIA PARA EL EJERCICIO 2026 DE SUBVENCIONES PARA INSTALACIONES DE PRODUCCIÓN DE ENERGÍA ELÉCTRICA DE AUTOCONSUMO Y AGUA CALIENTE SANITARIA EN VIVIENDAS DEL TÉRMINO MUNICIPAL DE BREÑA BAJA",
+    "citas": [],
+    "citas_verificadas": "0/0",
+    "dudas": [
+     "Todo el detalle: no se ha leído el documento oficial."
+    ],
+    "avisos": [
+     "Resumen sin inteligencia artificial: solo campos estructurados de la BDNS."
+    ],
+    "confianza": "baja",
+    "campos_sin_dato": 5
+   },
+   "resumen_proveedor": "basico",
+   "texto_pdf_chars": 35177,
+   "creado": "2026-09-16T19:10:47",
+   "actualizado": "2026-09-16T19:16:50",
+   "estado": "plazo_por_confirmar",
+   "categorias_txt": [
+    "Solar FV / autoconsumo",
+    "Edificios / comunidades de propietarios"
+   ],
+   "clientes_txt": [
+    "Comunidades de propietarios / edificios"
+   ],
+   "puntuacion": 3,
+   "geo": {
+    "nombre": "La Palma",
+    "lat": 28.65,
+    "lon": -17.85,
+    "nivel": "provincia",
+    "codigo": "ES707"
+   }
+  },
   {
    "id_bdns": "928909",
    "fuente": "bdns",
@@ -37,22 +122,36 @@
     "fecha_inicio": "SIN PLAZO",
     "fecha_fin": "SIN PLAZO",
     "importe": "Presupuesto total: 48.308 €",
+    "cuantia_maxima": "No consta (ver bases)",
     "porcentaje": "No consta (ver bases)",
     "que_se_subvenciona": "Subvención al Ayuntamiento de Campo para la mejora eficiencia energética en instalación de calefacción del CEIP Cerbín de Campo",
     "quien_puede_solicitar": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+    "procedimiento_concesion": "No consta",
+    "plazo_ejecucion": "No consta",
+    "compatibilidad": "No consta",
+    "donde_se_solicita": "https://www.dphuesca.es",
     "condiciones": [
      "Instrumento: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
-     "Resumen generado sin LLM: revisar la ficha BDNS y las bases"
+     "Resumen generado sin LLM: revisar la ficha BDNS y las bases reguladoras"
     ],
     "encaje_ghc": "bajo",
-    "encaje_motivo": "Detección automática por palabras clave",
+    "encaje_motivo": "Detección automática por palabras clave del título",
     "resumen": "Subvención al Ayuntamiento de Campo para la mejora eficiencia energética en instalación de calefacción del CEIP Cerbín de Campo",
-    "confianza": "baja"
+    "citas": [],
+    "citas_verificadas": "0/0",
+    "dudas": [
+     "Todo el detalle: no se ha leído el documento oficial."
+    ],
+    "avisos": [
+     "Resumen sin inteligencia artificial: solo campos estructurados de la BDNS."
+    ],
+    "confianza": "baja",
+    "campos_sin_dato": 5
    },
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 12683,
    "creado": "2026-09-12T17:33:44",
-   "actualizado": "2026-09-15T12:42:34",
+   "actualizado": "2026-09-16T19:16:57",
    "estado": "plazo_por_confirmar",
    "categorias_txt": [
     "Eficiencia energética / descarbonización"
@@ -106,22 +205,36 @@
     "fecha_inicio": "20 DÍAS HÁBILES A PARTIR DEL SIGUIENTE A LA PUBLICACIÓN EN EL BOLETIN DE LA COMUNIDAD DE MADRID",
     "fecha_fin": "20 DÍAS HÁBILES A PARTIR DEL SIGUIENTE A LA PUBLICACIÓN EN EL BOLETIN DE LA COMUNIDAD DE MADRID",
     "importe": "Presupuesto total: 425.000 €",
+    "cuantia_maxima": "No consta (ver bases)",
     "porcentaje": "No consta (ver bases)",
     "que_se_subvenciona": "CONVOCATORIA PARA LA CONCESIÓN DE SUBVENCIONES POR EL AYUNTAMIENTO DE GETAFE PARA ACTUACIONES RELATIVAS A LA ACCESIBILIDAD Y REHABILITACIÓN ENERGÉTICA EN EDIFICIOS DE TIPOLOGÍA RESIDENCIAL EN EL TÉRMINO MUNICIPAL DE GETAFE 2026",
     "quien_puede_solicitar": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA; PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+    "procedimiento_concesion": "No consta",
+    "plazo_ejecucion": "No consta",
+    "compatibilidad": "No consta",
+    "donde_se_solicita": "No consta",
     "condiciones": [
      "Instrumento: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
-     "Resumen generado sin LLM: revisar la ficha BDNS y las bases"
+     "Resumen generado sin LLM: revisar la ficha BDNS y las bases reguladoras"
     ],
     "encaje_ghc": "comunidades",
-    "encaje_motivo": "Detección automática por palabras clave",
+    "encaje_motivo": "Detección automática por palabras clave del título",
     "resumen": "CONVOCATORIA PARA LA CONCESIÓN DE SUBVENCIONES POR EL AYUNTAMIENTO DE GETAFE PARA ACTUACIONES RELATIVAS A LA ACCESIBILIDAD Y REHABILITACIÓN ENERGÉTICA EN EDIFICIOS DE TIPOLOGÍA RESIDENCIAL EN EL TÉRMINO MUNICIPAL DE GETAFE 2026",
-    "confianza": "baja"
+    "citas": [],
+    "citas_verificadas": "0/0",
+    "dudas": [
+     "Todo el detalle: no se ha leído el documento oficial."
+    ],
+    "avisos": [
+     "Resumen sin inteligencia artificial: solo campos estructurados de la BDNS."
+    ],
+    "confianza": "baja",
+    "campos_sin_dato": 5
    },
    "resumen_proveedor": "basico",
-   "texto_pdf_chars": 60000,
+   "texto_pdf_chars": 62493,
    "creado": "2026-09-15T12:42:35",
-   "actualizado": "2026-09-15T12:47:35",
+   "actualizado": "2026-09-16T19:17:06",
    "estado": "plazo_por_confirmar",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -194,7 +307,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 14196,
    "creado": "2026-09-10T08:34:32",
-   "actualizado": "2026-09-15T12:42:27",
+   "actualizado": "2026-09-16T19:11:10",
    "estado": "plazo_por_confirmar",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -251,25 +364,39 @@
    ],
    "resumen_json": {
     "titulo_corto": "Resolución DG de Transición Energética, por la que se aprueba la convocatoria de ayudas para aprovechamiento de energías",
-    "fecha_inicio": "Desde el día siguiente al de la publicación en el DOCM",
-    "fecha_fin": "6 meses desde el día siguiente al de la publicación en el DOCM",
+    "fecha_inicio": "2026-09-09",
+    "fecha_fin": "2027-03-08",
     "importe": "Presupuesto total: 2.133.654 €",
+    "cuantia_maxima": "No consta (ver bases)",
     "porcentaje": "No consta (ver bases)",
     "que_se_subvenciona": "Resolución DG de Transición Energética, por la que se aprueba la convocatoria de ayudas para aprovechamiento de energías renovables destinadas a comunidades energéticas y de propietarios. Minimis Reg (UE) 2023/2831",
     "quien_puede_solicitar": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+    "procedimiento_concesion": "No consta",
+    "plazo_ejecucion": "No consta",
+    "compatibilidad": "No consta",
+    "donde_se_solicita": "www.jccm.es",
     "condiciones": [
      "Instrumento: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
-     "Resumen generado sin LLM: revisar la ficha BDNS y las bases"
+     "Resumen generado sin LLM: revisar la ficha BDNS y las bases reguladoras"
     ],
     "encaje_ghc": "comunidades, industria",
-    "encaje_motivo": "Detección automática por palabras clave",
+    "encaje_motivo": "Detección automática por palabras clave del título",
     "resumen": "Resolución DG de Transición Energética, por la que se aprueba la convocatoria de ayudas para aprovechamiento de energías renovables destinadas a comunidades energéticas y de propietarios. Minimis Reg (UE) 2023/2831",
-    "confianza": "baja"
+    "citas": [],
+    "citas_verificadas": "0/0",
+    "dudas": [
+     "Todo el detalle: no se ha leído el documento oficial."
+    ],
+    "avisos": [
+     "Resumen sin inteligencia artificial: solo campos estructurados de la BDNS."
+    ],
+    "confianza": "baja",
+    "campos_sin_dato": 5
    },
    "resumen_proveedor": "basico",
-   "texto_pdf_chars": null,
+   "texto_pdf_chars": 23379,
    "creado": "2026-09-04T17:58:22",
-   "actualizado": "2026-09-16T13:51:14",
+   "actualizado": "2026-09-16T19:13:00",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -325,25 +452,39 @@
    "clientes": [],
    "resumen_json": {
     "titulo_corto": "Resolución de la Dirección General de Transición Energética, por la que se aprueba la convocatoria de las ayudas para el",
-    "fecha_inicio": "Desde el día siguiente al de la publicación en el DOCM",
-    "fecha_fin": "6 meses desde el día siguiente al de la publicación en el DOCM",
+    "fecha_inicio": "2026-09-09",
+    "fecha_fin": "2027-03-08",
     "importe": "Presupuesto total: 8.534.586 €",
+    "cuantia_maxima": "No consta (ver bases)",
     "porcentaje": "No consta (ver bases)",
-    "que_se_subvenciona": "Resolución de la Dirección General de Transición Energética, por la que se aprueba la convocatoria de las ayudas para el aprovechamiento de las energías renovables en Castilla-La Mancha, destinadas a comunidades energéticas y      \n a comunidades de propi",
+    "que_se_subvenciona": "Resolución de la Dirección General de Transición Energética, por la que se aprueba la convocatoria de las ayudas para el aprovechamiento de las energías renovables en Castilla-La Mancha, destinadas a comunidades energéticas y           \n a comunidades dep",
     "quien_puede_solicitar": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+    "procedimiento_concesion": "No consta",
+    "plazo_ejecucion": "No consta",
+    "compatibilidad": "No consta",
+    "donde_se_solicita": "www.jccm.es",
     "condiciones": [
      "Instrumento: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
-     "Resumen generado sin LLM: revisar la ficha BDNS y las bases"
+     "Resumen generado sin LLM: revisar la ficha BDNS y las bases reguladoras"
     ],
     "encaje_ghc": "bajo",
-    "encaje_motivo": "Detección automática por palabras clave",
-    "resumen": "Resolución de la Dirección General de Transición Energética, por la que se aprueba la convocatoria de las ayudas para el aprovechamiento de las energías renovables en Castilla-La Mancha, destinadas a comunidades energéticas y      \n a comunidades de propi",
-    "confianza": "baja"
+    "encaje_motivo": "Detección automática por palabras clave del título",
+    "resumen": "Resolución de la Dirección General de Transición Energética, por la que se aprueba la convocatoria de las ayudas para el aprovechamiento de las energías renovables en Castilla-La Mancha, destinadas a comunidades energéticas y           \n a comunidades dep",
+    "citas": [],
+    "citas_verificadas": "0/0",
+    "dudas": [
+     "Todo el detalle: no se ha leído el documento oficial."
+    ],
+    "avisos": [
+     "Resumen sin inteligencia artificial: solo campos estructurados de la BDNS."
+    ],
+    "confianza": "baja",
+    "campos_sin_dato": 5
    },
    "resumen_proveedor": "basico",
-   "texto_pdf_chars": null,
+   "texto_pdf_chars": 23379,
    "creado": "2026-09-04T17:58:23",
-   "actualizado": "2026-09-16T13:51:15",
+   "actualizado": "2026-09-16T19:13:09",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -400,22 +541,36 @@
     "fecha_inicio": "2026-09-07",
     "fecha_fin": "2026-12-07",
     "importe": "Presupuesto total: 9.000.000 €",
+    "cuantia_maxima": "No consta (ver bases)",
     "porcentaje": "No consta (ver bases)",
     "que_se_subvenciona": "Resolución de 10 de agosto de 2026 de la Agencia Turismo de Galicia por la que se establecen las BBRR para la concesión de subvenciones para actuaciones de eficiencia energética en empresas turísticas, cofinanciadas por el FEDER en un 60% (2026-2027)",
     "quien_puede_solicitar": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+    "procedimiento_concesion": "No consta",
+    "plazo_ejecucion": "No consta",
+    "compatibilidad": "No consta",
+    "donde_se_solicita": "https://sede.xunta.gal/",
     "condiciones": [
      "Instrumento: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
-     "Resumen generado sin LLM: revisar la ficha BDNS y las bases"
+     "Resumen generado sin LLM: revisar la ficha BDNS y las bases reguladoras"
     ],
     "encaje_ghc": "comunidades, industria",
-    "encaje_motivo": "Detección automática por palabras clave",
+    "encaje_motivo": "Detección automática por palabras clave del título",
     "resumen": "Resolución de 10 de agosto de 2026 de la Agencia Turismo de Galicia por la que se establecen las BBRR para la concesión de subvenciones para actuaciones de eficiencia energética en empresas turísticas, cofinanciadas por el FEDER en un 60% (2026-2027)",
-    "confianza": "baja"
+    "citas": [],
+    "citas_verificadas": "0/0",
+    "dudas": [
+     "Todo el detalle: no se ha leído el documento oficial."
+    ],
+    "avisos": [
+     "Resumen sin inteligencia artificial: solo campos estructurados de la BDNS."
+    ],
+    "confianza": "baja",
+    "campos_sin_dato": 5
    },
    "resumen_proveedor": "basico",
-   "texto_pdf_chars": null,
+   "texto_pdf_chars": 120000,
    "creado": "2026-09-04T17:58:27",
-   "actualizado": "2026-09-16T13:51:19",
+   "actualizado": "2026-09-16T19:13:27",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -484,7 +639,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:42",
-   "actualizado": "2026-09-15T12:42:36",
+   "actualizado": "2026-09-16T19:11:12",
    "estado": "plazo_por_confirmar",
    "categorias_txt": [
     "Eficiencia energética / descarbonización"
@@ -554,7 +709,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:32",
-   "actualizado": "2026-09-15T12:42:28",
+   "actualizado": "2026-09-16T19:11:02",
    "estado": "plazo_por_confirmar",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -621,7 +776,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:33",
-   "actualizado": "2026-09-15T12:42:28",
+   "actualizado": "2026-09-16T19:11:02",
    "estado": "plazo_por_confirmar",
    "categorias_txt": [],
    "clientes_txt": [],
@@ -670,22 +825,36 @@
     "fecha_inicio": "2026-05-22",
     "fecha_fin": "2026-12-31",
     "importe": "Presupuesto total: 118.000 €",
+    "cuantia_maxima": "No consta (ver bases)",
     "porcentaje": "No consta (ver bases)",
     "que_se_subvenciona": "REHABILITACION DE LA BATERIA DE SANTA ÚRSULA",
     "quien_puede_solicitar": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+    "procedimiento_concesion": "No consta",
+    "plazo_ejecucion": "No consta",
+    "compatibilidad": "No consta",
+    "donde_se_solicita": "No consta",
     "condiciones": [
      "Instrumento: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
-     "Resumen generado sin LLM: revisar la ficha BDNS y las bases"
+     "Resumen generado sin LLM: revisar la ficha BDNS y las bases reguladoras"
     ],
     "encaje_ghc": "bajo",
-    "encaje_motivo": "Detección automática por palabras clave",
+    "encaje_motivo": "Detección automática por palabras clave del título",
     "resumen": "REHABILITACION DE LA BATERIA DE SANTA ÚRSULA",
-    "confianza": "baja"
+    "citas": [],
+    "citas_verificadas": "0/0",
+    "dudas": [
+     "Todo el detalle: no se ha leído el documento oficial."
+    ],
+    "avisos": [
+     "Resumen sin inteligencia artificial: solo campos estructurados de la BDNS."
+    ],
+    "confianza": "baja",
+    "campos_sin_dato": 5
    },
    "resumen_proveedor": "basico",
-   "texto_pdf_chars": null,
+   "texto_pdf_chars": 63067,
    "creado": "2026-09-04T17:58:28",
-   "actualizado": "2026-09-15T12:42:24",
+   "actualizado": "2026-09-16T19:13:38",
    "estado": "abierta",
    "categorias_txt": [
     "Baterías / BESS",
@@ -739,22 +908,36 @@
     "fecha_inicio": "2026-01-01",
     "fecha_fin": "2026-12-31",
     "importe": "Presupuesto total: 60.000 €",
+    "cuantia_maxima": "No consta (ver bases)",
     "porcentaje": "No consta (ver bases)",
     "que_se_subvenciona": "Subvención a favor del Ayuntamiento de Torralba del Río para la realización de trabajos para la mejora de la eficiencia energética en el edificio municipal",
     "quien_puede_solicitar": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+    "procedimiento_concesion": "No consta",
+    "plazo_ejecucion": "No consta",
+    "compatibilidad": "No consta",
+    "donde_se_solicita": "navarra.es",
     "condiciones": [
      "Instrumento: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
-     "Resumen generado sin LLM: revisar la ficha BDNS y las bases"
+     "Resumen generado sin LLM: revisar la ficha BDNS y las bases reguladoras"
     ],
     "encaje_ghc": "comunidades",
-    "encaje_motivo": "Detección automática por palabras clave",
+    "encaje_motivo": "Detección automática por palabras clave del título",
     "resumen": "Subvención a favor del Ayuntamiento de Torralba del Río para la realización de trabajos para la mejora de la eficiencia energética en el edificio municipal",
-    "confianza": "baja"
+    "citas": [],
+    "citas_verificadas": "0/0",
+    "dudas": [
+     "Todo el detalle: no se ha leído el documento oficial."
+    ],
+    "avisos": [
+     "Resumen sin inteligencia artificial: solo campos estructurados de la BDNS."
+    ],
+    "confianza": "baja",
+    "campos_sin_dato": 5
    },
    "resumen_proveedor": "basico",
-   "texto_pdf_chars": null,
+   "texto_pdf_chars": 14773,
    "creado": "2026-09-04T17:58:29",
-   "actualizado": "2026-09-15T12:42:24",
+   "actualizado": "2026-09-16T19:13:45",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -810,22 +993,36 @@
     "fecha_inicio": "2026-09-07",
     "fecha_fin": "2026-09-30",
     "importe": "Presupuesto total: 170.000 €",
+    "cuantia_maxima": "No consta (ver bases)",
     "porcentaje": "No consta (ver bases)",
     "que_se_subvenciona": "BASES Y CONVOCATORIA ESPECÍFICAS PARA LA CONCESIÓN DE SUBVENCIONES COMPENSATORIAS Y COMPLEMENTARIAS A COMUNIDADES DE PROPIETARIOS/AS PARA LA REHABILITACIÓN EFICIENTE DE EDIFICIOS RESIDENCIALES EN EL BARRIO DE TXONTA, EN REGIMEN DE EVALUACIÓN INDIVIDUALIZA",
     "quien_puede_solicitar": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+    "procedimiento_concesion": "No consta",
+    "plazo_ejecucion": "No consta",
+    "compatibilidad": "No consta",
+    "donde_se_solicita": "No consta",
     "condiciones": [
      "Instrumento: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
-     "Resumen generado sin LLM: revisar la ficha BDNS y las bases"
+     "Resumen generado sin LLM: revisar la ficha BDNS y las bases reguladoras"
     ],
     "encaje_ghc": "comunidades",
-    "encaje_motivo": "Detección automática por palabras clave",
+    "encaje_motivo": "Detección automática por palabras clave del título",
     "resumen": "BASES Y CONVOCATORIA ESPECÍFICAS PARA LA CONCESIÓN DE SUBVENCIONES COMPENSATORIAS Y COMPLEMENTARIAS A COMUNIDADES DE PROPIETARIOS/AS PARA LA REHABILITACIÓN EFICIENTE DE EDIFICIOS RESIDENCIALES EN EL BARRIO DE TXONTA, EN REGIMEN DE EVALUACIÓN INDIVIDUALIZA",
-    "confianza": "baja"
+    "citas": [],
+    "citas_verificadas": "0/0",
+    "dudas": [
+     "Todo el detalle: no se ha leído el documento oficial."
+    ],
+    "avisos": [
+     "Resumen sin inteligencia artificial: solo campos estructurados de la BDNS."
+    ],
+    "confianza": "baja",
+    "campos_sin_dato": 5
    },
    "resumen_proveedor": "basico",
-   "texto_pdf_chars": null,
+   "texto_pdf_chars": 52417,
    "creado": "2026-09-04T17:58:43",
-   "actualizado": "2026-09-15T12:42:36",
+   "actualizado": "2026-09-16T19:14:28",
    "estado": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -897,7 +1094,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:43",
-   "actualizado": "2026-09-15T12:42:37",
+   "actualizado": "2026-09-16T19:11:06",
    "estado": "plazo_por_confirmar",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -970,7 +1167,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:33",
-   "actualizado": "2026-09-15T12:42:29",
+   "actualizado": "2026-09-16T19:11:03",
    "estado": "plazo_por_confirmar",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -1030,22 +1227,36 @@
     "fecha_inicio": "2026-09-15",
     "fecha_fin": "2026-11-18",
     "importe": "Presupuesto total: 115.000.000 €",
+    "cuantia_maxima": "No consta (ver bases)",
     "porcentaje": "No consta (ver bases)",
     "que_se_subvenciona": "PRIMERA CONVOCATORIA DEL PROGRAMA DE INCENTIVOS A PROYECTOS SINGULARES INNOVADORES DE AHORRO Y EFICIENCIA ENERGÉTICA (INNOVAE)",
     "quien_puede_solicitar": "GRAN EMPRESA; PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA; PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+    "procedimiento_concesion": "No consta",
+    "plazo_ejecucion": "No consta",
+    "compatibilidad": "No consta",
+    "donde_se_solicita": "https://sede.idae.gob.es/",
     "condiciones": [
      "Instrumento: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
-     "Resumen generado sin LLM: revisar la ficha BDNS y las bases"
+     "Resumen generado sin LLM: revisar la ficha BDNS y las bases reguladoras"
     ],
     "encaje_ghc": "comunidades, industria",
-    "encaje_motivo": "Detección automática por palabras clave",
+    "encaje_motivo": "Detección automática por palabras clave del título",
     "resumen": "PRIMERA CONVOCATORIA DEL PROGRAMA DE INCENTIVOS A PROYECTOS SINGULARES INNOVADORES DE AHORRO Y EFICIENCIA ENERGÉTICA (INNOVAE)",
-    "confianza": "baja"
+    "citas": [],
+    "citas_verificadas": "0/0",
+    "dudas": [
+     "Todo el detalle: no se ha leído el documento oficial."
+    ],
+    "avisos": [
+     "Resumen sin inteligencia artificial: solo campos estructurados de la BDNS."
+    ],
+    "confianza": "baja",
+    "campos_sin_dato": 5
    },
    "resumen_proveedor": "basico",
-   "texto_pdf_chars": null,
+   "texto_pdf_chars": 22620,
    "creado": "2026-09-04T17:58:20",
-   "actualizado": "2026-09-16T13:51:13",
+   "actualizado": "2026-09-16T19:14:35",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -1121,7 +1332,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:34",
-   "actualizado": "2026-09-15T12:42:30",
+   "actualizado": "2026-09-16T19:11:04",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -1195,7 +1406,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:30",
-   "actualizado": "2026-09-15T12:42:25",
+   "actualizado": "2026-09-16T19:11:00",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -1254,22 +1465,36 @@
     "fecha_inicio": "Desde la publicación del extracto en el BOR",
     "fecha_fin": "2026-09-30",
     "importe": "Presupuesto total: 1.573.560 €",
+    "cuantia_maxima": "No consta (ver bases)",
     "porcentaje": "No consta (ver bases)",
     "que_se_subvenciona": "(REE) Eficiencia energética Terciario FNEE (Reg. 651/2014)",
     "quien_puede_solicitar": "GRAN EMPRESA; PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+    "procedimiento_concesion": "No consta",
+    "plazo_ejecucion": "No consta",
+    "compatibilidad": "No consta",
+    "donde_se_solicita": "No consta",
     "condiciones": [
      "Instrumento: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
-     "Resumen generado sin LLM: revisar la ficha BDNS y las bases"
+     "Resumen generado sin LLM: revisar la ficha BDNS y las bases reguladoras"
     ],
     "encaje_ghc": "comunidades, industria",
-    "encaje_motivo": "Detección automática por palabras clave",
+    "encaje_motivo": "Detección automática por palabras clave del título",
     "resumen": "(REE) Eficiencia energética Terciario FNEE (Reg. 651/2014)",
-    "confianza": "baja"
+    "citas": [],
+    "citas_verificadas": "0/0",
+    "dudas": [
+     "Todo el detalle: no se ha leído el documento oficial."
+    ],
+    "avisos": [
+     "Resumen sin inteligencia artificial: solo campos estructurados de la BDNS."
+    ],
+    "confianza": "baja",
+    "campos_sin_dato": 5
    },
    "resumen_proveedor": "basico",
-   "texto_pdf_chars": null,
+   "texto_pdf_chars": 56452,
    "creado": "2026-09-04T17:58:23",
-   "actualizado": "2026-09-16T13:51:16",
+   "actualizado": "2026-09-16T19:14:43",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -1328,22 +1553,36 @@
     "fecha_inicio": "Desde la publicación del extracto en el BOR",
     "fecha_fin": "2026-09-30",
     "importe": "Presupuesto total: 3.439.723 €",
+    "cuantia_maxima": "No consta (ver bases)",
     "porcentaje": "No consta (ver bases)",
     "que_se_subvenciona": "(EE) Eficiencia energética Industrial FNEE (Reg. 651/2014)",
     "quien_puede_solicitar": "GRAN EMPRESA; PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+    "procedimiento_concesion": "No consta",
+    "plazo_ejecucion": "No consta",
+    "compatibilidad": "No consta",
+    "donde_se_solicita": "No consta",
     "condiciones": [
      "Instrumento: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
-     "Resumen generado sin LLM: revisar la ficha BDNS y las bases"
+     "Resumen generado sin LLM: revisar la ficha BDNS y las bases reguladoras"
     ],
     "encaje_ghc": "comunidades, industria",
-    "encaje_motivo": "Detección automática por palabras clave",
+    "encaje_motivo": "Detección automática por palabras clave del título",
     "resumen": "(EE) Eficiencia energética Industrial FNEE (Reg. 651/2014)",
-    "confianza": "baja"
+    "citas": [],
+    "citas_verificadas": "0/0",
+    "dudas": [
+     "Todo el detalle: no se ha leído el documento oficial."
+    ],
+    "avisos": [
+     "Resumen sin inteligencia artificial: solo campos estructurados de la BDNS."
+    ],
+    "confianza": "baja",
+    "campos_sin_dato": 5
    },
    "resumen_proveedor": "basico",
-   "texto_pdf_chars": null,
+   "texto_pdf_chars": 39954,
    "creado": "2026-09-04T17:58:24",
-   "actualizado": "2026-09-16T13:51:16",
+   "actualizado": "2026-09-16T19:14:51",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -1416,7 +1655,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:35",
-   "actualizado": "2026-09-15T12:42:30",
+   "actualizado": "2026-09-16T19:11:04",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -1470,22 +1709,36 @@
     "fecha_inicio": "2026-07-09",
     "fecha_fin": "2026-12-31",
     "importe": "Presupuesto total: 1.000.000 €",
+    "cuantia_maxima": "No consta (ver bases)",
     "porcentaje": "No consta (ver bases)",
     "que_se_subvenciona": "“Fortalecimiento de los sistemas hídricos del norte del Líbano y Akkar mediante la instalación de energía solar y la rehabilitación de infraestructuras",
     "quien_puede_solicitar": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+    "procedimiento_concesion": "No consta",
+    "plazo_ejecucion": "No consta",
+    "compatibilidad": "No consta",
+    "donde_se_solicita": "www.aecid.gob.es",
     "condiciones": [
      "Instrumento: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
-     "Resumen generado sin LLM: revisar la ficha BDNS y las bases"
+     "Resumen generado sin LLM: revisar la ficha BDNS y las bases reguladoras"
     ],
     "encaje_ghc": "bajo",
-    "encaje_motivo": "Detección automática por palabras clave",
+    "encaje_motivo": "Detección automática por palabras clave del título",
     "resumen": "“Fortalecimiento de los sistemas hídricos del norte del Líbano y Akkar mediante la instalación de energía solar y la rehabilitación de infraestructuras",
-    "confianza": "baja"
+    "citas": [],
+    "citas_verificadas": "0/0",
+    "dudas": [
+     "Todo el detalle: no se ha leído el documento oficial."
+    ],
+    "avisos": [
+     "Resumen sin inteligencia artificial: solo campos estructurados de la BDNS."
+    ],
+    "confianza": "baja",
+    "campos_sin_dato": 5
    },
    "resumen_proveedor": "basico",
-   "texto_pdf_chars": null,
+   "texto_pdf_chars": 120000,
    "creado": "2026-09-04T17:58:21",
-   "actualizado": "2026-09-16T13:51:14",
+   "actualizado": "2026-09-16T19:14:59",
    "estado": "abierta",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -1552,7 +1805,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:36",
-   "actualizado": "2026-09-15T12:42:31",
+   "actualizado": "2026-09-16T19:11:05",
    "estado": "cerrada",
    "categorias_txt": [
     "Comunidades energéticas",
@@ -1607,22 +1860,36 @@
     "fecha_inicio": "A partir del día siguiente a la publicación de la convocatoria en el BOGipuzkoa",
     "fecha_fin": "2026-12-15",
     "importe": "Presupuesto total: 25.000 €",
+    "cuantia_maxima": "No consta (ver bases)",
     "porcentaje": "No consta (ver bases)",
     "que_se_subvenciona": "Ayudas económicas destinadas para las obras de mejora de la accesibilidad y eficiencia energética, de viviendas y edificios residenciales",
     "quien_puede_solicitar": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+    "procedimiento_concesion": "No consta",
+    "plazo_ejecucion": "No consta",
+    "compatibilidad": "No consta",
+    "donde_se_solicita": "No consta",
     "condiciones": [
      "Instrumento: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
-     "Resumen generado sin LLM: revisar la ficha BDNS y las bases"
+     "Resumen generado sin LLM: revisar la ficha BDNS y las bases reguladoras"
     ],
     "encaje_ghc": "comunidades",
-    "encaje_motivo": "Detección automática por palabras clave",
+    "encaje_motivo": "Detección automática por palabras clave del título",
     "resumen": "Ayudas económicas destinadas para las obras de mejora de la accesibilidad y eficiencia energética, de viviendas y edificios residenciales",
-    "confianza": "baja"
+    "citas": [],
+    "citas_verificadas": "0/0",
+    "dudas": [
+     "Todo el detalle: no se ha leído el documento oficial."
+    ],
+    "avisos": [
+     "Resumen sin inteligencia artificial: solo campos estructurados de la BDNS."
+    ],
+    "confianza": "baja",
+    "campos_sin_dato": 5
    },
    "resumen_proveedor": "basico",
-   "texto_pdf_chars": null,
+   "texto_pdf_chars": 60222,
    "creado": "2026-09-04T17:58:44",
-   "actualizado": "2026-09-15T12:42:38",
+   "actualizado": "2026-09-16T19:15:07",
    "estado": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -1695,7 +1962,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:30",
-   "actualizado": "2026-09-15T12:42:26",
+   "actualizado": "2026-09-16T19:11:00",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización"
@@ -1767,7 +2034,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:31",
-   "actualizado": "2026-09-15T12:42:26",
+   "actualizado": "2026-09-16T19:11:01",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización"
@@ -1824,22 +2091,36 @@
     "fecha_inicio": "a partir del quinto día hábil de la publicación de la convocatoria",
     "fecha_fin": "2027-02-28",
     "importe": "Presupuesto total: 4.118.912 €",
+    "cuantia_maxima": "No consta (ver bases)",
     "porcentaje": "No consta (ver bases)",
     "que_se_subvenciona": "Fomento de inversiones en energías renovables, almacenamiento eléctrico e infraestructura de recarga dentro del marco de Factor de Insularidad de las Illes Balears",
     "quien_puede_solicitar": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+    "procedimiento_concesion": "No consta",
+    "plazo_ejecucion": "No consta",
+    "compatibilidad": "No consta",
+    "donde_se_solicita": "No consta",
     "condiciones": [
      "Instrumento: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
-     "Resumen generado sin LLM: revisar la ficha BDNS y las bases"
+     "Resumen generado sin LLM: revisar la ficha BDNS y las bases reguladoras"
     ],
     "encaje_ghc": "comunidades",
-    "encaje_motivo": "Detección automática por palabras clave",
+    "encaje_motivo": "Detección automática por palabras clave del título",
     "resumen": "Fomento de inversiones en energías renovables, almacenamiento eléctrico e infraestructura de recarga dentro del marco de Factor de Insularidad de las Illes Balears",
-    "confianza": "baja"
+    "citas": [],
+    "citas_verificadas": "0/0",
+    "dudas": [
+     "Todo el detalle: no se ha leído el documento oficial."
+    ],
+    "avisos": [
+     "Resumen sin inteligencia artificial: solo campos estructurados de la BDNS."
+    ],
+    "confianza": "baja",
+    "campos_sin_dato": 5
    },
    "resumen_proveedor": "basico",
-   "texto_pdf_chars": null,
+   "texto_pdf_chars": 78060,
    "creado": "2026-09-04T17:58:25",
-   "actualizado": "2026-09-16T13:51:17",
+   "actualizado": "2026-09-16T19:15:17",
    "estado": "abierta",
    "categorias_txt": [
     "Baterías / BESS",
@@ -1909,7 +2190,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:36",
-   "actualizado": "2026-09-15T12:42:32",
+   "actualizado": "2026-09-16T19:10:41",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -1963,22 +2244,36 @@
     "fecha_inicio": "2026-07-06",
     "fecha_fin": "2026-12-01",
     "importe": "Presupuesto total: 6.000 €",
+    "cuantia_maxima": "No consta (ver bases)",
     "porcentaje": "No consta (ver bases)",
     "que_se_subvenciona": "Convocatoria para la concesión de ayudas individuales para fomentar la utilización de energías renovables",
     "quien_puede_solicitar": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+    "procedimiento_concesion": "No consta",
+    "plazo_ejecucion": "No consta",
+    "compatibilidad": "No consta",
+    "donde_se_solicita": "https://seu-e.cat/ca/web/garidells/seu-electronica",
     "condiciones": [
      "Instrumento: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
-     "Resumen generado sin LLM: revisar la ficha BDNS y las bases"
+     "Resumen generado sin LLM: revisar la ficha BDNS y las bases reguladoras"
     ],
     "encaje_ghc": "comunidades",
-    "encaje_motivo": "Detección automática por palabras clave",
+    "encaje_motivo": "Detección automática por palabras clave del título",
     "resumen": "Convocatoria para la concesión de ayudas individuales para fomentar la utilización de energías renovables",
-    "confianza": "baja"
+    "citas": [],
+    "citas_verificadas": "0/0",
+    "dudas": [
+     "Todo el detalle: no se ha leído el documento oficial."
+    ],
+    "avisos": [
+     "Resumen sin inteligencia artificial: solo campos estructurados de la BDNS."
+    ],
+    "confianza": "baja",
+    "campos_sin_dato": 5
    },
    "resumen_proveedor": "basico",
-   "texto_pdf_chars": null,
+   "texto_pdf_chars": 6429,
    "creado": "2026-09-04T17:58:37",
-   "actualizado": "2026-09-15T12:42:32",
+   "actualizado": "2026-09-16T19:15:24",
    "estado": "abierta",
    "categorias_txt": [
     "Energías renovables",
@@ -2051,7 +2346,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 60000,
    "creado": "2026-09-04T17:58:26",
-   "actualizado": "2026-09-16T13:51:18",
+   "actualizado": "2026-09-16T19:10:40",
    "estado": "cerrada",
    "categorias_txt": [
     "Comunidades energéticas",
@@ -2111,22 +2406,36 @@
     "fecha_inicio": "2026-06-27",
     "fecha_fin": "2026-10-29",
     "importe": "Presupuesto total: 2.520.000 €",
+    "cuantia_maxima": "No consta (ver bases)",
     "porcentaje": "No consta (ver bases)",
     "que_se_subvenciona": "RESOLUCIÓN de 18 de junio de 2026, Presidencia del Instituto Valenciano de Competitividad Empresarial (IVACE), por la que se convocan ayudas en materia de eficiencia energética en empresas, presupuesto 2026, financiación Unión Europea a través FEDER",
     "quien_puede_solicitar": "GRAN EMPRESA; PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA; PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+    "procedimiento_concesion": "No consta",
+    "plazo_ejecucion": "No consta",
+    "compatibilidad": "No consta",
+    "donde_se_solicita": "http://www.ivace.es",
     "condiciones": [
      "Instrumento: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
-     "Resumen generado sin LLM: revisar la ficha BDNS y las bases"
+     "Resumen generado sin LLM: revisar la ficha BDNS y las bases reguladoras"
     ],
     "encaje_ghc": "comunidades, industria",
-    "encaje_motivo": "Detección automática por palabras clave",
+    "encaje_motivo": "Detección automática por palabras clave del título",
     "resumen": "RESOLUCIÓN de 18 de junio de 2026, Presidencia del Instituto Valenciano de Competitividad Empresarial (IVACE), por la que se convocan ayudas en materia de eficiencia energética en empresas, presupuesto 2026, financiación Unión Europea a través FEDER",
-    "confianza": "baja"
+    "citas": [],
+    "citas_verificadas": "0/0",
+    "dudas": [
+     "Todo el detalle: no se ha leído el documento oficial."
+    ],
+    "avisos": [
+     "Resumen sin inteligencia artificial: solo campos estructurados de la BDNS."
+    ],
+    "confianza": "baja",
+    "campos_sin_dato": 5
    },
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 34476,
    "creado": "2026-09-04T17:58:26",
-   "actualizado": "2026-09-16T13:51:18",
+   "actualizado": "2026-09-16T19:15:35",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -2202,7 +2511,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 14190,
    "creado": "2026-09-04T17:58:45",
-   "actualizado": "2026-09-15T12:42:38",
+   "actualizado": "2026-09-16T19:10:44",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -2275,7 +2584,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 31769,
    "creado": "2026-09-04T17:58:46",
-   "actualizado": "2026-09-15T12:42:39",
+   "actualizado": "2026-09-16T19:10:44",
    "estado": "cerrada",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -2347,7 +2656,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 60000,
    "creado": "2026-09-04T17:58:46",
-   "actualizado": "2026-09-15T12:42:40",
+   "actualizado": "2026-09-16T19:10:45",
    "estado": "cerrada",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -2418,7 +2727,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 60000,
    "creado": "2026-09-04T17:58:47",
-   "actualizado": "2026-09-15T12:42:40",
+   "actualizado": "2026-09-16T19:10:46",
    "estado": "cerrada",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -2489,7 +2798,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 60000,
    "creado": "2026-09-04T17:58:48",
-   "actualizado": "2026-09-15T12:42:41",
+   "actualizado": "2026-09-16T19:10:46",
    "estado": "cerrada",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -2560,7 +2869,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 60000,
    "creado": "2026-09-04T17:58:49",
-   "actualizado": "2026-09-15T12:42:42",
+   "actualizado": "2026-09-16T19:10:47",
    "estado": "cerrada",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -2631,7 +2940,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 60000,
    "creado": "2026-09-04T17:58:49",
-   "actualizado": "2026-09-15T12:42:42",
+   "actualizado": "2026-09-16T19:10:48",
    "estado": "cerrada",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -2690,22 +2999,36 @@
     "fecha_inicio": "2026-06-16",
     "fecha_fin": "2026-10-11",
     "importe": "Presupuesto total: 100.000 €",
+    "cuantia_maxima": "No consta (ver bases)",
     "porcentaje": "No consta (ver bases)",
     "que_se_subvenciona": "CONVOCATORIA DE SUBVENCIONES PARA LA IMPLANTACIÓN DE ENERGÍA SOLAR FOTOVOLTAICA, TÉRMICA Y DE MEJORA DE EFICIENCIA ENERGÉTICA EN EDIFICIOS Y VIVIENDAS EN EL TÉRMINO MUNICIPAL DE FUENLABRADA 2026. JGL 05/06/2026 (PTO 19).",
     "quien_puede_solicitar": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA; PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+    "procedimiento_concesion": "No consta",
+    "plazo_ejecucion": "No consta",
+    "compatibilidad": "No consta",
+    "donde_se_solicita": "No consta",
     "condiciones": [
      "Instrumento: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
-     "Resumen generado sin LLM: revisar la ficha BDNS y las bases"
+     "Resumen generado sin LLM: revisar la ficha BDNS y las bases reguladoras"
     ],
     "encaje_ghc": "comunidades",
-    "encaje_motivo": "Detección automática por palabras clave",
+    "encaje_motivo": "Detección automática por palabras clave del título",
     "resumen": "CONVOCATORIA DE SUBVENCIONES PARA LA IMPLANTACIÓN DE ENERGÍA SOLAR FOTOVOLTAICA, TÉRMICA Y DE MEJORA DE EFICIENCIA ENERGÉTICA EN EDIFICIOS Y VIVIENDAS EN EL TÉRMINO MUNICIPAL DE FUENLABRADA 2026. JGL 05/06/2026 (PTO 19).",
-    "confianza": "baja"
+    "citas": [],
+    "citas_verificadas": "0/0",
+    "dudas": [
+     "Todo el detalle: no se ha leído el documento oficial."
+    ],
+    "avisos": [
+     "Resumen sin inteligencia artificial: solo campos estructurados de la BDNS."
+    ],
+    "confianza": "baja",
+    "campos_sin_dato": 5
    },
    "resumen_proveedor": "basico",
-   "texto_pdf_chars": 60000,
+   "texto_pdf_chars": 68931,
    "creado": "2026-09-04T17:58:50",
-   "actualizado": "2026-09-15T12:42:43",
+   "actualizado": "2026-09-16T19:15:45",
    "estado": "abierta",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -2767,22 +3090,36 @@
     "fecha_inicio": "El día siguiente a la publicación de estas bases ",
     "fecha_fin": "2026-10-31",
     "importe": "Presupuesto total: 250.000 €",
+    "cuantia_maxima": "No consta (ver bases)",
     "porcentaje": "No consta (ver bases)",
     "que_se_subvenciona": "AYUDAS ECONÓMICAS DESTINADAS PARA LAS OBRAS DE EFICIENCIA ENERGÉTICA, ACCESIBILIDAD, CONSERVACIÓN Y PARA LOS TRABAJOS DE INSTALACIÓN DE FUENTES DE ENERGÍA RENOVABLE DE VIVIENDAS Y EDIFICIOS RESIDENCIALES SITUADOS EN AZPEITIA (Convocatoria 2026)",
     "quien_puede_solicitar": "GRAN EMPRESA; PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+    "procedimiento_concesion": "No consta",
+    "plazo_ejecucion": "No consta",
+    "compatibilidad": "No consta",
+    "donde_se_solicita": "No consta",
     "condiciones": [
      "Instrumento: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
-     "Resumen generado sin LLM: revisar la ficha BDNS y las bases"
+     "Resumen generado sin LLM: revisar la ficha BDNS y las bases reguladoras"
     ],
     "encaje_ghc": "comunidades, industria",
-    "encaje_motivo": "Detección automática por palabras clave",
+    "encaje_motivo": "Detección automática por palabras clave del título",
     "resumen": "AYUDAS ECONÓMICAS DESTINADAS PARA LAS OBRAS DE EFICIENCIA ENERGÉTICA, ACCESIBILIDAD, CONSERVACIÓN Y PARA LOS TRABAJOS DE INSTALACIÓN DE FUENTES DE ENERGÍA RENOVABLE DE VIVIENDAS Y EDIFICIOS RESIDENCIALES SITUADOS EN AZPEITIA (Convocatoria 2026)",
-    "confianza": "baja"
+    "citas": [],
+    "citas_verificadas": "0/0",
+    "dudas": [
+     "Todo el detalle: no se ha leído el documento oficial."
+    ],
+    "avisos": [
+     "Resumen sin inteligencia artificial: solo campos estructurados de la BDNS."
+    ],
+    "confianza": "baja",
+    "campos_sin_dato": 5
    },
    "resumen_proveedor": "basico",
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:51",
-   "actualizado": "2026-09-15T12:42:44",
+   "actualizado": "2026-09-16T19:15:53",
    "estado": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -2853,7 +3190,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 1688,
    "creado": "2026-09-04T17:58:52",
-   "actualizado": "2026-09-15T12:42:44",
+   "actualizado": "2026-09-16T19:10:50",
    "estado": "cerrada",
    "categorias_txt": [
     "Energías renovables"
@@ -2906,22 +3243,36 @@
     "fecha_inicio": "A partir del día siguiente de la publicación en BOTHA",
     "fecha_fin": "2027-12-31",
     "importe": "Presupuesto total: 2.000.000 €",
+    "cuantia_maxima": "No consta (ver bases)",
     "porcentaje": "No consta (ver bases)",
     "que_se_subvenciona": "Convocatoria de ayudas a la rehabilitación de viviendas y edificios residenciales en el casco medieval de Vitoria-Gasteiz para los ejercicios 2026-2027",
     "quien_puede_solicitar": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+    "procedimiento_concesion": "No consta",
+    "plazo_ejecucion": "No consta",
+    "compatibilidad": "No consta",
+    "donde_se_solicita": "https://sedeelectronica.vitoria-gasteiz.org",
     "condiciones": [
      "Instrumento: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
-     "Resumen generado sin LLM: revisar la ficha BDNS y las bases"
+     "Resumen generado sin LLM: revisar la ficha BDNS y las bases reguladoras"
     ],
     "encaje_ghc": "comunidades",
-    "encaje_motivo": "Detección automática por palabras clave",
+    "encaje_motivo": "Detección automática por palabras clave del título",
     "resumen": "Convocatoria de ayudas a la rehabilitación de viviendas y edificios residenciales en el casco medieval de Vitoria-Gasteiz para los ejercicios 2026-2027",
-    "confianza": "baja"
+    "citas": [],
+    "citas_verificadas": "0/0",
+    "dudas": [
+     "Todo el detalle: no se ha leído el documento oficial."
+    ],
+    "avisos": [
+     "Resumen sin inteligencia artificial: solo campos estructurados de la BDNS."
+    ],
+    "confianza": "baja",
+    "campos_sin_dato": 5
    },
    "resumen_proveedor": "basico",
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:53",
-   "actualizado": "2026-09-15T12:42:45",
+   "actualizado": "2026-09-16T19:16:00",
    "estado": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -2977,22 +3328,36 @@
     "fecha_inicio": "A partir del día siguiente de la publicación en BOTHA",
     "fecha_fin": "2027-12-31",
     "importe": "Presupuesto total: 4.000.000 €",
+    "cuantia_maxima": "No consta (ver bases)",
     "porcentaje": "No consta (ver bases)",
     "que_se_subvenciona": "Convocatoria de ayudas a la rehabilitación de viviendas y edificios residenciales en la ciudad de Vitoria-Gasteiz para los ejercicios 2026 y 2027",
     "quien_puede_solicitar": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+    "procedimiento_concesion": "No consta",
+    "plazo_ejecucion": "No consta",
+    "compatibilidad": "No consta",
+    "donde_se_solicita": "https://sedeelectronica.vitoria-gasteiz.org",
     "condiciones": [
      "Instrumento: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
-     "Resumen generado sin LLM: revisar la ficha BDNS y las bases"
+     "Resumen generado sin LLM: revisar la ficha BDNS y las bases reguladoras"
     ],
     "encaje_ghc": "comunidades",
-    "encaje_motivo": "Detección automática por palabras clave",
+    "encaje_motivo": "Detección automática por palabras clave del título",
     "resumen": "Convocatoria de ayudas a la rehabilitación de viviendas y edificios residenciales en la ciudad de Vitoria-Gasteiz para los ejercicios 2026 y 2027",
-    "confianza": "baja"
+    "citas": [],
+    "citas_verificadas": "0/0",
+    "dudas": [
+     "Todo el detalle: no se ha leído el documento oficial."
+    ],
+    "avisos": [
+     "Resumen sin inteligencia artificial: solo campos estructurados de la BDNS."
+    ],
+    "confianza": "baja",
+    "campos_sin_dato": 5
    },
    "resumen_proveedor": "basico",
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:53",
-   "actualizado": "2026-09-15T12:42:46",
+   "actualizado": "2026-09-16T19:16:07",
    "estado": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -3063,7 +3428,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 26340,
    "creado": "2026-09-04T17:58:54",
-   "actualizado": "2026-09-15T12:42:46",
+   "actualizado": "2026-09-16T19:10:52",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -3123,22 +3488,36 @@
     "fecha_inicio": "Al día siguiente de la publicación del extracto de la presente convocatoria en el BOG",
     "fecha_fin": "2026-11-16",
     "importe": "Presupuesto total: 54.000 €",
+    "cuantia_maxima": "No consta (ver bases)",
     "porcentaje": "No consta (ver bases)",
     "que_se_subvenciona": "SUBVENCIONES PARA LA REALIZACIÓN DE DIVERSAS OBRAS DE REHABILITACIÓN EN EDIFICIOS RESIDENCIALES EN ELGOIBAR 2026",
     "quien_puede_solicitar": "GRAN EMPRESA; PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA; PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA; PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+    "procedimiento_concesion": "No consta",
+    "plazo_ejecucion": "No consta",
+    "compatibilidad": "No consta",
+    "donde_se_solicita": "No consta",
     "condiciones": [
      "Instrumento: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
-     "Resumen generado sin LLM: revisar la ficha BDNS y las bases"
+     "Resumen generado sin LLM: revisar la ficha BDNS y las bases reguladoras"
     ],
     "encaje_ghc": "comunidades, industria",
-    "encaje_motivo": "Detección automática por palabras clave",
+    "encaje_motivo": "Detección automática por palabras clave del título",
     "resumen": "SUBVENCIONES PARA LA REALIZACIÓN DE DIVERSAS OBRAS DE REHABILITACIÓN EN EDIFICIOS RESIDENCIALES EN ELGOIBAR 2026",
-    "confianza": "baja"
+    "citas": [],
+    "citas_verificadas": "0/0",
+    "dudas": [
+     "Todo el detalle: no se ha leído el documento oficial."
+    ],
+    "avisos": [
+     "Resumen sin inteligencia artificial: solo campos estructurados de la BDNS."
+    ],
+    "confianza": "baja",
+    "campos_sin_dato": 5
    },
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 53328,
    "creado": "2026-09-04T17:58:55",
-   "actualizado": "2026-09-15T12:42:47",
+   "actualizado": "2026-09-16T19:16:15",
    "estado": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -3196,22 +3575,36 @@
     "fecha_inicio": "2026-05-28",
     "fecha_fin": "2026-10-31",
     "importe": "No consta",
+    "cuantia_maxima": "No consta (ver bases)",
     "porcentaje": "No consta (ver bases)",
     "que_se_subvenciona": "Convocatoria pública para presentar las solicitudes a las obras recogidas en las bases reguladoras de las ayudas económicas para actuaciones de mejora energética en edificios y vivienda en el término municipal de Lasarte-Oria.2026.",
     "quien_puede_solicitar": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+    "procedimiento_concesion": "No consta",
+    "plazo_ejecucion": "No consta",
+    "compatibilidad": "No consta",
+    "donde_se_solicita": "www.lasarte-oria.eus",
     "condiciones": [
      "Instrumento: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
-     "Resumen generado sin LLM: revisar la ficha BDNS y las bases"
+     "Resumen generado sin LLM: revisar la ficha BDNS y las bases reguladoras"
     ],
     "encaje_ghc": "comunidades",
-    "encaje_motivo": "Detección automática por palabras clave",
+    "encaje_motivo": "Detección automática por palabras clave del título",
     "resumen": "Convocatoria pública para presentar las solicitudes a las obras recogidas en las bases reguladoras de las ayudas económicas para actuaciones de mejora energética en edificios y vivienda en el término municipal de Lasarte-Oria.2026.",
-    "confianza": "baja"
+    "citas": [],
+    "citas_verificadas": "0/0",
+    "dudas": [
+     "Todo el detalle: no se ha leído el documento oficial."
+    ],
+    "avisos": [
+     "Resumen sin inteligencia artificial: solo campos estructurados de la BDNS."
+    ],
+    "confianza": "baja",
+    "campos_sin_dato": 5
    },
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 11094,
    "creado": "2026-09-04T17:58:38",
-   "actualizado": "2026-09-15T12:42:33",
+   "actualizado": "2026-09-16T19:16:24",
    "estado": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -3283,7 +3676,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 60000,
    "creado": "2026-09-04T17:58:56",
-   "actualizado": "2026-09-15T12:42:48",
+   "actualizado": "2026-09-16T19:10:53",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -3351,7 +3744,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 40751,
    "creado": "2026-09-04T17:58:56",
-   "actualizado": "2026-09-15T12:42:48",
+   "actualizado": "2026-09-16T19:10:54",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización"
@@ -3417,7 +3810,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 51429,
    "creado": "2026-09-04T17:58:39",
-   "actualizado": "2026-09-15T12:42:34",
+   "actualizado": "2026-09-16T19:10:43",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -3485,7 +3878,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 9168,
    "creado": "2026-09-04T17:58:57",
-   "actualizado": "2026-09-15T12:42:49",
+   "actualizado": "2026-09-16T19:10:54",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización"
@@ -3543,22 +3936,36 @@
     "fecha_inicio": "2026-03-01",
     "fecha_fin": "2026-10-31",
     "importe": "Presupuesto total: 27.500 €",
+    "cuantia_maxima": "No consta (ver bases)",
     "porcentaje": "No consta (ver bases)",
     "que_se_subvenciona": "CONVOCATORIA SUBVENCIONS EFICIENCIA ENERGETICA 2026",
     "quien_puede_solicitar": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA; PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA; PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+    "procedimiento_concesion": "No consta",
+    "plazo_ejecucion": "No consta",
+    "compatibilidad": "No consta",
+    "donde_se_solicita": "No consta",
     "condiciones": [
      "Instrumento: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
-     "Resumen generado sin LLM: revisar la ficha BDNS y las bases"
+     "Resumen generado sin LLM: revisar la ficha BDNS y las bases reguladoras"
     ],
     "encaje_ghc": "comunidades, industria",
-    "encaje_motivo": "Detección automática por palabras clave",
+    "encaje_motivo": "Detección automática por palabras clave del título",
     "resumen": "CONVOCATORIA SUBVENCIONS EFICIENCIA ENERGETICA 2026",
-    "confianza": "baja"
+    "citas": [],
+    "citas_verificadas": "0/0",
+    "dudas": [
+     "Todo el detalle: no se ha leído el documento oficial."
+    ],
+    "avisos": [
+     "Resumen sin inteligencia artificial: solo campos estructurados de la BDNS."
+    ],
+    "confianza": "baja",
+    "campos_sin_dato": 5
    },
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 44144,
    "creado": "2026-09-04T17:58:40",
-   "actualizado": "2026-09-04T22:54:10",
+   "actualizado": "2026-09-16T19:16:33",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -3613,22 +4020,36 @@
     "fecha_inicio": "2026-05-22",
     "fecha_fin": "2026-09-18",
     "importe": "Presupuesto total: 600.000 €",
+    "cuantia_maxima": "No consta (ver bases)",
     "porcentaje": "No consta (ver bases)",
     "que_se_subvenciona": "Ayudas dirigidas al desarrollo de proyectos de descarbonización 2026",
     "quien_puede_solicitar": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+    "procedimiento_concesion": "No consta",
+    "plazo_ejecucion": "No consta",
+    "compatibilidad": "No consta",
+    "donde_se_solicita": "https://sedeelectronica.vitoria-gasteiz.org",
     "condiciones": [
      "Instrumento: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
-     "Resumen generado sin LLM: revisar la ficha BDNS y las bases"
+     "Resumen generado sin LLM: revisar la ficha BDNS y las bases reguladoras"
     ],
     "encaje_ghc": "bajo",
-    "encaje_motivo": "Detección automática por palabras clave",
+    "encaje_motivo": "Detección automática por palabras clave del título",
     "resumen": "Ayudas dirigidas al desarrollo de proyectos de descarbonización 2026",
-    "confianza": "baja"
+    "citas": [],
+    "citas_verificadas": "0/0",
+    "dudas": [
+     "Todo el detalle: no se ha leído el documento oficial."
+    ],
+    "avisos": [
+     "Resumen sin inteligencia artificial: solo campos estructurados de la BDNS."
+    ],
+    "confianza": "baja",
+    "campos_sin_dato": 5
    },
    "resumen_proveedor": "basico",
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:40",
-   "actualizado": "2026-09-04T22:54:12",
+   "actualizado": "2026-09-16T19:16:40",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -3849,7 +4270,7 @@
     "texto": null,
     "motivo": "Contrato de obras con valor estimado 91.476 € < 500.000 €: no es exigible la clasificación (art. 77.1.a LCSP). El órgano puede pedir solvencia por otros medios. y la clasificación sirve para acreditarla."
    },
-   "clasificacion_txt": null,
+   "clasificacion_txt": [],
    "estado_panel": "abierta",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -3912,16 +4333,32 @@
    ],
    "creado": "2026-09-16T14:05:12",
    "clasificacion": {
-    "exigida": false,
-    "certeza": "inferido",
-    "codigos": [],
-    "descripciones": [],
+    "exigida": true,
+    "certeza": "anuncio",
+    "codigos": [
+     "C-7"
+    ],
     "categoria": null,
-    "anualidad_media": 28925.61,
-    "texto": null,
-    "motivo": "Contrato de obras con valor estimado 28.926 € < 500.000 €: no es exigible la clasificación (art. 77.1.a LCSP). El órgano puede pedir solvencia por otros medios. y la clasificación sirve para acreditarla."
+    "texto": "ID: RequiredBusinessProfileCode · CodeValue: C*-1 · Description: Capacidad de obrar · Description: Estar prerregistrado en el ROLECE, y declarar que no ha habido modificaciones en los datos registrados · Name: Consideraciones de tipo social · Description: Garantizar la seguridad y la protección de la salud en el lugar de trabajo con especial atención al cumplimiento de medidas para la prevención d",
+    "motivo": "La clasificación viene indicada en el propio anuncio de licitación. El grupo/subgrupo concreto no se ha podido leer: los mostrados son una propuesta.",
+    "descripciones": [
+     "Aislamientos e impermeabilizaciones"
+    ]
    },
-   "clasificacion_txt": null,
+   "clasificacion_txt": [
+    "ID: RequiredBusinessProfileCode",
+    "CodeValue: C*-1",
+    "Description: Capacidad de obrar",
+    "Description: Estar prerregistrado en el ROLECE, y declarar que no ha habido modificaciones en los datos registrados",
+    "Name: Consideraciones de tipo social",
+    "Description: Garantizar la seguridad y la protección de la salud en el lugar de trabajo con especial atención al cumplimiento de medidas para la prevención de la siniestrabilidad laboral. PAra más información ver PCAP",
+    "Name: Consideraciones de tipo medioambiental",
+    "Description: Plan de gestión de los residuos: Conforme a lo previsto en el proyecto, una vez adjudicada la obra y previamente a la firma del Acta de Replanteo, el contratista entregará un Plan de Gestión de los Residuos, en aplicación del Real Decreto 105/2008 de 1 de febrero. PAra más información ver PCAP",
+    "AwardingCriteriaTypeCode: OBJ",
+    "Description: Plazo de garantía",
+    "Note: Deberá especificarse los años en que se amplia la garantía a la prevista en el PCAP, siendo 2 el máximo de años que puede ofertar el licitador",
+    "WeightNumeric: 30"
+   ],
    "estado_panel": "abierta",
    "categorias_txt": [],
    "clientes_txt": [
@@ -3998,16 +4435,32 @@
    "clientes": [],
    "creado": "2026-09-16T14:05:12",
    "clasificacion": {
-    "exigida": false,
-    "certeza": "inferido",
-    "codigos": [],
-    "descripciones": [],
+    "exigida": true,
+    "certeza": "anuncio",
+    "codigos": [
+     "I-9"
+    ],
     "categoria": null,
-    "anualidad_media": 50515.56,
-    "texto": null,
-    "motivo": "Contrato de suministros: la clasificación no es exigible; se acredita solvencia económica y técnica."
+    "texto": "EvaluationCriteriaTypeCode: ZZZ · Description: Conforme a los pliegos que rigen la presente licitación. · EvaluationCriteriaTypeCode: ZZZ · Description: Conforme a los pliegos que rigen la presente licitación · Description: Capacidad de obrar · Name: Consideraciones de tipo medioambiental · Description: Conforme al apartado 12 del CCP · AwardingCriteriaTypeCode: OBJ · Description: CO1: Sumatorio d",
+    "motivo": "La clasificación viene indicada en el propio anuncio de licitación. El grupo/subgrupo concreto no se ha podido leer: los mostrados son una propuesta.",
+    "descripciones": [
+     "Instalaciones eléctricas sin cualificación específica"
+    ]
    },
-   "clasificacion_txt": null,
+   "clasificacion_txt": [
+    "EvaluationCriteriaTypeCode: ZZZ",
+    "Description: Conforme a los pliegos que rigen la presente licitación.",
+    "EvaluationCriteriaTypeCode: ZZZ",
+    "Description: Conforme a los pliegos que rigen la presente licitación",
+    "Description: Capacidad de obrar",
+    "Name: Consideraciones de tipo medioambiental",
+    "Description: Conforme al apartado 12 del CCP",
+    "AwardingCriteriaTypeCode: OBJ",
+    "Description: CO1: Sumatorio de precios unitarios",
+    "Note: Conforme al apartado 8 del CCP",
+    "WeightNumeric: 70",
+    "AwardingCriteriaTypeCode: OBJ"
+   ],
    "estado_panel": "abierta",
    "categorias_txt": [],
    "clientes_txt": [],
@@ -4067,23 +4520,35 @@
    "creado": "2026-09-16T14:05:12",
    "clasificacion": {
     "exigida": true,
-    "certeza": "inferido",
+    "certeza": "anuncio",
     "codigos": [
      "I-2",
      "J-2",
      "C-7"
     ],
+    "categoria": null,
+    "texto": "ID: RequiredBusinessProfileCode · CodeValue: C4-4 · EvaluationCriteriaTypeCode: OSR-COMPTASK · Description: Los empresarios extranjeros de países miembros de la Unión Europea o signatarios del Acuerdo sobre el Espacio Económico Europeo acreditarán su solvencia económico-financiera y técnica o profesional bien presentando certificados de clasificación o similares expedidos por sus Estados o bien de",
+    "motivo": "La clasificación viene indicada en el propio anuncio de licitación. El grupo/subgrupo concreto no se ha podido leer: los mostrados son una propuesta.",
     "descripciones": [
      "Centrales de producción de energía",
      "Instalaciones de ventilación, calefacción y climatización",
      "Aislamientos e impermeabilizaciones"
-    ],
-    "categoria": "4",
-    "anualidad_media": 1641020.9371428571,
-    "texto": null,
-    "motivo": "Contrato de obras con valor estimado 2.871.787 € ≥ 500.000 €: la clasificación es requisito indispensable (art. 77.1.a LCSP). Categoría 4 por anualidad media de 1.641.021 €."
+    ]
    },
-   "clasificacion_txt": null,
+   "clasificacion_txt": [
+    "ID: RequiredBusinessProfileCode",
+    "CodeValue: C4-4",
+    "EvaluationCriteriaTypeCode: OSR-COMPTASK",
+    "Description: Los empresarios extranjeros de países miembros de la Unión Europea o signatarios del Acuerdo sobre el Espacio Económico Europeo acreditarán su solvencia económico-financiera y técnica o profesional bien presentando certificados de clasificación o similares expedidos por sus Estados o bien deberán acreditar el cumplimiento de los requisitos específicos de solvencia que más adelante se refieren: Acreditación de la solvencia técnica o profesional: De conformidad con el artículo 88.1 a) de la LCSP 9/17: Relación de las obras ejecutadas en el curso de los últimos cinco años correspondientes al mismo grupo o subgrupo de clasificación al que corresponde el contrato, habiendo de ser el importe anual acumulado en el año de mayor ejecución igual o superior al 70 por ciento del valor anual medio del contrato, 1.148.714,66 €. Las obras deberán ser de igual o similar naturaleza a las que constituyen el objeto del contrato, atendiéndose para determinar la si milar naturaleza a la coincidencia entre los tres primeros dígitos del código CPV. Las obras ejecutadas se acreditarán mediante certificados de buena ejecución, que indicarán el importe, las fechas y el lugar de ejecución de las obras y se precisará si se realizaron según las reglas por las que se rige la profesión y se llevaron normalmente a buen término; en su caso, dichos certificados serán comunicados directamente al órgano de contratación por la autoridad competente. A estos efectos, las obras ejecutadas por una sociedad extranjera filial del contratista de obras tendrán la misma consideración que las directamente ejecutadas por el propio contratista, siempre que este último ostente directa o indirectamente el control de aquella en los términos establecidos en el artículo 42 del Código de Comercio. Cuando se trate de obras ejecutadas por una sociedad extranjera participada por el contratista sin que se cumpla dicha condición, solo se reconocerá como experiencia atribuible al contratista la obra ejecutada por la sociedad participada en la proporción de la participación de aquel en el capital social de esta. El cómputo se efectuará hasta la fecha de finalización del plazo para la presentación de proposiciones u ofertas.",
+    "Description: Los empresarios extranjeros de países miembros de la Unión Europea o signatarios del Acuerdo sobre el Espacio Económico Europeo acreditarán su solvencia económico-financiera y técnica o profesional bien presentando certificados de clasificación o similares expedidos por sus Estados o bien deberán acreditar el cumplimiento de los requisitos específicos de solvencia que más adelante se refieren: Acreditación de la solvencia económica y financiera: De conformidad con el artículo 87.1 a) de la LCSP 9/17: Volumen anual de negocios, en el ámbito al que se refiera el contrato, referido al mejor ejercicio dentro de los tres últimos disponibles en función de las fechas de constitución o de inicio de actividades del empresario y de presentación de las ofertas por importe igual o superior a una vez el valor anual medio del contrato 1.641.020,94€. El volumen anual de negocio se acreditará por medio de sus cuentas anuales aprobadas y depositadas en el Registro Mercantil si la empresa estuviera inscrita en dicho registro, o, en caso contrario, por las depositadas en el registro oficial en que deba ser inscrito. Las empresas individuales no inscritas en el Registro Mercantil acreditarán su volumen anual de negocios mediante sus libros de inve ntarios y cuentas anuales legalizados en el Registro Mercantil. El cómputo se efectuará hasta la fecha de finalización del plazo para la presentación de proposiciones u ofertas.",
+    "Description: Capacidad de obrar",
+    "Description: Según lo previsto en el apartado 19.2 del PCAP.",
+    "AwardingCriteriaTypeCode: SUBJ",
+    "Description: TECNOLOGÍA EN I+D+i",
+    "Note: Incentivar la innovación es mejorar la calidad, durabilidad y sostenibilidad de las obras. Tecnologías que influyen en la sostenibilidad y, por tanto, directamente en el usuario.\r\nLa extensión de la documentación a incluir en este apartado será un máximo de 5 hojas DIN A4 a una cara y tendrá que ir debidamente paginada. Para el cómputo de las hojas se excluirán las portadas, contraportadas, índices y separadores, siempre que no contengan ninguna otra información\r\nEl incumplimiento de las exigencias de formato, por extensión máxima de la documentación, implicará la penalización máxima en la valoración de este criterio, del 20% (1 punto), atendiendo a la siguiente proporcionalidad:\r\nExceso de entre 1-2 hojas DIN A4 a una cara: penalización del 5% (0,25 puntos)\r\nExceso de entre 3-5 hojas DIN A4 a una cara: penalización del 10% (0,5 puntos)\r\nExceso de más de 5 hojas DIN A4 a una cara: penalización del 20 % (1 punto)\r\nEl licitador describirá las tecnologías que proponga para la ejecución de la obra y, en particular, la utilización de tecnologías que hayan sido desarrolladas en el marco de proyectos de I+D+i de la empresa, que vayan a ser aplicadas en la ejecución de la obra, que supongan una mejora de la calidad y valor técnico de la misma y cuya justificación pueda ser debidamente acreditada. Dicha justificación podrá realizarse mediante la acreditación de esos proyectos de I+D+i de la empresa.\r\nSe valorará:\r\nTecnologías que se van a emplear en la ejecución del contrato que supongan mejora de la calidad y valor técnico de la obra objeto del contrato: (hasta 5 puntos).",
+    "AwardingCriteriaSubTypeCode: 99",
+    "AwardingCriteriaTypeCode: SUBJ"
+   ],
    "estado_panel": "abierta",
    "categorias_txt": [],
    "clientes_txt": [
@@ -4146,16 +4611,32 @@
    "clientes": [],
    "creado": "2026-09-16T14:05:12",
    "clasificacion": {
-    "exigida": false,
-    "certeza": "inferido",
-    "codigos": [],
-    "descripciones": [],
+    "exigida": true,
+    "certeza": "anuncio",
+    "codigos": [
+     "I-2"
+    ],
     "categoria": null,
-    "anualidad_media": 494647.69,
-    "texto": null,
-    "motivo": "Contrato de obras con valor estimado 494.648 € < 500.000 €: no es exigible la clasificación (art. 77.1.a LCSP). El órgano puede pedir solvencia por otros medios. y la clasificación sirve para acreditarla."
+    "texto": "ID: RequiredBusinessProfileCode · CodeValue: I2-3 · EvaluationCriteriaTypeCode: OSR-TECH · Description: 1.- Relación de las obras ejecutadas en el curso de los 5 últimos años, avalada por certificados de buena ejecución (art 88.1.a) de la Ley 9/2017. Para las empresas extranjeras comunitarias, a efectos de determinar la correspondencia entre los trabajos acreditados y los que conforman el objeto d",
+    "motivo": "La clasificación viene indicada en el propio anuncio de licitación. El grupo/subgrupo concreto no se ha podido leer: los mostrados son una propuesta.",
+    "descripciones": [
+     "Centrales de producción de energía"
+    ]
    },
-   "clasificacion_txt": null,
+   "clasificacion_txt": [
+    "ID: RequiredBusinessProfileCode",
+    "CodeValue: I2-3",
+    "EvaluationCriteriaTypeCode: OSR-TECH",
+    "Description: 1.- Relación de las obras ejecutadas en el curso de los 5 últimos años, avalada por certificados de buena ejecución (art 88.1.a) de la Ley 9/2017. Para las empresas extranjeras comunitarias, a efectos de determinar la correspondencia entre los trabajos acreditados y los que conforman el objeto del contrato se atenderá a la coincidencia con los 3 primeros dígitos de los códigos CPV de este contrato, y se exigirá que el importe anual ejecutado de estas obras en el año de mayor ejecución sea igual o superior a 494.647,69 €.\nEstos certificados indicarán el importe, fechas y lugar de ejecución de las obras y se indicará si se realizaron según las reglas por las que se rige la profesión y se llevaron normalmente a buen término; en su caso, dichos certificados serán comunicados directamente al órgano de contratación por la autoridad competente.\nEn todo caso se exige que entre las obras ejecutadas se hayan realizado al menos 3 instalaciones FVA de al menos 200 kW de potencia nominal cada una. Dicha exigencia se encuentra directamente vinculada al objeto del contrato y se establece al amparo de los art. 74 y 88 de la LCSP, al ser un medio adecuado para acreditar la solvencia técnica necesaria para la correcta ejecución de las prestaciones contratadas. Esto permite verificar que el licitador dispone de experiencia previa en la ejecución de instalaciones FVA de entidad y complejidad técnica comparables a las que constituyen el objeto del contrato. Asimismo, la exigencia de haber ejecutado al menos 3 instalaciones de estas características acredita una experiencia suficiente y consolidada en este tipo de actuaciones. Se considera, por tanto, un requisito adecuado, necesario y proporcionado a la naturaleza, características y complejidad de las prestaciones objeto del contrato, sin que suponga una restricción injustificada de la concurrencia.\n2.- De acuerdo con el art. 88.2 de la LCSP, en el caso de una empresa de nueva creación (antigüedad inferior a cinco años), la solvencia técnica se acreditará con el medio previsto en el art. 88.1.e), debiendo contar con una plantilla media anual de tres trabajadores, siendo uno de ellos el directivo.\nLa acreditación se realizará mediante declaración responsable del representante de la empresa, que abarque los tres últimos años, sin perjuicio de que el órgano de contratación pueda requerir documentación justificativa.\nAdemás, deberá acreditar la disponibilidad de los medios personales mínimos exigidos en el apartado siguiente.",
+    "EvaluationCriteriaTypeCode: OSR-COMPTASK",
+    "Description: 1.- Relación de las obras ejecutadas en el curso de los 5 últimos años, avalada por certificados de buena ejecución (art 88.1.a) de la Ley 9/2017. Para las empresas extranjeras comunitarias, a efectos de determinar la correspondencia entre los trabajos acreditados y los que conforman el objeto del contrato se atenderá a la coincidencia con los 3 primeros dígitos de los códigos CPV de este contrato, y se exigirá que el importe anual ejecutado de estas obras en el año de mayor ejecución sea igual o superior a 494.647,69 €.\nEstos certificados indicarán el importe, fechas y lugar de ejecución de las obras y se indicará si se realizaron según las reglas por las que se rige la profesión y se llevaron normalmente a buen término; en su caso, dichos certificados serán comunicados directamente al órgano de contratación por la autoridad competente.\nEn todo caso se exige que entre las obras ejecutadas se hayan realizado al menos 3 instalaciones FVA de al menos 200 kW de potencia nominal cada una. Dicha exigencia se encuentra directamente vinculada al objeto del contrato y se establece al amparo de los art. 74 y 88 de la LCSP, al ser un medio adecuado para acreditar la solvencia técnica necesaria para la correcta ejecución de las prestaciones contratadas. Esto permite verificar que el licitador dispone de experiencia previa en la ejecución de instalaciones FVA de entidad y complejidad técnica comparables a las que constituyen el objeto del contrato. Asimismo, la exigencia de haber ejecutado al menos 3 instalaciones de estas características acredita una experiencia suficiente y consolidada en este tipo de actuaciones. Se considera, por tanto, un requisito adecuado, necesario y proporcionado a la naturaleza, características y complejidad de las prestaciones objeto del contrato, sin que suponga una restricción injustificada de la concurrencia.\n2.- De acuerdo con el art. 88.2 de la LCSP, en el caso de una empresa de nueva creación (antigüedad inferior a cinco años), la solvencia técnica se acreditará con el medio previsto en el art. 88.1.e), debiendo contar con una plantilla media anual de tres trabajadores, siendo uno de ellos el directivo.\nLa acreditación se realizará mediante declaración responsable del representante de la empresa, que abarque los tres últimos años, sin perjuicio de que el órgano de contratación pueda requerir documentación justificativa.\nAdemás, deberá acreditar la disponibilidad de los medios personales mínimos exigidos en el apartado siguiente.",
+    "Description: De conformidad con lo dispuesto en el artículo 87.1 a) de la LCSP la acreditación de la solvencia económica y financiera será el volumen anual de negocios del licitador o candidato, que referido al ejercicio de mayor volumen de negocio de los tres últimos disponibles deberá ser al menos 494.647,69 € (equivalente al valor estimado del contrato).\n\nEl volumen anual de negocios del licitador o candidato se acreditará por medio de sus cuentas anuales aprobadas y depositadas en el Registro Mercantil, si el empresario estuviera inscrito en dicho registro, y en caso contrario por las depositadas en el registro oficial en que deba estar inscrito. Los empresarios individuales no inscritos en el Registro Mercantil acreditarán su volumen anual de negocios mediante sus libros de inventarios y cuentas anuales legalizados por el Registro Mercantil.",
+    "Description: Cumplimiento con las obligaciones con la Seguridad Social",
+    "Description: Cumplimiento con las obligaciones tributarias",
+    "Description: No estar incurso en incompatibilidades",
+    "Description: Capacidad de obrar",
+    "RequirementTypeCode: 12"
+   ],
    "estado_panel": "abierta",
    "categorias_txt": [
     "Solar FV / autoconsumo"
@@ -4222,19 +4703,31 @@
    "creado": "2026-09-16T14:05:12",
    "clasificacion": {
     "exigida": true,
-    "certeza": "inferido",
+    "certeza": "anuncio",
     "codigos": [
      "J-2"
     ],
+    "categoria": null,
+    "texto": "EvaluationCriteriaTypeCode: OSR-COMPTASK · Description: Declaración responsable + DEUC + ROLECE · Description: Declaración responsable + DEUC + ROLECE · Description: Capacidad de obrar · Description: El licitador propuesto como adjudicatario en el requerimiento que se remita en cumplimiento del art. 150 de la LCSP indicará la parte del contrato que tengan previsto subcontratar, señalando el perfil",
+    "motivo": "La clasificación viene indicada en el propio anuncio de licitación. El grupo/subgrupo concreto no se ha podido leer: los mostrados son una propuesta.",
     "descripciones": [
      "Instalaciones de ventilación, calefacción y climatización"
-    ],
-    "categoria": "4",
-    "anualidad_media": 1077975.69,
-    "texto": null,
-    "motivo": "Contrato de obras con valor estimado 1.077.976 € ≥ 500.000 €: la clasificación es requisito indispensable (art. 77.1.a LCSP). Categoría 4 por anualidad media de 1.077.976 €."
+    ]
    },
-   "clasificacion_txt": null,
+   "clasificacion_txt": [
+    "EvaluationCriteriaTypeCode: OSR-COMPTASK",
+    "Description: Declaración responsable + DEUC + ROLECE",
+    "Description: Declaración responsable + DEUC + ROLECE",
+    "Description: Capacidad de obrar",
+    "Description: El licitador propuesto como adjudicatario en el requerimiento que se remita en cumplimiento del art. 150 de la LCSP indicará la parte del contrato que tengan previsto subcontratar, señalando el perfil empresarial y su porcentaje.",
+    "Name: Consideraciones de tipo medioambiental",
+    "Description: Ver apartado X del Anexo I del PCAP",
+    "AwardingCriteriaTypeCode: SUBJ",
+    "Description: PROGRAMA DE EJECUCION DE LA OBRA",
+    "AwardingCriteriaSubTypeCode: 99",
+    "WeightNumeric: 20",
+    "AwardingCriteriaTypeCode: OBJ"
+   ],
    "estado_panel": "abierta",
    "categorias_txt": [],
    "clientes_txt": [],
@@ -4245,6 +4738,301 @@
     "lon": -0.7,
     "nivel": "provincia",
     "codigo": "ES523"
+   }
+  },
+  {
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20427181",
+   "fuente": "PLACSP",
+   "titulo": "Contrato de Obras de Instalación de Climatización en las Líneas de Inspección de Vehículos en Varias ITV de Extremadura .",
+   "expediente": "PRC/2026/0000034842",
+   "organo": "Consejería de Infraestructuras, Transporte y Vivienda",
+   "organo_padre": "Junta de Extremadura",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Obras",
+   "procedimiento": "Abierto simplificado",
+   "cpv": [
+    "45331000"
+   ],
+   "presupuesto_sin_iva": 418006.84,
+   "presupuesto_con_iva": 505788.28,
+   "valor_estimado": 418006.84,
+   "fecha_limite": "2026-10-06",
+   "hora_limite": "15:00:00",
+   "lugar": "Extremadura",
+   "nuts": "ES43",
+   "ccaa": "Extremadura",
+   "municipio": null,
+   "duracion": "5 meses",
+   "fondos_ue": "No hay financiación con fondos de la UE",
+   "n_lotes": 0,
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=%2B2ZsgSK83dI%2Bk2oCbDosIw%3D%3D",
+   "documentos": [
+    {
+     "nombre": "Pliego administrativo (PCAP)",
+     "fichero": "PCAP.PDF",
+     "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=AoSuaAKlgMlD4S9pK%2B8pqFMWnPA4RctR6nY60yfxKAUpNPEdeGtWhg9GBxND6TGT83YxmXipfAlHNRcgCSc5o%2B6%2B/c3xg3OqNsnurIozPVA//q7NB2iMZvNyf0xrJmjt"
+    },
+    {
+     "nombre": "Pliego técnico (PPT)",
+     "fichero": "Pliego de prescripciones tecnicas.PDF",
+     "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=PH8ZJgKb4f5k8FzaHmghI/ebl1/SROe6%2BSs3Qv0DT7AjuaWgO5JbaEGhisl7SulbQcj5GVAnlkR7t1pMHMxbRLOYRsReGAGkesgQ2q2%2BtZdt/o8fNevwsujgRzaBbugn"
+    }
+   ],
+   "fecha_publicacion": "2026-09-15",
+   "actualizado": "2026-09-15",
+   "categorias": [],
+   "clientes": [
+    "comunidades"
+   ],
+   "creado": "2026-09-16T19:12:47",
+   "clasificacion": {
+    "exigida": true,
+    "certeza": "anuncio",
+    "codigos": [
+     "J-2"
+    ],
+    "categoria": null,
+    "texto": "EvaluationCriteriaTypeCode: ZZZ · Description: Para aquellos licitadores que tenga una antigüedad inferior a cinco años, computados desde la fecha de constitución de la empresa hasta la fecha de inicio del plazo de presentación de ofertas: Declaración indicando la maquinaria, material y equipo técnico del que se dispondrá para la ejecución de las obras: Valor actual de su parque de maquinaria: mín",
+    "motivo": "La clasificación viene indicada en el propio anuncio de licitación. El grupo/subgrupo concreto no se ha podido leer: los mostrados son una propuesta.",
+    "descripciones": [
+     "Instalaciones de ventilación, calefacción y climatización"
+    ]
+   },
+   "clasificacion_txt": [
+    "EvaluationCriteriaTypeCode: ZZZ",
+    "Description: Para aquellos licitadores que tenga una antigüedad inferior a cinco años, computados desde la fecha de constitución de la empresa hasta la fecha de inicio del plazo de presentación de ofertas: Declaración indicando la maquinaria, material y equipo técnico del que se dispondrá para la ejecución de las obras: Valor actual de su parque de maquinaria: mínimo 20.000,00 €. Forma de acreditarlo: Por el propuesto como adjudicatario mediante una declaración detallada, a la que se adjuntará la documentación acreditativa pertinente cuando le sea requerido por los servicios dependientes del órgano de contratación (art. 150.2 LCSP), debiendo la maquinaria guardar relación con el objeto del contrato.",
+    "EvaluationCriteriaTypeCode: OSR-COMPTASK",
+    "Description: Mediante la relación de las obras ejecutadas en el curso de los cinco últimos años cuyo importe anual acumulado en el año de mayor ejecución del periodo citado sea igual o superior al 70% del valor estimado del contrato (292.604,79 €). Las obras ejecutadas por una sociedad extranjera filial del contratista de obras tendrán la misma consideración que las directamente ejecutadas por el propio contratista, siempre que este último ostente directa o indirectamente el control de aquella en los términos establecidos en el artículo 42 del Código de Comercio. Cuando se trate de obras ejecutadas por una sociedad extranjera participada por el contratista sin que se cumpla dicha condición, solo se reconocerá como experiencia atribuible al contratista la obra ejecutada por la sociedad participada en la proporción de la participación de aquel en el capital social de esta. El cómputo se efectuará hasta la fecha de finalización del plazo para la presentación de proposiciones u ofertas.",
+    "Description: Tomando como referencia el mejor ejercicio dentro de los tres últimos disponibles en función de las fechas de constitución o de inicio de actividades del empresario y de presentación de las ofertas por importe igual o superior en 1 vez el valor estimado del contrato (418.006,84 €). El volumen anual de negocios se acreditará por medio de sus cuentas anuales aprobadas y depositadas en el Registro Mercantil, si el empresario estuviera inscrito en dicho registro, y en caso contrario por las depositadas en el registro oficial en que deba estar inscrito. Los empresarios individuales no inscritos en el Registro Mercantil acreditarán su volumen anual de negocios mediante sus libros de inventarios y cuentas anuales legalizados por el Registro Mercantil. El cómputo se efectuará desde la fecha de finalización del plazo para la presentación de proposiciones u ofertas.",
+    "Description: No prohibición para contratar",
+    "Description: Cumplimiento con las obligaciones tributarias",
+    "Description: Capacidad de obrar",
+    "Description: No estar incurso en incompatibilidades",
+    "AwardingCriteriaTypeCode: OBJ",
+    "Description: Minimización de residuos o emisiones",
+    "Note: texto ayuda licitador"
+   ],
+   "estado_panel": "abierta",
+   "categorias_txt": [],
+   "clientes_txt": [
+    "Comunidades de propietarios / edificios"
+   ],
+   "puntuacion": 1,
+   "geo": {
+    "nombre": "Extremadura",
+    "lat": 39.2,
+    "lon": -6.2,
+    "nivel": "ccaa",
+    "codigo": "ES43"
+   }
+  },
+  {
+   "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20430354",
+   "fuente": "Plataformas CCAA",
+   "titulo": "Suministro e instalación de protecciones de lucernarios para el futuro mantenimiento de la planta fotovoltaica del taller de Ariz del ferrocarril metropolitano de Bilbao",
+   "expediente": "2026/017",
+   "organo": "Consorcio de Transportes de Bizkaia-Director Gerente",
+   "organo_padre": "Consorcio de Transportes de Bizkaia",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Suministros",
+   "procedimiento": "Abierto",
+   "cpv": [
+    "35113000"
+   ],
+   "presupuesto_sin_iva": 279068.17,
+   "presupuesto_con_iva": null,
+   "valor_estimado": 279068.17,
+   "fecha_limite": "2026-10-16",
+   "hora_limite": "12:00:00",
+   "lugar": null,
+   "nuts": "ES213",
+   "ccaa": "País Vasco",
+   "municipio": null,
+   "duracion": "56 días",
+   "fondos_ue": "No hay financiación con fondos de la UE",
+   "n_lotes": 0,
+   "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expgectb2026017/es_doc/index.html",
+   "documentos": [
+    {
+     "nombre": "Pliego administrativo (PCAP)",
+     "fichero": "Pliego admvo_suministro_2026_017.pdf",
+     "url": "https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13275256&R01HNoPortal=true"
+    },
+    {
+     "nombre": "Pliego técnico (PPT)",
+     "fichero": "4010-26 PPT _Protección_Lucernarios ARIZ Exp 2026_017.pdf",
+     "url": "https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13275254&R01HNoPortal=true"
+    }
+   ],
+   "fecha_publicacion": "2026-09-15",
+   "actualizado": "2026-09-15",
+   "categorias": [
+    "fotovoltaica"
+   ],
+   "clientes": [],
+   "creado": "2026-09-16T19:12:47",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 279068.17,
+    "texto": null,
+    "motivo": "Contrato de suministros: la clasificación no es exigible; se acredita solvencia económica y técnica."
+   },
+   "clasificacion_txt": [],
+   "estado_panel": "abierta",
+   "categorias_txt": [
+    "Solar FV / autoconsumo"
+   ],
+   "clientes_txt": [],
+   "puntuacion": 1,
+   "geo": {
+    "nombre": "Bizkaia",
+    "lat": 43.25,
+    "lon": -2.85,
+    "nivel": "provincia",
+    "codigo": "ES213"
+   }
+  },
+  {
+   "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20430426",
+   "fuente": "Plataformas CCAA",
+   "titulo": "Realización de auditorías energéticas mediante la evaluación de la actual situación energética de 6 edificios del Gobierno de Navarra",
+   "expediente": "1001_0005-CP01-2026-000139",
+   "organo": "la Directora General de Presupuestos y Patrimonio",
+   "organo_padre": "Departamento de Economía y Hacienda",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Servicios",
+   "procedimiento": "Abierto",
+   "cpv": [
+    "71242000"
+   ],
+   "presupuesto_sin_iva": 50995.99,
+   "presupuesto_con_iva": null,
+   "valor_estimado": 50995.99,
+   "fecha_limite": "2026-10-01",
+   "hora_limite": "10:00:00",
+   "lugar": null,
+   "nuts": "ES220",
+   "ccaa": "Navarra",
+   "municipio": null,
+   "duracion": "2 años",
+   "fondos_ue": "No hay financiación con fondos de la UE",
+   "n_lotes": 6,
+   "url": "https://hacienda.navarra.es/sicpportal/mtoAnunciosModalidad.aspx?cod=26091509564932275A2E",
+   "documentos": [],
+   "fecha_publicacion": "2026-09-15",
+   "actualizado": "2026-09-15",
+   "categorias": [
+    "eficiencia",
+    "edificios"
+   ],
+   "clientes": [
+    "comunidades"
+   ],
+   "creado": "2026-09-16T19:12:47",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 25497.995,
+    "texto": null,
+    "motivo": "Contrato de servicios: la clasificación no es exigible (art. 77.1.b LCSP), aunque puede presentarse para acreditar la solvencia."
+   },
+   "clasificacion_txt": [],
+   "estado_panel": "abierta",
+   "categorias_txt": [
+    "Eficiencia energética / descarbonización",
+    "Edificios / comunidades de propietarios"
+   ],
+   "clientes_txt": [
+    "Comunidades de propietarios / edificios"
+   ],
+   "puntuacion": 3,
+   "geo": {
+    "nombre": "Navarra",
+    "lat": 42.7,
+    "lon": -1.65,
+    "nivel": "provincia",
+    "codigo": "ES220"
+   }
+  },
+  {
+   "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20430457",
+   "fuente": "Plataformas CCAA",
+   "titulo": "L’objecte del contracte és la reforma interior d’un habitatge en l’edifici plurifamiliar situat al carrer Miquel Martí i Pol 6 del municipi de Moià.\nEs pretenen reforma un habitatge per tal de millorar les condicions de salubritat, habitabilitat i eficiència energètica , ja que a dia d’avui no són les òptimes, i d’aquesta manera incorporar aquests habitatges a lloguer social.",
+   "expediente": "Expedient 2567/2026",
+   "organo": "Ajuntament de Moià",
+   "organo_padre": "Entitats de l'administració local",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Obras",
+   "procedimiento": "Abierto simplificado",
+   "cpv": [
+    "45211100"
+   ],
+   "presupuesto_sin_iva": 48684.51,
+   "presupuesto_con_iva": null,
+   "valor_estimado": 48684.51,
+   "fecha_limite": "2026-10-05",
+   "hora_limite": "23:59:59",
+   "lugar": null,
+   "nuts": "ES511",
+   "ccaa": "Cataluña",
+   "municipio": null,
+   "duracion": "2 meses",
+   "fondos_ue": "No hay financiación con fondos de la UE",
+   "n_lotes": 0,
+   "url": "https://contractaciopublica.cat/ca/detall-publicacio/0e6e9bb5-c6fe-4207-9355-f5a8131d239e/300859379",
+   "documentos": [
+    {
+     "nombre": "Pliego administrativo (PCAP)",
+     "fichero": "20260810 PCAP - C.O. MMPOL 6.pdf",
+     "url": "https://contractaciopublica.cat/portal-api/descarrega-document/302522090/F3EB33B496C61CB460D18B02D5F590DF"
+    },
+    {
+     "nombre": "Pliego técnico (PPT)",
+     "fichero": "Projecte reforma interior habitatge edifici plurifamiliar C.M.Martí i Pol 6.pdf",
+     "url": "https://contractaciopublica.cat/portal-api/descarrega-document/302519746/31B582D2EEC8DEAB867D44CF57C87E0B"
+    }
+   ],
+   "fecha_publicacion": "2026-09-15",
+   "actualizado": "2026-09-15",
+   "categorias": [
+    "eficiencia"
+   ],
+   "clientes": [],
+   "creado": "2026-09-16T19:12:47",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 48684.51,
+    "texto": null,
+    "motivo": "Contrato de obras con valor estimado 48.685 € < 500.000 €: no es exigible la clasificación (art. 77.1.a LCSP). El órgano puede pedir solvencia por otros medios. y la clasificación sirve para acreditarla."
+   },
+   "clasificacion_txt": [],
+   "estado_panel": "abierta",
+   "categorias_txt": [
+    "Eficiencia energética / descarbonización"
+   ],
+   "clientes_txt": [],
+   "puntuacion": 1,
+   "geo": {
+    "nombre": "Barcelona",
+    "lat": 41.65,
+    "lon": 1.95,
+    "nivel": "provincia",
+    "codigo": "ES511"
    }
   },
   {
@@ -4292,16 +5080,28 @@
    "clientes": [],
    "creado": "2026-09-15T12:25:34",
    "clasificacion": {
-    "exigida": false,
-    "certeza": "inferido",
+    "exigida": true,
+    "certeza": "anuncio",
     "codigos": [],
-    "descripciones": [],
     "categoria": null,
-    "anualidad_media": 38975.63,
-    "texto": null,
-    "motivo": "Contrato de servicios: la clasificación no es exigible (art. 77.1.b LCSP), aunque puede presentarse para acreditar la solvencia."
+    "texto": "EvaluationCriteriaTypeCode: OSR-COMPTASK · Description: Según lo establecido en el Anexo III del Pliego de Condiciones Particulares. · Description: Según lo establecido en el Anexo III del Pliego de Condiciones Particulares. · Description: Según lo establecido en el Anexo III del Pliego de Condiciones Particulares. · RequirementTypeCode: 12 · Description: Declaración sobre personas con discapacida",
+    "motivo": "La clasificación viene indicada en el propio anuncio de licitación. El grupo/subgrupo concreto no se ha podido leer: los mostrados son una propuesta.",
+    "descripciones": []
    },
-   "clasificacion_txt": null,
+   "clasificacion_txt": [
+    "EvaluationCriteriaTypeCode: OSR-COMPTASK",
+    "Description: Según lo establecido en el Anexo III del Pliego de Condiciones Particulares.",
+    "Description: Según lo establecido en el Anexo III del Pliego de Condiciones Particulares.",
+    "Description: Según lo establecido en el Anexo III del Pliego de Condiciones Particulares.",
+    "RequirementTypeCode: 12",
+    "Description: Declaración sobre personas con discapacidad",
+    "Description: Cumplimiento con las obligaciones tributarias",
+    "Description: Para las empresas extranjeras, declaración de sometimiento a la legislación española.",
+    "Description: No prohibición para contratar",
+    "Description: Capacidad de obrar",
+    "Description: Cumplimiento con las obligaciones con la Seguridad Social",
+    "Description: Según lo establecido en el Anexo IV del Pliego de Condiciones Particulares."
+   ],
    "estado_panel": "abierta",
    "categorias_txt": [],
    "clientes_txt": [],
@@ -4359,16 +5159,32 @@
    "clientes": [],
    "creado": "2026-09-15T12:25:34",
    "clasificacion": {
-    "exigida": false,
-    "certeza": "inferido",
-    "codigos": [],
-    "descripciones": [],
+    "exigida": true,
+    "certeza": "anuncio",
+    "codigos": [
+     "J-2"
+    ],
     "categoria": null,
-    "anualidad_media": 29540.98,
-    "texto": null,
-    "motivo": "Contrato de obras con valor estimado 29.541 € < 500.000 €: no es exigible la clasificación (art. 77.1.a LCSP). El órgano puede pedir solvencia por otros medios. y la clasificación sirve para acreditarla."
+    "texto": "EvaluationCriteriaTypeCode: ZZZ · Description: No se exige. · EvaluationCriteriaTypeCode: ZZZ · Description: No se exige. · Description: Estar prerregistrado en el ROLECE, y declarar que no ha habido modificaciones en los datos registrados · Description: Capacidad de obrar · Description: No prohibición para contratar · AwardingCriteriaTypeCode: OBJ · Description: Oferta económica · WeightNumeric: ",
+    "motivo": "La clasificación viene indicada en el propio anuncio de licitación. El grupo/subgrupo concreto no se ha podido leer: los mostrados son una propuesta.",
+    "descripciones": [
+     "Instalaciones de ventilación, calefacción y climatización"
+    ]
    },
-   "clasificacion_txt": null,
+   "clasificacion_txt": [
+    "EvaluationCriteriaTypeCode: ZZZ",
+    "Description: No se exige.",
+    "EvaluationCriteriaTypeCode: ZZZ",
+    "Description: No se exige.",
+    "Description: Estar prerregistrado en el ROLECE, y declarar que no ha habido modificaciones en los datos registrados",
+    "Description: Capacidad de obrar",
+    "Description: No prohibición para contratar",
+    "AwardingCriteriaTypeCode: OBJ",
+    "Description: Oferta económica",
+    "WeightNumeric: 100",
+    "EndpointID: https://contrataciondelestado.es",
+    "ID: es"
+   ],
    "estado_panel": "abierta",
    "categorias_txt": [],
    "clientes_txt": [],
@@ -4428,16 +5244,34 @@
    "clientes": [],
    "creado": "2026-09-15T12:25:34",
    "clasificacion": {
-    "exigida": false,
-    "certeza": "inferido",
-    "codigos": [],
-    "descripciones": [],
+    "exigida": true,
+    "certeza": "anuncio",
+    "codigos": [
+     "I-2",
+     "J-2"
+    ],
     "categoria": null,
-    "anualidad_media": 82186.79,
-    "texto": null,
-    "motivo": "Contrato de suministros: la clasificación no es exigible; se acredita solvencia económica y técnica."
+    "texto": "EvaluationCriteriaTypeCode: XSX-CERTCALIDAD · Description: Estar registrado en Rolece · Description: Estar registrado en Rolece · Description: Capacidad de obrar · AwardingCriteriaTypeCode: OBJ · Description: Precio · WeightNumeric: 60 · AwardingCriteriaTypeCode: OBJ · Description: Automatización y monitorización integrada · WeightNumeric: 10 · AwardingCriteriaTypeCode: OBJ · Description: Ampliaci",
+    "motivo": "La clasificación viene indicada en el propio anuncio de licitación. El grupo/subgrupo concreto no se ha podido leer: los mostrados son una propuesta.",
+    "descripciones": [
+     "Centrales de producción de energía",
+     "Instalaciones de ventilación, calefacción y climatización"
+    ]
    },
-   "clasificacion_txt": null,
+   "clasificacion_txt": [
+    "EvaluationCriteriaTypeCode: XSX-CERTCALIDAD",
+    "Description: Estar registrado en Rolece",
+    "Description: Estar registrado en Rolece",
+    "Description: Capacidad de obrar",
+    "AwardingCriteriaTypeCode: OBJ",
+    "Description: Precio",
+    "WeightNumeric: 60",
+    "AwardingCriteriaTypeCode: OBJ",
+    "Description: Automatización y monitorización integrada",
+    "WeightNumeric: 10",
+    "AwardingCriteriaTypeCode: OBJ",
+    "Description: Ampliación plazo de garantía de los equipos y de la Instalación (Mano de obra)"
+   ],
    "estado_panel": "abierta",
    "categorias_txt": [],
    "clientes_txt": [],
@@ -4499,16 +5333,34 @@
    "clientes": [],
    "creado": "2026-09-15T12:25:34",
    "clasificacion": {
-    "exigida": false,
-    "certeza": "inferido",
-    "codigos": [],
-    "descripciones": [],
+    "exigida": true,
+    "certeza": "anuncio",
+    "codigos": [
+     "J-2",
+     "C-7"
+    ],
     "categoria": null,
-    "anualidad_media": 304657.12,
-    "texto": null,
-    "motivo": "Contrato de obras con valor estimado 304.657 € < 500.000 €: no es exigible la clasificación (art. 77.1.a LCSP). El órgano puede pedir solvencia por otros medios. y la clasificación sirve para acreditarla."
+    "texto": "Description: No prohibición para contratar · Description: Cumplimiento con las obligaciones con la Seguridad Social · Description: Cumplimiento con las obligaciones tributarias · Name: Favorecer la formación en el lugar de trabajo · Description: Formación en riesgos laborales de todo el personal que intervenga en la ejecución. · AwardingCriteriaTypeCode: OBJ · Description: Criterio 3: Garantía · N",
+    "motivo": "La clasificación viene indicada en el propio anuncio de licitación. El grupo/subgrupo concreto no se ha podido leer: los mostrados son una propuesta.",
+    "descripciones": [
+     "Instalaciones de ventilación, calefacción y climatización",
+     "Aislamientos e impermeabilizaciones"
+    ]
    },
-   "clasificacion_txt": null,
+   "clasificacion_txt": [
+    "Description: No prohibición para contratar",
+    "Description: Cumplimiento con las obligaciones con la Seguridad Social",
+    "Description: Cumplimiento con las obligaciones tributarias",
+    "Name: Favorecer la formación en el lugar de trabajo",
+    "Description: Formación en riesgos laborales de todo el personal que intervenga en la ejecución.",
+    "AwardingCriteriaTypeCode: OBJ",
+    "Description: Criterio 3: Garantía",
+    "Note: Se valorará la ampliación de la garantía respecto de la mínima exigida",
+    "WeightNumeric: 10",
+    "AwardingCriteriaTypeCode: OBJ",
+    "Description: Criterio 4: Precio",
+    "WeightNumeric: 60"
+   ],
    "estado_panel": "abierta",
    "categorias_txt": [],
    "clientes_txt": [],
@@ -4568,16 +5420,32 @@
    "clientes": [],
    "creado": "2026-09-15T12:25:34",
    "clasificacion": {
-    "exigida": false,
-    "certeza": "inferido",
-    "codigos": [],
-    "descripciones": [],
+    "exigida": true,
+    "certeza": "anuncio",
+    "codigos": [
+     "I-9"
+    ],
     "categoria": null,
-    "anualidad_media": 19090.91,
-    "texto": null,
-    "motivo": "Contrato de suministros: la clasificación no es exigible; se acredita solvencia económica y técnica."
+    "texto": "Description: Capacidad de obrar · Description: SI, Conforme el artículo 215.1.LCSP · Name: Consideraciones de tipo medioambiental · Description: El adjudicatario deberá realizar la gestión adecuada de los residuos que pudiera generar durante la prestación del servicio/suministro, de acuerdo a la normativa que regula esta materia, aportando los justificantes de su tratamiento en caso necesario y re",
+    "motivo": "La clasificación viene indicada en el propio anuncio de licitación. El grupo/subgrupo concreto no se ha podido leer: los mostrados son una propuesta.",
+    "descripciones": [
+     "Instalaciones eléctricas sin cualificación específica"
+    ]
    },
-   "clasificacion_txt": null,
+   "clasificacion_txt": [
+    "Description: Capacidad de obrar",
+    "Description: SI, Conforme el artículo 215.1.LCSP",
+    "Name: Consideraciones de tipo medioambiental",
+    "Description: El adjudicatario deberá realizar la gestión adecuada de los residuos que pudiera generar durante la prestación del servicio/suministro, de acuerdo a la normativa que regula esta materia, aportando los justificantes de su tratamiento en caso necesario y requerimiento del responsable del contrato.",
+    "AwardingCriteriaTypeCode: OBJ",
+    "Description: GARANTÍA DEL MATERIAL A SUMINISTRAR",
+    "Note: GARANTÍA DEL MATERIAL A SUMINISTRAR",
+    "WeightNumeric: 10",
+    "AwardingCriteriaTypeCode: OBJ",
+    "Description: PRECIO",
+    "WeightNumeric: 90",
+    "EndpointID: https://contrataciondelestado.es"
+   ],
    "estado_panel": "abierta",
    "categorias_txt": [
     "Baterías / BESS"
@@ -4641,16 +5509,34 @@
    "clientes": [],
    "creado": "2026-09-15T12:25:34",
    "clasificacion": {
-    "exigida": false,
-    "certeza": "inferido",
-    "codigos": [],
-    "descripciones": [],
+    "exigida": true,
+    "certeza": "anuncio",
+    "codigos": [
+     "I-9",
+     "I-2"
+    ],
     "categoria": null,
-    "anualidad_media": 178512.4,
-    "texto": null,
-    "motivo": "Contrato de obras con valor estimado 223.140 € < 500.000 €: no es exigible la clasificación (art. 77.1.a LCSP). El órgano puede pedir solvencia por otros medios. y la clasificación sirve para acreditarla."
+    "texto": "EvaluationCriteriaTypeCode: OSR-COMPTASK · Description: Trabajos realizados · Description: Cifra anual de negocio · Description: Capacidad de obrar · AwardingCriteriaTypeCode: OBJ · Description: Ampliación del pazo de garantía técnica de la obra · WeightNumeric: 15 · AwardingCriteriaTypeCode: OBJ · Description: Mejora de las condiciones de garantía · WeightNumeric: 15 · AwardingCriteriaTypeCode: O",
+    "motivo": "La clasificación viene indicada en el propio anuncio de licitación. El grupo/subgrupo concreto no se ha podido leer: los mostrados son una propuesta.",
+    "descripciones": [
+     "Instalaciones eléctricas sin cualificación específica",
+     "Centrales de producción de energía"
+    ]
    },
-   "clasificacion_txt": null,
+   "clasificacion_txt": [
+    "EvaluationCriteriaTypeCode: OSR-COMPTASK",
+    "Description: Trabajos realizados",
+    "Description: Cifra anual de negocio",
+    "Description: Capacidad de obrar",
+    "AwardingCriteriaTypeCode: OBJ",
+    "Description: Ampliación del pazo de garantía técnica de la obra",
+    "WeightNumeric: 15",
+    "AwardingCriteriaTypeCode: OBJ",
+    "Description: Mejora de las condiciones de garantía",
+    "WeightNumeric: 15",
+    "AwardingCriteriaTypeCode: OBJ",
+    "Description: Precio"
+   ],
    "estado_panel": "abierta",
    "categorias_txt": [
     "Solar FV / autoconsumo"
@@ -4793,7 +5679,7 @@
     "texto": null,
     "motivo": "Contrato de obras con valor estimado 372.580 € < 500.000 €: no es exigible la clasificación (art. 77.1.a LCSP). El órgano puede pedir solvencia por otros medios. y la clasificación sirve para acreditarla."
    },
-   "clasificacion_txt": null,
+   "clasificacion_txt": [],
    "estado_panel": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización"
@@ -4854,7 +5740,7 @@
     "texto": null,
     "motivo": "Contrato de obras con valor estimado 97.211 € < 500.000 €: no es exigible la clasificación (art. 77.1.a LCSP). El órgano puede pedir solvencia por otros medios. y la clasificación sirve para acreditarla."
    },
-   "clasificacion_txt": null,
+   "clasificacion_txt": [],
    "estado_panel": "abierta",
    "categorias_txt": [],
    "clientes_txt": [
@@ -4914,7 +5800,7 @@
     "texto": null,
     "motivo": "Contrato de obras con valor estimado 114.228 € < 500.000 €: no es exigible la clasificación (art. 77.1.a LCSP). El órgano puede pedir solvencia por otros medios. y la clasificación sirve para acreditarla."
    },
-   "clasificacion_txt": null,
+   "clasificacion_txt": [],
    "estado_panel": "abierta",
    "categorias_txt": [
     "Aerotermia / bomba de calor"
@@ -4976,16 +5862,32 @@
    "clientes": [],
    "creado": "2026-09-15T12:25:34",
    "clasificacion": {
-    "exigida": false,
-    "certeza": "inferido",
-    "codigos": [],
-    "descripciones": [],
+    "exigida": true,
+    "certeza": "anuncio",
+    "codigos": [
+     "I-9"
+    ],
     "categoria": null,
-    "anualidad_media": 200704.9,
-    "texto": null,
-    "motivo": "Contrato de servicios: la clasificación no es exigible (art. 77.1.b LCSP), aunque puede presentarse para acreditar la solvencia."
+    "texto": "PersonalSituation: EMPRESA INSTALADORA... · EvaluationCriteriaTypeCode: OSR-COMPTASK · Description: Solvencia técnica y profesional. Según lo establecido en el apartado 5 de la carátula del PCAP · Description: Solvencia económica y financiera. Según lo establecido en el apartado 5 de la carátula del PCAP. · Description: Capacidad de obrar · AwardingCriteriaTypeCode: OBJ · Description: Compromiso d",
+    "motivo": "La clasificación viene indicada en el propio anuncio de licitación. El grupo/subgrupo concreto no se ha podido leer: los mostrados son una propuesta.",
+    "descripciones": [
+     "Instalaciones eléctricas sin cualificación específica"
+    ]
    },
-   "clasificacion_txt": null,
+   "clasificacion_txt": [
+    "PersonalSituation: EMPRESA INSTALADORA...",
+    "EvaluationCriteriaTypeCode: OSR-COMPTASK",
+    "Description: Solvencia técnica y profesional. Según lo establecido en el apartado 5 de la carátula del PCAP",
+    "Description: Solvencia económica y financiera. Según lo establecido en el apartado 5 de la carátula del PCAP.",
+    "Description: Capacidad de obrar",
+    "AwardingCriteriaTypeCode: OBJ",
+    "Description: Compromiso de ejecución de las mejoras descritas",
+    "Note: texto ayuda licitador",
+    "AwardingCriteriaTypeCode: OBJ",
+    "Description: Precio",
+    "Note: texto ayuda licitador",
+    "WeightNumeric: 65"
+   ],
    "estado_panel": "abierta",
    "categorias_txt": [
     "Baterías / BESS"
@@ -5188,19 +6090,31 @@
    "creado": "2026-09-16T14:05:12",
    "clasificacion": {
     "exigida": true,
-    "certeza": "inferido",
+    "certeza": "anuncio",
     "codigos": [
      "C-7"
     ],
+    "categoria": null,
+    "texto": "ID: RequiredBusinessProfileCode · CodeValue: C9-4 · EvaluationCriteriaTypeCode: ZZZ · Description: Según claúsula 5 del PCAP, Anexo I y Anexo III. Solo empresas que no sean empresas españolas o extranjeras no pertenecientes a países miembros de la UE. · ThresholdQuantity: 2104695.8 · Description: Según claúsula 5 del PCAP, Anexo I. Solo empresas que no sean empresas españolas o extranjeras no pert",
+    "motivo": "La clasificación viene indicada en el propio anuncio de licitación. El grupo/subgrupo concreto no se ha podido leer: los mostrados son una propuesta.",
     "descripciones": [
      "Aislamientos e impermeabilizaciones"
-    ],
-    "categoria": "4",
-    "anualidad_media": 1753913.17,
-    "texto": null,
-    "motivo": "Contrato de obras con valor estimado 1.753.913 € ≥ 500.000 €: la clasificación es requisito indispensable (art. 77.1.a LCSP). Categoría 4 por anualidad media de 1.753.913 €."
+    ]
    },
-   "clasificacion_txt": null,
+   "clasificacion_txt": [
+    "ID: RequiredBusinessProfileCode",
+    "CodeValue: C9-4",
+    "EvaluationCriteriaTypeCode: ZZZ",
+    "Description: Según claúsula 5 del PCAP, Anexo I y Anexo III. Solo empresas que no sean empresas españolas o extranjeras no pertenecientes a países miembros de la UE.",
+    "ThresholdQuantity: 2104695.8",
+    "Description: Según claúsula 5 del PCAP, Anexo I. Solo empresas que no sean empresas españolas o extranjeras no pertenecientes a países miembros de la UE.",
+    "ThresholdQuantity: 2630869.75",
+    "Description: Estar prerregistrado en el ROLECE, y declarar que no ha habido modificaciones en los datos registrados",
+    "Description: Cumplimiento con las obligaciones tributarias",
+    "Description: Capacidad de obrar",
+    "Description: No estar incurso en incompatibilidades",
+    "Description: Cumplimiento con las obligaciones con la Seguridad Social"
+   ],
    "estado_panel": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios"
@@ -5261,16 +6175,32 @@
    "clientes": [],
    "creado": "2026-09-16T14:05:12",
    "clasificacion": {
-    "exigida": false,
-    "certeza": "inferido",
-    "codigos": [],
-    "descripciones": [],
+    "exigida": true,
+    "certeza": "anuncio",
+    "codigos": [
+     "J-2"
+    ],
     "categoria": null,
-    "anualidad_media": 38158.28,
-    "texto": null,
-    "motivo": "Contrato de suministros: la clasificación no es exigible; se acredita solvencia económica y técnica."
+    "texto": "EvaluationCriteriaTypeCode: ZZZ · Description: Segun pcap · EvaluationCriteriaTypeCode: ZZZ · Description: Segun PCAP · RequirementTypeCode: 12 · Description: Declaración sobre personas con discapacidad · Description: No prohibición para contratar · Description: Capacidad de obrar · AwardingCriteriaTypeCode: OBJ · Description: Proposición económica · WeightNumeric: 100 · EndpointID: https://contra",
+    "motivo": "La clasificación viene indicada en el propio anuncio de licitación. El grupo/subgrupo concreto no se ha podido leer: los mostrados son una propuesta.",
+    "descripciones": [
+     "Instalaciones de ventilación, calefacción y climatización"
+    ]
    },
-   "clasificacion_txt": null,
+   "clasificacion_txt": [
+    "EvaluationCriteriaTypeCode: ZZZ",
+    "Description: Segun pcap",
+    "EvaluationCriteriaTypeCode: ZZZ",
+    "Description: Segun PCAP",
+    "RequirementTypeCode: 12",
+    "Description: Declaración sobre personas con discapacidad",
+    "Description: No prohibición para contratar",
+    "Description: Capacidad de obrar",
+    "AwardingCriteriaTypeCode: OBJ",
+    "Description: Proposición económica",
+    "WeightNumeric: 100",
+    "EndpointID: https://contrataciondelestado.es"
+   ],
    "estado_panel": "abierta",
    "categorias_txt": [],
    "clientes_txt": [],
@@ -5560,16 +6490,28 @@
    ],
    "creado": "2026-09-15T12:25:34",
    "clasificacion": {
-    "exigida": false,
-    "certeza": "inferido",
+    "exigida": true,
+    "certeza": "anuncio",
     "codigos": [],
-    "descripciones": [],
     "categoria": null,
-    "anualidad_media": 52000.0,
-    "texto": null,
-    "motivo": "Contrato de servicios: la clasificación no es exigible (art. 77.1.b LCSP), aunque puede presentarse para acreditar la solvencia."
+    "texto": "EvaluationCriteriaTypeCode: ZZZ · Description: Segons PCAP · Description: Segons PCAP · Description: Capacidad de obrar · Name: Consideraciones de tipo social · Description: -Acreditar, abans de l'inici dels treballs, la posada a disposició i revisió efectiva dels Equips de Protecció Individual (EPIs) i equips de seguretat específics per a tot el personal adscrit que hagi d'intervenir en espais co",
+    "motivo": "La clasificación viene indicada en el propio anuncio de licitación. El grupo/subgrupo concreto no se ha podido leer: los mostrados son una propuesta.",
+    "descripciones": []
    },
-   "clasificacion_txt": null,
+   "clasificacion_txt": [
+    "EvaluationCriteriaTypeCode: ZZZ",
+    "Description: Segons PCAP",
+    "Description: Segons PCAP",
+    "Description: Capacidad de obrar",
+    "Name: Consideraciones de tipo social",
+    "Description: -Acreditar, abans de l'inici dels treballs, la posada a disposició i revisió efectiva dels Equips de Protecció Individual (EPIs) i equips de seguretat específics per a tot el personal adscrit que hagi d'intervenir en espais confinats o treballs amb risc elèctric/alçada. -\tAixí mateix, l'empresa s'obliga a mantenir actualitzats els protocols de seguretat en la manipulació de (...)",
+    "AwardingCriteriaTypeCode: SUBJ",
+    "Description: DEFINICIÓ PROPOSTA",
+    "AwardingCriteriaSubTypeCode: 99",
+    "WeightNumeric: 45",
+    "AwardingCriteriaTypeCode: OBJ",
+    "Description: PREU"
+   ],
    "estado_panel": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización"
@@ -5639,16 +6581,36 @@
    ],
    "creado": "2026-09-16T14:05:12",
    "clasificacion": {
-    "exigida": false,
-    "certeza": "inferido",
-    "codigos": [],
-    "descripciones": [],
+    "exigida": true,
+    "certeza": "anuncio",
+    "codigos": [
+     "I-2",
+     "C-7",
+     "I-9"
+    ],
     "categoria": null,
-    "anualidad_media": 102618.36,
-    "texto": null,
-    "motivo": "Contrato de obras con valor estimado 102.618 € < 500.000 €: no es exigible la clasificación (art. 77.1.a LCSP). El órgano puede pedir solvencia por otros medios. y la clasificación sirve para acreditarla."
+    "texto": "EvaluationCriteriaTypeCode: OSR-COMPTASK · Description: Según PCAP · Description: Según PCAP · Description: Cumplimiento con las obligaciones tributarias · Description: No prohibición para contratar · Description: Cumplimiento con las obligaciones con la Seguridad Social · Description: Capacidad de obrar · AwardingCriteriaTypeCode: SUBJ · Description: Valoración y calidad técnica de la proposición",
+    "motivo": "La clasificación viene indicada en el propio anuncio de licitación. El grupo/subgrupo concreto no se ha podido leer: los mostrados son una propuesta.",
+    "descripciones": [
+     "Centrales de producción de energía",
+     "Aislamientos e impermeabilizaciones",
+     "Instalaciones eléctricas sin cualificación específica"
+    ]
    },
-   "clasificacion_txt": null,
+   "clasificacion_txt": [
+    "EvaluationCriteriaTypeCode: OSR-COMPTASK",
+    "Description: Según PCAP",
+    "Description: Según PCAP",
+    "Description: Cumplimiento con las obligaciones tributarias",
+    "Description: No prohibición para contratar",
+    "Description: Cumplimiento con las obligaciones con la Seguridad Social",
+    "Description: Capacidad de obrar",
+    "AwardingCriteriaTypeCode: SUBJ",
+    "Description: Valoración y calidad técnica de la proposición",
+    "AwardingCriteriaSubTypeCode: 99",
+    "WeightNumeric: 15",
+    "AwardingCriteriaTypeCode: OBJ"
+   ],
    "estado_panel": "abierta",
    "categorias_txt": [
     "Solar FV / autoconsumo"
@@ -5663,6 +6625,89 @@
     "lon": -3.3,
     "nivel": "provincia",
     "codigo": "ES614"
+   }
+  },
+  {
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20417161",
+   "fuente": "PLACSP",
+   "titulo": "Contrato de servicios de Iluminación ornamental de Navidad del distrito de Latina",
+   "expediente": "300/2026/02599",
+   "organo": "Distrito de Latina",
+   "organo_padre": "Distrito de Latina",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Servicios",
+   "procedimiento": "Abierto simplificado",
+   "cpv": [
+    "71314100"
+   ],
+   "presupuesto_sin_iva": 40680.0,
+   "presupuesto_con_iva": 49222.8,
+   "valor_estimado": 81360.0,
+   "fecha_limite": "2026-09-25",
+   "hora_limite": "23:59:00",
+   "lugar": "Madrid",
+   "nuts": "ES300",
+   "ccaa": "Comunidad de Madrid",
+   "municipio": null,
+   "duracion": "2026-11-01 → 2027-10-31",
+   "fondos_ue": "No hay financiación con fondos de la UE",
+   "n_lotes": 0,
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=u9g2OfU6QICcCF8sV%2BqtYA%3D%3D",
+   "documentos": [
+    {
+     "nombre": "Pliego administrativo (PCAP)",
+     "fichero": "28570085-PliegodeClusulasAdminist-001001PCA_OE.pdf",
+     "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=brX3wV%2B897xRCeVWAd4dZcxz88MfF7CwmUk/HmQzckjzSCm%2Bo0gpkwBkXQXmo8m2zKlY9GKJMo3SUwRVXklOjJjWFKhDBAfhk2iWQSZfmKZ45ClyWkoJ44mKM70IFcOu"
+    },
+    {
+     "nombre": "Pliego técnico (PPT)",
+     "fichero": "28545448-Pliegodeprescrip-PPT_02599pdf_firmado.pdf",
+     "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=p676djtCwEvHO2QMOCd2YYdtoghbn5%2BSL3EytLGCuIWE8RzacG9xhssJz%2B4YPZcFf61WYGU5SY2ybxxQTGBy%2BtUuWVvJTlxH/xI8T5LFz4NJOVDbGCDM%2BMigrvuVS7Rv"
+    }
+   ],
+   "fecha_publicacion": "2026-09-10",
+   "actualizado": "2026-09-15",
+   "categorias": [],
+   "clientes": [],
+   "creado": "2026-09-16T19:12:47",
+   "clasificacion": {
+    "exigida": true,
+    "certeza": "anuncio",
+    "codigos": [
+     "I-1"
+    ],
+    "categoria": null,
+    "texto": "EvaluationCriteriaTypeCode: OSR-COMPTASK · Description: a) Una relación de los principales servicios o trabajos realizados de igual o similar naturaleza que los que constituyen el objeto del contrato en el curso de, como máximo los tres últimos años, en la que se indique el importe, la fecha y el destinatario, público o privado de los mismos. A efectos de determinar la correspondencia entre los tr",
+    "motivo": "La clasificación viene indicada en el propio anuncio de licitación. El grupo/subgrupo concreto no se ha podido leer: los mostrados son una propuesta.",
+    "descripciones": [
+     "Alumbrado, iluminaciones y balizamientos luminosos"
+    ]
+   },
+   "clasificacion_txt": [
+    "EvaluationCriteriaTypeCode: OSR-COMPTASK",
+    "Description: a) Una relación de los principales servicios o trabajos realizados de igual o similar naturaleza que los que constituyen el objeto del contrato en el curso de, como máximo los tres últimos años, en la que se indique el importe, la fecha y el destinatario, público o privado de los mismos. A efectos de determinar la correspondencia entre los trabajos acreditados y los que constituyen el objeto del contrato, se atenderá a la coincidencia entre los tres primeros dígitos de sus respectivos códigos CPV, así como a la presentación de certificados relativos a contratos cuyo objeto guarde similitud con el objeto de la presente contratación con independencia del CPV",
+    "ThresholdQuantity: 40680",
+    "EvaluationCriteriaTypeCode: OSR-TECH",
+    "Description: Para empresas de nueva creación: b) Indicación del personal técnico o de las unidades técnicas, integradas o no en la empresa, participantes en el contrato, especialmente aquellos encargados del control de calidad.",
+    "Description: a) Volumen anual de negocios, o bien volumen anual de negocios en el ámbito al que se refiera el contrato, referido al mejor ejercicio dentro de los tres últimos disponibles en función de las fechas de constitución o de inicio de actividades del empresario y de presentación de las ofertas por importe igual o superior al exigido en el anuncio de licitación o en la invitación a participar en el procedimiento y en los pliegos del contrato o, en su defecto, al establecido reglamentariamente",
+    "ThresholdQuantity: 40680",
+    "Description: Cumplimiento con las obligaciones con la Seguridad Social",
+    "RequirementTypeCode: 12",
+    "Description: Declaración sobre personas con discapacidad",
+    "Description: Cumplimiento con las obligaciones tributarias",
+    "Description: Capacidad de obrar"
+   ],
+   "estado_panel": "abierta",
+   "categorias_txt": [],
+   "clientes_txt": [],
+   "puntuacion": 0,
+   "geo": {
+    "nombre": "Madrid",
+    "lat": 40.45,
+    "lon": -3.7,
+    "nivel": "provincia",
+    "codigo": "ES300"
    }
   },
   {
@@ -5785,7 +6830,7 @@
     "texto": null,
     "motivo": "Contrato de obras con valor estimado 177.251 € < 500.000 €: no es exigible la clasificación (art. 77.1.a LCSP). El órgano puede pedir solvencia por otros medios. y la clasificación sirve para acreditarla."
    },
-   "clasificacion_txt": null,
+   "clasificacion_txt": [],
    "estado_panel": "abierta",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -5852,21 +6897,33 @@
    "creado": "2026-09-16T14:05:12",
    "clasificacion": {
     "exigida": true,
-    "certeza": "inferido",
+    "certeza": "anuncio",
     "codigos": [
      "J-2",
      "C-9"
     ],
+    "categoria": null,
+    "texto": "ID: RequiredBusinessProfileCode · CodeValue: C4-3 · EvaluationCriteriaTypeCode: OSR-COMPTASK · Description: a) Relación de las obras ejecutadas en el curso de los cinco últimos años, avalada por certificados de buena ejecución; estos certificados indicarán el importe, las fechas y el lugar de ejecución de las obras y se precisará si se realizaron según las reglas por las que se rige la profesión y",
+    "motivo": "La clasificación viene indicada en el propio anuncio de licitación. El grupo/subgrupo concreto no se ha podido leer: los mostrados son una propuesta.",
     "descripciones": [
      "Instalaciones de ventilación, calefacción y climatización",
      "Carpintería metálica"
-    ],
-    "categoria": "3",
-    "anualidad_media": 636463.6,
-    "texto": null,
-    "motivo": "Contrato de obras con valor estimado 636.464 € ≥ 500.000 €: la clasificación es requisito indispensable (art. 77.1.a LCSP). Categoría 3 por anualidad media de 636.464 €."
+    ]
    },
-   "clasificacion_txt": null,
+   "clasificacion_txt": [
+    "ID: RequiredBusinessProfileCode",
+    "CodeValue: C4-3",
+    "EvaluationCriteriaTypeCode: OSR-COMPTASK",
+    "Description: a) Relación de las obras ejecutadas en el curso de los cinco últimos años, avalada por certificados de buena ejecución; estos certificados indicarán el importe, las fechas y el lugar de ejecución de las obras y se precisará si se realizaron según las reglas por las que se rige la profesión y se llevaron normalmente a buen término; en su caso, dichos certificados serán comunicados directamente al órgano de contratación por la autoridad competente.",
+    "Description: a) Volumen anual de negocios, o bien volumen anual de negocios en el ámbito al que se refiera el contrato, referido al mejor ejercicio dentro de los tres últimos disponibles en función de las fechas de constitución o de inicio de actividades del empresario y de presentación de las ofertas por importe igual o superior al exigido en el anuncio de licitación o en la invitación a participar en el procedimiento y en los pliegos del contrato o, en su defecto, al establecido reglamentariamente",
+    "Description: Se prevé  la subcontratación parcial previa comunicación. Se prohíbe la total.",
+    "AwardingCriteriaTypeCode: SUBJ",
+    "Description: Memoria técnica de ejecución de la obra",
+    "AwardingCriteriaSubTypeCode: 99",
+    "WeightNumeric: 25",
+    "AwardingCriteriaTypeCode: OBJ",
+    "Description: Precio"
+   ],
    "estado_panel": "abierta",
    "categorias_txt": [],
    "clientes_txt": [],
@@ -6129,16 +7186,34 @@
    "clientes": [],
    "creado": "2026-09-16T14:05:12",
    "clasificacion": {
-    "exigida": false,
-    "certeza": "inferido",
-    "codigos": [],
-    "descripciones": [],
+    "exigida": true,
+    "certeza": "anuncio",
+    "codigos": [
+     "J-2",
+     "C-7"
+    ],
     "categoria": null,
-    "anualidad_media": 27751.0,
-    "texto": null,
-    "motivo": "Contrato de suministros: la clasificación no es exigible; se acredita solvencia económica y técnica."
+    "texto": "EvaluationCriteriaTypeCode: ZZZ · Description: Se aportara Certificado de Inscripcion en el Registro Oficial de Licitadores y Empresas Clasificadas del Sector Público (ROLECE) (ver apartado 5 de la Cláusula 1 del PCAP). · Description: Capacidad de obrar · AwardingCriteriaTypeCode: OBJ · Description: Precio · Note: Ver apartado 7 de la Cláusula 1 del PCAP. · WeightNumeric: 100 · EndpointID: https:/",
+    "motivo": "La clasificación viene indicada en el propio anuncio de licitación. El grupo/subgrupo concreto no se ha podido leer: los mostrados son una propuesta.",
+    "descripciones": [
+     "Instalaciones de ventilación, calefacción y climatización",
+     "Aislamientos e impermeabilizaciones"
+    ]
    },
-   "clasificacion_txt": null,
+   "clasificacion_txt": [
+    "EvaluationCriteriaTypeCode: ZZZ",
+    "Description: Se aportara Certificado de Inscripcion en el Registro Oficial de Licitadores y Empresas Clasificadas del Sector Público (ROLECE) (ver apartado 5 de la Cláusula 1 del PCAP).",
+    "Description: Capacidad de obrar",
+    "AwardingCriteriaTypeCode: OBJ",
+    "Description: Precio",
+    "Note: Ver apartado 7 de la Cláusula 1 del PCAP.",
+    "WeightNumeric: 100",
+    "EndpointID: https://contrataciondelestado.es",
+    "ID: es",
+    "OverThresholdIndicator: false",
+    "EndDate: 2026-09-18",
+    "EndTime: 23:59:00"
+   ],
    "estado_panel": "abierta",
    "categorias_txt": [],
    "clientes_txt": [],
@@ -7410,16 +8485,28 @@
    "clientes": [],
    "creado": "2026-09-16T14:05:12",
    "clasificacion": {
-    "exigida": false,
-    "certeza": "inferido",
+    "exigida": true,
+    "certeza": "anuncio",
     "codigos": [],
-    "descripciones": [],
     "categoria": null,
-    "anualidad_media": 755000.0,
-    "texto": null,
-    "motivo": "Contrato de servicios: la clasificación no es exigible (art. 77.1.b LCSP), aunque puede presentarse para acreditar la solvencia."
+    "texto": "EvaluationCriteriaTypeCode: XXR-SUBCONT · Description: De acuero a lo indicado en el PCAP y en la legislación vigente. · EvaluationCriteriaTypeCode: OSR-TECH · Description: Compromiso de adscripción de los medios personales y materiales indicados en el apartado 12.1. del cuadro de características del PCAP. · EvaluationCriteriaTypeCode: OSR-COMPTASK · Description: Cumplimiento de los requisitos de ",
+    "motivo": "La clasificación viene indicada en el propio anuncio de licitación. El grupo/subgrupo concreto no se ha podido leer: los mostrados son una propuesta.",
+    "descripciones": []
    },
-   "clasificacion_txt": null,
+   "clasificacion_txt": [
+    "EvaluationCriteriaTypeCode: XXR-SUBCONT",
+    "Description: De acuero a lo indicado en el PCAP y en la legislación vigente.",
+    "EvaluationCriteriaTypeCode: OSR-TECH",
+    "Description: Compromiso de adscripción de los medios personales y materiales indicados en el apartado 12.1. del cuadro de características del PCAP.",
+    "EvaluationCriteriaTypeCode: OSR-COMPTASK",
+    "Description: Cumplimiento de los requisitos de solvencia técnica y profesional tal y como se recogen en el apartado 12.3. del cuadro de características del PCAP:\r\nSe acreditará mediante una relación de los principales servicios o trabajos realizados de igual o\r\nsimilar naturaleza que los que constituyen el objeto del contrato en el curso de los últimos TRES\r\naños, en la que se indique el importe, la fecha y el destinatario, público o privado de los mismos.\r\nEsta información se requiere como necesaria para garantizar que el servicio que contrate ACUAMED, cumpla con las exigencias contenidas en el pliego técnico.\r\nComo requisitos mínimos, se solicita que los licitadores acrediten, al menos, los siguientes\r\ntrabajos o referencias:\r\nLOTE 1:\r\nHaber ejecutado, al menos, TRES  contratos que, en conjunto, contemplen los siguientes ámbitos:\r\n-Gestión de la facturación de contratación de energía en empresas multipunto,\r\nEstrategias de aprovisionamiento energético y gestión del riesgo energético.\r\n-Implantación o mantenimiento de Sistemas de Gestión de la Energía conforme a\r\nISO 50001.\r\n-Estudios de viabilidad técnico-económica de instalaciones de generación\r\nrenovable para autoconsumo\r\n-Estudios de viabilidad técnico-económica de sistemas de almacenamiento\r\nenergético, BESS.\r\nLa suma del importe de las referencias aportadas debe ser superior a 1.000.000 euros IVA\r\nexcluido. Todas las referencias que se\r\npresenten tienen que tener relación, al menos con uno de los ámbitos señalados.\r\nLOTE 2:\r\nHaber ejecutado, al menos, TRES contratos que, en conjunto, incluyan las siguientes\r\nfuncionalidades:\r\n-Monitorización energética.\r\n-Cuadros de mando.\r\n-Integración mediante APIs, servicios web o acceso a bases de datos corporativas.\r\n-Explotación de datos energéticos.\r\n-Integración con sistemas corporativos tales como ERP, GMAO, SCADA, GIS u otros\r\nsistemas equivalentes de gestión u operación.\r\nLa suma del importe de las referencias aportadas debe ser superior a 300.000 euros IVA excluido. Todas las referencias que se presenten tienen que tener relación, al menos con uno de los ámbitos señalados.",
+    "Description: Cumplimiento de los requisitos de solvencia económica y financiera recogidos en el apartado 12.2. del cuadro de características del PCAP:\r\nVolumen anual de negocios, en el ámbito al que se refiere el contrato, que referido al mejor\r\nejercicio de los tres últimos concluidos por importe igual o superior al indicado a continuación,\r\nexcluido IVA, lo que no excede de una vez y media el valor estimado del contrato, artículo 87 LCSP.\r\nLote 1_ 1.500.000 euros excluido IVA\r\nLote 2_300.000 euros excluido IVA",
+    "Description: Capacidad de obrar",
+    "Name: Consideraciones de tipo social",
+    "Description: De acuerdo a lo dispuesto en el apartado 19.8. del cuadro de características del PCAP.",
+    "AwardingCriteriaTypeCode: OBJ",
+    "Description: Oferta económica"
+   ],
    "estado_panel": "abierta",
    "categorias_txt": [],
    "clientes_txt": [],
@@ -7726,7 +8813,7 @@
    "url": "https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=981992",
    "documentos": [],
    "fecha_publicacion": "2026-07-31",
-   "actualizado": "2026-09-10",
+   "actualizado": "2026-09-15",
    "categorias": [
     "fotovoltaica",
     "comunidades_energeticas"
@@ -7743,7 +8830,7 @@
     "texto": null,
     "motivo": "Contrato de suministros: la clasificación no es exigible; se acredita solvencia económica y técnica."
    },
-   "clasificacion_txt": null,
+   "clasificacion_txt": [],
    "estado_panel": "abierta",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -7902,7 +8989,7 @@
     "texto": null,
     "motivo": "Contrato de obras con valor estimado 1.527.338 € ≥ 500.000 €: la clasificación es requisito indispensable (art. 77.1.a LCSP). Categoría 4 por anualidad media de 1.527.338 €."
    },
-   "clasificacion_txt": null,
+   "clasificacion_txt": [],
    "estado_panel": "abierta",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -7916,6 +9003,98 @@
     "lon": 1.05,
     "nivel": "provincia",
     "codigo": "ES513"
+   }
+  },
+  {
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19886375",
+   "fuente": "PLACSP",
+   "titulo": "Servicios energéticos para la implantación y explotación de instalaciones solares fotovoltaicas de 2,2 MWP en la UMH.",
+   "expediente": "2026_002",
+   "organo": "Rectorado de la Universidad Miguel Hernández de Elche",
+   "organo_padre": "Universidad Miguel Hernández de Elche",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Servicios",
+   "procedimiento": "Abierto",
+   "cpv": [
+    "71300000",
+    "71314200"
+   ],
+   "presupuesto_sin_iva": 5908240.0,
+   "presupuesto_con_iva": 7148970.4,
+   "valor_estimado": 7089888.0,
+   "fecha_limite": "2026-10-05",
+   "hora_limite": "14:00:00",
+   "lugar": "Alicante/Alacant",
+   "nuts": "ES521",
+   "ccaa": "Comunidad Valenciana",
+   "municipio": null,
+   "duracion": "138 meses",
+   "fondos_ue": "No hay financiación con fondos de la UE",
+   "n_lotes": 0,
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=EyeTFJjovaVQFSeKCRun4Q%3D%3D",
+   "documentos": [
+    {
+     "nombre": "Pliego administrativo (PCAP)",
+     "fichero": "10-09-26-PCAP VISADO rectificado error material criterio adjudicacion.pdf",
+     "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=OPv1JDIoq/SlFMU1QN%2B/%2BuOsEv1lGv8jeGd7lraqPvO8wZeWoS4krzaFMxSdtqJnVIZO98liYB1igA58cR3X9Sjz6S7ZT6f3u5vqf3xLlRtJOVDbGCDM%2BMigrvuVS7Rv"
+    },
+    {
+     "nombre": "Pliego técnico (PPT)",
+     "fichero": "PPT 2026_002.pdf",
+     "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=6PcF%2BMj9F30Lg9vxiRjxsHrDEJWz1sTuAHQ2EZPwJAe6gpavIOMKG6i7AT%2BDjTxW0ZnuHZrvsElKgP%2BTs7ij8gIZFgS9V2aTTVeQm/wpXIU//q7NB2iMZvNyf0xrJmjt"
+    }
+   ],
+   "fecha_publicacion": "2026-07-31",
+   "actualizado": "2026-09-15",
+   "categorias": [
+    "fotovoltaica"
+   ],
+   "clientes": [
+    "agro"
+   ],
+   "creado": "2026-09-16T19:12:47",
+   "clasificacion": {
+    "exigida": true,
+    "certeza": "anuncio",
+    "codigos": [
+     "I-2"
+    ],
+    "categoria": null,
+    "texto": "EvaluationCriteriaTypeCode: OSR-COMPTASK · Description: El licitador declara que \"cumplo\" o \"no Cumplo\" con la solvencia exigida en la cláusula 6.3 del cuadro de características del PCAP · Description: El licitador declara que \"cumplo\" o \"no Cumplo\" con la solvencia exigida en la cláusula 6.2 del cuadro de características del PCAP · Description: Capacidad de obrar · Name: Consideraciones de tipo m",
+    "motivo": "La clasificación viene indicada en el propio anuncio de licitación. El grupo/subgrupo concreto no se ha podido leer: los mostrados son una propuesta.",
+    "descripciones": [
+     "Centrales de producción de energía"
+    ]
+   },
+   "clasificacion_txt": [
+    "EvaluationCriteriaTypeCode: OSR-COMPTASK",
+    "Description: El licitador declara que \"cumplo\" o \"no Cumplo\" con la solvencia exigida en la cláusula 6.3 del cuadro de características del PCAP",
+    "Description: El licitador declara que \"cumplo\" o \"no Cumplo\" con la solvencia exigida en la cláusula 6.2 del cuadro de características del PCAP",
+    "Description: Capacidad de obrar",
+    "Name: Consideraciones de tipo medioambiental",
+    "Description: La empresa contratista se obliga a una adecuada gestión de los residuos generados inherentes a la\r\nprestación del servicio.El contratista tendrá que remitir al Servicio de\r\nInfraestructuras, con carácter anual, un certificado donde contenga; la cantidad de residuos generados, el\r\ntipo de residuo y el justificante del tratamiento del residuo por parte de un gestor del residuo autorizado.",
+    "AwardingCriteriaTypeCode: SUBJ",
+    "Description: 1.1-Características técnicas de las ISFV propuestas.",
+    "AwardingCriteriaSubTypeCode: 99",
+    "WeightNumeric: 25",
+    "AwardingCriteriaTypeCode: SUBJ",
+    "Description: 1.4.-Características técnicas y energía ofertada para la prestación P4."
+   ],
+   "estado_panel": "abierta",
+   "categorias_txt": [
+    "Solar FV / autoconsumo"
+   ],
+   "clientes_txt": [
+    "Sector agropecuario"
+   ],
+   "puntuacion": 2,
+   "geo": {
+    "nombre": "Alicante",
+    "lat": 38.5,
+    "lon": -0.6,
+    "nivel": "provincia",
+    "codigo": "ES521"
    }
   },
   {
@@ -8065,6 +9244,78 @@
     "lon": -2.7,
     "nivel": "provincia",
     "codigo": "ES211"
+   }
+  },
+  {
+   "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20122858",
+   "fuente": "Plataformas CCAA",
+   "titulo": "Suministro de infraestructura a la nube y servicios asociados para las aplicaciones y servicios digitales de L'Energètica",
+   "expediente": "ERPC-2026-63",
+   "organo": "Energies Renovables Públiques de Catalunya, SAU",
+   "organo_padre": "Departaments i sector públic de la Generalitat de Catalunya",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Suministros",
+   "procedimiento": "Abierto",
+   "cpv": [
+    "48800000",
+    "72222300",
+    "72250000",
+    "72317000",
+    "72514000",
+    "72514200"
+   ],
+   "presupuesto_sin_iva": 286000.0,
+   "presupuesto_con_iva": null,
+   "valor_estimado": 550000.0,
+   "fecha_limite": "2026-09-30",
+   "hora_limite": "14:00:00",
+   "lugar": null,
+   "nuts": "ES51",
+   "ccaa": "Cataluña",
+   "municipio": null,
+   "duracion": "3 años",
+   "fondos_ue": "No hay financiación con fondos de la UE",
+   "n_lotes": 0,
+   "url": "https://contractaciopublica.cat/ca/detall-publicacio/dd31aa4a-d951-4733-8706-9dcbc5716a16/300881258",
+   "documentos": [
+    {
+     "nombre": "Pliego administrativo (PCAP)",
+     "fichero": "Plec de clàusules particulares.pdf",
+     "url": "https://contractaciopublica.cat/portal-api/descarrega-document/302586856/8025CFE9715B98200917B918F22D64A8"
+    },
+    {
+     "nombre": "Pliego técnico (PPT)",
+     "fichero": "PPTe.pdf",
+     "url": "https://contractaciopublica.cat/portal-api/descarrega-document/302586857/78FA78EA21A896E8ECD7746CC30D230D"
+    }
+   ],
+   "fecha_publicacion": "2026-07-24",
+   "actualizado": "2026-09-15",
+   "categorias": [],
+   "clientes": [],
+   "creado": "2026-09-16T19:12:47",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 183333.33333333334,
+    "texto": null,
+    "motivo": "Contrato de suministros: la clasificación no es exigible; se acredita solvencia económica y técnica."
+   },
+   "clasificacion_txt": [],
+   "estado_panel": "abierta",
+   "categorias_txt": [],
+   "clientes_txt": [],
+   "puntuacion": 0,
+   "geo": {
+    "nombre": "Cataluña",
+    "lat": 41.8,
+    "lon": 1.6,
+    "nivel": "ccaa",
+    "codigo": "ES51"
    }
   },
   {
@@ -8260,21 +9511,21 @@
    "duracion": "2 años",
    "fondos_ue": "No hay financiación con fondos de la UE",
    "n_lotes": 0,
-   "url": "https://contractaciopublica.cat/ca/detall-publicacio/47b6f4d4-21f0-4be9-881d-e6d618da7a56/300881584",
+   "url": "https://contractaciopublica.cat/ca/detall-publicacio/47b6f4d4-21f0-4be9-881d-e6d618da7a56/300883154",
    "documentos": [
     {
      "nombre": "Pliego administrativo (PCAP)",
      "fichero": "PCAP.pdf",
-     "url": "https://contractaciopublica.cat/portal-api/descarrega-document/302588001/3D2DFF939D173FEC77958A3250D0B2CA"
+     "url": "https://contractaciopublica.cat/portal-api/descarrega-document/302592825/3D2DFF939D173FEC77958A3250D0B2CA"
     },
     {
      "nombre": "Pliego técnico (PPT)",
      "fichero": "PPT.pdf",
-     "url": "https://contractaciopublica.cat/portal-api/descarrega-document/302588002/B557D237E72080358B2C2F2BE6C8486B"
+     "url": "https://contractaciopublica.cat/portal-api/descarrega-document/302592826/B557D237E72080358B2C2F2BE6C8486B"
     }
    ],
    "fecha_publicacion": "2026-06-09",
-   "actualizado": "2026-09-14",
+   "actualizado": "2026-09-15",
    "categorias": [
     "fotovoltaica"
    ],
@@ -8290,7 +9541,7 @@
     "texto": null,
     "motivo": "Contrato de servicios: la clasificación no es exigible (art. 77.1.b LCSP), aunque puede presentarse para acreditar la solvencia."
    },
-   "clasificacion_txt": null,
+   "clasificacion_txt": [],
    "estado_panel": "abierta",
    "categorias_txt": [
     "Solar FV / autoconsumo"
@@ -9192,6 +10443,28 @@
  },
  "ejecuciones": [
   {
+   "id": 39,
+   "inicio": "2026-09-16T19:10:18",
+   "fin": "2026-09-16T19:17:07",
+   "ok": 1,
+   "nuevas_convocatorias": 0,
+   "nuevas_noticias": 0,
+   "resumenes": 25,
+   "errores": [],
+   "nuevas_licitaciones": 0
+  },
+  {
+   "id": 38,
+   "inicio": "2026-09-16T19:10:40",
+   "fin": "2026-09-16T19:17:04",
+   "ok": 1,
+   "nuevas_convocatorias": 1,
+   "nuevas_noticias": 0,
+   "resumenes": 25,
+   "errores": [],
+   "nuevas_licitaciones": 7
+  },
+  {
    "id": 37,
    "inicio": "2026-09-16T19:10:10",
    "fin": "2026-09-16T19:10:10",
@@ -9333,28 +10606,6 @@
    "resumenes": 0,
    "errores": [],
    "nuevas_licitaciones": 0
-  },
-  {
-   "id": 24,
-   "inicio": "2026-09-05T12:55:32",
-   "fin": "2026-09-05T12:56:26",
-   "ok": 1,
-   "nuevas_convocatorias": 0,
-   "nuevas_noticias": 0,
-   "resumenes": 0,
-   "errores": [],
-   "nuevas_licitaciones": 0
-  },
-  {
-   "id": 23,
-   "inicio": "2026-09-05T12:50:23",
-   "fin": "2026-09-05T12:51:13",
-   "ok": 1,
-   "nuevas_convocatorias": 0,
-   "nuevas_noticias": 0,
-   "resumenes": 0,
-   "errores": [],
-   "nuevas_licitaciones": 0
   }
  ],
  "categorias": {
@@ -9378,11 +10629,11 @@
  },
  "kpis": {
   "abiertas": 25,
-  "por_confirmar": 8,
+  "por_confirmar": 9,
   "proximas": 0,
-  "licitaciones_abiertas": 53,
-  "licitaciones_nuevas_7d": 37,
-  "nuevas_7d": 2,
+  "licitaciones_abiertas": 60,
+  "licitaciones_nuevas_7d": 44,
+  "nuevas_7d": 3,
   "noticias_7d": 4
  }
 }
