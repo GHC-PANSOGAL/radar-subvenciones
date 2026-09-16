@@ -1,6 +1,6 @@
 {
- "generado": "16/09/2026 14:05",
- "version": "1.10.3",
+ "generado": "16/09/2026 19:10",
+ "version": "1.11.1",
  "convocatorias": [
   {
    "id_bdns": "928909",
@@ -3839,6 +3839,17 @@
    ],
    "clientes": [],
    "creado": "2026-09-15T12:25:34",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 91476.01,
+    "texto": null,
+    "motivo": "Contrato de obras con valor estimado 91.476 € < 500.000 €: no es exigible la clasificación (art. 77.1.a LCSP). El órgano puede pedir solvencia por otros medios. y la clasificación sirve para acreditarla."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "abierta",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -3900,6 +3911,17 @@
     "comunidades"
    ],
    "creado": "2026-09-16T14:05:12",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 28925.61,
+    "texto": null,
+    "motivo": "Contrato de obras con valor estimado 28.926 € < 500.000 €: no es exigible la clasificación (art. 77.1.a LCSP). El órgano puede pedir solvencia por otros medios. y la clasificación sirve para acreditarla."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "abierta",
    "categorias_txt": [],
    "clientes_txt": [
@@ -3975,6 +3997,17 @@
    "categorias": [],
    "clientes": [],
    "creado": "2026-09-16T14:05:12",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 50515.56,
+    "texto": null,
+    "motivo": "Contrato de suministros: la clasificación no es exigible; se acredita solvencia económica y técnica."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "abierta",
    "categorias_txt": [],
    "clientes_txt": [],
@@ -4032,6 +4065,25 @@
     "industria"
    ],
    "creado": "2026-09-16T14:05:12",
+   "clasificacion": {
+    "exigida": true,
+    "certeza": "inferido",
+    "codigos": [
+     "I-2",
+     "J-2",
+     "C-7"
+    ],
+    "descripciones": [
+     "Centrales de producción de energía",
+     "Instalaciones de ventilación, calefacción y climatización",
+     "Aislamientos e impermeabilizaciones"
+    ],
+    "categoria": "4",
+    "anualidad_media": 1641020.9371428571,
+    "texto": null,
+    "motivo": "Contrato de obras con valor estimado 2.871.787 € ≥ 500.000 €: la clasificación es requisito indispensable (art. 77.1.a LCSP). Categoría 4 por anualidad media de 1.641.021 €."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "abierta",
    "categorias_txt": [],
    "clientes_txt": [
@@ -4093,6 +4145,17 @@
    ],
    "clientes": [],
    "creado": "2026-09-16T14:05:12",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 494647.69,
+    "texto": null,
+    "motivo": "Contrato de obras con valor estimado 494.648 € < 500.000 €: no es exigible la clasificación (art. 77.1.a LCSP). El órgano puede pedir solvencia por otros medios. y la clasificación sirve para acreditarla."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "abierta",
    "categorias_txt": [
     "Solar FV / autoconsumo"
@@ -4157,6 +4220,21 @@
    "categorias": [],
    "clientes": [],
    "creado": "2026-09-16T14:05:12",
+   "clasificacion": {
+    "exigida": true,
+    "certeza": "inferido",
+    "codigos": [
+     "J-2"
+    ],
+    "descripciones": [
+     "Instalaciones de ventilación, calefacción y climatización"
+    ],
+    "categoria": "4",
+    "anualidad_media": 1077975.69,
+    "texto": null,
+    "motivo": "Contrato de obras con valor estimado 1.077.976 € ≥ 500.000 €: la clasificación es requisito indispensable (art. 77.1.a LCSP). Categoría 4 por anualidad media de 1.077.976 €."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "abierta",
    "categorias_txt": [],
    "clientes_txt": [],
@@ -4213,6 +4291,17 @@
    "categorias": [],
    "clientes": [],
    "creado": "2026-09-15T12:25:34",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 38975.63,
+    "texto": null,
+    "motivo": "Contrato de servicios: la clasificación no es exigible (art. 77.1.b LCSP), aunque puede presentarse para acreditar la solvencia."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "abierta",
    "categorias_txt": [],
    "clientes_txt": [],
@@ -4269,6 +4358,17 @@
    "categorias": [],
    "clientes": [],
    "creado": "2026-09-15T12:25:34",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 29540.98,
+    "texto": null,
+    "motivo": "Contrato de obras con valor estimado 29.541 € < 500.000 €: no es exigible la clasificación (art. 77.1.a LCSP). El órgano puede pedir solvencia por otros medios. y la clasificación sirve para acreditarla."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "abierta",
    "categorias_txt": [],
    "clientes_txt": [],
@@ -4327,6 +4427,17 @@
    "categorias": [],
    "clientes": [],
    "creado": "2026-09-15T12:25:34",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 82186.79,
+    "texto": null,
+    "motivo": "Contrato de suministros: la clasificación no es exigible; se acredita solvencia económica y técnica."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "abierta",
    "categorias_txt": [],
    "clientes_txt": [],
@@ -4387,6 +4498,17 @@
    "categorias": [],
    "clientes": [],
    "creado": "2026-09-15T12:25:34",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 304657.12,
+    "texto": null,
+    "motivo": "Contrato de obras con valor estimado 304.657 € < 500.000 €: no es exigible la clasificación (art. 77.1.a LCSP). El órgano puede pedir solvencia por otros medios. y la clasificación sirve para acreditarla."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "abierta",
    "categorias_txt": [],
    "clientes_txt": [],
@@ -4445,6 +4567,17 @@
    ],
    "clientes": [],
    "creado": "2026-09-15T12:25:34",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 19090.91,
+    "texto": null,
+    "motivo": "Contrato de suministros: la clasificación no es exigible; se acredita solvencia económica y técnica."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "abierta",
    "categorias_txt": [
     "Baterías / BESS"
@@ -4507,6 +4640,17 @@
    ],
    "clientes": [],
    "creado": "2026-09-15T12:25:34",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 178512.4,
+    "texto": null,
+    "motivo": "Contrato de obras con valor estimado 223.140 € < 500.000 €: no es exigible la clasificación (art. 77.1.a LCSP). El órgano puede pedir solvencia por otros medios. y la clasificación sirve para acreditarla."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "abierta",
    "categorias_txt": [
     "Solar FV / autoconsumo"
@@ -4567,6 +4711,17 @@
    ],
    "clientes": [],
    "creado": "2026-09-15T12:25:34",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 7000.0,
+    "texto": null,
+    "motivo": "Contrato de servicios: la clasificación no es exigible (art. 77.1.b LCSP), aunque puede presentarse para acreditar la solvencia."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "abierta",
    "categorias_txt": [
     "Solar FV / autoconsumo"
@@ -4628,6 +4783,17 @@
    ],
    "clientes": [],
    "creado": "2026-09-15T12:25:34",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 372579.72,
+    "texto": null,
+    "motivo": "Contrato de obras con valor estimado 372.580 € < 500.000 €: no es exigible la clasificación (art. 77.1.a LCSP). El órgano puede pedir solvencia por otros medios. y la clasificación sirve para acreditarla."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización"
@@ -4678,6 +4844,17 @@
     "industria"
    ],
    "creado": "2026-09-15T12:25:34",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 97210.7,
+    "texto": null,
+    "motivo": "Contrato de obras con valor estimado 97.211 € < 500.000 €: no es exigible la clasificación (art. 77.1.a LCSP). El órgano puede pedir solvencia por otros medios. y la clasificación sirve para acreditarla."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "abierta",
    "categorias_txt": [],
    "clientes_txt": [
@@ -4727,6 +4904,17 @@
    ],
    "clientes": [],
    "creado": "2026-09-13T21:38:06",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 114228.1,
+    "texto": null,
+    "motivo": "Contrato de obras con valor estimado 114.228 € < 500.000 €: no es exigible la clasificación (art. 77.1.a LCSP). El órgano puede pedir solvencia por otros medios. y la clasificación sirve para acreditarla."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "abierta",
    "categorias_txt": [
     "Aerotermia / bomba de calor"
@@ -4787,6 +4975,17 @@
    ],
    "clientes": [],
    "creado": "2026-09-15T12:25:34",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 200704.9,
+    "texto": null,
+    "motivo": "Contrato de servicios: la clasificación no es exigible (art. 77.1.b LCSP), aunque puede presentarse para acreditar la solvencia."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "abierta",
    "categorias_txt": [
     "Baterías / BESS"
@@ -4847,6 +5046,17 @@
    "categorias": [],
    "clientes": [],
    "creado": "2026-09-15T12:25:34",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 131404.95,
+    "texto": null,
+    "motivo": "Contrato de obras con valor estimado 131.405 € < 500.000 €: no es exigible la clasificación (art. 77.1.a LCSP). El órgano puede pedir solvencia por otros medios. y la clasificación sirve para acreditarla."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "abierta",
    "categorias_txt": [],
    "clientes_txt": [],
@@ -4905,6 +5115,17 @@
    ],
    "clientes": [],
    "creado": "2026-09-15T12:25:34",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 68925.62,
+    "texto": null,
+    "motivo": "Contrato de suministros: la clasificación no es exigible; se acredita solvencia económica y técnica."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "abierta",
    "categorias_txt": [
     "Solar FV / autoconsumo"
@@ -4965,6 +5186,21 @@
    ],
    "clientes": [],
    "creado": "2026-09-16T14:05:12",
+   "clasificacion": {
+    "exigida": true,
+    "certeza": "inferido",
+    "codigos": [
+     "C-7"
+    ],
+    "descripciones": [
+     "Aislamientos e impermeabilizaciones"
+    ],
+    "categoria": "4",
+    "anualidad_media": 1753913.17,
+    "texto": null,
+    "motivo": "Contrato de obras con valor estimado 1.753.913 € ≥ 500.000 €: la clasificación es requisito indispensable (art. 77.1.a LCSP). Categoría 4 por anualidad media de 1.753.913 €."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios"
@@ -5024,6 +5260,17 @@
    "categorias": [],
    "clientes": [],
    "creado": "2026-09-16T14:05:12",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 38158.28,
+    "texto": null,
+    "motivo": "Contrato de suministros: la clasificación no es exigible; se acredita solvencia económica y técnica."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "abierta",
    "categorias_txt": [],
    "clientes_txt": [],
@@ -5082,6 +5329,17 @@
    ],
    "clientes": [],
    "creado": "2026-09-12T17:34:15",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 73495.6,
+    "texto": null,
+    "motivo": "Contrato de obras con valor estimado 73.496 € < 500.000 €: no es exigible la clasificación (art. 77.1.a LCSP). El órgano puede pedir solvencia por otros medios. y la clasificación sirve para acreditarla."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "abierta",
    "categorias_txt": [
     "Aerotermia / bomba de calor"
@@ -5149,6 +5407,17 @@
     "industria"
    ],
    "creado": "2026-09-12T17:34:15",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 219094.28,
+    "texto": null,
+    "motivo": "Contrato de obras con valor estimado 219.094 € < 500.000 €: no es exigible la clasificación (art. 77.1.a LCSP). El órgano puede pedir solvencia por otros medios. y la clasificación sirve para acreditarla."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "abierta",
    "categorias_txt": [
     "Aerotermia / bomba de calor",
@@ -5214,6 +5483,17 @@
    ],
    "clientes": [],
    "creado": "2026-09-12T17:34:15",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 46475.0,
+    "texto": null,
+    "motivo": "Contrato de suministros: la clasificación no es exigible; se acredita solvencia económica y técnica."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "abierta",
    "categorias_txt": [
     "Aerotermia / bomba de calor",
@@ -5279,6 +5559,17 @@
     "industria"
    ],
    "creado": "2026-09-15T12:25:34",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 52000.0,
+    "texto": null,
+    "motivo": "Contrato de servicios: la clasificación no es exigible (art. 77.1.b LCSP), aunque puede presentarse para acreditar la solvencia."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización"
@@ -5347,6 +5638,17 @@
     "industria"
    ],
    "creado": "2026-09-16T14:05:12",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 102618.36,
+    "texto": null,
+    "motivo": "Contrato de obras con valor estimado 102.618 € < 500.000 €: no es exigible la clasificación (art. 77.1.a LCSP). El órgano puede pedir solvencia por otros medios. y la clasificación sirve para acreditarla."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "abierta",
    "categorias_txt": [
     "Solar FV / autoconsumo"
@@ -5409,6 +5711,17 @@
    "categorias": [],
    "clientes": [],
    "creado": "2026-09-12T17:34:15",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 118205.05,
+    "texto": null,
+    "motivo": "Contrato de obras con valor estimado 118.205 € < 500.000 €: no es exigible la clasificación (art. 77.1.a LCSP). El órgano puede pedir solvencia por otros medios. y la clasificación sirve para acreditarla."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "abierta",
    "categorias_txt": [],
    "clientes_txt": [],
@@ -5462,6 +5775,17 @@
     "comunidades"
    ],
    "creado": "2026-09-15T12:25:34",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 177250.82,
+    "texto": null,
+    "motivo": "Contrato de obras con valor estimado 177.251 € < 500.000 €: no es exigible la clasificación (art. 77.1.a LCSP). El órgano puede pedir solvencia por otros medios. y la clasificación sirve para acreditarla."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "abierta",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -5526,6 +5850,23 @@
    "categorias": [],
    "clientes": [],
    "creado": "2026-09-16T14:05:12",
+   "clasificacion": {
+    "exigida": true,
+    "certeza": "inferido",
+    "codigos": [
+     "J-2",
+     "C-9"
+    ],
+    "descripciones": [
+     "Instalaciones de ventilación, calefacción y climatización",
+     "Carpintería metálica"
+    ],
+    "categoria": "3",
+    "anualidad_media": 636463.6,
+    "texto": null,
+    "motivo": "Contrato de obras con valor estimado 636.464 € ≥ 500.000 €: la clasificación es requisito indispensable (art. 77.1.a LCSP). Categoría 3 por anualidad media de 636.464 €."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "abierta",
    "categorias_txt": [],
    "clientes_txt": [],
@@ -5586,6 +5927,17 @@
    "categorias": [],
    "clientes": [],
    "creado": "2026-09-05T10:48:44",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 128675.63,
+    "texto": null,
+    "motivo": "Contrato de obras con valor estimado 128.676 € < 500.000 €: no es exigible la clasificación (art. 77.1.a LCSP). El órgano puede pedir solvencia por otros medios. y la clasificación sirve para acreditarla."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "abierta",
    "categorias_txt": [],
    "clientes_txt": [],
@@ -5644,6 +5996,17 @@
    "categorias": [],
    "clientes": [],
    "creado": "2026-09-04T18:27:20",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 83659.09,
+    "texto": null,
+    "motivo": "Contrato de obras con valor estimado 83.659 € < 500.000 €: no es exigible la clasificación (art. 77.1.a LCSP). El órgano puede pedir solvencia por otros medios. y la clasificación sirve para acreditarla."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "abierta",
    "categorias_txt": [],
    "clientes_txt": [],
@@ -5691,6 +6054,17 @@
    ],
    "clientes": [],
    "creado": "2026-09-04T18:27:20",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 115383.4,
+    "texto": null,
+    "motivo": "Contrato de obras con valor estimado 115.383 € < 500.000 €: no es exigible la clasificación (art. 77.1.a LCSP). El órgano puede pedir solvencia por otros medios. y la clasificación sirve para acreditarla."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "abierta",
    "categorias_txt": [
     "Aerotermia / bomba de calor"
@@ -5754,6 +6128,17 @@
    "categorias": [],
    "clientes": [],
    "creado": "2026-09-16T14:05:12",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 27751.0,
+    "texto": null,
+    "motivo": "Contrato de suministros: la clasificación no es exigible; se acredita solvencia económica y técnica."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "abierta",
    "categorias_txt": [],
    "clientes_txt": [],
@@ -5810,6 +6195,17 @@
    "categorias": [],
    "clientes": [],
    "creado": "2026-09-04T18:27:20",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 61927.95,
+    "texto": null,
+    "motivo": "Contrato de suministros: la clasificación no es exigible; se acredita solvencia económica y técnica."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "abierta",
    "categorias_txt": [],
    "clientes_txt": [],
@@ -5868,6 +6264,17 @@
    ],
    "clientes": [],
    "creado": "2026-09-04T18:27:20",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 25000.0,
+    "texto": null,
+    "motivo": "Contrato de suministros: la clasificación no es exigible; se acredita solvencia económica y técnica."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización"
@@ -5928,6 +6335,21 @@
    ],
    "clientes": [],
    "creado": "2026-09-04T22:53:13",
+   "clasificacion": {
+    "exigida": true,
+    "certeza": "inferido",
+    "codigos": [
+     "I-1"
+    ],
+    "descripciones": [
+     "Alumbrado, iluminaciones y balizamientos luminosos"
+    ],
+    "categoria": "3",
+    "anualidad_media": 535488.82,
+    "texto": null,
+    "motivo": "Contrato de obras con valor estimado 535.489 € ≥ 500.000 €: la clasificación es requisito indispensable (art. 77.1.a LCSP). Categoría 3 por anualidad media de 535.489 €."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización"
@@ -5988,6 +6410,17 @@
     "industria"
    ],
    "creado": "2026-09-04T22:53:13",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 74629.21,
+    "texto": null,
+    "motivo": "Contrato de obras con valor estimado 74.629 € < 500.000 €: no es exigible la clasificación (art. 77.1.a LCSP). El órgano puede pedir solvencia por otros medios. y la clasificación sirve para acreditarla."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "abierta",
    "categorias_txt": [],
    "clientes_txt": [
@@ -6037,6 +6470,17 @@
    ],
    "clientes": [],
    "creado": "2026-09-04T22:53:13",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 155141.2,
+    "texto": null,
+    "motivo": "Contrato de servicios: la clasificación no es exigible (art. 77.1.b LCSP), aunque puede presentarse para acreditar la solvencia."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización"
@@ -6100,6 +6544,17 @@
    "categorias": [],
    "clientes": [],
    "creado": "2026-09-04T22:53:13",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 1980000.0,
+    "texto": null,
+    "motivo": "Contrato de servicios: la clasificación no es exigible (art. 77.1.b LCSP), aunque puede presentarse para acreditar la solvencia."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "abierta",
    "categorias_txt": [],
    "clientes_txt": [],
@@ -6158,6 +6613,17 @@
    ],
    "clientes": [],
    "creado": "2026-09-04T22:53:13",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 49591.21,
+    "texto": null,
+    "motivo": "Contrato de suministros: la clasificación no es exigible; se acredita solvencia económica y técnica."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "abierta",
    "categorias_txt": [
     "Aerotermia / bomba de calor"
@@ -6221,6 +6687,17 @@
    ],
    "clientes": [],
    "creado": "2026-09-05T10:48:44",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 209080.7,
+    "texto": null,
+    "motivo": "Contrato de suministros: la clasificación no es exigible; se acredita solvencia económica y técnica."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización"
@@ -6281,6 +6758,17 @@
    ],
    "clientes": [],
    "creado": "2026-09-15T12:25:34",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 28925.62,
+    "texto": null,
+    "motivo": "Contrato de suministros: la clasificación no es exigible; se acredita solvencia económica y técnica."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización"
@@ -6343,6 +6831,17 @@
    ],
    "clientes": [],
    "creado": "2026-09-04T22:53:13",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 187010.79,
+    "texto": null,
+    "motivo": "Contrato de obras con valor estimado 187.011 € < 500.000 €: no es exigible la clasificación (art. 77.1.a LCSP). El órgano puede pedir solvencia por otros medios. y la clasificación sirve para acreditarla."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "abierta",
    "categorias_txt": [
     "Aerotermia / bomba de calor"
@@ -6401,6 +6900,17 @@
    "categorias": [],
    "clientes": [],
    "creado": "2026-09-15T12:25:34",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 52000.0,
+    "texto": null,
+    "motivo": "Contrato de servicios: la clasificación no es exigible (art. 77.1.b LCSP), aunque puede presentarse para acreditar la solvencia."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "cerrada",
    "categorias_txt": [],
    "clientes_txt": [],
@@ -6460,6 +6970,17 @@
    ],
    "clientes": [],
    "creado": "2026-09-04T22:53:13",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 494287.47,
+    "texto": null,
+    "motivo": "Contrato de obras con valor estimado 494.287 € < 500.000 €: no es exigible la clasificación (art. 77.1.a LCSP). El órgano puede pedir solvencia por otros medios. y la clasificación sirve para acreditarla."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "abierta",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -6525,6 +7046,21 @@
    ],
    "clientes": [],
    "creado": "2026-09-04T22:53:13",
+   "clasificacion": {
+    "exigida": true,
+    "certeza": "inferido",
+    "codigos": [
+     "J-2"
+    ],
+    "descripciones": [
+     "Instalaciones de ventilación, calefacción y climatización"
+    ],
+    "categoria": "6",
+    "anualidad_media": 6596535.222857142,
+    "texto": null,
+    "motivo": "Contrato de obras con valor estimado 7.695.958 € ≥ 500.000 €: la clasificación es requisito indispensable (art. 77.1.a LCSP). Categoría 6 por anualidad media de 6.596.535 €."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "abierta",
    "categorias_txt": [
     "Energías renovables"
@@ -6583,6 +7119,17 @@
    "categorias": [],
    "clientes": [],
    "creado": "2026-09-04T22:53:13",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 88082.86,
+    "texto": null,
+    "motivo": "Contrato de obras con valor estimado 88.083 € < 500.000 €: no es exigible la clasificación (art. 77.1.a LCSP). El órgano puede pedir solvencia por otros medios. y la clasificación sirve para acreditarla."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "cerrada",
    "categorias_txt": [],
    "clientes_txt": [],
@@ -6645,6 +7192,17 @@
     "comunidades"
    ],
    "creado": "2026-09-04T22:53:13",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 120000.0,
+    "texto": null,
+    "motivo": "Contrato de obras con valor estimado 120.000 € < 500.000 €: no es exigible la clasificación (art. 77.1.a LCSP). El órgano puede pedir solvencia por otros medios. y la clasificación sirve para acreditarla."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "cerrada",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -6708,6 +7266,17 @@
    "categorias": [],
    "clientes": [],
    "creado": "2026-09-04T18:27:20",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 143262.7,
+    "texto": null,
+    "motivo": "Contrato de obras con valor estimado 143.263 € < 500.000 €: no es exigible la clasificación (art. 77.1.a LCSP). El órgano puede pedir solvencia por otros medios. y la clasificación sirve para acreditarla."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "cerrada",
    "categorias_txt": [],
    "clientes_txt": [],
@@ -6770,6 +7339,17 @@
    "categorias": [],
    "clientes": [],
    "creado": "2026-09-04T18:27:20",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 623946.365,
+    "texto": null,
+    "motivo": "Contrato de servicios: la clasificación no es exigible (art. 77.1.b LCSP), aunque puede presentarse para acreditar la solvencia."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "abierta",
    "categorias_txt": [],
    "clientes_txt": [],
@@ -6829,6 +7409,17 @@
    "categorias": [],
    "clientes": [],
    "creado": "2026-09-16T14:05:12",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 755000.0,
+    "texto": null,
+    "motivo": "Contrato de servicios: la clasificación no es exigible (art. 77.1.b LCSP), aunque puede presentarse para acreditar la solvencia."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "abierta",
    "categorias_txt": [],
    "clientes_txt": [],
@@ -6887,6 +7478,17 @@
    "categorias": [],
    "clientes": [],
    "creado": "2026-09-04T22:53:13",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 43167.29,
+    "texto": null,
+    "motivo": "Contrato de obras con valor estimado 43.167 € < 500.000 €: no es exigible la clasificación (art. 77.1.a LCSP). El órgano puede pedir solvencia por otros medios. y la clasificación sirve para acreditarla."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "cerrada",
    "categorias_txt": [],
    "clientes_txt": [],
@@ -6950,6 +7552,23 @@
    "categorias": [],
    "clientes": [],
    "creado": "2026-09-04T22:53:13",
+   "clasificacion": {
+    "exigida": true,
+    "certeza": "inferido",
+    "codigos": [
+     "J-2",
+     "C-7"
+    ],
+    "descripciones": [
+     "Instalaciones de ventilación, calefacción y climatización",
+     "Aislamientos e impermeabilizaciones"
+    ],
+    "categoria": "6",
+    "anualidad_media": 73146922.34,
+    "texto": null,
+    "motivo": "Contrato de obras con valor estimado 219.440.767 € ≥ 500.000 €: la clasificación es requisito indispensable (art. 77.1.a LCSP). Categoría 6 por anualidad media de 73.146.922 €."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "cerrada",
    "categorias_txt": [],
    "clientes_txt": [],
@@ -7028,6 +7647,25 @@
     "comunidades"
    ],
    "creado": "2026-09-13T21:38:06",
+   "clasificacion": {
+    "exigida": true,
+    "certeza": "inferido",
+    "codigos": [
+     "J-2",
+     "C-7",
+     "C-9"
+    ],
+    "descripciones": [
+     "Instalaciones de ventilación, calefacción y climatización",
+     "Aislamientos e impermeabilizaciones",
+     "Carpintería metálica"
+    ],
+    "categoria": "5",
+    "anualidad_media": 2720460.11,
+    "texto": null,
+    "motivo": "Contrato de obras con valor estimado 2.720.460 € ≥ 500.000 €: la clasificación es requisito indispensable (art. 77.1.a LCSP). Categoría 5 por anualidad media de 2.720.460 €."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "cerrada",
    "categorias_txt": [],
    "clientes_txt": [
@@ -7095,6 +7733,17 @@
    ],
    "clientes": [],
    "creado": "2026-09-05T10:48:44",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 2370247.93,
+    "texto": null,
+    "motivo": "Contrato de suministros: la clasificación no es exigible; se acredita solvencia económica y técnica."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "abierta",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -7162,6 +7811,21 @@
     "industria"
    ],
    "creado": "2026-09-12T17:34:15",
+   "clasificacion": {
+    "exigida": true,
+    "certeza": "inferido",
+    "codigos": [
+     "I-9"
+    ],
+    "descripciones": [
+     "Instalaciones eléctricas sin cualificación específica"
+    ],
+    "categoria": "6",
+    "anualidad_media": 228000000.0,
+    "texto": null,
+    "motivo": "Contrato de obras con valor estimado 228.000.000 € ≥ 500.000 €: la clasificación es requisito indispensable (art. 77.1.a LCSP). Categoría 6 por anualidad media de 228.000.000 €."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -7228,6 +7892,17 @@
    ],
    "clientes": [],
    "creado": "2026-09-15T12:25:34",
+   "clasificacion": {
+    "exigida": true,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": "4",
+    "anualidad_media": 1527337.68,
+    "texto": null,
+    "motivo": "Contrato de obras con valor estimado 1.527.338 € ≥ 500.000 €: la clasificación es requisito indispensable (art. 77.1.a LCSP). Categoría 4 por anualidad media de 1.527.338 €."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "abierta",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -7290,6 +7965,17 @@
     "comunidades"
    ],
    "creado": "2026-09-04T22:53:13",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 319993.82,
+    "texto": null,
+    "motivo": "Contrato de obras con valor estimado 319.994 € < 500.000 €: no es exigible la clasificación (art. 77.1.a LCSP). El órgano puede pedir solvencia por otros medios. y la clasificación sirve para acreditarla."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "abierta",
    "categorias_txt": [],
    "clientes_txt": [
@@ -7353,6 +8039,17 @@
     "comunidades"
    ],
    "creado": "2026-09-12T17:34:15",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 136400.0,
+    "texto": null,
+    "motivo": "Contrato de servicios: la clasificación no es exigible (art. 77.1.b LCSP), aunque puede presentarse para acreditar la solvencia."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "cerrada",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -7431,6 +8128,17 @@
    ],
    "clientes": [],
    "creado": "2026-09-04T18:27:20",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 1488954.0,
+    "texto": null,
+    "motivo": "Contrato de servicios: la clasificación no es exigible (art. 77.1.b LCSP), aunque puede presentarse para acreditar la solvencia."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización"
@@ -7498,6 +8206,17 @@
    "categorias": [],
    "clientes": [],
    "creado": "2026-09-04T18:27:20",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 462039.575,
+    "texto": null,
+    "motivo": "Contrato de servicios: la clasificación no es exigible (art. 77.1.b LCSP), aunque puede presentarse para acreditar la solvencia."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "cerrada",
    "categorias_txt": [],
    "clientes_txt": [],
@@ -7561,6 +8280,17 @@
    ],
    "clientes": [],
    "creado": "2026-09-04T18:27:20",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 776219.035,
+    "texto": null,
+    "motivo": "Contrato de servicios: la clasificación no es exigible (art. 77.1.b LCSP), aunque puede presentarse para acreditar la solvencia."
+   },
+   "clasificacion_txt": null,
    "estado_panel": "abierta",
    "categorias_txt": [
     "Solar FV / autoconsumo"
@@ -8462,6 +9192,17 @@
  },
  "ejecuciones": [
   {
+   "id": 37,
+   "inicio": "2026-09-16T19:10:10",
+   "fin": "2026-09-16T19:10:10",
+   "ok": 1,
+   "nuevas_convocatorias": 0,
+   "nuevas_noticias": 0,
+   "resumenes": 0,
+   "errores": [],
+   "nuevas_licitaciones": 0
+  },
+  {
    "id": 36,
    "inicio": "2026-09-16T13:59:38",
    "fin": "2026-09-16T14:05:12",
@@ -8608,17 +9349,6 @@
    "id": 23,
    "inicio": "2026-09-05T12:50:23",
    "fin": "2026-09-05T12:51:13",
-   "ok": 1,
-   "nuevas_convocatorias": 0,
-   "nuevas_noticias": 0,
-   "resumenes": 0,
-   "errores": [],
-   "nuevas_licitaciones": 0
-  },
-  {
-   "id": 22,
-   "inicio": "2026-09-05T12:41:09",
-   "fin": "2026-09-05T12:41:57",
    "ok": 1,
    "nuevas_convocatorias": 0,
    "nuevas_noticias": 0,
