@@ -1,5 +1,5 @@
 {
- "generado": "16/09/2026 19:17",
+ "generado": "16/09/2026 19:25",
  "version": "1.11.1",
  "convocatorias": [
   {
@@ -69,7 +69,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 35177,
    "creado": "2026-09-16T19:10:47",
-   "actualizado": "2026-09-16T19:16:50",
+   "actualizado": "2026-09-16T19:25:02",
    "estado": "plazo_por_confirmar",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -151,7 +151,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 12683,
    "creado": "2026-09-12T17:33:44",
-   "actualizado": "2026-09-16T19:16:57",
+   "actualizado": "2026-09-16T19:25:09",
    "estado": "plazo_por_confirmar",
    "categorias_txt": [
     "Eficiencia energética / descarbonización"
@@ -234,7 +234,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 62493,
    "creado": "2026-09-15T12:42:35",
-   "actualizado": "2026-09-16T19:17:06",
+   "actualizado": "2026-09-16T19:25:16",
    "estado": "plazo_por_confirmar",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -396,7 +396,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 23379,
    "creado": "2026-09-04T17:58:22",
-   "actualizado": "2026-09-16T19:13:00",
+   "actualizado": "2026-09-16T19:21:49",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -484,7 +484,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 23379,
    "creado": "2026-09-04T17:58:23",
-   "actualizado": "2026-09-16T19:13:09",
+   "actualizado": "2026-09-16T19:21:56",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -570,7 +570,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 120000,
    "creado": "2026-09-04T17:58:27",
-   "actualizado": "2026-09-16T19:13:27",
+   "actualizado": "2026-09-16T19:22:06",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -854,7 +854,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 63067,
    "creado": "2026-09-04T17:58:28",
-   "actualizado": "2026-09-16T19:13:38",
+   "actualizado": "2026-09-16T19:22:14",
    "estado": "abierta",
    "categorias_txt": [
     "Baterías / BESS",
@@ -937,7 +937,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 14773,
    "creado": "2026-09-04T17:58:29",
-   "actualizado": "2026-09-16T19:13:45",
+   "actualizado": "2026-09-16T19:22:21",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -1022,7 +1022,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 52417,
    "creado": "2026-09-04T17:58:43",
-   "actualizado": "2026-09-16T19:14:28",
+   "actualizado": "2026-09-16T19:22:45",
    "estado": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -1256,7 +1256,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 22620,
    "creado": "2026-09-04T17:58:20",
-   "actualizado": "2026-09-16T19:14:35",
+   "actualizado": "2026-09-16T19:22:52",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -1494,7 +1494,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 56452,
    "creado": "2026-09-04T17:58:23",
-   "actualizado": "2026-09-16T19:14:43",
+   "actualizado": "2026-09-16T19:23:00",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -1582,7 +1582,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 39954,
    "creado": "2026-09-04T17:58:24",
-   "actualizado": "2026-09-16T19:14:51",
+   "actualizado": "2026-09-16T19:23:07",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -1738,7 +1738,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 120000,
    "creado": "2026-09-04T17:58:21",
-   "actualizado": "2026-09-16T19:14:59",
+   "actualizado": "2026-09-16T19:23:17",
    "estado": "abierta",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -1889,7 +1889,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 60222,
    "creado": "2026-09-04T17:58:44",
-   "actualizado": "2026-09-16T19:15:07",
+   "actualizado": "2026-09-16T19:23:25",
    "estado": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -2120,7 +2120,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 78060,
    "creado": "2026-09-04T17:58:25",
-   "actualizado": "2026-09-16T19:15:17",
+   "actualizado": "2026-09-16T19:23:32",
    "estado": "abierta",
    "categorias_txt": [
     "Baterías / BESS",
@@ -2273,7 +2273,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 6429,
    "creado": "2026-09-04T17:58:37",
-   "actualizado": "2026-09-16T19:15:24",
+   "actualizado": "2026-09-16T19:23:39",
    "estado": "abierta",
    "categorias_txt": [
     "Energías renovables",
@@ -2435,7 +2435,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 34476,
    "creado": "2026-09-04T17:58:26",
-   "actualizado": "2026-09-16T19:15:35",
+   "actualizado": "2026-09-16T19:23:49",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -3028,7 +3028,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 68931,
    "creado": "2026-09-04T17:58:50",
-   "actualizado": "2026-09-16T19:15:45",
+   "actualizado": "2026-09-16T19:23:57",
    "estado": "abierta",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -3119,7 +3119,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:51",
-   "actualizado": "2026-09-16T19:15:53",
+   "actualizado": "2026-09-16T19:24:08",
    "estado": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -3272,7 +3272,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:53",
-   "actualizado": "2026-09-16T19:16:00",
+   "actualizado": "2026-09-16T19:24:15",
    "estado": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -3357,7 +3357,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:53",
-   "actualizado": "2026-09-16T19:16:07",
+   "actualizado": "2026-09-16T19:24:23",
    "estado": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -3517,7 +3517,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 53328,
    "creado": "2026-09-04T17:58:55",
-   "actualizado": "2026-09-16T19:16:15",
+   "actualizado": "2026-09-16T19:24:31",
    "estado": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -3604,7 +3604,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 11094,
    "creado": "2026-09-04T17:58:38",
-   "actualizado": "2026-09-16T19:16:24",
+   "actualizado": "2026-09-16T19:24:38",
    "estado": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -3965,7 +3965,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 44144,
    "creado": "2026-09-04T17:58:40",
-   "actualizado": "2026-09-16T19:16:33",
+   "actualizado": "2026-09-16T19:24:47",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -4049,7 +4049,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:40",
-   "actualizado": "2026-09-16T19:16:40",
+   "actualizado": "2026-09-16T19:24:54",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -10443,6 +10443,17 @@
  },
  "ejecuciones": [
   {
+   "id": 40,
+   "inicio": "2026-09-16T19:20:15",
+   "fin": "2026-09-16T19:25:17",
+   "ok": 1,
+   "nuevas_convocatorias": 0,
+   "nuevas_noticias": 0,
+   "resumenes": 25,
+   "errores": [],
+   "nuevas_licitaciones": 0
+  },
+  {
    "id": 39,
    "inicio": "2026-09-16T19:10:18",
    "fin": "2026-09-16T19:17:07",
@@ -10589,17 +10600,6 @@
    "id": 26,
    "inicio": "2026-09-05T13:25:38",
    "fin": "2026-09-05T13:26:32",
-   "ok": 1,
-   "nuevas_convocatorias": 0,
-   "nuevas_noticias": 0,
-   "resumenes": 0,
-   "errores": [],
-   "nuevas_licitaciones": 0
-  },
-  {
-   "id": 25,
-   "inicio": "2026-09-05T13:24:27",
-   "fin": "2026-09-05T13:25:15",
    "ok": 1,
    "nuevas_convocatorias": 0,
    "nuevas_noticias": 0,
