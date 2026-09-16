@@ -1,6 +1,6 @@
 {
- "generado": "15/09/2026 12:47",
- "version": "1.10.1",
+ "generado": "16/09/2026 13:50",
+ "version": "1.10.3",
  "convocatorias": [
   {
    "id_bdns": "928909",
@@ -5781,7 +5781,7 @@
    "categorias": [],
    "clientes": [],
    "creado": "2026-09-15T12:25:34",
-   "estado_panel": "abierta",
+   "estado_panel": "cerrada",
    "categorias_txt": [],
    "clientes_txt": [],
    "puntuacion": 0,
@@ -6349,7 +6349,7 @@
     "comunidades"
    ],
    "creado": "2026-09-13T21:38:06",
-   "estado_panel": "abierta",
+   "estado_panel": "cerrada",
    "categorias_txt": [],
    "clientes_txt": [
     "Comunidades de propietarios / edificios"
@@ -7783,6 +7783,17 @@
  },
  "ejecuciones": [
   {
+   "id": 35,
+   "inicio": "2026-09-16T13:50:52",
+   "fin": "2026-09-16T13:50:52",
+   "ok": 1,
+   "nuevas_convocatorias": 0,
+   "nuevas_noticias": 0,
+   "resumenes": 0,
+   "errores": [],
+   "nuevas_licitaciones": 0
+  },
+  {
    "id": 34,
    "inicio": "2026-09-15T12:42:06",
    "fin": "2026-09-15T12:47:35",
@@ -7935,17 +7946,6 @@
    "resumenes": 0,
    "errores": [],
    "nuevas_licitaciones": 0
-  },
-  {
-   "id": 20,
-   "inicio": "2026-09-05T12:34:56",
-   "fin": "2026-09-05T12:35:47",
-   "ok": 1,
-   "nuevas_convocatorias": 0,
-   "nuevas_noticias": 0,
-   "resumenes": 0,
-   "errores": [],
-   "nuevas_licitaciones": 0
   }
  ],
  "categorias": {
@@ -7971,9 +7971,9 @@
   "abiertas": 25,
   "por_confirmar": 8,
   "proximas": 0,
-  "licitaciones_abiertas": 44,
+  "licitaciones_abiertas": 42,
   "licitaciones_nuevas_7d": 26,
-  "nuevas_7d": 3,
+  "nuevas_7d": 2,
   "noticias_7d": 4
  }
 }
