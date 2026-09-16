@@ -1,5 +1,5 @@
 {
- "generado": "16/09/2026 13:50",
+ "generado": "16/09/2026 14:05",
  "version": "1.10.3",
  "convocatorias": [
   {
@@ -269,7 +269,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:22",
-   "actualizado": "2026-09-15T12:42:18",
+   "actualizado": "2026-09-16T13:51:14",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -343,7 +343,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:23",
-   "actualizado": "2026-09-15T12:42:19",
+   "actualizado": "2026-09-16T13:51:15",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -415,7 +415,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:27",
-   "actualizado": "2026-09-15T12:42:23",
+   "actualizado": "2026-09-16T13:51:19",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -1045,7 +1045,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:20",
-   "actualizado": "2026-09-15T12:42:17",
+   "actualizado": "2026-09-16T13:51:13",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -1269,7 +1269,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:23",
-   "actualizado": "2026-09-15T12:42:20",
+   "actualizado": "2026-09-16T13:51:16",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -1343,7 +1343,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:24",
-   "actualizado": "2026-09-15T12:42:20",
+   "actualizado": "2026-09-16T13:51:16",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -1485,7 +1485,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:21",
-   "actualizado": "2026-09-15T12:42:18",
+   "actualizado": "2026-09-16T13:51:14",
    "estado": "abierta",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -1839,7 +1839,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:25",
-   "actualizado": "2026-09-15T12:42:21",
+   "actualizado": "2026-09-16T13:51:17",
    "estado": "abierta",
    "categorias_txt": [
     "Baterías / BESS",
@@ -2051,7 +2051,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 60000,
    "creado": "2026-09-04T17:58:26",
-   "actualizado": "2026-09-15T12:42:22",
+   "actualizado": "2026-09-16T13:51:18",
    "estado": "cerrada",
    "categorias_txt": [
     "Comunidades energéticas",
@@ -2126,7 +2126,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 34476,
    "creado": "2026-09-04T17:58:26",
-   "actualizado": "2026-09-15T12:42:22",
+   "actualizado": "2026-09-16T13:51:18",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -3855,6 +3855,321 @@
    }
   },
   {
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20426527",
+   "fuente": "PLACSP",
+   "titulo": "Fase IV de acondicionamiento para usos múltiples del edificio para almacén, Siétamo (Huesca) - SEPARATA 3. Realización de actuaciones de mejora acústica interior del edificio",
+   "expediente": "1891242A",
+   "organo": "Pleno del Ayuntamiento de Sietamo",
+   "organo_padre": "Siétamo",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Obras",
+   "procedimiento": "Abierto simplificado",
+   "cpv": [
+    "45323000"
+   ],
+   "presupuesto_sin_iva": 28965.21,
+   "presupuesto_con_iva": 34999.99,
+   "valor_estimado": 28925.61,
+   "fecha_limite": "2026-10-06",
+   "hora_limite": "23:59:00",
+   "lugar": "Huesca",
+   "nuts": "ES241",
+   "ccaa": "Aragón",
+   "municipio": "Siétamo",
+   "duracion": "1 meses",
+   "fondos_ue": "No hay financiación con fondos de la UE",
+   "n_lotes": 0,
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=aSgKsnKjBLTN3k3tjedSGw%3D%3D",
+   "documentos": [
+    {
+     "nombre": "Pliego administrativo (PCAP)",
+     "fichero": "PCAP.pdf",
+     "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=2qEKV7psSoVWSXDz/uEdPq5rR4WBac1x%2BVbEQiaIqwFFOBAEvW3DDwo19JtvxHui3aDeZzB2GkzaaCi3j7vWcC/2qpKPJ2XwNQ6CBT1uW/mHAj0WEJrB5sP7amrh2jBD"
+    },
+    {
+     "nombre": "Pliego técnico (PPT)",
+     "fichero": "Separata 3.pdf",
+     "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=EbVjf4%2BwtYPCuMLPvCrv3OJrZ2RbCsnJqhNVDy8sKebb0Ps3w6cwQpZxtLUNmXi2qzE6BayyN%2B5sQhDEpJ/vwHve5DVHEnOhJYoM99u7dfEC1/zDIE0Kw/PWNnLS0Z0z"
+    }
+   ],
+   "fecha_publicacion": "2026-09-15",
+   "actualizado": "2026-09-15",
+   "categorias": [],
+   "clientes": [
+    "comunidades"
+   ],
+   "creado": "2026-09-16T14:05:12",
+   "estado_panel": "abierta",
+   "categorias_txt": [],
+   "clientes_txt": [
+    "Comunidades de propietarios / edificios"
+   ],
+   "puntuacion": 1,
+   "geo": {
+    "nombre": "Huesca",
+    "lat": 42.15,
+    "lon": -0.15,
+    "nivel": "provincia",
+    "codigo": "ES241"
+   }
+  },
+  {
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20426530",
+   "fuente": "PLACSP",
+   "titulo": "Suministro en régimen de adquisición y entrega, de equipamiento técnico, especializado, material informático, sistemas de comunicaciones y equipos de captación de imagen y video material técnico forense destinados al apoyo de las actividades de investigación, vigilancia seguimiento, inspección técnico policial y tratamiento de la información en el marco del proyecto EMPACT OP Paranze",
+   "expediente": "SPD-2026-038",
+   "organo": "Dirección de la Fundación para la Internacionalización de las Administraciones Públicas",
+   "organo_padre": "Fundación para la Internacionalización de las Administraciones Públicas",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Suministros",
+   "procedimiento": "Abierto simplificado",
+   "cpv": [
+    "24000000",
+    "30200000",
+    "30213100",
+    "30213200",
+    "30231310",
+    "30233100",
+    "31158100",
+    "31440000",
+    "31521320",
+    "31532900",
+    "32324310",
+    "32333200",
+    "32342200",
+    "32522000",
+    "35120000",
+    "35613000",
+    "37821000",
+    "38631000"
+   ],
+   "presupuesto_sin_iva": 50515.56,
+   "presupuesto_con_iva": 61123.83,
+   "valor_estimado": 50515.56,
+   "fecha_limite": "2026-09-29",
+   "hora_limite": "23:59:00",
+   "lugar": "Madrid",
+   "nuts": "ES300",
+   "ccaa": "Comunidad de Madrid",
+   "municipio": "Madrid",
+   "duracion": "1 meses",
+   "fondos_ue": "Financiación con fondos de la UE",
+   "n_lotes": 4,
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=ZFRPDUAwotOopEMYCmrbmw%3D%3D",
+   "documentos": [
+    {
+     "nombre": "Pliego administrativo (PCAP)",
+     "fichero": "CCP SPD 2026 038.pdf",
+     "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=aB18pFXB4IgNXISXNepwDqRi6K2spWerDTRkspGwIxSDSTbs2l08QuRNtjDrm1R4BVOg6tLIedrTWIPk2wVCfAKUe6bF9sKohwFBnz9Lf4I//q7NB2iMZvNyf0xrJmjt"
+    },
+    {
+     "nombre": "Pliego técnico (PPT)",
+     "fichero": "PPT SPD 2026 038.pdf",
+     "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=twdQawM2ii4EiJl4qX458NPRIExu1MH5VSwe8FZLVKBPqV1FzvxyoQ8DwWzVypPYEe1rvANYmokizI9vHAJCWvh2BH2oT/ExbxyUecMPjW145ClyWkoJ44mKM70IFcOu"
+    }
+   ],
+   "fecha_publicacion": "2026-09-15",
+   "actualizado": "2026-09-15",
+   "categorias": [],
+   "clientes": [],
+   "creado": "2026-09-16T14:05:12",
+   "estado_panel": "abierta",
+   "categorias_txt": [],
+   "clientes_txt": [],
+   "puntuacion": 0,
+   "geo": {
+    "nombre": "Madrid",
+    "lat": 40.45,
+    "lon": -3.7,
+    "nivel": "provincia",
+    "codigo": "ES300"
+   }
+  },
+  {
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20426610",
+   "fuente": "PLACSP",
+   "titulo": "OBRGE26033: El edificio CESSLA de Badajoz requiere acometer actuaciones de mejora de las instalaciones que permitan el normal funcionamiento de los servicios básicos, actuaciones sobre elementos de las edificaciones que presentan deterioros importantes y dificultan el mantenimiento, así como intervenciones en elementos de Seguridad y Salubridad.",
+   "expediente": "PRC/2026/0000076850",
+   "organo": "Consejería de Industria, Energía, Ciencia y Territorio",
+   "organo_padre": "Junta de Extremadura",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Obras",
+   "procedimiento": "Abierto",
+   "cpv": [
+    "45000000",
+    "45261215",
+    "45321000",
+    "45331000"
+   ],
+   "presupuesto_sin_iva": 2871786.64,
+   "presupuesto_con_iva": 3474861.83,
+   "valor_estimado": 2871786.64,
+   "fecha_limite": "2026-10-13",
+   "hora_limite": "23:59:00",
+   "lugar": "Badajoz",
+   "nuts": "ES431",
+   "ccaa": "Extremadura",
+   "municipio": null,
+   "duracion": "21 meses",
+   "fondos_ue": "Financiación con fondos de la UE",
+   "n_lotes": 0,
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=EnoXfEpwoUq8ebB%2FXTwy0A%3D%3D",
+   "documentos": [
+    {
+     "nombre": "Pliego administrativo (PCAP)",
+     "fichero": "PCAP 26 08 2026.PDF",
+     "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=t21uqRHnVEiFyUB0Jrx7Q3tIV2ASKtW6vYdgU7WvpmXcJtroDf0BqfqNUMAl9HRemmtiBK6VRX/SAHm553vcOT0ic2mzxgG7EjAiGUVC9KHVTD3T98KC0nSgQFM0q%2B5s"
+    }
+   ],
+   "fecha_publicacion": "2026-09-15",
+   "actualizado": "2026-09-15",
+   "categorias": [],
+   "clientes": [
+    "comunidades",
+    "industria"
+   ],
+   "creado": "2026-09-16T14:05:12",
+   "estado_panel": "abierta",
+   "categorias_txt": [],
+   "clientes_txt": [
+    "Comunidades de propietarios / edificios",
+    "Industria / empresas"
+   ],
+   "puntuacion": 2,
+   "geo": {
+    "nombre": "Badajoz",
+    "lat": 38.7,
+    "lon": -6.3,
+    "nivel": "provincia",
+    "codigo": "ES431"
+   }
+  },
+  {
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20426814",
+   "fuente": "PLACSP",
+   "titulo": "Ejecución de una instalación solar fotovoltaica para autoconsumo de 250 kW (289,08 kWp) en la Consejería de la Presidencia de la Junta de Castilla y León de Valladolid, según proyecto aprobado. Financiado con fondos FEDER.",
+   "expediente": "A2026/011969",
+   "organo": "Ente Regional de la Energía de Castilla y León",
+   "organo_padre": "Castilla y León",
+   "estado": "PRE",
+   "estado_txt": "Anuncio previo",
+   "tipo": "Obras",
+   "procedimiento": "Abierto",
+   "cpv": [
+    "45300000"
+   ],
+   "presupuesto_sin_iva": 494647.69,
+   "presupuesto_con_iva": 598523.7,
+   "valor_estimado": 494647.69,
+   "fecha_limite": "2026-10-13",
+   "hora_limite": "23:59:00",
+   "lugar": "Valladolid",
+   "nuts": "ES418",
+   "ccaa": "Castilla y León",
+   "municipio": null,
+   "duracion": "5 meses",
+   "fondos_ue": "Financiación con fondos de la UE",
+   "n_lotes": 0,
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=TbK9AXWUm80%2Bk2oCbDosIw%3D%3D",
+   "documentos": [
+    {
+     "nombre": "Pliego administrativo (PCAP)",
+     "fichero": "Pliego de clausulas administrativas particulares - PCAP v004.pdf",
+     "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=37hR2DJ96sELfO%2BedZ6r3DGNk8Luz6jmF3ZQ8w9Voy7JU3/qhkPOwQZaIs5WKalW13GAl/1UXtNIv8uzlpSNyxZgTRUfCRimyOx2moqCcb7VTD3T98KC0nSgQFM0q%2B5s"
+    },
+    {
+     "nombre": "Pliego técnico (PPT)",
+     "fichero": "Proyecto_FV_Autoconsumo_Consejeria_Presidencia_JCyL_250kW v001.pdf",
+     "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=PDbrwMoUdyQNCePeEUfAGr6cJb0qvsSObPB1S5JBCyaeUBJVvkU27BZa7pZwRhZhcxXJCoQDS98pPjV3c1Ip/WTY54EaRqIT50iiAhXAydBt/o8fNevwsujgRzaBbugn"
+    }
+   ],
+   "fecha_publicacion": "2026-09-15",
+   "actualizado": "2026-09-15",
+   "categorias": [
+    "fotovoltaica"
+   ],
+   "clientes": [],
+   "creado": "2026-09-16T14:05:12",
+   "estado_panel": "abierta",
+   "categorias_txt": [
+    "Solar FV / autoconsumo"
+   ],
+   "clientes_txt": [],
+   "puntuacion": 1,
+   "geo": {
+    "nombre": "Valladolid",
+    "lat": 41.65,
+    "lon": -4.75,
+    "nivel": "provincia",
+    "codigo": "ES418"
+   }
+  },
+  {
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20426963",
+   "fuente": "PLACSP",
+   "titulo": "Contrato administrativo de obras, responsable con el medio ambiente, para la ejecución de la obra de instalación de una enfriadora para el pabellón A, sector 1 del Consorcio Hospital General Universitario de Valencia.",
+   "expediente": "CMAYOR/2026/HGUV0/1833",
+   "organo": "Consorcio Hospital General Universitario de Valencia",
+   "organo_padre": "Consorcio Hospital General Universitario de Valencia",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Obras",
+   "procedimiento": "Abierto simplificado",
+   "cpv": [
+    "31141000",
+    "42500000",
+    "42512000",
+    "42512300",
+    "45310000",
+    "45330000",
+    "45331230"
+   ],
+   "presupuesto_sin_iva": 829212.07,
+   "presupuesto_con_iva": 1003346.6,
+   "valor_estimado": 1077975.69,
+   "fecha_limite": "2026-10-07",
+   "hora_limite": "23:59:00",
+   "lugar": "Valencia/València",
+   "nuts": "ES523",
+   "ccaa": "Comunidad Valenciana",
+   "municipio": null,
+   "duracion": "168 días",
+   "fondos_ue": "No hay financiación con fondos de la UE",
+   "n_lotes": 0,
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=tmp%2FWDb6wYfVGIpKDxgsAQ%3D%3D",
+   "documentos": [
+    {
+     "nombre": "Pliego administrativo (PCAP)",
+     "fichero": "PLIEGO ABIERTO simplif_ OBRAS v_11_6_2025_firmado.pdf",
+     "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=YxJx8OrqRv9vADcOyOaOGSEjou6i9KF0vZzISJQM7snohRieXIJbYfeS3MJuZZG7CbICIuNf4bSL1pGqPFfM1Fw/WNVMdEQlwNklvT81jhJ45ClyWkoJ44mKM70IFcOu"
+    },
+    {
+     "nombre": "Pliego técnico (PPT)",
+     "fichero": "PPT.pdf",
+     "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=2utqsTmOcbCznFfPxXSMLnpzYNtlDdgvBstsi5edlIkcmGmq7MIb2pbb2da99Ef9vgb6IvcVrNFgjbXiKA/M4ExbB61BrD5xADmfBlBoxNo//q7NB2iMZvNyf0xrJmjt"
+    }
+   ],
+   "fecha_publicacion": "2026-09-15",
+   "actualizado": "2026-09-15",
+   "categorias": [],
+   "clientes": [],
+   "creado": "2026-09-16T14:05:12",
+   "estado_panel": "abierta",
+   "categorias_txt": [],
+   "clientes_txt": [],
+   "puntuacion": 0,
+   "geo": {
+    "nombre": "Valencia",
+    "lat": 39.4,
+    "lon": -0.7,
+    "nivel": "provincia",
+    "codigo": "ES523"
+   }
+  },
+  {
    "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20415709",
    "fuente": "PLACSP",
    "titulo": "Mantenimiento y soporte técnico de la plataforma de secuenciación masiva de librerías de ácidos nucleicos.",
@@ -4605,6 +4920,123 @@
    }
   },
   {
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20416981",
+   "fuente": "PLACSP",
+   "titulo": "Obras de reparación de patologías en la envolvente térmica, reparación de humedades y urbanización del inmueble ocupado por la Gerencia Regional del Catastro de Andalucía-Sevilla",
+   "expediente": "8/2026",
+   "organo": "Persona Titular de la Delegación Especial de Economía y Hacienda en Andalucía - Sevilla",
+   "organo_padre": "Del. Especial de Economía y Hacienda en Andalucía (Ministro Indalecio Prieto)",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Obras",
+   "procedimiento": "Abierto simplificado",
+   "cpv": [
+    "45450000"
+   ],
+   "presupuesto_sin_iva": 1461594.31,
+   "presupuesto_con_iva": 1768529.12,
+   "valor_estimado": 1753913.17,
+   "fecha_limite": "2026-10-05",
+   "hora_limite": "19:00:00",
+   "lugar": "Sevilla",
+   "nuts": "ES618",
+   "ccaa": "Andalucía",
+   "municipio": null,
+   "duracion": "7 meses",
+   "fondos_ue": "No hay financiación con fondos de la UE",
+   "n_lotes": 0,
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=dG%2BUQaLJ5eq7JOCXkOhcDg%3D%3D",
+   "documentos": [
+    {
+     "nombre": "Pliego administrativo (PCAP)",
+     "fichero": "PCAP obras CATASTRO SEVILLAxsig.pdf",
+     "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=1kv5DRPGKqfD2uI4IQV3Uf5QOXJ%2B2q636v6/W988V1ASJjPZX6VYrxnVQES64zC4DLzbCRBvxpPBZhzRHOZq1Pv%2BLUyhCqLJVCC8o2YBVpTVTD3T98KC0nSgQFM0q%2B5s"
+    },
+    {
+     "nombre": "Pliego técnico (PPT)",
+     "fichero": "01_PROYECTO REF CATASTRO_signed.zip",
+     "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=5jSLWkmoyla8YHnSe7d1nshMw6S9g%2Bq/DpF6mIJdV2TR0TFpKsJIVTJbff5GgQLWlVKeEFWowUUKob819K0PSKYn43%2BAyeRYr%2BB2Ui4%2B/MY//q7NB2iMZvNyf0xrJmjt"
+    }
+   ],
+   "fecha_publicacion": "2026-09-11",
+   "actualizado": "2026-09-15",
+   "categorias": [
+    "rehabilitacion"
+   ],
+   "clientes": [],
+   "creado": "2026-09-16T14:05:12",
+   "estado_panel": "abierta",
+   "categorias_txt": [
+    "Rehabilitación energética de edificios"
+   ],
+   "clientes_txt": [],
+   "puntuacion": 1,
+   "geo": {
+    "nombre": "Sevilla",
+    "lat": 37.4,
+    "lon": -5.85,
+    "nivel": "provincia",
+    "codigo": "ES618"
+   }
+  },
+  {
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20416934",
+   "fuente": "PLACSP",
+   "titulo": "es objeto de la presente licitación por el procedimiento abierto simplificado, la contratación de la ejecución del suministro e instalación denominado: Instalación de climatización en gradas del pabellón municipal de El Ejido (Almería), conforme a las especificaciones y características expuestas en el presente pliego y en el proyecto técnico",
+   "expediente": "2026 1398",
+   "organo": "Junta de Gobierno Local del Ayuntamiento de El Ejido",
+   "organo_padre": "Ejido, El",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Suministros",
+   "procedimiento": "Abierto simplificado",
+   "cpv": [
+    "42512300",
+    "45331200"
+   ],
+   "presupuesto_sin_iva": 38158.28,
+   "presupuesto_con_iva": 46171.52,
+   "valor_estimado": 38158.28,
+   "fecha_limite": "2026-09-25",
+   "hora_limite": "23:59:00",
+   "lugar": "Almería",
+   "nuts": "ES611",
+   "ccaa": "Andalucía",
+   "municipio": null,
+   "duracion": "2 meses",
+   "fondos_ue": "No hay financiación con fondos de la UE",
+   "n_lotes": 0,
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=zXJotWEJKiEmMOlAXxDEjw%3D%3D",
+   "documentos": [
+    {
+     "nombre": "Pliego administrativo (PCAP)",
+     "fichero": "pcap.pdf",
+     "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=25ivrOXqYxlBuUMxYJYnpEDf7WrliXVYjHcahVvfJAf3fVVgbW97IKeDJD218vnUCbEq1m8nJg35eW9TUQQF62UtO%2BgVU20EIxP6YuEsr8bVTD3T98KC0nSgQFM0q%2B5s"
+    },
+    {
+     "nombre": "Pliego técnico (PPT)",
+     "fichero": "ppt.pdf",
+     "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=Ty2TkMQh2bkzJ/F4%2BxpTxsufrjqy3m3I3yDO%2BKaaCl40Ze1i7c4LiuAARsnl%2B1EJShMqmhUEwZsk14X2ycnerspDpIxkFu8hJ9mMrrjydB1t/o8fNevwsujgRzaBbugn"
+    }
+   ],
+   "fecha_publicacion": "2026-09-11",
+   "actualizado": "2026-09-15",
+   "categorias": [],
+   "clientes": [],
+   "creado": "2026-09-16T14:05:12",
+   "estado_panel": "abierta",
+   "categorias_txt": [],
+   "clientes_txt": [],
+   "puntuacion": 0,
+   "geo": {
+    "nombre": "Almería",
+    "lat": 37.2,
+    "lon": -2.35,
+    "nivel": "provincia",
+    "codigo": "ES611"
+   }
+  },
+  {
    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20384762",
    "fuente": "Plataformas CCAA",
    "titulo": "Execució de les obres del projecte d'instal·lació d’aerotèrmia a la casa de colònies de Can Grau",
@@ -4864,6 +5296,74 @@
    }
   },
   {
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20417600",
+   "fuente": "PLACSP",
+   "titulo": "Suministro, montaje, instalación, legalización y mantenimiento de producción eléctrica fotovoltaica para autoconsumo con vertido de excedentes en EMUCESA.",
+   "expediente": "03/2026",
+   "organo": "Dirección de la Empresa Municipal de Cementerios y Servicios Funerarios de Granada SA (EMUCESA)",
+   "organo_padre": "Empresa Municipal de Cementerios y Servicios Funerarios de Granada SA (EMUCESA)",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Obras",
+   "procedimiento": "Abierto simplificado",
+   "cpv": [
+    "09330000",
+    "09331200",
+    "09332000",
+    "45261215",
+    "45315300"
+   ],
+   "presupuesto_sin_iva": 102618.36,
+   "presupuesto_con_iva": 124168.22,
+   "valor_estimado": 102618.36,
+   "fecha_limite": "2026-09-30",
+   "hora_limite": "23:59:00",
+   "lugar": "Granada",
+   "nuts": "ES614",
+   "ccaa": "Andalucía",
+   "municipio": null,
+   "duracion": "3 meses",
+   "fondos_ue": "No hay financiación con fondos de la UE",
+   "n_lotes": 0,
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=2Ij5Yt3CdUJq1DdmE7eaXg%3D%3D",
+   "documentos": [
+    {
+     "nombre": "Pliego administrativo (PCAP)",
+     "fichero": "PCAP Expte 03 202 .pdf",
+     "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=GMmQQ%2Bp7xYZBsvfi1w8nf6EWDwcLJH3NZipdEG5koJXX2hFzgKrx8UkqI5bg1GPV8QG4f3mizspZ67Xs3oIWJZ4pQu/BHbMzp69%2BfXBKOC945ClyWkoJ44mKM70IFcOu"
+    },
+    {
+     "nombre": "Pliego técnico (PPT)",
+     "fichero": "PPT Expte 03 2026  Placas solares.pdf",
+     "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=TD9zbL6vh2eyQzhbfHSr9wYy4JMT63pnpJXAw5M%2BA/4Zob41wiwxMQQwGBeWMBz1sBPipu2DISjnbFGWidI41NSR1P7YfiIopLFpLcLM4Fx7QB3HKyQaFUExmUVQCerk"
+    }
+   ],
+   "fecha_publicacion": "2026-09-10",
+   "actualizado": "2026-09-15",
+   "categorias": [
+    "fotovoltaica"
+   ],
+   "clientes": [
+    "industria"
+   ],
+   "creado": "2026-09-16T14:05:12",
+   "estado_panel": "abierta",
+   "categorias_txt": [
+    "Solar FV / autoconsumo"
+   ],
+   "clientes_txt": [
+    "Industria / empresas"
+   ],
+   "puntuacion": 2,
+   "geo": {
+    "nombre": "Granada",
+    "lat": 37.3,
+    "lon": -3.3,
+    "nivel": "provincia",
+    "codigo": "ES614"
+   }
+  },
+  {
    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20383940",
    "fuente": "Plataformas CCAA",
    "titulo": "L’objecte de la present licitació és adjudicar, mitjançant procediment obert, tramitació ordinària, la prestació consistent en les obres definides al projecte d’instal·lació de climatització de la piscina municipal de Lloret de Mar.",
@@ -4977,6 +5477,65 @@
     "lon": -7.9,
     "nivel": "ccaa",
     "codigo": "ES11"
+   }
+  },
+  {
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20426575",
+   "fuente": "PLACSP",
+   "titulo": "Fase I: Reforma planta 2 Náutica. Escuela Politécnica Superior de Ingeniería. Sección Náutica. Campus Santa Cruz.",
+   "expediente": "34-05/26O",
+   "organo": "Rectorado de la Universidad de La Laguna",
+   "organo_padre": "Universidad de La Laguna",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Obras",
+   "procedimiento": "Abierto simplificado",
+   "cpv": [
+    "45000000",
+    "45310000",
+    "45331200",
+    "45421100"
+   ],
+   "presupuesto_sin_iva": 530386.33,
+   "presupuesto_con_iva": 567513.37,
+   "valor_estimado": 636463.6,
+   "fecha_limite": "2026-09-29",
+   "hora_limite": "10:00:00",
+   "lugar": null,
+   "nuts": "ES709",
+   "ccaa": "Canarias",
+   "municipio": null,
+   "duracion": "6 meses",
+   "fondos_ue": "No hay financiación con fondos de la UE",
+   "n_lotes": 0,
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=Tkw%2BAXms3r99Zh%2FyRJgM8w%3D%3D",
+   "documentos": [
+    {
+     "nombre": "Pliego administrativo (PCAP)",
+     "fichero": "675136-PliegodeClusulasAdmini-001001PCA_STD_CA.pdf",
+     "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=gY2RF%2BtBqCFNj4UMEWzq3M207hAnNVndrLUV1eC92x2VWpId5b0NixSWLA1i7X%2BOQmGzBm6aruxOYIhCGsg%2Bb0D/OFQ9jayxlJHdCtBi%2B9XVTD3T98KC0nSgQFM0q%2B5s"
+    },
+    {
+     "nombre": "Pliego técnico (PPT)",
+     "fichero": "673419-PliegodePrescripciones-001001PPT_STD_OE.pdf",
+     "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=I8voOPC1ZakYtvTLSE2tha9OgWXHMmBYvUHIS1zMP7DS7HcQsXM9S3DMh4ik7dZUS%2BSlUqR6%2BDhS7TgdvYDOFCXxc%2BlNz7cV5%2B/urkR5XhV45ClyWkoJ44mKM70IFcOu"
+    }
+   ],
+   "fecha_publicacion": "2026-09-08",
+   "actualizado": "2026-09-15",
+   "categorias": [],
+   "clientes": [],
+   "creado": "2026-09-16T14:05:12",
+   "estado_panel": "abierta",
+   "categorias_txt": [],
+   "clientes_txt": [],
+   "puntuacion": 0,
+   "geo": {
+    "nombre": "Tenerife",
+    "lat": 28.3,
+    "lon": -16.6,
+    "nivel": "provincia",
+    "codigo": "ES709"
    }
   },
   {
@@ -5144,6 +5703,67 @@
     "lon": -1.65,
     "nivel": "provincia",
     "codigo": "ES220"
+   }
+  },
+  {
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20426661",
+   "fuente": "PLACSP",
+   "titulo": "Suministro e instalación, de unidades de climatización en el Centro de Servicios Sociales de la Plaza del Tejar en Alcorcón.",
+   "expediente": "2026091_AMISUsa",
+   "organo": "Junta de Gobierno del Ayuntamiento de Alcorcón",
+   "organo_padre": "Alcorcón",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Suministros",
+   "procedimiento": "Abierto simplificado",
+   "cpv": [
+    "42500000",
+    "42512300",
+    "45320000",
+    "45331000",
+    "45400000",
+    "50721000"
+   ],
+   "presupuesto_sin_iva": 27751.0,
+   "presupuesto_con_iva": 33578.71,
+   "valor_estimado": 27751.0,
+   "fecha_limite": "2026-09-18",
+   "hora_limite": "23:59:00",
+   "lugar": "Madrid",
+   "nuts": "ES300",
+   "ccaa": "Comunidad de Madrid",
+   "municipio": null,
+   "duracion": "45 días",
+   "fondos_ue": "No hay financiación con fondos de la UE",
+   "n_lotes": 0,
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=C86746jw3llrSd8H4b2soA%3D%3D",
+   "documentos": [
+    {
+     "nombre": "Pliego administrativo (PCAP)",
+     "fichero": "07 PCAP 2026091 ASUsa Climatizacion Centro SS El Tejar sustituido.pdf",
+     "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=5LwZqZ3hZPkFZ4OLLFc4oZphLx%2BfFaeG6UHiDL2h9MD/769x7/YbhiDgmqTlzk/1H74esMZ4WQuFHEOSnjI4aVYH8%2BasjmY8jKUnFHLLNXxt/o8fNevwsujgRzaBbugn"
+    },
+    {
+     "nombre": "Pliego técnico (PPT)",
+     "fichero": "14 PPT  INSTALACION UNIDADES DE CLIMATIZACION centro SS TEJAR modificado.pdf",
+     "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=koBTm4K8e1/7l4u0U7xECq5oxQSGxgUWS7%2BfAy4bwCnNVGq6eM94NMXLizDKCWcDM0mRH6jJlyu5VsyLp6rYdEmR6QNsu1J/fiqlm/IdJTnDdQD9RyhUmzT4jZ2In4zL"
+    }
+   ],
+   "fecha_publicacion": "2026-09-03",
+   "actualizado": "2026-09-15",
+   "categorias": [],
+   "clientes": [],
+   "creado": "2026-09-16T14:05:12",
+   "estado_panel": "abierta",
+   "categorias_txt": [],
+   "clientes_txt": [],
+   "puntuacion": 0,
+   "geo": {
+    "nombre": "Madrid",
+    "lat": 40.45,
+    "lon": -3.7,
+    "nivel": "provincia",
+    "codigo": "ES300"
    }
   },
   {
@@ -6160,6 +6780,65 @@
     "lon": 1.95,
     "nivel": "provincia",
     "codigo": "ES511"
+   }
+  },
+  {
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20304009",
+   "fuente": "PLACSP",
+   "titulo": "Servicio de consultoría para la gestión energética de Acuamed: Lote 1:Consultoría energética. Lote 2_Plataforma corporativa de gestión energética.",
+   "expediente": "SV/29/26",
+   "organo": "Consejo de Administración de Aguas de las Cuencas Mediterráneas, S.M.E., S.A. (ACUAMED)",
+   "organo_padre": "ACUAMED",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Servicios",
+   "procedimiento": "Abierto",
+   "cpv": [
+    "71314200",
+    "72200000",
+    "72321000",
+    "79411000"
+   ],
+   "presupuesto_sin_iva": 2265000.0,
+   "presupuesto_con_iva": 2740650.0,
+   "valor_estimado": 2265000.0,
+   "fecha_limite": "2026-09-28",
+   "hora_limite": "14:00:00",
+   "lugar": "Madrid",
+   "nuts": "ES300",
+   "ccaa": "Comunidad de Madrid",
+   "municipio": null,
+   "duracion": "36 meses",
+   "fondos_ue": "No hay financiación con fondos de la UE",
+   "n_lotes": 2,
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=TLtunSFj3fEkJPJS%2BPS9vg%3D%3D",
+   "documentos": [
+    {
+     "nombre": "Pliego administrativo (PCAP)",
+     "fichero": "sv-29-26_PCAP_para publicar.pdf",
+     "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=TD9zbL6vh2eyQzhbfHSr90N18BsVWA3Zpw1AJjk2UQy9p7LGFg%2BDV/3/KpRWGl%2BMduuGr2/h9WOr5YAM5cYzi5Zqk6rhaHfe1DDQN77meyjDdQD9RyhUmzT4jZ2In4zL"
+    },
+    {
+     "nombre": "Pliego técnico (PPT)",
+     "fichero": "sv-29-26_PPTP_para publicar.pdf",
+     "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=Pw1RmxoRMDcCanSS%2BtCgzDEghxpaO2CM42kU8ZArsbiRrbvfXQKe5gRB8JJLK%2Bn6TtUiHMd3ltKbYQGn3URvG1IUlPgC/fQdmhlnhGhiR8DVTD3T98KC0nSgQFM0q%2B5s"
+    }
+   ],
+   "fecha_publicacion": "2026-08-17",
+   "actualizado": "2026-09-15",
+   "categorias": [],
+   "clientes": [],
+   "creado": "2026-09-16T14:05:12",
+   "estado_panel": "abierta",
+   "categorias_txt": [],
+   "clientes_txt": [],
+   "puntuacion": 0,
+   "geo": {
+    "nombre": "Madrid",
+    "lat": 40.45,
+    "lon": -3.7,
+    "nivel": "provincia",
+    "codigo": "ES300"
    }
   },
   {
@@ -7783,6 +8462,17 @@
  },
  "ejecuciones": [
   {
+   "id": 36,
+   "inicio": "2026-09-16T13:59:38",
+   "fin": "2026-09-16T14:05:12",
+   "ok": 1,
+   "nuevas_convocatorias": 0,
+   "nuevas_noticias": 0,
+   "resumenes": 0,
+   "errores": [],
+   "nuevas_licitaciones": 11
+  },
+  {
    "id": 35,
    "inicio": "2026-09-16T13:50:52",
    "fin": "2026-09-16T13:50:52",
@@ -7935,17 +8625,6 @@
    "resumenes": 0,
    "errores": [],
    "nuevas_licitaciones": 0
-  },
-  {
-   "id": 21,
-   "inicio": "2026-09-05T12:35:38",
-   "fin": "2026-09-05T12:36:28",
-   "ok": 1,
-   "nuevas_convocatorias": 0,
-   "nuevas_noticias": 0,
-   "resumenes": 0,
-   "errores": [],
-   "nuevas_licitaciones": 0
   }
  ],
  "categorias": {
@@ -7971,8 +8650,8 @@
   "abiertas": 25,
   "por_confirmar": 8,
   "proximas": 0,
-  "licitaciones_abiertas": 42,
-  "licitaciones_nuevas_7d": 26,
+  "licitaciones_abiertas": 53,
+  "licitaciones_nuevas_7d": 37,
   "nuevas_7d": 2,
   "noticias_7d": 4
  }
