@@ -1,7 +1,86 @@
 {
- "generado": "17/09/2026 08:38",
+ "generado": "19/09/2026 10:07",
  "version": "1.11.3",
  "convocatorias": [
+  {
+   "id_bdns": "930371",
+   "fuente": "bdns",
+   "titulo": "PROYECTO IMPULZANDO LA TRANSICIÓN ENERGÉTICA EN VILANOVA Y LA GELTRÚ 2026",
+   "organo": "AYUNTAMIENTO DE VILANOVA I LA GELTRÚ",
+   "ambito": "Local",
+   "ccaa": "Cataluña",
+   "fecha_publicacion": "2026-09-18",
+   "fecha_inicio": "2026-01-01",
+   "fecha_fin": "2026-11-15",
+   "texto_inicio": null,
+   "texto_fin": null,
+   "abierto": 0,
+   "presupuesto": 25000.0,
+   "beneficiarios": [
+    "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+   ],
+   "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+   "finalidad": "Otras actuaciones de carácter económico",
+   "regiones": [
+    "ES51 - CATALUÑA"
+   ],
+   "mrr": 0,
+   "url_ficha": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/930371",
+   "url_bases": "www.vilanova.cat",
+   "url_sede": null,
+   "categorias": [
+    "eficiencia"
+   ],
+   "clientes": [],
+   "resumen_json": {
+    "titulo_corto": "PROYECTO IMPULZANDO LA TRANSICIÓN ENERGÉTICA EN VILANOVA Y LA GELTRÚ 2026",
+    "fecha_inicio": "2026-01-01",
+    "fecha_fin": "2026-11-15",
+    "importe": "Presupuesto total: 25.000 €",
+    "cuantia_maxima": "No consta (ver bases)",
+    "porcentaje": "No consta (ver bases)",
+    "que_se_subvenciona": "PROYECTO IMPULZANDO LA TRANSICIÓN ENERGÉTICA EN VILANOVA Y LA GELTRÚ 2026",
+    "quien_puede_solicitar": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+    "procedimiento_concesion": "No consta",
+    "plazo_ejecucion": "No consta",
+    "compatibilidad": "No consta",
+    "donde_se_solicita": "No consta",
+    "condiciones": [
+     "Instrumento: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+     "Resumen generado sin LLM: revisar la ficha BDNS y las bases reguladoras"
+    ],
+    "encaje_ghc": "bajo",
+    "encaje_motivo": "Detección automática por palabras clave del título",
+    "resumen": "PROYECTO IMPULZANDO LA TRANSICIÓN ENERGÉTICA EN VILANOVA Y LA GELTRÚ 2026",
+    "citas": [],
+    "citas_verificadas": "0/0",
+    "dudas": [
+     "Todo el detalle: no se ha leído el documento oficial."
+    ],
+    "avisos": [
+     "Resumen sin inteligencia artificial: solo campos estructurados de la BDNS."
+    ],
+    "confianza": "baja",
+    "campos_sin_dato": 5
+   },
+   "resumen_proveedor": "basico",
+   "texto_pdf_chars": 28164,
+   "creado": "2026-09-19T10:02:09",
+   "actualizado": "2026-09-19T10:03:30",
+   "estado": "abierta",
+   "categorias_txt": [
+    "Eficiencia energética / descarbonización"
+   ],
+   "clientes_txt": [],
+   "puntuacion": 1,
+   "geo": {
+    "nombre": "Cataluña",
+    "lat": 41.8,
+    "lon": 1.6,
+    "nivel": "ccaa",
+    "codigo": "ES51"
+   }
+  },
   {
    "id_bdns": "929841",
    "fuente": "bdns",
@@ -69,7 +148,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 35177,
    "creado": "2026-09-16T19:10:47",
-   "actualizado": "2026-09-16T19:42:47",
+   "actualizado": "2026-09-18T09:43:17",
    "estado": "plazo_por_confirmar",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -151,7 +230,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 12683,
    "creado": "2026-09-12T17:33:44",
-   "actualizado": "2026-09-16T19:42:57",
+   "actualizado": "2026-09-18T09:43:17",
    "estado": "plazo_por_confirmar",
    "categorias_txt": [
     "Eficiencia energética / descarbonización"
@@ -234,7 +313,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 62493,
    "creado": "2026-09-15T12:42:35",
-   "actualizado": "2026-09-16T19:37:09",
+   "actualizado": "2026-09-18T09:43:19",
    "estado": "plazo_por_confirmar",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -307,7 +386,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 14196,
    "creado": "2026-09-10T08:34:32",
-   "actualizado": "2026-09-16T19:37:07",
+   "actualizado": "2026-09-18T09:43:16",
    "estado": "plazo_por_confirmar",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -396,7 +475,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 23379,
    "creado": "2026-09-04T17:58:22",
-   "actualizado": "2026-09-17T08:35:10",
+   "actualizado": "2026-09-19T10:03:40",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -484,7 +563,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 23379,
    "creado": "2026-09-04T17:58:23",
-   "actualizado": "2026-09-17T08:35:18",
+   "actualizado": "2026-09-19T10:03:47",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -570,7 +649,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 120000,
    "creado": "2026-09-04T17:58:27",
-   "actualizado": "2026-09-17T08:35:27",
+   "actualizado": "2026-09-19T10:03:58",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -639,7 +718,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:42",
-   "actualizado": "2026-09-16T19:37:10",
+   "actualizado": "2026-09-18T09:43:09",
    "estado": "plazo_por_confirmar",
    "categorias_txt": [
     "Eficiencia energética / descarbonización"
@@ -709,7 +788,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:32",
-   "actualizado": "2026-09-16T19:36:59",
+   "actualizado": "2026-09-18T09:43:05",
    "estado": "plazo_por_confirmar",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -776,7 +855,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:33",
-   "actualizado": "2026-09-16T19:37:00",
+   "actualizado": "2026-09-18T09:43:06",
    "estado": "plazo_por_confirmar",
    "categorias_txt": [],
    "clientes_txt": [],
@@ -854,7 +933,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 63067,
    "creado": "2026-09-04T17:58:28",
-   "actualizado": "2026-09-17T08:35:35",
+   "actualizado": "2026-09-19T10:04:06",
    "estado": "abierta",
    "categorias_txt": [
     "Baterías / BESS",
@@ -937,7 +1016,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 14773,
    "creado": "2026-09-04T17:58:29",
-   "actualizado": "2026-09-17T08:35:43",
+   "actualizado": "2026-09-19T10:04:13",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -1022,7 +1101,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 52417,
    "creado": "2026-09-04T17:58:43",
-   "actualizado": "2026-09-17T08:36:07",
+   "actualizado": "2026-09-19T10:04:42",
    "estado": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -1094,7 +1173,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:43",
-   "actualizado": "2026-09-16T19:37:04",
+   "actualizado": "2026-09-18T09:43:11",
    "estado": "plazo_por_confirmar",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -1167,7 +1246,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:33",
-   "actualizado": "2026-09-16T19:37:00",
+   "actualizado": "2026-09-18T09:43:06",
    "estado": "plazo_por_confirmar",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -1256,7 +1335,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 22620,
    "creado": "2026-09-04T17:58:20",
-   "actualizado": "2026-09-17T08:36:14",
+   "actualizado": "2026-09-19T10:04:49",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -1332,7 +1411,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:34",
-   "actualizado": "2026-09-16T19:37:01",
+   "actualizado": "2026-09-18T09:43:07",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -1406,7 +1485,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:30",
-   "actualizado": "2026-09-16T19:36:57",
+   "actualizado": "2026-09-18T09:43:03",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -1494,7 +1573,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 56452,
    "creado": "2026-09-04T17:58:23",
-   "actualizado": "2026-09-17T08:36:22",
+   "actualizado": "2026-09-19T10:04:57",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -1582,7 +1661,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 39954,
    "creado": "2026-09-04T17:58:24",
-   "actualizado": "2026-09-17T08:36:30",
+   "actualizado": "2026-09-19T10:05:05",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -1655,7 +1734,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:35",
-   "actualizado": "2026-09-16T19:37:02",
+   "actualizado": "2026-09-18T09:43:08",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -1738,7 +1817,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 120000,
    "creado": "2026-09-04T17:58:21",
-   "actualizado": "2026-09-17T08:36:38",
+   "actualizado": "2026-09-19T10:05:13",
    "estado": "abierta",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -1805,7 +1884,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:36",
-   "actualizado": "2026-09-16T19:37:02",
+   "actualizado": "2026-09-18T09:43:09",
    "estado": "cerrada",
    "categorias_txt": [
     "Comunidades energéticas",
@@ -1889,7 +1968,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 60222,
    "creado": "2026-09-04T17:58:44",
-   "actualizado": "2026-09-17T08:36:45",
+   "actualizado": "2026-09-19T10:05:22",
    "estado": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -1962,7 +2041,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:30",
-   "actualizado": "2026-09-16T19:36:58",
+   "actualizado": "2026-09-18T09:43:04",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización"
@@ -2034,7 +2113,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:31",
-   "actualizado": "2026-09-16T19:36:58",
+   "actualizado": "2026-09-18T09:43:04",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización"
@@ -2120,7 +2199,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 78060,
    "creado": "2026-09-04T17:58:25",
-   "actualizado": "2026-09-17T08:36:53",
+   "actualizado": "2026-09-19T10:05:30",
    "estado": "abierta",
    "categorias_txt": [
     "Baterías / BESS",
@@ -2190,7 +2269,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:36",
-   "actualizado": "2026-09-16T19:36:38",
+   "actualizado": "2026-09-18T09:42:19",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -2273,7 +2352,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 6429,
    "creado": "2026-09-04T17:58:37",
-   "actualizado": "2026-09-17T08:37:00",
+   "actualizado": "2026-09-19T10:05:38",
    "estado": "abierta",
    "categorias_txt": [
     "Energías renovables",
@@ -2346,7 +2425,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 60000,
    "creado": "2026-09-04T17:58:26",
-   "actualizado": "2026-09-16T19:36:37",
+   "actualizado": "2026-09-18T09:42:17",
    "estado": "cerrada",
    "categorias_txt": [
     "Comunidades energéticas",
@@ -2435,7 +2514,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 34476,
    "creado": "2026-09-04T17:58:26",
-   "actualizado": "2026-09-17T08:37:10",
+   "actualizado": "2026-09-19T10:05:49",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -2511,7 +2590,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 14190,
    "creado": "2026-09-04T17:58:45",
-   "actualizado": "2026-09-16T19:36:41",
+   "actualizado": "2026-09-18T09:42:25",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -2584,7 +2663,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 31769,
    "creado": "2026-09-04T17:58:46",
-   "actualizado": "2026-09-16T19:36:42",
+   "actualizado": "2026-09-18T09:42:27",
    "estado": "cerrada",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -2656,7 +2735,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 60000,
    "creado": "2026-09-04T17:58:46",
-   "actualizado": "2026-09-16T19:36:42",
+   "actualizado": "2026-09-18T09:42:28",
    "estado": "cerrada",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -2727,7 +2806,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 60000,
    "creado": "2026-09-04T17:58:47",
-   "actualizado": "2026-09-16T19:36:43",
+   "actualizado": "2026-09-18T09:42:33",
    "estado": "cerrada",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -2798,7 +2877,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 60000,
    "creado": "2026-09-04T17:58:48",
-   "actualizado": "2026-09-16T19:36:44",
+   "actualizado": "2026-09-18T09:42:35",
    "estado": "cerrada",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -2869,7 +2948,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 60000,
    "creado": "2026-09-04T17:58:49",
-   "actualizado": "2026-09-16T19:36:44",
+   "actualizado": "2026-09-18T09:42:40",
    "estado": "cerrada",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -2940,7 +3019,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 60000,
    "creado": "2026-09-04T17:58:49",
-   "actualizado": "2026-09-16T19:36:45",
+   "actualizado": "2026-09-18T09:42:41",
    "estado": "cerrada",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -3028,7 +3107,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 68931,
    "creado": "2026-09-04T17:58:50",
-   "actualizado": "2026-09-17T08:37:22",
+   "actualizado": "2026-09-19T10:05:59",
    "estado": "abierta",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -3119,7 +3198,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:51",
-   "actualizado": "2026-09-17T08:37:30",
+   "actualizado": "2026-09-19T10:06:06",
    "estado": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -3190,7 +3269,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 1688,
    "creado": "2026-09-04T17:58:52",
-   "actualizado": "2026-09-16T19:36:47",
+   "actualizado": "2026-09-18T09:42:48",
    "estado": "cerrada",
    "categorias_txt": [
     "Energías renovables"
@@ -3272,7 +3351,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:53",
-   "actualizado": "2026-09-17T08:37:37",
+   "actualizado": "2026-09-19T10:06:14",
    "estado": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -3357,7 +3436,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:53",
-   "actualizado": "2026-09-17T08:37:44",
+   "actualizado": "2026-09-19T10:06:21",
    "estado": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -3428,7 +3507,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 26340,
    "creado": "2026-09-04T17:58:54",
-   "actualizado": "2026-09-16T19:36:49",
+   "actualizado": "2026-09-18T09:42:55",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -3517,7 +3596,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 53328,
    "creado": "2026-09-04T17:58:55",
-   "actualizado": "2026-09-17T08:37:52",
+   "actualizado": "2026-09-19T10:06:29",
    "estado": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -3604,7 +3683,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 11094,
    "creado": "2026-09-04T17:58:38",
-   "actualizado": "2026-09-17T08:37:59",
+   "actualizado": "2026-09-19T10:06:36",
    "estado": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -3676,7 +3755,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 60000,
    "creado": "2026-09-04T17:58:56",
-   "actualizado": "2026-09-16T19:36:50",
+   "actualizado": "2026-09-18T09:42:57",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -3965,7 +4044,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 44144,
    "creado": "2026-09-04T17:58:40",
-   "actualizado": "2026-09-17T08:38:10",
+   "actualizado": "2026-09-19T10:06:45",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -4049,8 +4128,8 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:40",
-   "actualizado": "2026-09-17T08:38:17",
-   "estado": "abierta",
+   "actualizado": "2026-09-18T09:47:52",
+   "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
     "Industria / pymes"
@@ -4395,7 +4474,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 5300,
    "creado": "2026-09-16T19:41:13",
-   "actualizado": "2026-09-17T08:38:24",
+   "actualizado": "2026-09-19T10:06:52",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -4882,7 +4961,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 2596,
    "creado": "2026-09-16T19:41:15",
-   "actualizado": "2026-09-17T08:38:31",
+   "actualizado": "2026-09-19T10:06:59",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -5296,7 +5375,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 70874,
    "creado": "2026-09-16T19:40:46",
-   "actualizado": "2026-09-17T08:38:39",
+   "actualizado": "2026-09-19T10:07:09",
    "estado": "abierta",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -20010,6 +20089,1205 @@
  ],
  "licitaciones": [
   {
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20446849",
+   "fuente": "PLACSP",
+   "titulo": "Obras para el Departamento de Salud Valencia Doctor Peset, con condiciones especiales de ejecución de carácter ambiental. 2 Lotes.",
+   "expediente": "PAS 1099/2026",
+   "organo": "Departamento de Salud Valencia Dr. Peset. Dirección Económica-Gerencia",
+   "organo_padre": "Conselleria de Sanidad",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Obras",
+   "procedimiento": "Abierto simplificado",
+   "cpv": [
+    "45215100",
+    "45215140",
+    "45330000",
+    "45331200"
+   ],
+   "presupuesto_sin_iva": 225128.95,
+   "presupuesto_con_iva": 272406.03,
+   "valor_estimado": 247641.85,
+   "fecha_limite": "2026-10-07",
+   "hora_limite": "10:00:00",
+   "lugar": "Valencia/València",
+   "nuts": "ES523",
+   "ccaa": "Comunidad Valenciana",
+   "municipio": "Valencia",
+   "duracion": "3 meses",
+   "fondos_ue": "Financiación con fondos de la UE",
+   "n_lotes": 2,
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=ba6FY4T8VwKopEMYCmrbmw%3D%3D",
+   "documentos": [
+    {
+     "nombre": "Pliego administrativo (PCAP)",
+     "fichero": "CNMY_1099_2026_PCAP ABIERTO SIMPLIFICADO OBRAS.pdf",
+     "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=gdmHt7PqPRc39djbhNoU2NneFB7T0tpoajqTjrBXtE%2BUXrDBFNAdWHegEiX2glmb7CQ7ftOLtHJ8YxMCevWIPcI5CnvubzJH/DFtFwBWrn2B0nvVKRzfe4rpHcnlPhSZ"
+    },
+    {
+     "nombre": "Pliego técnico (PPT)",
+     "fichero": "CNMY 1099_2026 L1 y L2 PPT.zip",
+     "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=oB0WUAJQlecMbLb%2Bo05VuYTv57xrZLSNCKNvWhImCQXNgVy2TSm26ViW4HRelesbYOb1FluyEvkCzGdtnBZMUP%2BHt/Db1GsocVpZgjzN6VT6CYyL7SIrUOBFfNf52ZqA"
+    }
+   ],
+   "fecha_publicacion": "2026-09-17",
+   "actualizado": "2026-09-17",
+   "categorias": [],
+   "clientes": [],
+   "creado": "2026-09-18T09:45:33",
+   "clasificacion": {
+    "exigida": true,
+    "certeza": "anuncio",
+    "codigos": [
+     "J-2"
+    ],
+    "categoria": null,
+    "texto": "PersonalSituation: Inscripción de las empresas licitadoras en el registro de Empresas acreditadas (REA), de conformidad con los dispuesto en el Real Decreto 1109/2007, 24 agosto · EvaluationCriteriaTypeCode: ZZZ · Description: Apartado L Anexo I PCAP · Description: Apartado L Anexo I PCAP · Name: Eliminar desigualdades entre el hombre y la mujer · Description: Con el fin de fomentar la inserción d",
+    "motivo": "La clasificación viene indicada en el propio anuncio de licitación. El grupo/subgrupo concreto no se ha podido leer: los mostrados son una propuesta.",
+    "descripciones": [
+     "Instalaciones de ventilación, calefacción y climatización"
+    ]
+   },
+   "clasificacion_txt": [
+    "PersonalSituation: Inscripción de las empresas licitadoras en el registro de Empresas acreditadas (REA), de conformidad con los dispuesto en el Real Decreto 1109/2007, 24 agosto",
+    "EvaluationCriteriaTypeCode: ZZZ",
+    "Description: Apartado L Anexo I PCAP",
+    "Description: Apartado L Anexo I PCAP",
+    "Name: Eliminar desigualdades entre el hombre y la mujer",
+    "Description: Con el fin de fomentar la inserción de la mujer en el mercado laboral, así como la igualdad entre mujeres y hombres en el trabajo, el equipo contará entre sus profesionales, al menos con 2 mujeres en su composición",
+    "AwardingCriteriaTypeCode: SUBJ",
+    "Description: Memoria técnica constructiva",
+    "AwardingCriteriaSubTypeCode: 99",
+    "WeightNumeric: 25",
+    "AwardingCriteriaTypeCode: OBJ",
+    "Description: Plazo garantía adicional"
+   ],
+   "estado_panel": "abierta",
+   "categorias_txt": [],
+   "clientes_txt": [],
+   "puntuacion": 0,
+   "geo": {
+    "nombre": "Valencia",
+    "lat": 39.4,
+    "lon": -0.7,
+    "nivel": "provincia",
+    "codigo": "ES523"
+   }
+  },
+  {
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20446851",
+   "fuente": "PLACSP",
+   "titulo": "Obra para la sustitución, instalación y puesta en funcionamiento de un sistema de climatización del edificio del Centro de Salud de Cañete para la mejora de la eficiencia energética.",
+   "expediente": "2026/038649",
+   "organo": "Gerencia de Atención Integrada de Cuenca",
+   "organo_padre": "Gerencia de Atención Integrada de Cuenca",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Obras",
+   "procedimiento": "Abierto simplificado",
+   "cpv": [
+    "45331220"
+   ],
+   "presupuesto_sin_iva": 59339.08,
+   "presupuesto_con_iva": 71800.29,
+   "valor_estimado": 59339.08,
+   "fecha_limite": "2026-10-02",
+   "hora_limite": "14:00:00",
+   "lugar": "Cuenca",
+   "nuts": "ES423",
+   "ccaa": "Castilla-La Mancha",
+   "municipio": null,
+   "duracion": "30 días",
+   "fondos_ue": "No hay financiación con fondos de la UE",
+   "n_lotes": 0,
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=qaP3T%2BYk3tVeKgd8LfVV9g%3D%3D",
+   "documentos": [
+    {
+     "nombre": "Pliego administrativo (PCAP)",
+     "fichero": "PCAP.pdf",
+     "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=f2ciZ%2BeiqW/00CP4LHyJKsP2LBU0GlqckgrirnSfLb5KVb4Kb/xj5M8rLfExz%2BxUO94JGQe1M1oWYU3Gi9OGbhlTvpc9yHGQ1RWcFsvNEjz3GVhXrFFqN7yFncy7YfRK"
+    },
+    {
+     "nombre": "Pliego técnico (PPT)",
+     "fichero": "proyecto.zip",
+     "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=npGLXibGXSm0gKEj7%2BupwVcGTyGaWJTJSt0/QEygaWY9qeQrKLhR32zPOE4a6rd0csidPA/t5Wecd7p2v3MRb/uI0wgXCG8Mbrkj4lrFiENt/o8fNevwsujgRzaBbugn"
+    }
+   ],
+   "fecha_publicacion": "2026-09-17",
+   "actualizado": "2026-09-17",
+   "categorias": [
+    "eficiencia",
+    "edificios"
+   ],
+   "clientes": [
+    "comunidades"
+   ],
+   "creado": "2026-09-18T09:45:35",
+   "clasificacion": {
+    "exigida": true,
+    "certeza": "anuncio",
+    "codigos": [
+     "J-2"
+    ],
+    "categoria": null,
+    "texto": "Description: Capacidad de obrar · Description: Cumplimiento con las obligaciones con la Seguridad Social · Description: Cumplimiento con las obligaciones tributarias · Description: No estar incurso en incompatibilidades · Description: No prohibición para contratar · AwardingCriteriaTypeCode: OBJ · Description: Criterios objetivos cualitativos · WeightNumeric: 30 · AwardingCriteriaTypeCode: OBJ · D",
+    "motivo": "La clasificación viene indicada en el propio anuncio de licitación. El grupo/subgrupo concreto no se ha podido leer: los mostrados son una propuesta.",
+    "descripciones": [
+     "Instalaciones de ventilación, calefacción y climatización"
+    ]
+   },
+   "clasificacion_txt": [
+    "Description: Capacidad de obrar",
+    "Description: Cumplimiento con las obligaciones con la Seguridad Social",
+    "Description: Cumplimiento con las obligaciones tributarias",
+    "Description: No estar incurso en incompatibilidades",
+    "Description: No prohibición para contratar",
+    "AwardingCriteriaTypeCode: OBJ",
+    "Description: Criterios objetivos cualitativos",
+    "WeightNumeric: 30",
+    "AwardingCriteriaTypeCode: OBJ",
+    "Description: Oferta económica: fórmula y ponderación",
+    "WeightNumeric: 70",
+    "EndpointID: https://contrataciondelestado.es"
+   ],
+   "estado_panel": "abierta",
+   "categorias_txt": [
+    "Eficiencia energética / descarbonización",
+    "Edificios / comunidades de propietarios"
+   ],
+   "clientes_txt": [
+    "Comunidades de propietarios / edificios"
+   ],
+   "puntuacion": 3,
+   "geo": {
+    "nombre": "Cuenca",
+    "lat": 40.0,
+    "lon": -2.2,
+    "nivel": "provincia",
+    "codigo": "ES423"
+   }
+  },
+  {
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20446883",
+   "fuente": "PLACSP",
+   "titulo": "Obra para la sustitución, instalación y puesta en funcionamiento de un sistema de climatización del edificio del Centro de Salud de Valverde del Júcar para la mejora de la eficiencia energética",
+   "expediente": "2026/038650",
+   "organo": "Gerencia de Atención Integrada de Cuenca",
+   "organo_padre": "Gerencia de Atención Integrada de Cuenca",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Obras",
+   "procedimiento": "Abierto simplificado",
+   "cpv": [
+    "45331220"
+   ],
+   "presupuesto_sin_iva": 56041.43,
+   "presupuesto_con_iva": 67810.13,
+   "valor_estimado": 56041.43,
+   "fecha_limite": "2026-10-02",
+   "hora_limite": "14:00:00",
+   "lugar": "Cuenca",
+   "nuts": "ES423",
+   "ccaa": "Castilla-La Mancha",
+   "municipio": null,
+   "duracion": "30 días",
+   "fondos_ue": "No hay financiación con fondos de la UE",
+   "n_lotes": 0,
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=5gtXiLUpexL9pbnDwlaUlg%3D%3D",
+   "documentos": [
+    {
+     "nombre": "Pliego administrativo (PCAP)",
+     "fichero": "PCAP.pdf",
+     "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=pZ5KW8UYga23YRaCcBb6W1YjusLYyaTRvFTVpUaWflm54xKoPIiTyvhZqYb9KcNAIJM3NQmE663TaKdaXbo0tJcrBnc6YyH2rI5KYqiCi27fdyQgZAdTm3EfcUAC7CJ6"
+    },
+    {
+     "nombre": "Pliego técnico (PPT)",
+     "fichero": "proyecto.zip",
+     "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=goj6//llImon/4sHUil/N6Uaa9MPEVebtxT9xffURpXyMlHK2EyuIq8Y2PXebEcauViVUJlGF8GNfSwdTiibveXgCwJ675CDEw4Oe7NZwPpJOVDbGCDM%2BMigrvuVS7Rv"
+    }
+   ],
+   "fecha_publicacion": "2026-09-17",
+   "actualizado": "2026-09-17",
+   "categorias": [
+    "eficiencia",
+    "edificios"
+   ],
+   "clientes": [
+    "comunidades"
+   ],
+   "creado": "2026-09-18T09:45:36",
+   "clasificacion": {
+    "exigida": true,
+    "certeza": "anuncio",
+    "codigos": [
+     "J-2"
+    ],
+    "categoria": null,
+    "texto": "Description: Capacidad de obrar · Description: Cumplimiento con las obligaciones con la Seguridad Social · Description: Cumplimiento con las obligaciones tributarias · Description: No estar incurso en incompatibilidades · Description: No prohibición para contratar · AwardingCriteriaTypeCode: OBJ · Description: Oferta económica: fórmula y ponderación · WeightNumeric: 70 · AwardingCriteriaTypeCode: ",
+    "motivo": "La clasificación viene indicada en el propio anuncio de licitación. El grupo/subgrupo concreto no se ha podido leer: los mostrados son una propuesta.",
+    "descripciones": [
+     "Instalaciones de ventilación, calefacción y climatización"
+    ]
+   },
+   "clasificacion_txt": [
+    "Description: Capacidad de obrar",
+    "Description: Cumplimiento con las obligaciones con la Seguridad Social",
+    "Description: Cumplimiento con las obligaciones tributarias",
+    "Description: No estar incurso en incompatibilidades",
+    "Description: No prohibición para contratar",
+    "AwardingCriteriaTypeCode: OBJ",
+    "Description: Oferta económica: fórmula y ponderación",
+    "WeightNumeric: 70",
+    "AwardingCriteriaTypeCode: OBJ",
+    "Description: Criterios objetivos cualitativos y ponderación",
+    "WeightNumeric: 30",
+    "EndpointID: https://contrataciondelestado.es"
+   ],
+   "estado_panel": "abierta",
+   "categorias_txt": [
+    "Eficiencia energética / descarbonización",
+    "Edificios / comunidades de propietarios"
+   ],
+   "clientes_txt": [
+    "Comunidades de propietarios / edificios"
+   ],
+   "puntuacion": 3,
+   "geo": {
+    "nombre": "Cuenca",
+    "lat": 40.0,
+    "lon": -2.2,
+    "nivel": "provincia",
+    "codigo": "ES423"
+   }
+  },
+  {
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20446958",
+   "fuente": "PLACSP",
+   "titulo": "SISTEMA DE PROTECCION CONTRA INCENDIOS (PCI): Sistema de agua nebulizada y subsanación de deficiencias en el Archivo Histórico Provincial de Guadalajara.",
+   "expediente": "2026/039351",
+   "organo": "Delegación Provincial de la Consejería de Educación, Cultura y Deportes en Guadalajara",
+   "organo_padre": "Delegación Provincial de la Consejería de Educación, Cultura y Deportes en Guadalajara",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Obras",
+   "procedimiento": "Abierto simplificado",
+   "cpv": [
+    "45000000",
+    "45213316",
+    "45300000",
+    "45316000",
+    "45320000",
+    "45330000"
+   ],
+   "presupuesto_sin_iva": 57801.19,
+   "presupuesto_con_iva": 69939.44,
+   "valor_estimado": 57801.19,
+   "fecha_limite": "2026-10-08",
+   "hora_limite": "11:49:21",
+   "lugar": "Guadalajara",
+   "nuts": "ES424",
+   "ccaa": "Castilla-La Mancha",
+   "municipio": null,
+   "duracion": "2 meses",
+   "fondos_ue": "No hay financiación con fondos de la UE",
+   "n_lotes": 0,
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=uRJAzMAy8mNq1DdmE7eaXg%3D%3D",
+   "documentos": [
+    {
+     "nombre": "Pliego administrativo (PCAP)",
+     "fichero": "4PCAPTIPOOBRASABREVIADO.pdf",
+     "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=7dJfD0%2BGx2EB/VDdf8jeRSssb35lfoHqp9PK4SYInX2sYECdGpmY9K7W1nFjY1JZaGAlLcteNu3PIxhSdmZs6ux6jM1cJ6V6MsYqZWn6/c0C1/zDIE0Kw/PWNnLS0Z0z"
+    },
+    {
+     "nombre": "Pliego técnico (PPT)",
+     "fichero": "PPT.pdf",
+     "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=Dfp7alvlORosUvSCbMN5%2BICt5Wf5Gx9341qL0egRHbqKxPwuNDars7ofdTYo2M/SSlNqAMcdF7/AFczNK9d0x%2BTJWuiMv/VCujJ4QrAveyt45ClyWkoJ44mKM70IFcOu"
+    }
+   ],
+   "fecha_publicacion": "2026-09-17",
+   "actualizado": "2026-09-17",
+   "categorias": [],
+   "clientes": [],
+   "creado": "2026-09-18T09:45:36",
+   "clasificacion": {
+    "exigida": true,
+    "certeza": "anuncio",
+    "codigos": [
+     "C-7",
+     "I-1",
+     "K-9"
+    ],
+    "categoria": null,
+    "texto": "EvaluationCriteriaTypeCode: OSR-COMPTASK · Description: ver pliego · EvaluationCriteriaTypeCode: OXR-TITULOS · Description: ver pliego · Description: ver pliego · Description: Cumplimiento con las obligaciones con la Seguridad Social · Description: No estar incurso en incompatibilidades · Description: Capacidad de obrar · Description: Cumplimiento con las obligaciones tributarias · Description: No",
+    "motivo": "La clasificación viene indicada en el propio anuncio de licitación. El grupo/subgrupo concreto no se ha podido leer: los mostrados son una propuesta.",
+    "descripciones": [
+     "Aislamientos e impermeabilizaciones",
+     "Alumbrado, iluminaciones y balizamientos luminosos",
+     "Instalaciones contra incendios"
+    ]
+   },
+   "clasificacion_txt": [
+    "EvaluationCriteriaTypeCode: OSR-COMPTASK",
+    "Description: ver pliego",
+    "EvaluationCriteriaTypeCode: OXR-TITULOS",
+    "Description: ver pliego",
+    "Description: ver pliego",
+    "Description: Cumplimiento con las obligaciones con la Seguridad Social",
+    "Description: No estar incurso en incompatibilidades",
+    "Description: Capacidad de obrar",
+    "Description: Cumplimiento con las obligaciones tributarias",
+    "Description: No prohibición para contratar",
+    "AwardingCriteriaTypeCode: OBJ",
+    "Description: reducción plazo ejecución"
+   ],
+   "estado_panel": "abierta",
+   "categorias_txt": [],
+   "clientes_txt": [],
+   "puntuacion": 0,
+   "geo": {
+    "nombre": "Guadalajara",
+    "lat": 40.8,
+    "lon": -2.6,
+    "nivel": "provincia",
+    "codigo": "ES424"
+   }
+  },
+  {
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20447002",
+   "fuente": "PLACSP",
+   "titulo": "Suministro, transporte, montaje e instalación de un nuevo sistema de climatización en el TEATRO CINE COLÓN, y retirada del antiguo.",
+   "expediente": "3517/2026",
+   "organo": "Alcaldia del Ayuntamiento de Bonares",
+   "organo_padre": "Bonares",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Suministros",
+   "procedimiento": "Abierto simplificado",
+   "cpv": [
+    "39717200",
+    "42500000",
+    "45331000"
+   ],
+   "presupuesto_sin_iva": 35471.0,
+   "presupuesto_con_iva": 42919.91,
+   "valor_estimado": 35471.0,
+   "fecha_limite": "2026-10-02",
+   "hora_limite": "23:59:00",
+   "lugar": "Huelva",
+   "nuts": "ES615",
+   "ccaa": "Andalucía",
+   "municipio": "BONARES",
+   "duracion": "45 días",
+   "fondos_ue": "No hay financiación con fondos de la UE",
+   "n_lotes": 0,
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=3zjI8S4skNp9PLkba5eRog%3D%3D",
+   "documentos": [
+    {
+     "nombre": "Pliego administrativo (PCAP)",
+     "fichero": "173 PCAP CLIMATIZACION TEATRO CINE.pdf",
+     "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=bS2vzSXw6bfbT8fmapzu829MFjrL/TFK6uccn8tX9iTF2PrynneuYGYeXjcy889/TD3VSVOqDGrnuXKcAB/cIyBgBW2M7bLNF6a8nDshi1v6CYyL7SIrUOBFfNf52ZqA"
+    },
+    {
+     "nombre": "Pliego técnico (PPT)",
+     "fichero": "PLIEGO TECNICO EQUIPAMIENTO TEATRO.pdf",
+     "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=xVF4jQ94NKPLaGhCqf3nbBGkLbH2W8knTLrJhvaqAdVTJrz61NX/kKvPNRinRRUYWR3BEa2s7ppdYIyy5r/PRSqHVjDC%2Bpx4FiG/N/4/jvJt/o8fNevwsujgRzaBbugn"
+    }
+   ],
+   "fecha_publicacion": "2026-09-17",
+   "actualizado": "2026-09-17",
+   "categorias": [],
+   "clientes": [],
+   "creado": "2026-09-18T09:45:36",
+   "clasificacion": {
+    "exigida": true,
+    "certeza": "anuncio",
+    "codigos": [
+     "J-2"
+    ],
+    "categoria": null,
+    "texto": "Description: Capacidad de obrar · Description: Se autoriza la subcontratación parcial de las prestaciones accesorias objeto del contrato en los términos y con las condiciones que establece el artículo 215 de la Ley 9/2017. Ver cláusula 22 del PCAP. · Name: Consideraciones de tipo social · Description: Ver cláusula 20 del PCAP. · AwardingCriteriaTypeCode: OBJ · Description: PROPOSICIÓN ECONÓMICA · ",
+    "motivo": "La clasificación viene indicada en el propio anuncio de licitación. El grupo/subgrupo concreto no se ha podido leer: los mostrados son una propuesta.",
+    "descripciones": [
+     "Instalaciones de ventilación, calefacción y climatización"
+    ]
+   },
+   "clasificacion_txt": [
+    "Description: Capacidad de obrar",
+    "Description: Se autoriza la subcontratación parcial de las prestaciones accesorias objeto del contrato en los términos y con las condiciones que establece el artículo 215 de la Ley 9/2017. Ver cláusula 22 del PCAP.",
+    "Name: Consideraciones de tipo social",
+    "Description: Ver cláusula 20 del PCAP.",
+    "AwardingCriteriaTypeCode: OBJ",
+    "Description: PROPOSICIÓN ECONÓMICA",
+    "Note: Por la baja efectuada sobre el presupuesto de licitación: hasta 75 puntos.\r\n\r\nLas proposiciones económicas se valorarán asignando la puntuación máxima a la mejor oferta económica y cero puntos a la que coincida con el precio de licitación.\r\n\r\nSe asignará la puntuación máxima, 75 puntos, a la oferta de menor precio, asignándoles a las restantes, la parte proporcional correspondiente, según la fórmula siguiente:\r\n\r\nOferta económica: 75 puntos\r\nLa puntuación se obtendrá por aplicación de la siguiente fórmula:\r\nVa = 75 x Pmin/Pa\r\nDonde:\r\nVa = valoración correspondiente a la oferta a\r\nPmin = presupuesto mínimo ofertado\r\nPa = presupuesto a",
+    "WeightNumeric: 75",
+    "AwardingCriteriaTypeCode: OBJ",
+    "Description: PLAZO DE GARANTÍA",
+    "Note: Aumento del plazo de garantía por encima del mínimo exigido: hasta 25 puntos.\r\n\r\nCon respecto al aumento del plazo de garantía por encima del mínimo exigido:\r\nSe asignará la puntuación según lo descrito a continuación. Máximo 25 puntos.\r\n1 año       5 puntos\r\n2 años   15 puntos\r\n3 años   25 puntos",
+    "WeightNumeric: 25"
+   ],
+   "estado_panel": "abierta",
+   "categorias_txt": [],
+   "clientes_txt": [],
+   "puntuacion": 0,
+   "geo": {
+    "nombre": "Huelva",
+    "lat": 37.55,
+    "lon": -6.9,
+    "nivel": "provincia",
+    "codigo": "ES615"
+   }
+  },
+  {
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20447016",
+   "fuente": "PLACSP",
+   "titulo": "Mejora de eficiencia energética en edificio municipal",
+   "expediente": "MEJORA EFICIENCIA",
+   "organo": "Pleno del Ayuntamiento de Laluenga",
+   "organo_padre": "Laluenga",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Obras",
+   "procedimiento": "Abierto simplificado",
+   "cpv": [
+    "45200000"
+   ],
+   "presupuesto_sin_iva": 34417.36,
+   "presupuesto_con_iva": 41645.01,
+   "valor_estimado": 34417.36,
+   "fecha_limite": "2026-10-01",
+   "hora_limite": "23:00:00",
+   "lugar": "Huesca",
+   "nuts": "ES241",
+   "ccaa": "Aragón",
+   "municipio": "LALUENGA",
+   "duracion": "4 meses",
+   "fondos_ue": "No hay financiación con fondos de la UE",
+   "n_lotes": 0,
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=YIaI7ILu8nCTylGzYmBF9Q%3D%3D",
+   "documentos": [
+    {
+     "nombre": "Pliego administrativo (PCAP)",
+     "fichero": "fdo PLIEGO 15-09-26 APROBADO.pdf",
+     "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=CAI6Ufe7NPY3HelkQ2blyhkPrdKgZuThkSAg94tGb7rTmaOQPqC4uS8iANcaCqME36LY8fG%2BwvybyVfT5UXctTv/A2YTlFX1tVWiPbWXIOAZyAJWGsSt0OzTSTyw9JAs"
+    },
+    {
+     "nombre": "Pliego técnico (PPT)",
+     "fichero": "LALUENGA 30 juliooo_MV_EFICIENCIA ENERGETICA EDIFICIO MUNICIPAL_FDO.pdf",
+     "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=kutTZrV5DH3K7AbAmCd3BPbpUw9oE5xsfMpxCHfYa5/ZsiLAe1EyIcG/aGCf5/uTQ78yRGYSRP5w1L%2BeF0FRFe1L1BOf434%2BNSOGgtRQr%2BDDdQD9RyhUmzT4jZ2In4zL"
+    }
+   ],
+   "fecha_publicacion": "2026-09-17",
+   "actualizado": "2026-09-17",
+   "categorias": [
+    "eficiencia",
+    "edificios"
+   ],
+   "clientes": [
+    "comunidades"
+   ],
+   "creado": "2026-09-18T09:45:37",
+   "clasificacion": {
+    "exigida": true,
+    "certeza": "anuncio",
+    "codigos": [],
+    "categoria": null,
+    "texto": "Description: Cumplimiento con las obligaciones tributarias · Description: No prohibición para contratar · Description: Capacidad de obrar · Description: Cumplimiento con las obligaciones con la Seguridad Social · Description: No estar incurso en incompatibilidades · Name: Consideraciones de tipo medioambiental · Description: Deberá asistir un personal acreditado de la empresa en el momento de su a",
+    "motivo": "La clasificación viene indicada en el propio anuncio de licitación. El grupo/subgrupo concreto no se ha podido leer: los mostrados son una propuesta.",
+    "descripciones": []
+   },
+   "clasificacion_txt": [
+    "Description: Cumplimiento con las obligaciones tributarias",
+    "Description: No prohibición para contratar",
+    "Description: Capacidad de obrar",
+    "Description: Cumplimiento con las obligaciones con la Seguridad Social",
+    "Description: No estar incurso en incompatibilidades",
+    "Name: Consideraciones de tipo medioambiental",
+    "Description: Deberá asistir un personal acreditado de la empresa en el momento de su aplicación, para supervisar el proceso.",
+    "AwardingCriteriaTypeCode: OBJ",
+    "Description: precio",
+    "Note: se indicará el importe en la oferta escrita",
+    "WeightNumeric: 80",
+    "AwardingCriteriaTypeCode: OBJ"
+   ],
+   "estado_panel": "abierta",
+   "categorias_txt": [
+    "Eficiencia energética / descarbonización",
+    "Edificios / comunidades de propietarios"
+   ],
+   "clientes_txt": [
+    "Comunidades de propietarios / edificios"
+   ],
+   "puntuacion": 3,
+   "geo": {
+    "nombre": "Huesca",
+    "lat": 42.15,
+    "lon": -0.15,
+    "nivel": "provincia",
+    "codigo": "ES241"
+   }
+  },
+  {
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20447093",
+   "fuente": "PLACSP",
+   "titulo": "Contrato de suministro de equipos de climatización para el Edificio del Ayuntamiento de Sax y CEIP Cervantes y CEIP Colón. (2 LOTES)",
+   "expediente": "2289/2026",
+   "organo": "Alcaldía del Ayuntamiento de Sax",
+   "organo_padre": "Sax",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Suministros",
+   "procedimiento": "Abierto simplificado",
+   "cpv": [
+    "39717000",
+    "39717200",
+    "42512000",
+    "45331200"
+   ],
+   "presupuesto_sin_iva": 44876.03,
+   "presupuesto_con_iva": 54300.0,
+   "valor_estimado": 44876.03,
+   "fecha_limite": "2026-10-01",
+   "hora_limite": "14:00:00",
+   "lugar": "Alicante/Alacant",
+   "nuts": "ES521",
+   "ccaa": "Comunidad Valenciana",
+   "municipio": "Sax",
+   "duracion": "2 meses",
+   "fondos_ue": "No hay financiación con fondos de la UE",
+   "n_lotes": 2,
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=VtsWr21wEVb%2Fa9DgO%2BoYKQ%3D%3D",
+   "documentos": [
+    {
+     "nombre": "Pliego administrativo (PCAP)",
+     "fichero": "Pliego clausulas administrativas.pdf",
+     "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=zQS4GE5nt43d7wKn4ljZwV6renndO3qHlGtI0uaUca1ed9zY5Zc8sL/T3uBEubyiMtYH6f0qOkDZjcc6ZHbxKPzLTir4GXFIQsJSxEZ5pYnVTD3T98KC0nSgQFM0q%2B5s"
+    },
+    {
+     "nombre": "Pliego técnico (PPT)",
+     "fichero": "Pliego tecnico.pdf",
+     "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=AYDl4TiMGJXCBTxOmv4x4SbiZEWPbTD/3hKMC%2B0XVz%2Bfm/zYj7pOBDf3W2AWCUs/XoBucDKsrhWrhSUA9JqeIClnzxaoOV0MoiXYIkIXIp3fdyQgZAdTm3EfcUAC7CJ6"
+    }
+   ],
+   "fecha_publicacion": "2026-09-17",
+   "actualizado": "2026-09-17",
+   "categorias": [],
+   "clientes": [
+    "comunidades"
+   ],
+   "creado": "2026-09-18T09:45:37",
+   "clasificacion": {
+    "exigida": true,
+    "certeza": "anuncio",
+    "codigos": [
+     "J-2"
+    ],
+    "categoria": null,
+    "texto": "Description: Cumplimiento con las obligaciones con la Seguridad Social · Description: Capacidad de obrar · Description: No estar incurso en incompatibilidades · Description: Cumplimiento con las obligaciones tributarias · Description: No prohibición para contratar · Name: Consideraciones de tipo medioambiental · Description: en la ejecución del contrato se adoptarán medidas de\r\nahorro y eficiencia",
+    "motivo": "La clasificación viene indicada en el propio anuncio de licitación. El grupo/subgrupo concreto no se ha podido leer: los mostrados son una propuesta.",
+    "descripciones": [
+     "Instalaciones de ventilación, calefacción y climatización"
+    ]
+   },
+   "clasificacion_txt": [
+    "Description: Cumplimiento con las obligaciones con la Seguridad Social",
+    "Description: Capacidad de obrar",
+    "Description: No estar incurso en incompatibilidades",
+    "Description: Cumplimiento con las obligaciones tributarias",
+    "Description: No prohibición para contratar",
+    "Name: Consideraciones de tipo medioambiental",
+    "Description: en la ejecución del contrato se adoptarán medidas de\r\nahorro y eficiencia energética conforme a la Norma VDI 4707",
+    "Name: Consideraciones de tipo social",
+    "Description: la empresa adjudicataria, a lo largo de toda la ejecución del\r\ncontrato, deberá respetar todas las condiciones laborales y salariales recogidas en el\r\nconvenio colectivo sectorial de referencia, salvo que se establezcan condiciones\r\nmás beneficiosas.",
+    "AwardingCriteriaTypeCode: OBJ",
+    "Description: Mejora ampliación plazo de garantía",
+    "WeightNumeric: 20"
+   ],
+   "estado_panel": "abierta",
+   "categorias_txt": [],
+   "clientes_txt": [
+    "Comunidades de propietarios / edificios"
+   ],
+   "puntuacion": 1,
+   "geo": {
+    "nombre": "Alicante",
+    "lat": 38.5,
+    "lon": -0.6,
+    "nivel": "provincia",
+    "codigo": "ES521"
+   }
+  },
+  {
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20447287",
+   "fuente": "PLACSP",
+   "titulo": "Ejecución de la obra correspondiente al Proyecto de modernización del regadío en la Comunidad de Regantes Collarada 1ª sección (Huesca)",
+   "expediente": "ND-222801-EO-AR26",
+   "organo": "Sociedad Mercantil Estatal de Infraestructuras Agrarias, S.A. (SEIASA)",
+   "organo_padre": "SEIASA",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Obras",
+   "procedimiento": "Abierto",
+   "cpv": [
+    "09332000",
+    "44163000",
+    "45231110",
+    "45232120",
+    "45232121",
+    "45247270",
+    "45315500",
+    "45315600"
+   ],
+   "presupuesto_sin_iva": 22091061.5,
+   "presupuesto_con_iva": 26730184.42,
+   "valor_estimado": 22091061.5,
+   "fecha_limite": "2026-10-16",
+   "hora_limite": "14:00:00",
+   "lugar": "Huesca",
+   "nuts": "ES241",
+   "ccaa": "Aragón",
+   "municipio": null,
+   "duracion": "20 meses",
+   "fondos_ue": "Financiación con fondos de la UE",
+   "n_lotes": 0,
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=RveidjcQJul4zIRvjBVCSw%3D%3D",
+   "documentos": [
+    {
+     "nombre": "Pliego administrativo (PCAP)",
+     "fichero": "PCAP Abierto EO Collarada.pdf",
+     "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=hTHsCGTape1qokxq96SArOo%2BYvExN5e28ZwYvAAbnWKL49pev%2BhHAP3RzVeFfrk4nN3lfvKAbrW2PpiqJycB4qZFqrmN4wPC7zCJvlxsHcg//q7NB2iMZvNyf0xrJmjt"
+    }
+   ],
+   "fecha_publicacion": "2026-09-17",
+   "actualizado": "2026-09-17",
+   "categorias": [],
+   "clientes": [
+    "agro",
+    "industria"
+   ],
+   "creado": "2026-09-18T09:45:38",
+   "clasificacion": {
+    "exigida": true,
+    "certeza": "anuncio",
+    "codigos": [
+     "I-2",
+     "I-9"
+    ],
+    "categoria": null,
+    "texto": "ID: RequiredBusinessProfileCode · CodeValue: E6-6 · EvaluationCriteriaTypeCode: OXR-GESTMEDIOAMB · Description: Tener implantado un sistema de calidad en desarrollo de la norma internacional UNE-EN ISO-14001:2015, u otra norma equivalente. · EvaluationCriteriaTypeCode: XSR-CALIDAD · Description: Tener implantado un sistema de calidad en desarrollo de la norma internacional UNE-EN ISO 9001:2015 u o",
+    "motivo": "La clasificación viene indicada en el propio anuncio de licitación. El grupo/subgrupo concreto no se ha podido leer: los mostrados son una propuesta.",
+    "descripciones": [
+     "Centrales de producción de energía",
+     "Instalaciones eléctricas sin cualificación específica"
+    ]
+   },
+   "clasificacion_txt": [
+    "ID: RequiredBusinessProfileCode",
+    "CodeValue: E6-6",
+    "EvaluationCriteriaTypeCode: OXR-GESTMEDIOAMB",
+    "Description: Tener implantado un sistema de calidad en desarrollo de la norma internacional UNE-EN ISO-14001:2015, u otra norma equivalente.",
+    "EvaluationCriteriaTypeCode: XSR-CALIDAD",
+    "Description: Tener implantado un sistema de calidad en desarrollo de la norma internacional UNE-EN ISO 9001:2015 u otra norma equivalente.",
+    "Description: Cumplimiento con las obligaciones tributarias",
+    "Description: Capacidad de obrar",
+    "Description: Cumplimiento con las obligaciones con la Seguridad Social",
+    "Description: No prohibición para contratar",
+    "AwardingCriteriaTypeCode: SUBJ",
+    "Description: Memoria constructiva"
+   ],
+   "estado_panel": "abierta",
+   "categorias_txt": [],
+   "clientes_txt": [
+    "Sector agropecuario",
+    "Industria / empresas"
+   ],
+   "puntuacion": 2,
+   "geo": {
+    "nombre": "Huesca",
+    "lat": 42.15,
+    "lon": -0.15,
+    "nivel": "provincia",
+    "codigo": "ES241"
+   }
+  },
+  {
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20447296",
+   "fuente": "PLACSP",
+   "titulo": "Servicio de mantenimiento integral de las instalaciones solares fotovoltaicas, incluyendo las labores de mantenimiento preventivo, mantenimiento correctivo, limpieza especializada y apoyo técnico",
+   "expediente": "16/2026",
+   "organo": "Presidente de la Sociedad Municipal de Aparcamientos de Las Palmas de Gran Canaria, S.A. (SAGULPA)",
+   "organo_padre": "Sociedad Municipal de Aparcamientos de Las Palmas de Gran Canaria, S.A. (SAGULPA)",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Servicios",
+   "procedimiento": "Abierto",
+   "cpv": [
+    "50000000",
+    "50532000",
+    "50700000"
+   ],
+   "presupuesto_sin_iva": 50740.0,
+   "presupuesto_con_iva": 54291.8,
+   "valor_estimado": 287640.0,
+   "fecha_limite": "2026-10-21",
+   "hora_limite": "15:00:00",
+   "lugar": "Gran Canaria",
+   "nuts": "ES705",
+   "ccaa": "Canarias",
+   "municipio": null,
+   "duracion": "1 años",
+   "fondos_ue": "No hay financiación con fondos de la UE",
+   "n_lotes": 0,
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=Ex7h3qkQTR0mMOlAXxDEjw%3D%3D",
+   "documentos": [
+    {
+     "nombre": "Pliego administrativo (PCAP)",
+     "fichero": "16-2026 SV PCAP.pdf",
+     "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=ixFSWV94cKKU3FFcmaZQU19fpQZKziFCMbOtxffOtS4eMn4KHqkVkCQ2FSmwadjE7oFog0Ij56C/j50GtcS8aB9dCmOC2R9Lw%2BP7Firppig//q7NB2iMZvNyf0xrJmjt"
+    },
+    {
+     "nombre": "Pliego técnico (PPT)",
+     "fichero": "01_2026_-_PPT_Mantenimiento_ISF_FIRMADO.pdf",
+     "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=IDFZq6RFQhQ3nEI4NKB/3XQk/8FQElvliO5qW5CXS%2B%2BoEPWhixTUnByd8p6sliPwn9rPclnEAyxBTuh6LiqdJ/ggrd6Mrtn0wgRrIaVvJvcZyAJWGsSt0OzTSTyw9JAs"
+    }
+   ],
+   "fecha_publicacion": "2026-09-17",
+   "actualizado": "2026-09-17",
+   "categorias": [
+    "fotovoltaica"
+   ],
+   "clientes": [],
+   "creado": "2026-09-18T09:45:40",
+   "clasificacion": {
+    "exigida": true,
+    "certeza": "anuncio",
+    "codigos": [
+     "I-2"
+    ],
+    "categoria": null,
+    "texto": "PersonalSituation: Autorización como empresa instaladora de baja tensión en virtud del art 22 del Real Decreto 842/2002, de 2 de agosto, por el que se aprueba el Reglamento electrotécnico para baja tensión y sus instrucciones técnicas complementarias ITC BT 01 a BT 51 · EmployeeQuantityDescription: La licitadora deberá adscribir al contrato los perfiles detallados en apartado 15 concreción de cond",
+    "motivo": "La clasificación viene indicada en el propio anuncio de licitación. El grupo/subgrupo concreto no se ha podido leer: los mostrados son una propuesta.",
+    "descripciones": [
+     "Centrales de producción de energía"
+    ]
+   },
+   "clasificacion_txt": [
+    "PersonalSituation: Autorización como empresa instaladora de baja tensión en virtud del art 22 del Real Decreto 842/2002, de 2 de agosto, por el que se aprueba el Reglamento electrotécnico para baja tensión y sus instrucciones técnicas complementarias ITC BT 01 a BT 51",
+    "EmployeeQuantityDescription: La licitadora deberá adscribir al contrato los perfiles detallados en apartado 15 concreción de condiciones de solvencia del Anexo I al PCAP. Deberá aportar en este momento procedimental el Anexo III Modelo de escrito de adscripción de medios, presentándose la documentación acreditativa de dichos perfiles en fase de propuesto como adjudicatario",
+    "ID: RequiredBusinessProfileCode",
+    "CodeValue: P*-2",
+    "EvaluationCriteriaTypeCode: OSR-COMPTASK",
+    "Description: Para acreditar que se cuenta con la suficiencia técnica o profesional establecida en apartado 14 del Anexo I al PCAP, se debe aportar el DEUC (cláusula 23.1 del PCAP). Si se recurre a la solvencia de otras empresas, cada empresa externa debe aportar un DEUC",
+    "ThresholdQuantity: 201348",
+    "Description: Para acreditar que se cuenta con la suficiencia económica y financiera establecida apartado 14 del Anexo I al PCAP, se debe aportar el DEUC (cláusula 23.1 del PCAP)",
+    "ThresholdQuantity: 431460",
+    "RequirementTypeCode: 12",
+    "Description: Declaración sobre personas con discapacidad",
+    "Description: No prohibición para contratar"
+   ],
+   "estado_panel": "abierta",
+   "categorias_txt": [
+    "Solar FV / autoconsumo"
+   ],
+   "clientes_txt": [],
+   "puntuacion": 1,
+   "geo": {
+    "nombre": "Gran Canaria",
+    "lat": 27.95,
+    "lon": -15.6,
+    "nivel": "provincia",
+    "codigo": "ES705"
+   }
+  },
+  {
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20447347",
+   "fuente": "PLACSP",
+   "titulo": "Obras de Mejora de Eficiencia Energética en la Villa del Conocimiento y Las Artes de Mairena del Alcor para la Instalación de Planta Solar Fotovoltaica-Plan +Sevilla",
+   "expediente": "1280/2026",
+   "organo": "Concejal Delegado con Delegación Genérica de Urbanismo, Vivienda, Ordenación del Territorio, Digitalización Urbana, Fondos Europeos, Servicios, Parques y Jardines, Limpieza, Coordinación de barrios, Obras, Disciplina, Patrimonio, Medio Ambiente y Movilidad del Ayuntamiento de Mairena del Alcor",
+   "organo_padre": "Mairena del Alcor",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Obras",
+   "procedimiento": "Abierto simplificado",
+   "cpv": [
+    "45261215"
+   ],
+   "presupuesto_sin_iva": 74380.16,
+   "presupuesto_con_iva": 89999.99,
+   "valor_estimado": 74380.16,
+   "fecha_limite": "2026-10-07",
+   "hora_limite": "23:59:00",
+   "lugar": "Sevilla",
+   "nuts": "ES618",
+   "ccaa": "Andalucía",
+   "municipio": "MAIRENA DEL ALCOR",
+   "duracion": "3 meses",
+   "fondos_ue": "No hay financiación con fondos de la UE",
+   "n_lotes": 0,
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=BS4hZ485hZgadbH3CysQuQ%3D%3D",
+   "documentos": [
+    {
+     "nombre": "Pliego administrativo (PCAP)",
+     "fichero": "PCAP Cuadro OBRA EE VILLA CONOCIMIENTO 1280.pdf",
+     "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=zkCQWFCu2/Q395V4pKNlVfhxKsqJOg1HYPc2zUMEWVzJQNhSy4MlLASL/6DRFXJa1vPKfeZZ7tGTMpeZ1BuD3LMie6fl40UXSjQMeiZ/3zWCx2e6p7hqtlp2aFupgHMr"
+    },
+    {
+     "nombre": "Pliego técnico (PPT)",
+     "fichero": "PROY PLANTA FV EN VILLA DEL CONOCIMIENTO Y LAS ARTES.pdf",
+     "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=j2BxEbaf5RfZ35DGVaq95XTx4R9J5dAk/fdqhmlmNqYeiLwU/3ZG2NBtmQqQHKBpc8PZBI%2B26ZHUQZ4tmTQvDy/KInZUr4ABopbWGQckQ2Q//q7NB2iMZvNyf0xrJmjt"
+    }
+   ],
+   "fecha_publicacion": "2026-09-17",
+   "actualizado": "2026-09-17",
+   "categorias": [
+    "fotovoltaica",
+    "eficiencia"
+   ],
+   "clientes": [
+    "comunidades"
+   ],
+   "creado": "2026-09-18T09:45:40",
+   "clasificacion": {
+    "exigida": true,
+    "certeza": "anuncio",
+    "codigos": [
+     "I-2",
+     "C-7"
+    ],
+    "categoria": null,
+    "texto": "PersonalSituation: Registro EABT · EvaluationCriteriaTypeCode: OSR-COMPTASK · Description: Ver en PCAP · Description: Ver en PCAP · Description: Estar prerregistrado en el ROLECE, y declarar que no ha habido modificaciones en los datos registrados · Name: Consideraciones de tipo medioambiental · Description: Recogida selectiva de  los residuos generados durante la misma, realizando su deposito en ",
+    "motivo": "La clasificación viene indicada en el propio anuncio de licitación. El grupo/subgrupo concreto no se ha podido leer: los mostrados son una propuesta.",
+    "descripciones": [
+     "Centrales de producción de energía",
+     "Aislamientos e impermeabilizaciones"
+    ]
+   },
+   "clasificacion_txt": [
+    "PersonalSituation: Registro EABT",
+    "EvaluationCriteriaTypeCode: OSR-COMPTASK",
+    "Description: Ver en PCAP",
+    "Description: Ver en PCAP",
+    "Description: Estar prerregistrado en el ROLECE, y declarar que no ha habido modificaciones en los datos registrados",
+    "Name: Consideraciones de tipo medioambiental",
+    "Description: Recogida selectiva de  los residuos generados durante la misma, realizando su deposito en punto de gestor  de residuos autorizado",
+    "AwardingCriteriaTypeCode: OBJ",
+    "Description: Plazo Mantenimiento preventivo y predictivo",
+    "WeightNumeric: 25",
+    "AwardingCriteriaTypeCode: OBJ",
+    "Description: Mejora prevista en Proyecto"
+   ],
+   "estado_panel": "abierta",
+   "categorias_txt": [
+    "Solar FV / autoconsumo",
+    "Eficiencia energética / descarbonización"
+   ],
+   "clientes_txt": [
+    "Comunidades de propietarios / edificios"
+   ],
+   "puntuacion": 3,
+   "geo": {
+    "nombre": "Sevilla",
+    "lat": 37.4,
+    "lon": -5.85,
+    "nivel": "provincia",
+    "codigo": "ES618"
+   }
+  },
+  {
+   "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20450524",
+   "fuente": "Plataformas CCAA",
+   "titulo": "El projecte defineix els treballs per la construcció d'una coberta a la pista poliesportiva. Planteja el disseny i l'execució d'un cobriment exterior per la pista que ha de permetre:\n\nProtegir la pista poliesportiva de les inclemències meteorològiques.\n- Definir un àmbit confortable per a la pràctica dels diferents esports.\n- Augmentar els usos de la pista poliesportiva en hores i dies.\n- Suspendre de la coberta els equipaments esportius i d’enllumenat necessaris.\n- Disposar d’un espai apte per a la realització d’activitats diverses.\n- Oferir una superfície de captació solar fotovoltaica",
+   "expediente": "2026_394",
+   "organo": "Ajuntament de Castellfollit del Boix",
+   "organo_padre": "Entitats de l'administració local",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Obras",
+   "procedimiento": "Abierto simplificado",
+   "cpv": [
+    "45223210"
+   ],
+   "presupuesto_sin_iva": 683125.65,
+   "presupuesto_con_iva": null,
+   "valor_estimado": 683125.65,
+   "fecha_limite": "2026-10-13",
+   "hora_limite": "15:00:00",
+   "lugar": null,
+   "nuts": "ES511",
+   "ccaa": "Cataluña",
+   "municipio": null,
+   "duracion": "2027-01-18 → 2027-05-18",
+   "fondos_ue": "No hay financiación con fondos de la UE",
+   "n_lotes": 0,
+   "url": "https://contractaciopublica.cat/ca/detall-publicacio/eb06fa78-3500-4892-a636-9dc2b3e4b3a3/300883755",
+   "documentos": [
+    {
+     "nombre": "Pliego administrativo (PCAP)",
+     "fichero": "PCAP OBRES COBERTA PISTA POLIESPORTIVA.pdf",
+     "url": "https://contractaciopublica.cat/portal-api/descarrega-document/302598953/C91B94A9E2D89E81B15027ABF14D0C52"
+    },
+    {
+     "nombre": "Pliego técnico (PPT)",
+     "fichero": "20260414_PBE_SEGELLAT.pdf",
+     "url": "https://contractaciopublica.cat/portal-api/descarrega-document/302594931/D895FE0BBE8B8B4C6D0F0E537B63EA19"
+    }
+   ],
+   "fecha_publicacion": "2026-09-17",
+   "actualizado": "2026-09-17",
+   "categorias": [
+    "fotovoltaica"
+   ],
+   "clientes": [],
+   "creado": "2026-09-18T09:45:43",
+   "clasificacion": {
+    "exigida": true,
+    "certeza": "inferido",
+    "codigos": [
+     "I-2"
+    ],
+    "descripciones": [
+     "Centrales de producción de energía"
+    ],
+    "categoria": "3",
+    "anualidad_media": 683125.65,
+    "texto": null,
+    "motivo": "Contrato de obras con valor estimado 683.126 € ≥ 500.000 €: la clasificación es requisito indispensable (art. 77.1.a LCSP). Categoría 3 por anualidad media de 683.126 €."
+   },
+   "clasificacion_txt": [],
+   "estado_panel": "abierta",
+   "categorias_txt": [
+    "Solar FV / autoconsumo"
+   ],
+   "clientes_txt": [],
+   "puntuacion": 1,
+   "geo": {
+    "nombre": "Barcelona",
+    "lat": 41.65,
+    "lon": 1.95,
+    "nivel": "provincia",
+    "codigo": "ES511"
+   }
+  },
+  {
+   "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20450557",
+   "fuente": "Plataformas CCAA",
+   "titulo": "Contracte de serveis per a l'assistència tècnica de coordinació de seguretat i salut de les obres del projecte constructiu de millora de l’eficiència energètica, reducció d’emissions i autogeneració d’energia solar del túnel de Montant de Tost a la C-14 del PK 167+150 al 167+900. Fígols i Alinyà. Clau: PC-CGL-23128.F1",
+   "expediente": "CSS. PC-CGL-23128.F1",
+   "organo": "Infraestructures de la Generalitat de Catalunya, SAU",
+   "organo_padre": "Departaments i sector públic de la Generalitat de Catalunya",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Servicios",
+   "procedimiento": "Abierto simplificado",
+   "cpv": [
+    "71317210"
+   ],
+   "presupuesto_sin_iva": 12084.7,
+   "presupuesto_con_iva": null,
+   "valor_estimado": 12084.7,
+   "fecha_limite": "2026-10-05",
+   "hora_limite": "13:00:00",
+   "lugar": null,
+   "nuts": "ES513",
+   "ccaa": "Cataluña",
+   "municipio": null,
+   "duracion": "225 días",
+   "fondos_ue": "Financiación con fondos de la UE",
+   "n_lotes": 0,
+   "url": "https://contractaciopublica.cat/ca/detall-publicacio/e3d96357-9aed-44cc-85a1-ddbb8f6b3add/300884949",
+   "documentos": [
+    {
+     "nombre": "Pliego administrativo (PCAP)",
+     "fichero": "Plec de clàusules administratives.pdf",
+     "url": "https://contractaciopublica.cat/portal-api/descarrega-document/302598464/95890A6B026E3E89936E8CF6066C657E"
+    },
+    {
+     "nombre": "Pliego técnico (PPT)",
+     "fichero": "Enllaç del projecte PC-CGL-23128.F1.pdf",
+     "url": "https://contractaciopublica.cat/portal-api/descarrega-document/302598310/D2EE6124E13AD26A6A95A6C3297024E4"
+    }
+   ],
+   "fecha_publicacion": "2026-09-17",
+   "actualizado": "2026-09-17",
+   "categorias": [
+    "fotovoltaica",
+    "eficiencia"
+   ],
+   "clientes": [],
+   "creado": "2026-09-18T09:45:44",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 12084.7,
+    "texto": null,
+    "motivo": "Contrato de servicios: la clasificación no es exigible (art. 77.1.b LCSP), aunque puede presentarse para acreditar la solvencia."
+   },
+   "clasificacion_txt": [],
+   "estado_panel": "abierta",
+   "categorias_txt": [
+    "Solar FV / autoconsumo",
+    "Eficiencia energética / descarbonización"
+   ],
+   "clientes_txt": [],
+   "puntuacion": 2,
+   "geo": {
+    "nombre": "Lleida",
+    "lat": 41.95,
+    "lon": 1.05,
+    "nivel": "provincia",
+    "codigo": "ES513"
+   }
+  },
+  {
+   "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20450558",
+   "fuente": "Plataformas CCAA",
+   "titulo": "Contracte de serveis per a l’assistència tècnica de control de qualitat de les obres de \"Millora de l'eficiència energètica, reducció d'emissions i autogeneració d'energia solar del túnel de Montant de Tost a la C-14 del PK 167+150 al 167+900. Fígols i Alinyà\". Clau: PC-CGL-23128.F1",
+   "expediente": "CQ.PC-CGL-23128.F1",
+   "organo": "Infraestructures de la Generalitat de Catalunya, SAU",
+   "organo_padre": "Departaments i sector públic de la Generalitat de Catalunya",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Servicios",
+   "procedimiento": "Abierto simplificado",
+   "cpv": [
+    "71621000"
+   ],
+   "presupuesto_sin_iva": 13314.68,
+   "presupuesto_con_iva": null,
+   "valor_estimado": 13314.68,
+   "fecha_limite": "2026-10-05",
+   "hora_limite": "13:00:00",
+   "lugar": null,
+   "nuts": "ES513",
+   "ccaa": "Cataluña",
+   "municipio": null,
+   "duracion": "225 días",
+   "fondos_ue": "Financiación con fondos de la UE",
+   "n_lotes": 0,
+   "url": "https://contractaciopublica.cat/ca/detall-publicacio/eb708834-fb6e-4543-9555-60ac256ac176/300884907",
+   "documentos": [
+    {
+     "nombre": "Pliego administrativo (PCAP)",
+     "fichero": "Plec de clàusules administratives.pdf",
+     "url": "https://contractaciopublica.cat/portal-api/descarrega-document/302598213/807ED36A510296AF7F62C0358ADEBA42"
+    },
+    {
+     "nombre": "Pliego técnico (PPT)",
+     "fichero": "Pla de control de qualitat.pdf",
+     "url": "https://contractaciopublica.cat/portal-api/descarrega-document/302598214/A5E2B5D37FA45BE24508298276EE07DE"
+    }
+   ],
+   "fecha_publicacion": "2026-09-17",
+   "actualizado": "2026-09-17",
+   "categorias": [
+    "fotovoltaica",
+    "eficiencia"
+   ],
+   "clientes": [],
+   "creado": "2026-09-18T09:45:44",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 13314.68,
+    "texto": null,
+    "motivo": "Contrato de servicios: la clasificación no es exigible (art. 77.1.b LCSP), aunque puede presentarse para acreditar la solvencia."
+   },
+   "clasificacion_txt": [],
+   "estado_panel": "abierta",
+   "categorias_txt": [
+    "Solar FV / autoconsumo",
+    "Eficiencia energética / descarbonización"
+   ],
+   "clientes_txt": [],
+   "puntuacion": 2,
+   "geo": {
+    "nombre": "Lleida",
+    "lat": 41.95,
+    "lon": 1.05,
+    "nivel": "provincia",
+    "codigo": "ES513"
+   }
+  },
+  {
+   "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20450559",
+   "fuente": "Plataformas CCAA",
+   "titulo": "Contracte de serveis per a la direcció de les obres \"Millora de l'eficiència energètica, reducció d'emissions i autogeneració d'energia solar del túnel de Montant de Tost a la C-14 del PK 167+150 al 167+900. Fígols i Alinyà\". Clau: PC-CGL-23128.F1",
+   "expediente": "DO.PC-CGL-23128.F1",
+   "organo": "Infraestructures de la Generalitat de Catalunya, SAU",
+   "organo_padre": "Departaments i sector públic de la Generalitat de Catalunya",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Servicios",
+   "procedimiento": "Abierto simplificado",
+   "cpv": [
+    "71541000"
+   ],
+   "presupuesto_sin_iva": 108540.73,
+   "presupuesto_con_iva": null,
+   "valor_estimado": 130248.88,
+   "fecha_limite": "2026-10-05",
+   "hora_limite": "13:00:00",
+   "lugar": null,
+   "nuts": "ES513",
+   "ccaa": "Cataluña",
+   "municipio": null,
+   "duracion": "225 días",
+   "fondos_ue": "Financiación con fondos de la UE",
+   "n_lotes": 0,
+   "url": "https://contractaciopublica.cat/ca/detall-publicacio/1b1f5eec-ca1e-4f43-b39c-46578d628941/300884847",
+   "documentos": [
+    {
+     "nombre": "Pliego administrativo (PCAP)",
+     "fichero": "Plec de clàusules administratives.pdf",
+     "url": "https://contractaciopublica.cat/portal-api/descarrega-document/302598046/D15FFEB8F2C10B7527DBB51A873EBE1A"
+    },
+    {
+     "nombre": "Pliego técnico (PPT)",
+     "fichero": "Enllaç del projecte PC-CGL-23128.F1.pdf",
+     "url": "https://contractaciopublica.cat/portal-api/descarrega-document/302598047/D2EE6124E13AD26A6A95A6C3297024E4"
+    }
+   ],
+   "fecha_publicacion": "2026-09-17",
+   "actualizado": "2026-09-17",
+   "categorias": [
+    "fotovoltaica",
+    "eficiencia"
+   ],
+   "clientes": [],
+   "creado": "2026-09-18T09:45:44",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 130248.88,
+    "texto": null,
+    "motivo": "Contrato de servicios: la clasificación no es exigible (art. 77.1.b LCSP), aunque puede presentarse para acreditar la solvencia."
+   },
+   "clasificacion_txt": [],
+   "estado_panel": "abierta",
+   "categorias_txt": [
+    "Solar FV / autoconsumo",
+    "Eficiencia energética / descarbonización"
+   ],
+   "clientes_txt": [],
+   "puntuacion": 2,
+   "geo": {
+    "nombre": "Lleida",
+    "lat": 41.95,
+    "lon": 1.05,
+    "nivel": "provincia",
+    "codigo": "ES513"
+   }
+  },
+  {
    "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20426814",
    "fuente": "PLACSP",
    "titulo": "Ejecución de una instalación solar fotovoltaica para autoconsumo de 250 kW (289,08 kWp) en la Consejería de la Presidencia de la Junta de Castilla y León de Valladolid, según proyecto aprobado. Financiado con fondos FEDER.",
@@ -20049,7 +21327,7 @@
     }
    ],
    "fecha_publicacion": "2026-09-16",
-   "actualizado": "2026-09-16",
+   "actualizado": "2026-09-17",
    "categorias": [
     "fotovoltaica"
    ],
@@ -21083,6 +22361,282 @@
     "lon": -6.2,
     "nivel": "provincia",
     "codigo": "ES432"
+   }
+  },
+  {
+   "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20318917",
+   "fuente": "Plataformas CCAA",
+   "titulo": "0001289/2025 servicio integral todo riesgo mantenimiento y conservación de instalaciones, así como la gestión y mejora de la eficiencia energética del área de gestión sanitaria sur de granada, centros vinculados a la central provincial de compras de granada, mediante procedimiento abierto y presentación electrónica de ofertas (ase055-2025)",
+   "expediente": "CONTR 2026 0000275927",
+   "organo": "Servicio Andaluz de Salud",
+   "organo_padre": "Junta de Andalucía",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Servicios",
+   "procedimiento": "Abierto",
+   "cpv": [
+    "50710000"
+   ],
+   "presupuesto_sin_iva": 2196161.41,
+   "presupuesto_con_iva": null,
+   "valor_estimado": 4134528.5,
+   "fecha_limite": "2026-09-28",
+   "hora_limite": "15:00:00",
+   "lugar": null,
+   "nuts": "ES614",
+   "ccaa": "Andalucía",
+   "municipio": null,
+   "duracion": "36 meses",
+   "fondos_ue": "No hay financiación con fondos de la UE",
+   "n_lotes": 1,
+   "url": "https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=983153",
+   "documentos": [],
+   "fecha_publicacion": "2026-09-16",
+   "actualizado": "2026-09-17",
+   "categorias": [
+    "eficiencia"
+   ],
+   "clientes": [],
+   "creado": "2026-09-18T09:45:43",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 1378176.1666666667,
+    "texto": null,
+    "motivo": "Contrato de servicios: la clasificación no es exigible (art. 77.1.b LCSP), aunque puede presentarse para acreditar la solvencia."
+   },
+   "clasificacion_txt": [],
+   "estado_panel": "abierta",
+   "categorias_txt": [
+    "Eficiencia energética / descarbonización"
+   ],
+   "clientes_txt": [],
+   "puntuacion": 1,
+   "geo": {
+    "nombre": "Granada",
+    "lat": 37.3,
+    "lon": -3.3,
+    "nivel": "provincia",
+    "codigo": "ES614"
+   }
+  },
+  {
+   "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20438437",
+   "fuente": "Plataformas CCAA",
+   "titulo": "L'objecte de la present memòria descriptiva és definir i valorar econòmicament les actuacions necessàries per a la millora de les infraestructures municipals d'abastament d'aigua potable del municipi del Brull.\n\nLes actuacions previstes tenen com a finalitat millorar les condicions de subministrament d'aigua potable, garantir-ne la seguretat i la qualitat en temps d’escassetat d’aigua, així com assegurar el correcte funcionament de les instal·lacions existents.\n\nL'àmbit d'actuació inclou les instal·lacions municipals següents:\n\n-\tDipòsit del Brull (capçalera, ETAP i decantador).\n-\tDipòsit de Sant Jaume.",
+   "expediente": "2026_188",
+   "organo": "Ajuntament del Brull",
+   "organo_padre": "Entitats de l'administració local",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Obras",
+   "procedimiento": "Otros",
+   "cpv": [
+    "45232430",
+    "45261420",
+    "45262100",
+    "45311000",
+    "45315600",
+    "45331210",
+    "45340000",
+    "45432130"
+   ],
+   "presupuesto_sin_iva": 39619.0,
+   "presupuesto_con_iva": null,
+   "valor_estimado": 39619.0,
+   "fecha_limite": "2026-09-30",
+   "hora_limite": "23:45:00",
+   "lugar": null,
+   "nuts": "ES51",
+   "ccaa": "Cataluña",
+   "municipio": null,
+   "duracion": "1 meses",
+   "fondos_ue": "No hay financiación con fondos de la UE",
+   "n_lotes": 0,
+   "url": "https://contractaciopublica.cat/ca/detall-publicacio/c9ce4032-61c1-45c0-93df-435362ce296f/300877872",
+   "documentos": [
+    {
+     "nombre": "Pliego administrativo (PCAP)",
+     "fichero": "PLEC CLAUSULES ADMINISTRATIVES PARTICULARS.pdf",
+     "url": "https://contractaciopublica.cat/portal-api/descarrega-document/302576857/C6A21DD72080EB38332D99B2CE472D0A"
+    },
+    {
+     "nombre": "Pliego técnico (PPT)",
+     "fichero": "MEMORIA VALORADA.pdf",
+     "url": "https://contractaciopublica.cat/portal-api/descarrega-document/302576858/CF0BFD0905159F860706B3706577ADF7"
+    }
+   ],
+   "fecha_publicacion": "2026-09-16",
+   "actualizado": "2026-09-16",
+   "categorias": [],
+   "clientes": [],
+   "creado": "2026-09-18T09:45:45",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 39619.0,
+    "texto": null,
+    "motivo": "Contrato de obras con valor estimado 39.619 € < 500.000 €: no es exigible la clasificación (art. 77.1.a LCSP). El órgano puede pedir solvencia por otros medios. y la clasificación sirve para acreditarla."
+   },
+   "clasificacion_txt": [],
+   "estado_panel": "abierta",
+   "categorias_txt": [],
+   "clientes_txt": [],
+   "puntuacion": 0,
+   "geo": {
+    "nombre": "Cataluña",
+    "lat": 41.8,
+    "lon": 1.6,
+    "nivel": "ccaa",
+    "codigo": "ES51"
+   }
+  },
+  {
+   "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20438438",
+   "fuente": "Plataformas CCAA",
+   "titulo": "Les obres consisteixen en la rehabilitació de la coberta de l’edifici municipal, consistents en la retirada completa de la impermeabilització existent i l’execució d’un nou sistema d’impermeabilització que garanteix l’estanquitat de la coberta i la correcta conservació de l’immoble.\n\nEl contracte inclou actuacions complementàries consistents en la instal·lació d’una pica a l’interior del magatzem per facilitat les tasques de neteja dels estris de la brigada municipal, així com la prolongació de la xemeneia de la caldera de biomassa per reduir les molèsties que genera la seva alçada actual a les persones que transiten per la zona.",
+   "expediente": "2026_105",
+   "organo": "Ajuntament del Brull",
+   "organo_padre": "Entitats de l'administració local",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Obras",
+   "procedimiento": "Otros",
+   "cpv": [
+    "45261420",
+    "45261900",
+    "45330000",
+    "45331110",
+    "45332400"
+   ],
+   "presupuesto_sin_iva": 35777.43,
+   "presupuesto_con_iva": null,
+   "valor_estimado": 35777.43,
+   "fecha_limite": "2026-09-30",
+   "hora_limite": "23:45:00",
+   "lugar": null,
+   "nuts": "ES51",
+   "ccaa": "Cataluña",
+   "municipio": null,
+   "duracion": "1 meses",
+   "fondos_ue": "No hay financiación con fondos de la UE",
+   "n_lotes": 0,
+   "url": "https://contractaciopublica.cat/ca/detall-publicacio/5e079b90-cc78-44c7-8f8b-51524574480e/300877734",
+   "documentos": [
+    {
+     "nombre": "Pliego administrativo (PCAP)",
+     "fichero": "PLEC DE CLAUSULES ADMINISTRATIVES PARTICULARS.pdf",
+     "url": "https://contractaciopublica.cat/portal-api/descarrega-document/302576628/F29D08C91A1530EB5288864283A7F6B4"
+    },
+    {
+     "nombre": "Pliego técnico (PPT)",
+     "fichero": "PROJECTE.pdf",
+     "url": "https://contractaciopublica.cat/portal-api/descarrega-document/302576632/A79896ADA2C58065197A5222FB094039"
+    }
+   ],
+   "fecha_publicacion": "2026-09-16",
+   "actualizado": "2026-09-16",
+   "categorias": [],
+   "clientes": [],
+   "creado": "2026-09-18T09:45:46",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 35777.43,
+    "texto": null,
+    "motivo": "Contrato de obras con valor estimado 35.777 € < 500.000 €: no es exigible la clasificación (art. 77.1.a LCSP). El órgano puede pedir solvencia por otros medios. y la clasificación sirve para acreditarla."
+   },
+   "clasificacion_txt": [],
+   "estado_panel": "abierta",
+   "categorias_txt": [],
+   "clientes_txt": [],
+   "puntuacion": 0,
+   "geo": {
+    "nombre": "Cataluña",
+    "lat": 41.8,
+    "lon": 1.6,
+    "nivel": "ccaa",
+    "codigo": "ES51"
+   }
+  },
+  {
+   "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20438551",
+   "fuente": "Plataformas CCAA",
+   "titulo": "L'objecte del present contracte és el SUBMINISTRAMENT D’UNA BATERIA DE CONDENSADORS PER A L’EDAR LA ROCA. Aquesta prestació respon a la necessitat de cobrir les mancances de subministrament\na l'EDAR La Roca del Vallès, atès que CCB Serveis Mediambientals, SAU no compta amb mitjans propis suficients per a cobrir-les.",
+   "expediente": "2026/2092",
+   "organo": "CCB Serveis Mediambientals, SA",
+   "organo_padre": "Entitats de l'administració local",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Suministros",
+   "procedimiento": "Otros",
+   "cpv": [
+    "31711150"
+   ],
+   "presupuesto_sin_iva": 21860.0,
+   "presupuesto_con_iva": null,
+   "valor_estimado": 21860.0,
+   "fecha_limite": "2026-10-01",
+   "hora_limite": "13:30:00",
+   "lugar": null,
+   "nuts": "ES511",
+   "ccaa": "Cataluña",
+   "municipio": null,
+   "duracion": "1 meses",
+   "fondos_ue": "No hay financiación con fondos de la UE",
+   "n_lotes": 0,
+   "url": "https://contractaciopublica.cat/ca/detall-publicacio/6ce8cdfb-0f87-4dc0-af26-a399022e674b/300875132",
+   "documentos": [
+    {
+     "nombre": "Pliego administrativo (PCAP)",
+     "fichero": "2026_2092 PCAP.pdf",
+     "url": "https://contractaciopublica.cat/portal-api/descarrega-document/302568362/6EB422E0353360AE1BA4BED23DEE12A7"
+    },
+    {
+     "nombre": "Pliego técnico (PPT)",
+     "fichero": "2026_2092 PPT.pdf",
+     "url": "https://contractaciopublica.cat/portal-api/descarrega-document/302568369/CE068845230335B929B72A2F0DE68E27"
+    }
+   ],
+   "fecha_publicacion": "2026-09-16",
+   "actualizado": "2026-09-16",
+   "categorias": [
+    "baterias"
+   ],
+   "clientes": [],
+   "creado": "2026-09-18T09:45:46",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 21860.0,
+    "texto": null,
+    "motivo": "Contrato de suministros: la clasificación no es exigible; se acredita solvencia económica y técnica."
+   },
+   "clasificacion_txt": [],
+   "estado_panel": "abierta",
+   "categorias_txt": [
+    "Baterías / BESS"
+   ],
+   "clientes_txt": [],
+   "puntuacion": 1,
+   "geo": {
+    "nombre": "Barcelona",
+    "lat": 41.65,
+    "lon": 1.95,
+    "nivel": "provincia",
+    "codigo": "ES511"
    }
   },
   {
@@ -22509,7 +24063,7 @@
    "url": "https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=1006654",
    "documentos": [],
    "fecha_publicacion": "2026-09-14",
-   "actualizado": "2026-09-14",
+   "actualizado": "2026-09-17",
    "categorias": [],
    "clientes": [
     "industria"
@@ -22796,23 +24350,39 @@
     }
    ],
    "fecha_publicacion": "2026-09-11",
-   "actualizado": "2026-09-11",
+   "actualizado": "2026-09-17",
    "categorias": [
     "fotovoltaica"
    ],
    "clientes": [],
    "creado": "2026-09-15T12:25:34",
    "clasificacion": {
-    "exigida": false,
-    "certeza": "inferido",
-    "codigos": [],
-    "descripciones": [],
+    "exigida": true,
+    "certeza": "anuncio",
+    "codigos": [
+     "I-2"
+    ],
     "categoria": null,
-    "anualidad_media": 68925.62,
-    "texto": null,
-    "motivo": "Contrato de suministros: la clasificación no es exigible; se acredita solvencia económica y técnica."
+    "texto": "EvaluationCriteriaTypeCode: ZZZ · Description: (Solvencia Técnica) Los señalados en los pliegos adjunto al expediente. · EvaluationCriteriaTypeCode: ZZZ · Description: (Solvencia Económica) Los señalados en los pliegos adjunto al expediente. · AwardingCriteriaTypeCode: OBJ · Description: Fórmula de Revisión de Precios [2] · WeightNumeric: 75 · AwardingCriteriaTypeCode: OBJ · Description: Aspecto E",
+    "motivo": "La clasificación viene indicada en el propio anuncio de licitación. El grupo/subgrupo concreto no se ha podido leer: los mostrados son una propuesta.",
+    "descripciones": [
+     "Centrales de producción de energía"
+    ]
    },
-   "clasificacion_txt": null,
+   "clasificacion_txt": [
+    "EvaluationCriteriaTypeCode: ZZZ",
+    "Description: (Solvencia Técnica) Los señalados en los pliegos adjunto al expediente.",
+    "EvaluationCriteriaTypeCode: ZZZ",
+    "Description: (Solvencia Económica) Los señalados en los pliegos adjunto al expediente.",
+    "AwardingCriteriaTypeCode: OBJ",
+    "Description: Fórmula de Revisión de Precios [2]",
+    "WeightNumeric: 75",
+    "AwardingCriteriaTypeCode: OBJ",
+    "Description: Aspecto Económico (precio) [1]",
+    "WeightNumeric: 25",
+    "EndpointID: https://contrataciondelestado.es",
+    "ID: es"
+   ],
    "estado_panel": "abierta",
    "categorias_txt": [
     "Solar FV / autoconsumo"
@@ -23807,6 +25377,109 @@
    }
   },
   {
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20447045",
+   "fuente": "PLACSP",
+   "titulo": "El objeto del contrato es la realización de obras de mejoras de eficiencia energética de los edificios del C.E.I.P. Miguel Primo de Rivera en Alcántara (Cáceres), con la instalación de equipos de climatización por aerotermia e instalación de paneles fotovoltaicos para reducir el consumo energético exterior.",
+   "expediente": "178/2026 Ayuntamiento de Alcántara",
+   "organo": "Alcaldía del Ayuntamiento de Alcántara",
+   "organo_padre": "Alcántara",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Obras",
+   "procedimiento": "Abierto",
+   "cpv": [
+    "09330000",
+    "42510000",
+    "42512000",
+    "42512300",
+    "45300000"
+   ],
+   "presupuesto_sin_iva": 216679.95,
+   "presupuesto_con_iva": 262179.11,
+   "valor_estimado": 216679.95,
+   "fecha_limite": "2026-10-05",
+   "hora_limite": "23:59:00",
+   "lugar": "Cáceres",
+   "nuts": "ES432",
+   "ccaa": "Extremadura",
+   "municipio": "Alcántara",
+   "duracion": "4 meses",
+   "fondos_ue": "Financiación con fondos de la UE",
+   "n_lotes": 0,
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=JhbUOpKFT5Tua%2Fi14w%2FPLA%3D%3D",
+   "documentos": [
+    {
+     "nombre": "Pliego administrativo (PCAP)",
+     "fichero": "7_Pliego Clausulas Administrativas Particulares.pdf",
+     "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=tIIAFyAoxcGdLzsJeyaflCjwNpP3NGZpv4oUZ8LskT7Yxv1EZYX0U%2BV0eVwyQPyf30s32xO9jn3ExPvRiM7Wt24amPmACrOUm3s09kj4DGS1aXEvq3KHa/AEHgtDrQw0"
+    },
+    {
+     "nombre": "Pliego técnico (PPT)",
+     "fichero": "8_PPT-Proy Colegio-Subv eficiencia energ-COMBINADO.pdf",
+     "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=mBUcrkzOk2CPcdCFkFIfYGpiXbIkuFFk08gHmTisOKC4G%2BnR0FubFuZid6tyHvSB17l3Y2sqPxkDo5I0vKHQMjg/ePw65ZJq3/7PZabhuDa1aXEvq3KHa/AEHgtDrQw0"
+    }
+   ],
+   "fecha_publicacion": "2026-09-07",
+   "actualizado": "2026-09-17",
+   "categorias": [
+    "fotovoltaica",
+    "aerotermia",
+    "eficiencia",
+    "edificios"
+   ],
+   "clientes": [
+    "comunidades"
+   ],
+   "creado": "2026-09-18T09:45:37",
+   "clasificacion": {
+    "exigida": true,
+    "certeza": "anuncio",
+    "codigos": [
+     "J-2",
+     "I-2"
+    ],
+    "categoria": null,
+    "texto": "EvaluationCriteriaTypeCode: ZZZ · Description: DEUC (Documento Europeo Único de Contratación) · EvaluationCriteriaTypeCode: OSR-COMPTASK · Description: Documentación acreditativa del cumplimiento de la solvencia técnica y profesional · EvaluationCriteriaTypeCode: OXR-MEDIOS · Description: Declaración responsable relativa al compromiso de adscripción de medios personales y materiales. ANEXO III PCA",
+    "motivo": "La clasificación viene indicada en el propio anuncio de licitación. El grupo/subgrupo concreto no se ha podido leer: los mostrados son una propuesta.",
+    "descripciones": [
+     "Instalaciones de ventilación, calefacción y climatización",
+     "Centrales de producción de energía"
+    ]
+   },
+   "clasificacion_txt": [
+    "EvaluationCriteriaTypeCode: ZZZ",
+    "Description: DEUC (Documento Europeo Único de Contratación)",
+    "EvaluationCriteriaTypeCode: OSR-COMPTASK",
+    "Description: Documentación acreditativa del cumplimiento de la solvencia técnica y profesional",
+    "EvaluationCriteriaTypeCode: OXR-MEDIOS",
+    "Description: Declaración responsable relativa al compromiso de adscripción de medios personales y materiales. ANEXO III PCAP",
+    "EvaluationCriteriaTypeCode: ZZZ",
+    "Description: Declaración de ausencia de conflicto de intereses (DACI). ANEXO IV.",
+    "Description: Documentación acreditativa del cumplimiento de solvencia económica o financiera.",
+    "Description: No prohibición para contratar",
+    "Description: Capacidad de obrar",
+    "Description: No estar incurso en incompatibilidades"
+   ],
+   "estado_panel": "abierta",
+   "categorias_txt": [
+    "Solar FV / autoconsumo",
+    "Aerotermia / bomba de calor",
+    "Eficiencia energética / descarbonización",
+    "Edificios / comunidades de propietarios"
+   ],
+   "clientes_txt": [
+    "Comunidades de propietarios / edificios"
+   ],
+   "puntuacion": 5,
+   "geo": {
+    "nombre": "Cáceres",
+    "lat": 39.65,
+    "lon": -6.2,
+    "nivel": "provincia",
+    "codigo": "ES432"
+   }
+  },
+  {
    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20371745",
    "fuente": "Plataformas CCAA",
    "titulo": "Contractació obres de reparació menor de la coberta de l'edifici del Palau Firal de Sant Antoni de Calonge.",
@@ -24084,7 +25757,7 @@
     "EndDate: 2026-09-18",
     "EndTime: 23:59:00"
    ],
-   "estado_panel": "abierta",
+   "estado_panel": "cerrada",
    "categorias_txt": [],
    "clientes_txt": [],
    "puntuacion": 0,
@@ -24151,7 +25824,7 @@
     "motivo": "Contrato de suministros: la clasificación no es exigible; se acredita solvencia económica y técnica."
    },
    "clasificacion_txt": null,
-   "estado_panel": "abierta",
+   "estado_panel": "cerrada",
    "categorias_txt": [],
    "clientes_txt": [],
    "puntuacion": 0,
@@ -24220,7 +25893,7 @@
     "motivo": "Contrato de suministros: la clasificación no es exigible; se acredita solvencia económica y técnica."
    },
    "clasificacion_txt": null,
-   "estado_panel": "abierta",
+   "estado_panel": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización"
    ],
@@ -24595,6 +26268,78 @@
     "lon": -3.7,
     "nivel": "provincia",
     "codigo": "ES300"
+   }
+  },
+  {
+   "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20450564",
+   "fuente": "Plataformas CCAA",
+   "titulo": "Seleccionar los proveedores y la determinación/establecimiento de los servicios profesionales especializados de técnicos competentes y habilitados para la prestación de servicios propios del ámbito de la arquitectura, la ingeniería y otros afines que serán objeto de los futuros contratos basados (objeto, condiciones y características). Estas prestaciones son: redacción de proyectos técnicos, dictámenes e informes, de direcciones de obra y direcciones de ejecución, de asistencia técnica y asesoramiento, entre otros vinculados, que resultan necesarios para garantizar el óptimo estado del patrimonio inmobiliario de la Universidad, asegurar el cumplimiento de la normativa vigente en cada momento, y adaptar sus espacios a las necesidades de la actividad que le es propia. Las prestaciones objeto del presente acuerdo marco, y, en particular, las prestaciones definidas en los lotes 2 Servicios de asistencia técnica para obras de reforma interior y para proyectos de edificación de PEM < a 500.000 €. y lote 3 Servicios de asistencia técnica para obras de reforma interior y para proyectos de edificación de PEM > a 500.000 €, serán trabajos y obras que no tendrán un elemento creativo susceptible de producir productos amparados en el derecho a la propiedad intelectual, dado que serán obras ordinarias y funcionales, sin ninguna singularidad o distintividad innovadora. En consecuencia, quedarán excluidas del presente acuerdo marco aquellas prestaciones definidas en los lotes 2 Servicios de asistencia técnica para obras de reforma interior y para proyectos de edificación de PEM < a 500.000 €. y lote 3 Servicios de asistencia técnica para obras de reforma interior y para proyectos de edificación de PEM > a 500.000 € que tengan por objeto proyectos de edificación de nueva construcción, de rehabilitación o de reforma, y proyectos de urbanización, que resulten complejos, tanto en lo que respecta a la planificación, proyección y dirección de ejecución de obra.",
+   "expediente": "2026/49",
+   "organo": "Universitat de Barcelona",
+   "organo_padre": "Universitats",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Servicios",
+   "procedimiento": "Abierto",
+   "cpv": [
+    "71240000",
+    "71312000",
+    "71314300",
+    "71315300",
+    "71317200",
+    "71323200"
+   ],
+   "presupuesto_sin_iva": 1800000.0,
+   "presupuesto_con_iva": null,
+   "valor_estimado": 3960000.0,
+   "fecha_limite": "2026-09-30",
+   "hora_limite": "14:00:00",
+   "lugar": null,
+   "nuts": "ES511",
+   "ccaa": "Cataluña",
+   "municipio": null,
+   "duracion": "2 años",
+   "fondos_ue": "No hay financiación con fondos de la UE",
+   "n_lotes": 9,
+   "url": "https://contractaciopublica.cat/ca/detall-publicacio/0fa958f5-e946-49e1-8a03-27ec2076a81f/300884909",
+   "documentos": [
+    {
+     "nombre": "Pliego administrativo (PCAP)",
+     "fichero": "TD79_2 PCAP 2026_49 FINAL-tes-autom.pdf",
+     "url": "https://contractaciopublica.cat/portal-api/descarrega-document/302598180/EF5B2B4BFA2448B28E95C718B93083B8"
+    },
+    {
+     "nombre": "Pliego técnico (PPT)",
+     "fichero": "TD79_1 PPT 2026_49-tes-autom.pdf",
+     "url": "https://contractaciopublica.cat/portal-api/descarrega-document/302598182/8CBFF40B02D26D74DE09B7E3CA891045"
+    }
+   ],
+   "fecha_publicacion": "2026-09-02",
+   "actualizado": "2026-09-17",
+   "categorias": [],
+   "clientes": [],
+   "creado": "2026-09-18T09:45:44",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 1980000.0,
+    "texto": null,
+    "motivo": "Contrato de servicios: la clasificación no es exigible (art. 77.1.b LCSP), aunque puede presentarse para acreditar la solvencia."
+   },
+   "clasificacion_txt": [],
+   "estado_panel": "abierta",
+   "categorias_txt": [],
+   "clientes_txt": [],
+   "puntuacion": 0,
+   "geo": {
+    "nombre": "Barcelona",
+    "lat": 41.65,
+    "lon": 1.95,
+    "nivel": "provincia",
+    "codigo": "ES511"
    }
   },
   {
@@ -25054,6 +26799,99 @@
    }
   },
   {
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20359090",
+   "fuente": "PLACSP",
+   "titulo": "Obra de adecuación  de los equipos de medida de la instalación fotovoltaica de Alojera (La Gomera) para su adaptación a la configuración tipo 2, en el marco del encargo La Gomera 100% Sostenible, consistente en el apoyo técnico al Cabildo de la Gomera para el seguimiento y operación sostenible de los proyectos ejecutados por el ITC.",
+   "expediente": "1136/2026",
+   "organo": "Instituto Tecnológico de Canarias S.A.",
+   "organo_padre": "Instituto Tecnológico de Canarias, S.A.",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Obras",
+   "procedimiento": "Abierto simplificado",
+   "cpv": [
+    "45310000",
+    "45315600",
+    "45331220"
+   ],
+   "presupuesto_sin_iva": 85792.34,
+   "presupuesto_con_iva": 91797.8,
+   "valor_estimado": 94371.57,
+   "fecha_limite": "2026-09-21",
+   "hora_limite": "23:59:00",
+   "lugar": "Canarias",
+   "nuts": "ES70",
+   "ccaa": "Canarias",
+   "municipio": "T.M. de Vallehermoso, Santa Cruz de Tenerife (La Gomera).",
+   "duracion": "1 meses",
+   "fondos_ue": "No hay financiación con fondos de la UE",
+   "n_lotes": 0,
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=xfILHXczrzNVq4S9zvaQpQ%3D%3D",
+   "documentos": [
+    {
+     "nombre": "Pliego administrativo (PCAP)",
+     "fichero": "2 PCAP AS Obra adecuacion equipos fotovoltaica alojera La Gomera exp 1136 26.pdf",
+     "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=Si449QGzdmfJuag40UbOqh49WEdBSFs5cxU4tvujunRcwet8lUmO2h4pA6MAsyy3A/nzgbBrkuNMRU7NUbA2a6dq0QcOarRQZqPGYO3qcBoC1/zDIE0Kw/PWNnLS0Z0z"
+    },
+    {
+     "nombre": "Pliego técnico (PPT)",
+     "fichero": "3 PPT AS Obra Alojera 1136 2026.pdf",
+     "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=nl2CIIasNXLyPzPjc/bAZ2dI%2BteXSlSE6bkiJ73D/f4GOcr1w57S8l%2BCnWMDS6/S/nOUYPe5rgLwUn/D9MIp4TCRHagkIbaN/sDcDvvGv6f6CYyL7SIrUOBFfNf52ZqA"
+    }
+   ],
+   "fecha_publicacion": "2026-08-28",
+   "actualizado": "2026-09-17",
+   "categorias": [
+    "fotovoltaica"
+   ],
+   "clientes": [],
+   "creado": "2026-09-18T09:45:33",
+   "clasificacion": {
+    "exigida": true,
+    "certeza": "anuncio",
+    "codigos": [
+     "J-2",
+     "I-9",
+     "I-2"
+    ],
+    "categoria": null,
+    "texto": "PersonalSituation: Empresa instaladora especialista en Baja Tensión · EvaluationCriteriaTypeCode: OSR-COMPTASK · Description: Debe cumplimentarse con firma digital reconocida el modelo de solicitud de participación y declaración responsable anexo al pliego (Anexo I), en la que deben figurar los datos solicitados de la persona licitadora, especificando una dirección de correo electrónico habilitada",
+    "motivo": "La clasificación viene indicada en el propio anuncio de licitación. El grupo/subgrupo concreto no se ha podido leer: los mostrados son una propuesta.",
+    "descripciones": [
+     "Instalaciones de ventilación, calefacción y climatización",
+     "Instalaciones eléctricas sin cualificación específica",
+     "Centrales de producción de energía"
+    ]
+   },
+   "clasificacion_txt": [
+    "PersonalSituation: Empresa instaladora especialista en Baja Tensión",
+    "EvaluationCriteriaTypeCode: OSR-COMPTASK",
+    "Description: Debe cumplimentarse con firma digital reconocida el modelo de solicitud de participación y declaración responsable anexo al pliego (Anexo I), en la que deben figurar los datos solicitados de la persona licitadora, especificando una dirección de correo electrónico habilitada, en la que el Órgano de contratación podrá realizar las notificaciones derivadas de la presente contratación (como medio adicional a la PLACSP). \r\nEste documento suplirá en la fase de licitación la documentación relativa a capacidad de obrar, personalidad, representación y solvencia económica, financiera y técnica de acuerdo a lo establecido en el segundo párrafo del artículo 159.4.c) de la LCSP.\r\nA idénticos efectos el licitador podrá, a su elección, presentar alternativamente el Documento Europeo Único de contratación (DEUC).",
+    "ThresholdQuantity: 66060.1",
+    "EvaluationCriteriaTypeCode: XXR-SUBCONT",
+    "Description: Debe cumplimentarse con firma digital reconocida el modelo de solicitud de participación y declaración responsable anexo al pliego (Anexo I), en la que deben figurar los datos solicitados de la persona licitadora, especificando una dirección de correo electrónico habilitada, en la que el Órgano de contratación podrá realizar las notificaciones derivadas de la presente contratación (como medio adicional a la PLACSP). \r\nEste documento suplirá en la fase de licitación la documentación relativa a capacidad de obrar, personalidad, representación y solvencia económica, financiera y técnica de acuerdo a lo establecido en el segundo párrafo del artículo 159.4.c) de la LCSP.\r\nA idénticos efectos el licitador podrá, a su elección, presentar alternativamente el Documento Europeo Único de contratación (DEUC).",
+    "Description: Debe cumplimentarse con firma digital reconocida el modelo de solicitud de participación y declaración responsable anexo al pliego (Anexo I), en la que deben figurar los datos solicitados de la persona licitadora, especificando una dirección de correo electrónico habilitada, en la que el Órgano de contratación podrá realizar las notificaciones derivadas de la presente contratación (como medio adicional a la PLACSP). \r\nEste documento suplirá en la fase de licitación la documentación relativa a capacidad de obrar, personalidad, representación y solvencia económica, financiera y técnica de acuerdo a lo establecido en el segundo párrafo del artículo 159.4.c) de la LCSP.\r\nA idénticos efectos el licitador podrá, a su elección, presentar alternativamente el Documento Europeo Único de contratación (DEUC).",
+    "ThresholdQuantity: 66060.1",
+    "Description: Debe cumplimentarse con firma digital reconocida el modelo de solicitud de participación y declaración responsable anexo al pliego (Anexo I), en la que deben figurar los datos solicitados de la persona licitadora, especificando una dirección de correo electrónico habilitada, en la que el Órgano de contratación podrá realizar las notificaciones derivadas de la presente contratación (como medio adicional a la PLACSP). \r\nEste documento suplirá en la fase de licitación la documentación relativa a capacidad de obrar, personalidad, representación y solvencia económica, financiera y técnica de acuerdo a lo establecido en el segundo párrafo del artículo 159.4.c) de la LCSP.\r\nA idénticos efectos el licitador podrá, a su elección, presentar alternativamente el Documento Europeo Único de contratación (DEUC).",
+    "Description: Debe cumplimentarse con firma digital reconocida el modelo de solicitud de participación y declaración responsable anexo Anexo I al pliego, en la que deben figurar los datos solicitados de la persona licitadora, especificando una dirección de correo electrónico habilitada, en la que el Órgano de contratación podrá realizar las notificaciones derivadas de la presente contratación, como medio adicional a la PLACSP- Este documento suplirá en la fase de licitación la documentación relativa a capacidad de obrar, personalidad, representación y solvencia económica, financiera y técnica de acuerdo a lo establecido en el segundo párrafo del artículo 159.4.c de la LCSP. A idénticos efectos el licitador podrá, a su elección, presentar alternativamente el Documento Europeo Único de contratación -DEUC-.",
+    "ThresholdQuantity: 66060.1",
+    "Description: Cumplimiento con las obligaciones tributarias"
+   ],
+   "estado_panel": "abierta",
+   "categorias_txt": [
+    "Solar FV / autoconsumo"
+   ],
+   "clientes_txt": [],
+   "puntuacion": 1,
+   "geo": {
+    "nombre": "Canarias",
+    "lat": 28.3,
+    "lon": -16.0,
+    "nivel": "ccaa",
+    "codigo": "ES70"
+   }
+  },
+  {
    "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20350344",
    "fuente": "PLACSP",
    "titulo": "Instalación de un sistema de refrigeración centralizado, paneles fotovoltaicos y seis puntos de recarga para vehículos eléctricos en la Residencia del CoE C-IED del EMAD",
@@ -25111,7 +26949,7 @@
     "motivo": "Contrato de obras con valor estimado 494.287 € < 500.000 €: no es exigible la clasificación (art. 77.1.a LCSP). El órgano puede pedir solvencia por otros medios. y la clasificación sirve para acreditarla."
    },
    "clasificacion_txt": null,
-   "estado_panel": "abierta",
+   "estado_panel": "cerrada",
    "categorias_txt": [
     "Solar FV / autoconsumo",
     "Movilidad eléctrica / recarga"
@@ -25916,6 +27754,77 @@
    }
   },
   {
+   "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20229425",
+   "fuente": "Plataformas CCAA",
+   "titulo": "El objeto del contrato es la ejecución de la primera fase del proyecto de REFORMA DEL POLIDEPORTIVO MUNICIPAL DE DERIO, que aborda el vestíbulo de acceso y espacios adyacentes, con el fin de mejorar su funcionalidad, accesibilidad, eficiencia energética e imagen arquitectónica, así como adecuar los espacios de acceso, circulación y atención a las necesidades actuales de uso del equipamiento deportivo municipal.",
+   "expediente": "2087/2026",
+   "organo": "Ayuntamiento de Derio-Pleno",
+   "organo_padre": "Ayuntamiento de Derio",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Obras",
+   "procedimiento": "Abierto simplificado",
+   "cpv": [
+    "45210000"
+   ],
+   "presupuesto_sin_iva": 1979404.96,
+   "presupuesto_con_iva": null,
+   "valor_estimado": 1979404.96,
+   "fecha_limite": "2026-09-22",
+   "hora_limite": "10:00:00",
+   "lugar": null,
+   "nuts": "ES213",
+   "ccaa": "País Vasco",
+   "municipio": null,
+   "duracion": "252 días",
+   "fondos_ue": "No hay financiación con fondos de la UE",
+   "n_lotes": 0,
+   "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso733391/es_doc/index.html",
+   "documentos": [
+    {
+     "nombre": "Pliego administrativo (PCAP)",
+     "fichero": "4. PCAP 2087-2026_obra DUK.pdf",
+     "url": "https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13311890&R01HNoPortal=true"
+    },
+    {
+     "nombre": "Pliego técnico (PPT)",
+     "fichero": "2. PPT - P.E. visado.zip",
+     "url": "https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13311888&R01HNoPortal=true"
+    }
+   ],
+   "fecha_publicacion": "2026-08-03",
+   "actualizado": "2026-09-17",
+   "categorias": [
+    "eficiencia"
+   ],
+   "clientes": [],
+   "creado": "2026-09-18T09:45:42",
+   "clasificacion": {
+    "exigida": true,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": "4",
+    "anualidad_media": 1979404.96,
+    "texto": null,
+    "motivo": "Contrato de obras con valor estimado 1.979.405 € ≥ 500.000 €: la clasificación es requisito indispensable (art. 77.1.a LCSP). Categoría 4 por anualidad media de 1.979.405 €."
+   },
+   "clasificacion_txt": [],
+   "estado_panel": "abierta",
+   "categorias_txt": [
+    "Eficiencia energética / descarbonización"
+   ],
+   "clientes_txt": [],
+   "puntuacion": 1,
+   "geo": {
+    "nombre": "Bizkaia",
+    "lat": 43.25,
+    "lon": -2.85,
+    "nivel": "provincia",
+    "codigo": "ES213"
+   }
+  },
+  {
    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20194156",
    "fuente": "Plataformas CCAA",
    "titulo": "actuacion 01servicio de autoconsumo compartido y recursos de energía \r\ndistribuidos (der), incluyendo b2g",
@@ -26106,21 +28015,21 @@
    "duracion": "225 días",
    "fondos_ue": "Financiación con fondos de la UE",
    "n_lotes": 2,
-   "url": "https://contractaciopublica.cat/ca/detall-publicacio/4cb27674-2dfb-497f-b306-2c15e3c6b444/300881830",
+   "url": "https://contractaciopublica.cat/ca/detall-publicacio/4cb27674-2dfb-497f-b306-2c15e3c6b444/300884561",
    "documentos": [
     {
      "nombre": "Pliego administrativo (PCAP)",
      "fichero": "Plec de clàusules administratives.pdf",
-     "url": "https://contractaciopublica.cat/portal-api/descarrega-document/302588706/58315452B373192C58DFB9421856CA06"
+     "url": "https://contractaciopublica.cat/portal-api/descarrega-document/302597414/77122E6FA3BBC03494FC3178D7B60903"
     },
     {
      "nombre": "Pliego técnico (PPT)",
      "fichero": "Enllaç del projecte PC-CGL-23128.F1.pdf",
-     "url": "https://contractaciopublica.cat/portal-api/descarrega-document/302588707/D2EE6124E13AD26A6A95A6C3297024E4"
+     "url": "https://contractaciopublica.cat/portal-api/descarrega-document/302597413/D2EE6124E13AD26A6A95A6C3297024E4"
     }
    ],
    "fecha_publicacion": "2026-07-31",
-   "actualizado": "2026-09-14",
+   "actualizado": "2026-09-16",
    "categorias": [
     "fotovoltaica",
     "eficiencia"
@@ -26286,23 +28195,39 @@
     }
    ],
    "fecha_publicacion": "2026-07-28",
-   "actualizado": "2026-09-03",
+   "actualizado": "2026-09-17",
    "categorias": [],
    "clientes": [
     "comunidades"
    ],
    "creado": "2026-09-04T22:53:13",
    "clasificacion": {
-    "exigida": false,
-    "certeza": "inferido",
-    "codigos": [],
-    "descripciones": [],
+    "exigida": true,
+    "certeza": "anuncio",
+    "codigos": [
+     "J-2"
+    ],
     "categoria": null,
-    "anualidad_media": 319993.82,
-    "texto": null,
-    "motivo": "Contrato de obras con valor estimado 319.994 € < 500.000 €: no es exigible la clasificación (art. 77.1.a LCSP). El órgano puede pedir solvencia por otros medios. y la clasificación sirve para acreditarla."
+    "texto": "PersonalSituation: Estar inscrito en los siguientes Registros:\r\n-Empresas Acreditadas (REA) del sector de la construcción.\r\n-Empresa Instaladora de Instalaciones Térmicas en los Edificios (RITE): habilitada de acuerdo con el Real Decreto 1027/2007, de 20 de julio, por el que se aprueba el Reglamento de Instalaciones Térmicas en los Edificios.\r\n•Empresa Mantenedora de Instalaciones Térmicas en los ",
+    "motivo": "La clasificación viene indicada en el propio anuncio de licitación. El grupo/subgrupo concreto no se ha podido leer: los mostrados son una propuesta.",
+    "descripciones": [
+     "Instalaciones de ventilación, calefacción y climatización"
+    ]
    },
-   "clasificacion_txt": null,
+   "clasificacion_txt": [
+    "PersonalSituation: Estar inscrito en los siguientes Registros:\r\n-Empresas Acreditadas (REA) del sector de la construcción.\r\n-Empresa Instaladora de Instalaciones Térmicas en los Edificios (RITE): habilitada de acuerdo con el Real Decreto 1027/2007, de 20 de julio, por el que se aprueba el Reglamento de Instalaciones Térmicas en los Edificios.\r\n•Empresa Mantenedora de Instalaciones Térmicas en los Edificios (RITE): habilitada de acuerdo con el citado Real Decreto 1027/2007.\r\n•Empresa Instaladora de Instalaciones Frigoríficas: habilitada de acuerdo con el Real Decreto 552/2019, de 27 de septiembre, por el que se aprueba el Reglamento de Seguridad para Instalaciones Frigoríficas y sus Instrucciones Técnicas Complementarias.\r\n•Certificado de Empresa para la manipulación de gases fluorados: la empresa deberá estar en posesión del certificado previsto en el Real Decreto 115/2017, de 17 de febrero, por el que se regula la comercialización y manipulación de gases fluorados y equipos basados en los mismos, así como la certificación de los profesionales que los utilizan.",
+    "EvaluationCriteriaTypeCode: OXR-TITULOS",
+    "Description: Según se detalla en el apartado H.2 del Resumen de características del contrato del Pliego de Cláusulas Administrativas Particulares que rige la licitación.",
+    "EvaluationCriteriaTypeCode: OSR-COMPTASK",
+    "Description: Según se detalla en el apartado H.2 del Resumen de características del contrato del Pliego de Cláusulas Administrativas Particulares que rige la licitación.",
+    "Description: Según se detalla en el apartado H.1 del Resumen de características del contrato del Pliego de Cláusulas Administrativas Particulares que rige la licitación.",
+    "Description: Capacidad de obrar",
+    "Name: Consideraciones de tipo social",
+    "Description: Según lo especificado en el apartado N del Resumen de Características del Pliego de Cláusulas Administrativas Particulares",
+    "Name: Consideraciones de tipo medioambiental",
+    "Description: Según lo especificado en el apartado N del Resumen de Características del Pliego de Cláusulas Administrativas Particulares",
+    "AwardingCriteriaTypeCode: OBJ"
+   ],
    "estado_panel": "abierta",
    "categorias_txt": [],
    "clientes_txt": [
@@ -26538,7 +28463,7 @@
     "motivo": "Contrato de servicios: la clasificación no es exigible (art. 77.1.b LCSP), aunque puede presentarse para acreditar la solvencia."
    },
    "clasificacion_txt": null,
-   "estado_panel": "abierta",
+   "estado_panel": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización"
    ],
@@ -26690,7 +28615,7 @@
     "motivo": "Contrato de servicios: la clasificación no es exigible (art. 77.1.b LCSP), aunque puede presentarse para acreditar la solvencia."
    },
    "clasificacion_txt": [],
-   "estado_panel": "abierta",
+   "estado_panel": "cerrada",
    "categorias_txt": [
     "Solar FV / autoconsumo"
    ],
@@ -293620,6 +295545,39 @@
  },
  "ejecuciones": [
   {
+   "id": 48,
+   "inicio": "2026-09-19T10:02:03",
+   "fin": "2026-09-19T10:07:10",
+   "ok": 1,
+   "nuevas_convocatorias": 1,
+   "nuevas_noticias": 0,
+   "resumenes": 25,
+   "errores": [],
+   "nuevas_licitaciones": 0
+  },
+  {
+   "id": 47,
+   "inicio": "2026-09-18T09:41:55",
+   "fin": "2026-09-18T09:48:02",
+   "ok": 1,
+   "nuevas_convocatorias": 0,
+   "nuevas_noticias": 0,
+   "resumenes": 25,
+   "errores": [],
+   "nuevas_licitaciones": 22
+  },
+  {
+   "id": 46,
+   "inicio": "2026-09-18T09:41:39",
+   "fin": "2026-09-18T09:41:39",
+   "ok": 1,
+   "nuevas_convocatorias": 0,
+   "nuevas_noticias": 0,
+   "resumenes": 0,
+   "errores": [],
+   "nuevas_licitaciones": 0
+  },
+  {
    "id": 45,
    "inicio": "2026-09-17T08:30:03",
    "fin": "2026-09-17T08:38:40",
@@ -293750,39 +295708,6 @@
    "resumenes": 1,
    "errores": [],
    "nuevas_licitaciones": 0
-  },
-  {
-   "id": 33,
-   "inicio": "2026-09-15T12:41:57",
-   "fin": "2026-09-15T12:41:57",
-   "ok": 1,
-   "nuevas_convocatorias": 0,
-   "nuevas_noticias": 0,
-   "resumenes": 0,
-   "errores": [],
-   "nuevas_licitaciones": 0
-  },
-  {
-   "id": 32,
-   "inicio": "2026-09-15T12:17:40",
-   "fin": "2026-09-15T12:25:34",
-   "ok": 1,
-   "nuevas_convocatorias": 0,
-   "nuevas_noticias": 1,
-   "resumenes": 0,
-   "errores": [],
-   "nuevas_licitaciones": 18
-  },
-  {
-   "id": 31,
-   "inicio": "2026-09-14T13:32:01",
-   "fin": "2026-09-14T13:32:33",
-   "ok": 1,
-   "nuevas_convocatorias": 0,
-   "nuevas_noticias": 1,
-   "resumenes": 0,
-   "errores": [],
-   "nuevas_licitaciones": 0
   }
  ],
  "categorias": {
@@ -293808,9 +295733,9 @@
   "abiertas": 61,
   "por_confirmar": 9,
   "proximas": 0,
-  "licitaciones_abiertas": 214,
-  "licitaciones_nuevas_7d": 3087,
-  "nuevas_7d": 3,
+  "licitaciones_abiertas": 230,
+  "licitaciones_nuevas_7d": 3109,
+  "nuevas_7d": 2,
   "noticias_7d": 2
  }
 }
