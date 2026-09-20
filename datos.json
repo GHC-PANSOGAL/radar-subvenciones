@@ -1,5 +1,5 @@
 {
- "generado": "19/09/2026 10:07",
+ "generado": "20/09/2026 10:49",
  "version": "1.11.3",
  "convocatorias": [
   {
@@ -66,7 +66,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 28164,
    "creado": "2026-09-19T10:02:09",
-   "actualizado": "2026-09-19T10:03:30",
+   "actualizado": "2026-09-20T10:45:53",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización"
@@ -475,7 +475,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 23379,
    "creado": "2026-09-04T17:58:22",
-   "actualizado": "2026-09-19T10:03:40",
+   "actualizado": "2026-09-20T10:46:01",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -563,7 +563,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 23379,
    "creado": "2026-09-04T17:58:23",
-   "actualizado": "2026-09-19T10:03:47",
+   "actualizado": "2026-09-20T10:46:09",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -649,7 +649,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 120000,
    "creado": "2026-09-04T17:58:27",
-   "actualizado": "2026-09-19T10:03:58",
+   "actualizado": "2026-09-20T10:46:19",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -933,7 +933,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 63067,
    "creado": "2026-09-04T17:58:28",
-   "actualizado": "2026-09-19T10:04:06",
+   "actualizado": "2026-09-20T10:46:28",
    "estado": "abierta",
    "categorias_txt": [
     "Baterías / BESS",
@@ -1016,7 +1016,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 14773,
    "creado": "2026-09-04T17:58:29",
-   "actualizado": "2026-09-19T10:04:13",
+   "actualizado": "2026-09-20T10:46:35",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -1101,7 +1101,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 52417,
    "creado": "2026-09-04T17:58:43",
-   "actualizado": "2026-09-19T10:04:42",
+   "actualizado": "2026-09-20T10:47:12",
    "estado": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -1335,7 +1335,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 22620,
    "creado": "2026-09-04T17:58:20",
-   "actualizado": "2026-09-19T10:04:49",
+   "actualizado": "2026-09-20T10:47:20",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -1573,7 +1573,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 56452,
    "creado": "2026-09-04T17:58:23",
-   "actualizado": "2026-09-19T10:04:57",
+   "actualizado": "2026-09-20T10:47:30",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -1661,7 +1661,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 39954,
    "creado": "2026-09-04T17:58:24",
-   "actualizado": "2026-09-19T10:05:05",
+   "actualizado": "2026-09-20T10:47:38",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -1817,7 +1817,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 120000,
    "creado": "2026-09-04T17:58:21",
-   "actualizado": "2026-09-19T10:05:13",
+   "actualizado": "2026-09-20T10:47:46",
    "estado": "abierta",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -1968,7 +1968,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 60222,
    "creado": "2026-09-04T17:58:44",
-   "actualizado": "2026-09-19T10:05:22",
+   "actualizado": "2026-09-20T10:47:57",
    "estado": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -2199,7 +2199,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 78060,
    "creado": "2026-09-04T17:58:25",
-   "actualizado": "2026-09-19T10:05:30",
+   "actualizado": "2026-09-20T10:48:06",
    "estado": "abierta",
    "categorias_txt": [
     "Baterías / BESS",
@@ -2352,7 +2352,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 6429,
    "creado": "2026-09-04T17:58:37",
-   "actualizado": "2026-09-19T10:05:38",
+   "actualizado": "2026-09-20T10:48:15",
    "estado": "abierta",
    "categorias_txt": [
     "Energías renovables",
@@ -2514,7 +2514,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 34476,
    "creado": "2026-09-04T17:58:26",
-   "actualizado": "2026-09-19T10:05:49",
+   "actualizado": "2026-09-20T10:48:27",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -3107,7 +3107,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 68931,
    "creado": "2026-09-04T17:58:50",
-   "actualizado": "2026-09-19T10:05:59",
+   "actualizado": "2026-09-20T10:48:37",
    "estado": "abierta",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -3198,7 +3198,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:51",
-   "actualizado": "2026-09-19T10:06:06",
+   "actualizado": "2026-09-20T10:48:45",
    "estado": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -3351,7 +3351,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:53",
-   "actualizado": "2026-09-19T10:06:14",
+   "actualizado": "2026-09-20T10:48:53",
    "estado": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -3436,7 +3436,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:53",
-   "actualizado": "2026-09-19T10:06:21",
+   "actualizado": "2026-09-20T10:49:01",
    "estado": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -3596,7 +3596,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 53328,
    "creado": "2026-09-04T17:58:55",
-   "actualizado": "2026-09-19T10:06:29",
+   "actualizado": "2026-09-20T10:49:10",
    "estado": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -3683,7 +3683,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 11094,
    "creado": "2026-09-04T17:58:38",
-   "actualizado": "2026-09-19T10:06:36",
+   "actualizado": "2026-09-20T10:49:18",
    "estado": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -4044,7 +4044,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 44144,
    "creado": "2026-09-04T17:58:40",
-   "actualizado": "2026-09-19T10:06:45",
+   "actualizado": "2026-09-20T10:49:27",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -4474,7 +4474,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 5300,
    "creado": "2026-09-16T19:41:13",
-   "actualizado": "2026-09-19T10:06:52",
+   "actualizado": "2026-09-20T10:49:35",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -4961,7 +4961,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 2596,
    "creado": "2026-09-16T19:41:15",
-   "actualizado": "2026-09-19T10:06:59",
+   "actualizado": "2026-09-20T10:49:42",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -5375,7 +5375,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 70874,
    "creado": "2026-09-16T19:40:46",
-   "actualizado": "2026-09-19T10:07:09",
+   "actualizado": "2026-09-20T10:49:52",
    "estado": "abierta",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -20089,6 +20089,278 @@
  ],
  "licitaciones": [
   {
+   "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20463510",
+   "fuente": "Plataformas CCAA",
+   "titulo": "Contracte d'obres per a la Renovació de la climatització de la Casa de la Vila d'Ulldecona",
+   "expediente": "4315670005-2026-0001871",
+   "organo": "Ajuntament d'Ulldecona",
+   "organo_padre": "Entitats de l'administració local",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Obras",
+   "procedimiento": "Abierto simplificado",
+   "cpv": [
+    "45331000"
+   ],
+   "presupuesto_sin_iva": 99173.56,
+   "presupuesto_con_iva": null,
+   "valor_estimado": 99173.56,
+   "fecha_limite": "2026-10-08",
+   "hora_limite": "23:59:59",
+   "lugar": null,
+   "nuts": "ES514",
+   "ccaa": "Cataluña",
+   "municipio": null,
+   "duracion": "4 meses",
+   "fondos_ue": "No hay financiación con fondos de la UE",
+   "n_lotes": 0,
+   "url": "https://contractaciopublica.cat/ca/detall-publicacio/9be48584-b708-4ab8-9e60-186ca0c1542c/300886756",
+   "documentos": [
+    {
+     "nombre": "Pliego administrativo (PCAP)",
+     "fichero": "Plec de clàusules.pdf",
+     "url": "https://contractaciopublica.cat/portal-api/descarrega-document/302604312/6C5FCF124B601D14B6B4C1E753D421C9"
+    },
+    {
+     "nombre": "Pliego técnico (PPT)",
+     "fichero": "Projecte.pdf",
+     "url": "https://contractaciopublica.cat/portal-api/descarrega-document/302604596/3160F4721F72032D1395DA0882E147AA"
+    }
+   ],
+   "fecha_publicacion": "2026-09-18",
+   "actualizado": "2026-09-18",
+   "categorias": [],
+   "clientes": [],
+   "creado": "2026-09-20T10:45:44",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 99173.56,
+    "texto": null,
+    "motivo": "Contrato de obras con valor estimado 99.174 € < 500.000 €: no es exigible la clasificación (art. 77.1.a LCSP). El órgano puede pedir solvencia por otros medios. y la clasificación sirve para acreditarla."
+   },
+   "clasificacion_txt": [],
+   "estado_panel": "abierta",
+   "categorias_txt": [],
+   "clientes_txt": [],
+   "puntuacion": 0,
+   "geo": {
+    "nombre": "Tarragona",
+    "lat": 41.15,
+    "lon": 0.8,
+    "nivel": "provincia",
+    "codigo": "ES514"
+   }
+  },
+  {
+   "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20463545",
+   "fuente": "Plataformas CCAA",
+   "titulo": "Servicios de promoción y difusión de las Oficinas Locales de Transición Energética de Andalucía (OLTEAN)",
+   "expediente": "EXPT26-00074",
+   "organo": "Sociedad Andaluza para el Desarrollo de las Telecomunicaciones, S.A. (SANDETEL)",
+   "organo_padre": "Junta de Andalucía",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Servicios",
+   "procedimiento": "Abierto",
+   "cpv": [
+    "79340000",
+    "79342200"
+   ],
+   "presupuesto_sin_iva": 190550.9,
+   "presupuesto_con_iva": null,
+   "valor_estimado": 206144.23,
+   "fecha_limite": "2026-10-05",
+   "hora_limite": "12:00:00",
+   "lugar": null,
+   "nuts": "ES61",
+   "ccaa": "Andalucía",
+   "municipio": null,
+   "duracion": "36 meses",
+   "fondos_ue": "Financiación con fondos de la UE",
+   "n_lotes": 0,
+   "url": "https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=1008188",
+   "documentos": [],
+   "fecha_publicacion": "2026-09-18",
+   "actualizado": "2026-09-18",
+   "categorias": [
+    "eficiencia"
+   ],
+   "clientes": [],
+   "creado": "2026-09-20T10:45:44",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 68714.74333333333,
+    "texto": null,
+    "motivo": "Contrato de servicios: la clasificación no es exigible (art. 77.1.b LCSP), aunque puede presentarse para acreditar la solvencia."
+   },
+   "clasificacion_txt": [],
+   "estado_panel": "abierta",
+   "categorias_txt": [
+    "Eficiencia energética / descarbonización"
+   ],
+   "clientes_txt": [],
+   "puntuacion": 1,
+   "geo": {
+    "nombre": "Andalucía",
+    "lat": 37.45,
+    "lon": -4.8,
+    "nivel": "ccaa",
+    "codigo": "ES61"
+   }
+  },
+  {
+   "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20463615",
+   "fuente": "Plataformas CCAA",
+   "titulo": "Sustitución de alumbrado por tecnología LED del campo de fútbol Aranbizkarra para la reducción del consumo energético",
+   "expediente": "2026/CO_SOBR/0035",
+   "organo": "Ayuntamiento de Vitoria-Gasteiz-Junta de Gobierno Local",
+   "organo_padre": "Ayuntamiento de Vitoria-Gasteiz",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Obras",
+   "procedimiento": "Abierto simplificado",
+   "cpv": [
+    "45316100"
+   ],
+   "presupuesto_sin_iva": 30404.95,
+   "presupuesto_con_iva": null,
+   "valor_estimado": 36485.94,
+   "fecha_limite": "2026-10-19",
+   "hora_limite": "14:00:00",
+   "lugar": null,
+   "nuts": "ES211",
+   "ccaa": "País Vasco",
+   "municipio": null,
+   "duracion": "1 meses",
+   "fondos_ue": "No hay financiación con fondos de la UE",
+   "n_lotes": 0,
+   "url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso740940/es_doc/index.html",
+   "documentos": [
+    {
+     "nombre": "Pliego administrativo (PCAP)",
+     "fichero": "Pliego_Clausulas_Administrativas_Particulares SOBR 0035.pdf",
+     "url": "https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13326784&R01HNoPortal=true"
+    },
+    {
+     "nombre": "Pliego técnico (PPT)",
+     "fichero": "MEMORIA SOBR 0035.pdf",
+     "url": "https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13326785&R01HNoPortal=true"
+    }
+   ],
+   "fecha_publicacion": "2026-09-18",
+   "actualizado": "2026-09-18",
+   "categorias": [
+    "eficiencia"
+   ],
+   "clientes": [],
+   "creado": "2026-09-20T10:45:44",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 36485.94,
+    "texto": null,
+    "motivo": "Contrato de obras con valor estimado 36.486 € < 500.000 €: no es exigible la clasificación (art. 77.1.a LCSP). El órgano puede pedir solvencia por otros medios. y la clasificación sirve para acreditarla."
+   },
+   "clasificacion_txt": [],
+   "estado_panel": "abierta",
+   "categorias_txt": [
+    "Eficiencia energética / descarbonización"
+   ],
+   "clientes_txt": [],
+   "puntuacion": 1,
+   "geo": {
+    "nombre": "Araba/Álava",
+    "lat": 42.85,
+    "lon": -2.7,
+    "nivel": "provincia",
+    "codigo": "ES211"
+   }
+  },
+  {
+   "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20463723",
+   "fuente": "Plataformas CCAA",
+   "titulo": "L’actuació preveu la implantació d’una marquesina autoportant sobre l’aparcament existent, amb una superfície aproximada de 144,00 m², destinada a proporcionar ombra a les places d’aparcament i, al mateix temps, servir de suport a una instal·lació fotovoltaica per a autoconsum municipal.\nEl projecte té per finalitat definir tècnicament i econòmicament l’actuació, justificar-ne la viabilitat constructiva i funcional, obtenir les autoritzacions o llicències que siguin necessàries i presentar-se als diferents organismes per a l’obtenció de subvencions i finançament de l’obra.\nAquesta actuació s’emmarca dins el Pla ImpulsDipta – Pla de cooperació mitjançant concertació amb municipis i entitats municipals descentralitzades de la Diputació de Tarragona, concretament dins les actuacions de transició ecològica, atès que incorpora una instal·lació d’energia solar fotovoltaica destinada a fomentar l’ús d’energies renovables, reduir el consum energètic procedent de fonts convencionals i contribuir a la mitigació del canvi climàtic. El Pla ImpulsDipta inclou dins el programa de transició ecològica les actuacions d’adquisició i instal·lació d’energies renovables, inclosa l’energia solar fotovoltaica.",
+   "expediente": "4302340003-2026-0000201",
+   "organo": "Ajuntament de Bellmunt del Priorat",
+   "organo_padre": "Entitats de l'administració local",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Obras",
+   "procedimiento": "Otros",
+   "cpv": [
+    "45223800"
+   ],
+   "presupuesto_sin_iva": 63762.04,
+   "presupuesto_con_iva": null,
+   "valor_estimado": 63762.04,
+   "fecha_limite": "2026-10-02",
+   "hora_limite": "23:59:00",
+   "lugar": null,
+   "nuts": "ES514",
+   "ccaa": "Cataluña",
+   "municipio": null,
+   "duracion": "1 meses",
+   "fondos_ue": "No hay financiación con fondos de la UE",
+   "n_lotes": 0,
+   "url": "https://contractaciopublica.cat/ca/detall-publicacio/7c1c21eb-1bc1-49bc-a747-1985f517364b/300885749",
+   "documentos": [
+    {
+     "nombre": "Pliego administrativo (PCAP)",
+     "fichero": "3108.2 PCAP OBRES OBERT SIMPLIFICAT SUMARI.pdf",
+     "url": "https://contractaciopublica.cat/portal-api/descarrega-document/302601170/1CB8BE180333220C8BDE6D2C3C1BE50C"
+    },
+    {
+     "nombre": "Pliego técnico (PPT)",
+     "fichero": "PROJECTE MARQUESINA APARCAMENT PANELLS SOLARS_signat.pdf",
+     "url": "https://contractaciopublica.cat/portal-api/descarrega-document/302601171/4436DF27E268A3FC3008D91D3033C618"
+    }
+   ],
+   "fecha_publicacion": "2026-09-18",
+   "actualizado": "2026-09-18",
+   "categorias": [
+    "fotovoltaica",
+    "renovables"
+   ],
+   "clientes": [],
+   "creado": "2026-09-20T10:45:44",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 63762.04,
+    "texto": null,
+    "motivo": "Contrato de obras con valor estimado 63.762 € < 500.000 €: no es exigible la clasificación (art. 77.1.a LCSP). El órgano puede pedir solvencia por otros medios. y la clasificación sirve para acreditarla."
+   },
+   "clasificacion_txt": [],
+   "estado_panel": "abierta",
+   "categorias_txt": [
+    "Solar FV / autoconsumo",
+    "Energías renovables"
+   ],
+   "clientes_txt": [],
+   "puntuacion": 2,
+   "geo": {
+    "nombre": "Tarragona",
+    "lat": 41.15,
+    "lon": 0.8,
+    "nivel": "provincia",
+    "codigo": "ES514"
+   }
+  },
+  {
    "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20446849",
    "fuente": "PLACSP",
    "titulo": "Obras para el Departamento de Salud Valencia Doctor Peset, con condiciones especiales de ejecución de carácter ambiental. 2 Lotes.",
@@ -24123,7 +24395,7 @@
    "url": "https://www.contratosdegalicia.gal/licitacion?N=829117",
    "documentos": [],
    "fecha_publicacion": "2026-09-11",
-   "actualizado": "2026-09-14",
+   "actualizado": "2026-09-18",
    "categorias": [
     "aerotermia"
    ],
@@ -25538,6 +25810,77 @@
     "motivo": "Contrato de obras con valor estimado 128.676 € < 500.000 €: no es exigible la clasificación (art. 77.1.a LCSP). El órgano puede pedir solvencia por otros medios. y la clasificación sirve para acreditarla."
    },
    "clasificacion_txt": null,
+   "estado_panel": "abierta",
+   "categorias_txt": [],
+   "clientes_txt": [],
+   "puntuacion": 0,
+   "geo": {
+    "nombre": "Girona",
+    "lat": 42.05,
+    "lon": 2.7,
+    "nivel": "provincia",
+    "codigo": "ES512"
+   }
+  },
+  {
+   "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20463578",
+   "fuente": "Plataformas CCAA",
+   "titulo": "Contractació obres de reparació menor de la coberta de l'edifici del Palau Firal de Sant Antoni de Calonge.",
+   "expediente": "2026/10400",
+   "organo": "Ajuntament de Calonge i Sant Antoni",
+   "organo_padre": "Entitats de l'administració local",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Obras",
+   "procedimiento": "Abierto simplificado",
+   "cpv": [
+    "09332000",
+    "45261420",
+    "45261900",
+    "45310000",
+    "45331000"
+   ],
+   "presupuesto_sin_iva": 128675.63,
+   "presupuesto_con_iva": null,
+   "valor_estimado": 128675.63,
+   "fecha_limite": "2026-09-24",
+   "hora_limite": "23:59:59",
+   "lugar": null,
+   "nuts": "ES512",
+   "ccaa": "Cataluña",
+   "municipio": null,
+   "duracion": "2026-09-25 → 2027-01-01",
+   "fondos_ue": "No hay financiación con fondos de la UE",
+   "n_lotes": 0,
+   "url": "https://contractaciopublica.cat/ca/detall-publicacio/e4315edc-13c4-4af8-bb9d-8185f1bc8112/300886687",
+   "documentos": [
+    {
+     "nombre": "Pliego administrativo (PCAP)",
+     "fichero": "PCAP OBRES COBERTURA PALAU FIRAL .pdf",
+     "url": "https://contractaciopublica.cat/portal-api/descarrega-document/302604009/6A7E8D32A7F8CFFE00391DD739C0841A"
+    },
+    {
+     "nombre": "Pliego técnico (PPT)",
+     "fichero": "INFORME TÈCNIC.pdf",
+     "url": "https://contractaciopublica.cat/portal-api/descarrega-document/302604010/66903E0C41744419008C339C71A5D711"
+    }
+   ],
+   "fecha_publicacion": "2026-09-04",
+   "actualizado": "2026-09-18",
+   "categorias": [],
+   "clientes": [],
+   "creado": "2026-09-20T10:45:44",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 128675.63,
+    "texto": null,
+    "motivo": "Contrato de obras con valor estimado 128.676 € < 500.000 €: no es exigible la clasificación (art. 77.1.a LCSP). El órgano puede pedir solvencia por otros medios. y la clasificación sirve para acreditarla."
+   },
+   "clasificacion_txt": [],
    "estado_panel": "abierta",
    "categorias_txt": [],
    "clientes_txt": [],
@@ -27870,7 +28213,7 @@
    "url": "https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=981992",
    "documentos": [],
    "fecha_publicacion": "2026-07-31",
-   "actualizado": "2026-09-15",
+   "actualizado": "2026-09-18",
    "categorias": [
     "fotovoltaica",
     "comunidades_energeticas"
@@ -295545,6 +295888,17 @@
  },
  "ejecuciones": [
   {
+   "id": 49,
+   "inicio": "2026-09-20T10:44:57",
+   "fin": "2026-09-20T10:49:52",
+   "ok": 1,
+   "nuevas_convocatorias": 0,
+   "nuevas_noticias": 0,
+   "resumenes": 25,
+   "errores": [],
+   "nuevas_licitaciones": 5
+  },
+  {
    "id": 48,
    "inicio": "2026-09-19T10:02:03",
    "fin": "2026-09-19T10:07:10",
@@ -295697,17 +296051,6 @@
    "resumenes": 0,
    "errores": [],
    "nuevas_licitaciones": 0
-  },
-  {
-   "id": 34,
-   "inicio": "2026-09-15T12:42:06",
-   "fin": "2026-09-15T12:47:35",
-   "ok": 1,
-   "nuevas_convocatorias": 1,
-   "nuevas_noticias": 0,
-   "resumenes": 1,
-   "errores": [],
-   "nuevas_licitaciones": 0
   }
  ],
  "categorias": {
@@ -295733,8 +296076,8 @@
   "abiertas": 61,
   "por_confirmar": 9,
   "proximas": 0,
-  "licitaciones_abiertas": 230,
-  "licitaciones_nuevas_7d": 3109,
+  "licitaciones_abiertas": 235,
+  "licitaciones_nuevas_7d": 3108,
   "nuevas_7d": 2,
   "noticias_7d": 2
  }
