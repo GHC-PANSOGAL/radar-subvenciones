@@ -1,5 +1,5 @@
 {
- "generado": "20/09/2026 10:49",
+ "generado": "21/09/2026 12:59",
  "version": "1.11.3",
  "convocatorias": [
   {
@@ -66,7 +66,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 28164,
    "creado": "2026-09-19T10:02:09",
-   "actualizado": "2026-09-20T10:45:53",
+   "actualizado": "2026-09-21T12:55:37",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización"
@@ -475,7 +475,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 23379,
    "creado": "2026-09-04T17:58:22",
-   "actualizado": "2026-09-20T10:46:01",
+   "actualizado": "2026-09-21T12:55:44",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -563,7 +563,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 23379,
    "creado": "2026-09-04T17:58:23",
-   "actualizado": "2026-09-20T10:46:09",
+   "actualizado": "2026-09-21T12:55:52",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -649,7 +649,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 120000,
    "creado": "2026-09-04T17:58:27",
-   "actualizado": "2026-09-20T10:46:19",
+   "actualizado": "2026-09-21T12:56:04",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -933,7 +933,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 63067,
    "creado": "2026-09-04T17:58:28",
-   "actualizado": "2026-09-20T10:46:28",
+   "actualizado": "2026-09-21T12:56:12",
    "estado": "abierta",
    "categorias_txt": [
     "Baterías / BESS",
@@ -1016,7 +1016,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 14773,
    "creado": "2026-09-04T17:58:29",
-   "actualizado": "2026-09-20T10:46:35",
+   "actualizado": "2026-09-21T12:56:19",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -1101,7 +1101,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 52417,
    "creado": "2026-09-04T17:58:43",
-   "actualizado": "2026-09-20T10:47:12",
+   "actualizado": "2026-09-21T12:56:44",
    "estado": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -1335,7 +1335,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 22620,
    "creado": "2026-09-04T17:58:20",
-   "actualizado": "2026-09-20T10:47:20",
+   "actualizado": "2026-09-21T12:56:51",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -1573,7 +1573,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 56452,
    "creado": "2026-09-04T17:58:23",
-   "actualizado": "2026-09-20T10:47:30",
+   "actualizado": "2026-09-21T12:56:59",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -1661,7 +1661,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 39954,
    "creado": "2026-09-04T17:58:24",
-   "actualizado": "2026-09-20T10:47:38",
+   "actualizado": "2026-09-21T12:57:07",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -1817,7 +1817,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 120000,
    "creado": "2026-09-04T17:58:21",
-   "actualizado": "2026-09-20T10:47:46",
+   "actualizado": "2026-09-21T12:57:15",
    "estado": "abierta",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -1968,7 +1968,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 60222,
    "creado": "2026-09-04T17:58:44",
-   "actualizado": "2026-09-20T10:47:57",
+   "actualizado": "2026-09-21T12:57:23",
    "estado": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -2199,7 +2199,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 78060,
    "creado": "2026-09-04T17:58:25",
-   "actualizado": "2026-09-20T10:48:06",
+   "actualizado": "2026-09-21T12:57:31",
    "estado": "abierta",
    "categorias_txt": [
     "Baterías / BESS",
@@ -2352,7 +2352,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 6429,
    "creado": "2026-09-04T17:58:37",
-   "actualizado": "2026-09-20T10:48:15",
+   "actualizado": "2026-09-21T12:57:38",
    "estado": "abierta",
    "categorias_txt": [
     "Energías renovables",
@@ -2514,7 +2514,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 34476,
    "creado": "2026-09-04T17:58:26",
-   "actualizado": "2026-09-20T10:48:27",
+   "actualizado": "2026-09-21T12:57:52",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -3107,7 +3107,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 68931,
    "creado": "2026-09-04T17:58:50",
-   "actualizado": "2026-09-20T10:48:37",
+   "actualizado": "2026-09-21T12:58:02",
    "estado": "abierta",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -3198,7 +3198,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:51",
-   "actualizado": "2026-09-20T10:48:45",
+   "actualizado": "2026-09-21T12:58:09",
    "estado": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -3351,7 +3351,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:53",
-   "actualizado": "2026-09-20T10:48:53",
+   "actualizado": "2026-09-21T12:58:17",
    "estado": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -3436,7 +3436,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:53",
-   "actualizado": "2026-09-20T10:49:01",
+   "actualizado": "2026-09-21T12:58:24",
    "estado": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -3596,7 +3596,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 53328,
    "creado": "2026-09-04T17:58:55",
-   "actualizado": "2026-09-20T10:49:10",
+   "actualizado": "2026-09-21T12:58:35",
    "estado": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -3683,7 +3683,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 11094,
    "creado": "2026-09-04T17:58:38",
-   "actualizado": "2026-09-20T10:49:18",
+   "actualizado": "2026-09-21T12:58:42",
    "estado": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -4044,7 +4044,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 44144,
    "creado": "2026-09-04T17:58:40",
-   "actualizado": "2026-09-20T10:49:27",
+   "actualizado": "2026-09-21T12:58:51",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -4474,7 +4474,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 5300,
    "creado": "2026-09-16T19:41:13",
-   "actualizado": "2026-09-20T10:49:35",
+   "actualizado": "2026-09-21T12:58:59",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -4961,7 +4961,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 2596,
    "creado": "2026-09-16T19:41:15",
-   "actualizado": "2026-09-20T10:49:42",
+   "actualizado": "2026-09-21T12:59:06",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -5375,7 +5375,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 70874,
    "creado": "2026-09-16T19:40:46",
-   "actualizado": "2026-09-20T10:49:52",
+   "actualizado": "2026-09-21T12:59:14",
    "estado": "abierta",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -294494,6 +294494,22 @@
  },
  "noticias": [
   {
+   "id": "9b9fe706eb852fc8",
+   "fuente": "EREN / Energía CyL",
+   "titulo": "AVEBIOM impulsa una red europea para reforzar el papel de la bioenergía forestal",
+   "url": "https://energiacastillayleon.com/2026/09/21/avebiom-impulsa-una-red-europea-para-reforzar-el-papel-de-la-bioenergia-forestal/",
+   "fecha": "2026-09-21",
+   "resumen": "La iniciativa, presentada el pasado 9 de septiembre en Bruselas, cuenta desde su creación con la participación de Castilla y León y Castilla-La Mancha La Asociación Española de la Biomasa (AVEBIOM), junto con sus homólogas de Austria y Alemania y con el respaldo de Bioenergy Europe, ha promovido la creación de la Wood Energy Regions Network (WERN), una red [&#8230;]",
+   "ambito": "Castilla y León",
+   "categorias": [
+    "renovables"
+   ],
+   "creado": "2026-09-21T08:51:13",
+   "categorias_txt": [
+    "Energías renovables"
+   ]
+  },
+  {
    "id": "9dcd01215aa7586f",
    "fuente": "Institut Balear de l'Energia",
    "titulo": "El Govern amplia fins al 30 de setembre el termini per adherir-se a l’autoconsum compartit del ParcBit",
@@ -295888,6 +295904,17 @@
  },
  "ejecuciones": [
   {
+   "id": 50,
+   "inicio": "2026-09-21T12:54:35",
+   "fin": "2026-09-21T12:59:15",
+   "ok": 1,
+   "nuevas_convocatorias": 0,
+   "nuevas_noticias": 0,
+   "resumenes": 25,
+   "errores": [],
+   "nuevas_licitaciones": 0
+  },
+  {
    "id": 49,
    "inicio": "2026-09-20T10:44:57",
    "fin": "2026-09-20T10:49:52",
@@ -296040,17 +296067,6 @@
    "resumenes": 0,
    "errores": [],
    "nuevas_licitaciones": 11
-  },
-  {
-   "id": 35,
-   "inicio": "2026-09-16T13:50:52",
-   "fin": "2026-09-16T13:50:52",
-   "ok": 1,
-   "nuevas_convocatorias": 0,
-   "nuevas_noticias": 0,
-   "resumenes": 0,
-   "errores": [],
-   "nuevas_licitaciones": 0
   }
  ],
  "categorias": {
@@ -296077,8 +296093,8 @@
   "por_confirmar": 9,
   "proximas": 0,
   "licitaciones_abiertas": 235,
-  "licitaciones_nuevas_7d": 3108,
+  "licitaciones_nuevas_7d": 3106,
   "nuevas_7d": 2,
-  "noticias_7d": 2
+  "noticias_7d": 3
  }
 }
