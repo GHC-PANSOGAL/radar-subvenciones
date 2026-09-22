@@ -1,7 +1,190 @@
 {
- "generado": "21/09/2026 12:59",
- "version": "1.11.3",
+ "generado": "22/09/2026 11:11",
+ "version": "1.15.0",
+ "version_disponible": null,
  "convocatorias": [
+  {
+   "id_bdns": "930704",
+   "fuente": "bdns",
+   "titulo": "Resolución de 17 de setiembre de 2026, convocatoria Linea 2 Energía del Programa 1 Sector residencial y edificios e instalaciones públicas. Act. Energías renovables y eficiencia energética. No Ayudas de Estado",
+   "organo": "AGENCIA ANDALUZA DE LA ENERGÍA",
+   "ambito": "CCAA",
+   "ccaa": "Andalucía",
+   "fecha_publicacion": "2026-09-21",
+   "fecha_inicio": null,
+   "fecha_fin": "2027-09-30",
+   "texto_inicio": "9:00 horas del 22 de Octubre de 2026",
+   "texto_fin": "Hasta que se declare su finalización mediante Resolución de la Dirección Gerencia de la Agencia Anda",
+   "abierto": 0,
+   "presupuesto": 14902129.55,
+   "beneficiarios": [
+    "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+    "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+   ],
+   "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+   "finalidad": "Industria y Energía",
+   "regiones": [
+    "ES61 - ANDALUCIA"
+   ],
+   "mrr": 0,
+   "url_ficha": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/930704",
+   "url_bases": "https://juntadeandalucia.es/boja/2025/81/BOJA25-081-00101-6008-01_00319609.pdf",
+   "url_sede": "https://incentivos.agenciaandaluzadelaenergia.es/orden24en/",
+   "categorias": [
+    "eficiencia",
+    "renovables",
+    "industria",
+    "edificios"
+   ],
+   "clientes": [
+    "comunidades"
+   ],
+   "resumen_json": null,
+   "resumen_proveedor": null,
+   "texto_pdf_chars": null,
+   "creado": "2026-09-22T08:45:33",
+   "actualizado": "2026-09-22T08:45:33",
+   "estado": "abierta",
+   "categorias_txt": [
+    "Eficiencia energética / descarbonización",
+    "Energías renovables",
+    "Industria / pymes",
+    "Edificios / comunidades de propietarios"
+   ],
+   "clientes_txt": [
+    "Comunidades de propietarios / edificios"
+   ],
+   "puntuacion": 5,
+   "geo": {
+    "nombre": "Andalucía",
+    "lat": 37.45,
+    "lon": -4.8,
+    "nivel": "ccaa",
+    "codigo": "ES61"
+   }
+  },
+  {
+   "id_bdns": "930703",
+   "fuente": "bdns",
+   "titulo": "Resolución de 17 de setiembre de 2026, convocatoria Linea 2 Energía del Programa 1 Sector residencial y edificios e instalaciones públicas. Act. Energías renovables en viviendas y edificios residenciales privados. REG (UE) 651/2014.",
+   "organo": "AGENCIA ANDALUZA DE LA ENERGÍA",
+   "ambito": "CCAA",
+   "ccaa": "Andalucía",
+   "fecha_publicacion": "2026-09-21",
+   "fecha_inicio": null,
+   "fecha_fin": "2027-09-30",
+   "texto_inicio": "9:00 horas del 22 de Octubre de 2026",
+   "texto_fin": "Hasta que se declare su finalización mediante Resolución de la Dirección Gerencia de la Agencia Anda",
+   "abierto": 0,
+   "presupuesto": 2019500.0,
+   "beneficiarios": [
+    "GRAN EMPRESA",
+    "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+   ],
+   "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+   "finalidad": "Industria y Energía",
+   "regiones": [
+    "ES61 - ANDALUCIA"
+   ],
+   "mrr": 0,
+   "url_ficha": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/930703",
+   "url_bases": "https://juntadeandalucia.es/boja/2025/81/BOJA25-081-00101-6008-01_00319609.pdf",
+   "url_sede": "https://incentivos.agenciaandaluzadelaenergia.es/orden24en/",
+   "categorias": [
+    "rehabilitacion",
+    "renovables",
+    "industria",
+    "edificios"
+   ],
+   "clientes": [
+    "comunidades",
+    "industria"
+   ],
+   "resumen_json": null,
+   "resumen_proveedor": null,
+   "texto_pdf_chars": null,
+   "creado": "2026-09-22T08:45:34",
+   "actualizado": "2026-09-22T08:45:34",
+   "estado": "abierta",
+   "categorias_txt": [
+    "Rehabilitación energética de edificios",
+    "Energías renovables",
+    "Industria / pymes",
+    "Edificios / comunidades de propietarios"
+   ],
+   "clientes_txt": [
+    "Comunidades de propietarios / edificios",
+    "Industria / empresas"
+   ],
+   "puntuacion": 6,
+   "geo": {
+    "nombre": "Andalucía",
+    "lat": 37.45,
+    "lon": -4.8,
+    "nivel": "ccaa",
+    "codigo": "ES61"
+   }
+  },
+  {
+   "id_bdns": "930702",
+   "fuente": "bdns",
+   "titulo": "Resolución de 17 de setiembre de , convocatoria Linea 2 Energía del Programa 1 Sector residencial y edificios e instalaciones públicas. Act. Eiciencia energética en viviendas y edificios residenciales privados y públicos no residen. REG (UE) 651/2014",
+   "organo": "AGENCIA ANDALUZA DE LA ENERGÍA",
+   "ambito": "CCAA",
+   "ccaa": "Andalucía",
+   "fecha_publicacion": "2026-09-21",
+   "fecha_inicio": null,
+   "fecha_fin": "2027-09-30",
+   "texto_inicio": "9:00 horas del 22 de Octubre de 2026",
+   "texto_fin": "Hasta que se declare su finalización mediante Resolución de la Dirección Gerencia de la Agencia Anda",
+   "abierto": 0,
+   "presupuesto": 3850877.45,
+   "beneficiarios": [
+    "GRAN EMPRESA",
+    "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+   ],
+   "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+   "finalidad": "Industria y Energía",
+   "regiones": [
+    "ES61 - ANDALUCIA"
+   ],
+   "mrr": 0,
+   "url_ficha": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/930702",
+   "url_bases": "https://juntadeandalucia.es/boja/2025/81/BOJA25-081-00101-6008-01_00319609.pdf",
+   "url_sede": "https://incentivos.agenciaandaluzadelaenergia.es/orden24en/",
+   "categorias": [
+    "rehabilitacion",
+    "industria",
+    "edificios"
+   ],
+   "clientes": [
+    "comunidades",
+    "industria"
+   ],
+   "resumen_json": null,
+   "resumen_proveedor": null,
+   "texto_pdf_chars": null,
+   "creado": "2026-09-22T08:45:34",
+   "actualizado": "2026-09-22T08:45:34",
+   "estado": "abierta",
+   "categorias_txt": [
+    "Rehabilitación energética de edificios",
+    "Industria / pymes",
+    "Edificios / comunidades de propietarios"
+   ],
+   "clientes_txt": [
+    "Comunidades de propietarios / edificios",
+    "Industria / empresas"
+   ],
+   "puntuacion": 5,
+   "geo": {
+    "nombre": "Andalucía",
+    "lat": 37.45,
+    "lon": -4.8,
+    "nivel": "ccaa",
+    "codigo": "ES61"
+   }
+  },
   {
    "id_bdns": "930371",
    "fuente": "bdns",
@@ -1247,7 +1430,7 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:33",
    "actualizado": "2026-09-18T09:43:06",
-   "estado": "plazo_por_confirmar",
+   "estado": "cerrada",
    "categorias_txt": [
     "Solar FV / autoconsumo",
     "Industria / pymes",
@@ -27059,7 +27242,7 @@
     "EndTime: 23:59:00",
     "AuctionConstraintIndicator: false"
    ],
-   "estado_panel": "abierta",
+   "estado_panel": "cerrada",
    "categorias_txt": [
     "Solar FV / autoconsumo",
     "Comunidades energéticas"
@@ -27220,7 +27403,7 @@
     "ThresholdQuantity: 66060.1",
     "Description: Cumplimiento con las obligaciones tributarias"
    ],
-   "estado_panel": "abierta",
+   "estado_panel": "cerrada",
    "categorias_txt": [
     "Solar FV / autoconsumo"
    ],
@@ -295904,6 +296087,17 @@
  },
  "ejecuciones": [
   {
+   "id": 51,
+   "inicio": "2026-09-22T11:11:49",
+   "fin": "2026-09-22T11:11:49",
+   "ok": 1,
+   "nuevas_convocatorias": 0,
+   "nuevas_noticias": 0,
+   "resumenes": 0,
+   "errores": [],
+   "nuevas_licitaciones": 0
+  },
+  {
    "id": 50,
    "inicio": "2026-09-21T12:54:35",
    "fin": "2026-09-21T12:59:15",
@@ -296056,19 +296250,9 @@
    "resumenes": 0,
    "errores": [],
    "nuevas_licitaciones": 0
-  },
-  {
-   "id": 36,
-   "inicio": "2026-09-16T13:59:38",
-   "fin": "2026-09-16T14:05:12",
-   "ok": 1,
-   "nuevas_convocatorias": 0,
-   "nuevas_noticias": 0,
-   "resumenes": 0,
-   "errores": [],
-   "nuevas_licitaciones": 11
   }
  ],
+ "suscripciones": [],
  "categorias": {
   "fotovoltaica": "Solar FV / autoconsumo",
   "baterias": "Baterías / BESS",
@@ -296089,12 +296273,12 @@
   "industria": "Industria / empresas"
  },
  "kpis": {
-  "abiertas": 61,
-  "por_confirmar": 9,
+  "abiertas": 64,
+  "por_confirmar": 8,
   "proximas": 0,
-  "licitaciones_abiertas": 235,
+  "licitaciones_abiertas": 233,
   "licitaciones_nuevas_7d": 3106,
-  "nuevas_7d": 2,
-  "noticias_7d": 3
+  "nuevas_7d": 5,
+  "noticias_7d": 2
  }
 }
