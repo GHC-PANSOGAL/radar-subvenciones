@@ -1,8 +1,109 @@
 {
- "generado": "22/09/2026 11:11",
- "version": "1.15.0",
- "version_disponible": null,
+ "generado": "23/09/2026 18:52",
+ "version": "1.16.1",
+ "version_disponible": "1.16.2",
  "convocatorias": [
+  {
+   "id_bdns": "931321",
+   "fuente": "bdns",
+   "titulo": "LÍNEA DE SUBVENCIÓN 10.5: COMUNIDADES ENERGÉTICAS. CONVOCATORIA DE 2026",
+   "organo": "AYUNTAMIENTO DE ERRENTERIA",
+   "ambito": "Local",
+   "ccaa": "País Vasco",
+   "fecha_publicacion": "2026-09-23",
+   "fecha_inicio": null,
+   "fecha_fin": null,
+   "texto_inicio": "A partir del día siguiente publicación BOG",
+   "texto_fin": "30 días naturales a partir del día siguiente publicación BOG",
+   "abierto": 0,
+   "presupuesto": 30000.0,
+   "beneficiarios": [
+    "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+   ],
+   "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+   "finalidad": "Otras Prestaciones económicas",
+   "regiones": [
+    "ES212 - Gipuzkoa"
+   ],
+   "mrr": 0,
+   "url_ficha": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/931321",
+   "url_bases": "https://uzt.gipuzkoa.eus/home.do?De=EU067128473",
+   "url_sede": null,
+   "categorias": [
+    "comunidades_energeticas"
+   ],
+   "clientes": [],
+   "resumen_json": null,
+   "resumen_proveedor": null,
+   "texto_pdf_chars": null,
+   "creado": "2026-09-23T18:47:52",
+   "actualizado": "2026-09-23T18:47:52",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2026-10-23",
+   "estado": "abierta",
+   "categorias_txt": [
+    "Comunidades energéticas"
+   ],
+   "clientes_txt": [],
+   "puntuacion": 1,
+   "geo": {
+    "nombre": "Gipuzkoa",
+    "lat": 43.15,
+    "lon": -2.2,
+    "nivel": "provincia",
+    "codigo": "ES212"
+   }
+  },
+  {
+   "id_bdns": "930849",
+   "fuente": "bdns",
+   "titulo": "Subvención al Ayuntamiento de Albelda para la adecuación y mejora energética del colegio público de la localidad",
+   "organo": "DIPUTACIÓN PROVINCIAL DE HUESCA",
+   "ambito": "Local",
+   "ccaa": "Aragón",
+   "fecha_publicacion": "2026-09-22",
+   "fecha_inicio": null,
+   "fecha_fin": null,
+   "texto_inicio": "SIN PLAZO",
+   "texto_fin": "SIN PLAZO",
+   "abierto": 0,
+   "presupuesto": 48170.3,
+   "beneficiarios": [
+    "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+   ],
+   "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+   "finalidad": "Infraestructuras",
+   "regiones": [
+    "ES241 - Huesca"
+   ],
+   "mrr": 0,
+   "url_ficha": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/930849",
+   "url_bases": "https://diputaciondehuesca.transparencialocal.gob.es/es_ES/categoria/normativa",
+   "url_sede": "https://www.dphuesca.es",
+   "categorias": [
+    "rehabilitacion"
+   ],
+   "clientes": [],
+   "resumen_json": null,
+   "resumen_proveedor": null,
+   "texto_pdf_chars": null,
+   "creado": "2026-09-23T18:47:53",
+   "actualizado": "2026-09-23T18:47:53",
+   "fin_tipo": "sin_plazo",
+   "estado": "plazo_por_confirmar",
+   "categorias_txt": [
+    "Rehabilitación energética de edificios"
+   ],
+   "clientes_txt": [],
+   "puntuacion": 1,
+   "geo": {
+    "nombre": "Huesca",
+    "lat": 42.15,
+    "lon": -0.15,
+    "nivel": "provincia",
+    "codigo": "ES241"
+   }
+  },
   {
    "id_bdns": "930704",
    "fuente": "bdns",
@@ -39,11 +140,41 @@
    "clientes": [
     "comunidades"
    ],
-   "resumen_json": null,
-   "resumen_proveedor": null,
-   "texto_pdf_chars": null,
+   "resumen_json": {
+    "titulo_corto": "Resolución de 17 de setiembre de 2026, convocatoria Linea 2 Energía del Programa 1 Sector residencial y edificios e inst",
+    "fecha_inicio": "9:00 horas del 22 de Octubre de 2026",
+    "fecha_fin": "2027-09-30",
+    "importe": "Presupuesto total: 14.902.130 €",
+    "cuantia_maxima": "No consta (ver bases)",
+    "porcentaje": "No consta (ver bases)",
+    "que_se_subvenciona": "Resolución de 17 de setiembre de 2026, convocatoria Linea 2 Energía del Programa 1 Sector residencial y edificios e instalaciones públicas. Act. Energías renovables y eficiencia energética. No Ayudas de Estado",
+    "quien_puede_solicitar": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA; PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+    "procedimiento_concesion": "No consta",
+    "plazo_ejecucion": "No consta",
+    "compatibilidad": "No consta",
+    "donde_se_solicita": "https://incentivos.agenciaandaluzadelaenergia.es/orden24en/",
+    "condiciones": [
+     "Instrumento: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+     "Resumen generado sin LLM: revisar la ficha BDNS y las bases reguladoras"
+    ],
+    "encaje_ghc": "comunidades",
+    "encaje_motivo": "Detección automática por palabras clave del título",
+    "resumen": "Resolución de 17 de setiembre de 2026, convocatoria Linea 2 Energía del Programa 1 Sector residencial y edificios e instalaciones públicas. Act. Energías renovables y eficiencia energética. No Ayudas de Estado",
+    "citas": [],
+    "citas_verificadas": "0/0",
+    "dudas": [
+     "Todo el detalle: no se ha leído el documento oficial."
+    ],
+    "avisos": [
+     "Resumen sin inteligencia artificial: solo campos estructurados de la BDNS."
+    ],
+    "confianza": "baja",
+    "campos_sin_dato": 5
+   },
+   "resumen_proveedor": "basico",
+   "texto_pdf_chars": 96159,
    "creado": "2026-09-22T08:45:33",
-   "actualizado": "2026-09-22T08:45:33",
+   "actualizado": "2026-09-23T18:48:57",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -100,11 +231,41 @@
     "comunidades",
     "industria"
    ],
-   "resumen_json": null,
-   "resumen_proveedor": null,
-   "texto_pdf_chars": null,
+   "resumen_json": {
+    "titulo_corto": "Resolución de 17 de setiembre de 2026, convocatoria Linea 2 Energía del Programa 1 Sector residencial y edificios e inst",
+    "fecha_inicio": "9:00 horas del 22 de Octubre de 2026",
+    "fecha_fin": "2027-09-30",
+    "importe": "Presupuesto total: 2.019.500 €",
+    "cuantia_maxima": "No consta (ver bases)",
+    "porcentaje": "No consta (ver bases)",
+    "que_se_subvenciona": "Resolución de 17 de setiembre de 2026, convocatoria Linea 2 Energía del Programa 1 Sector residencial y edificios e instalaciones públicas. Act. Energías renovables en viviendas y edificios residenciales privados. REG (UE) 651/2014.",
+    "quien_puede_solicitar": "GRAN EMPRESA; PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+    "procedimiento_concesion": "No consta",
+    "plazo_ejecucion": "No consta",
+    "compatibilidad": "No consta",
+    "donde_se_solicita": "https://incentivos.agenciaandaluzadelaenergia.es/orden24en/",
+    "condiciones": [
+     "Instrumento: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+     "Resumen generado sin LLM: revisar la ficha BDNS y las bases reguladoras"
+    ],
+    "encaje_ghc": "comunidades, industria",
+    "encaje_motivo": "Detección automática por palabras clave del título",
+    "resumen": "Resolución de 17 de setiembre de 2026, convocatoria Linea 2 Energía del Programa 1 Sector residencial y edificios e instalaciones públicas. Act. Energías renovables en viviendas y edificios residenciales privados. REG (UE) 651/2014.",
+    "citas": [],
+    "citas_verificadas": "0/0",
+    "dudas": [
+     "Todo el detalle: no se ha leído el documento oficial."
+    ],
+    "avisos": [
+     "Resumen sin inteligencia artificial: solo campos estructurados de la BDNS."
+    ],
+    "confianza": "baja",
+    "campos_sin_dato": 5
+   },
+   "resumen_proveedor": "basico",
+   "texto_pdf_chars": 96159,
    "creado": "2026-09-22T08:45:34",
-   "actualizado": "2026-09-22T08:45:34",
+   "actualizado": "2026-09-23T18:49:07",
    "estado": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -161,11 +322,41 @@
     "comunidades",
     "industria"
    ],
-   "resumen_json": null,
-   "resumen_proveedor": null,
-   "texto_pdf_chars": null,
+   "resumen_json": {
+    "titulo_corto": "Resolución de 17 de setiembre de , convocatoria Linea 2 Energía del Programa 1 Sector residencial y edificios e instalac",
+    "fecha_inicio": "9:00 horas del 22 de Octubre de 2026",
+    "fecha_fin": "2027-09-30",
+    "importe": "Presupuesto total: 3.850.877 €",
+    "cuantia_maxima": "No consta (ver bases)",
+    "porcentaje": "No consta (ver bases)",
+    "que_se_subvenciona": "Resolución de 17 de setiembre de , convocatoria Linea 2 Energía del Programa 1 Sector residencial y edificios e instalaciones públicas. Act. Eiciencia energética en viviendas y edificios residenciales privados y públicos no residen. REG (UE) 651/2014",
+    "quien_puede_solicitar": "GRAN EMPRESA; PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+    "procedimiento_concesion": "No consta",
+    "plazo_ejecucion": "No consta",
+    "compatibilidad": "No consta",
+    "donde_se_solicita": "https://incentivos.agenciaandaluzadelaenergia.es/orden24en/",
+    "condiciones": [
+     "Instrumento: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+     "Resumen generado sin LLM: revisar la ficha BDNS y las bases reguladoras"
+    ],
+    "encaje_ghc": "comunidades, industria",
+    "encaje_motivo": "Detección automática por palabras clave del título",
+    "resumen": "Resolución de 17 de setiembre de , convocatoria Linea 2 Energía del Programa 1 Sector residencial y edificios e instalaciones públicas. Act. Eiciencia energética en viviendas y edificios residenciales privados y públicos no residen. REG (UE) 651/2014",
+    "citas": [],
+    "citas_verificadas": "0/0",
+    "dudas": [
+     "Todo el detalle: no se ha leído el documento oficial."
+    ],
+    "avisos": [
+     "Resumen sin inteligencia artificial: solo campos estructurados de la BDNS."
+    ],
+    "confianza": "baja",
+    "campos_sin_dato": 5
+   },
+   "resumen_proveedor": "basico",
+   "texto_pdf_chars": 96159,
    "creado": "2026-09-22T08:45:34",
-   "actualizado": "2026-09-22T08:45:34",
+   "actualizado": "2026-09-23T18:49:17",
    "estado": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -249,7 +440,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 28164,
    "creado": "2026-09-19T10:02:09",
-   "actualizado": "2026-09-21T12:55:37",
+   "actualizado": "2026-09-23T18:49:24",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización"
@@ -332,7 +523,9 @@
    "texto_pdf_chars": 35177,
    "creado": "2026-09-16T19:10:47",
    "actualizado": "2026-09-18T09:43:17",
-   "estado": "plazo_por_confirmar",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2026-10-16",
+   "estado": "abierta",
    "categorias_txt": [
     "Solar FV / autoconsumo",
     "Edificios / comunidades de propietarios"
@@ -414,6 +607,7 @@
    "texto_pdf_chars": 12683,
    "creado": "2026-09-12T17:33:44",
    "actualizado": "2026-09-18T09:43:17",
+   "fin_tipo": "sin_plazo",
    "estado": "plazo_por_confirmar",
    "categorias_txt": [
     "Eficiencia energética / descarbonización"
@@ -497,7 +691,9 @@
    "texto_pdf_chars": 62493,
    "creado": "2026-09-15T12:42:35",
    "actualizado": "2026-09-18T09:43:19",
-   "estado": "plazo_por_confirmar",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2026-10-08",
+   "estado": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
     "Edificios / comunidades de propietarios"
@@ -570,7 +766,9 @@
    "texto_pdf_chars": 14196,
    "creado": "2026-09-10T08:34:32",
    "actualizado": "2026-09-18T09:43:16",
-   "estado": "plazo_por_confirmar",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2026-10-06",
+   "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
     "Industria / pymes"
@@ -658,7 +856,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 23379,
    "creado": "2026-09-04T17:58:22",
-   "actualizado": "2026-09-21T12:55:44",
+   "actualizado": "2026-09-23T18:49:32",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -746,7 +944,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 23379,
    "creado": "2026-09-04T17:58:23",
-   "actualizado": "2026-09-21T12:55:52",
+   "actualizado": "2026-09-23T18:49:39",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -832,7 +1030,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 120000,
    "creado": "2026-09-04T17:58:27",
-   "actualizado": "2026-09-21T12:56:04",
+   "actualizado": "2026-09-23T18:49:50",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -902,6 +1100,7 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:42",
    "actualizado": "2026-09-18T09:43:09",
+   "fin_tipo": "sin_plazo",
    "estado": "plazo_por_confirmar",
    "categorias_txt": [
     "Eficiencia energética / descarbonización"
@@ -972,7 +1171,9 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:32",
    "actualizado": "2026-09-18T09:43:05",
-   "estado": "plazo_por_confirmar",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2026-09-14",
+   "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
     "Industria / pymes"
@@ -1039,6 +1240,7 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:33",
    "actualizado": "2026-09-18T09:43:06",
+   "fin_tipo": "sin_plazo",
    "estado": "plazo_por_confirmar",
    "categorias_txt": [],
    "clientes_txt": [],
@@ -1116,7 +1318,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 63067,
    "creado": "2026-09-04T17:58:28",
-   "actualizado": "2026-09-21T12:56:12",
+   "actualizado": "2026-09-23T18:49:59",
    "estado": "abierta",
    "categorias_txt": [
     "Baterías / BESS",
@@ -1199,7 +1401,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 14773,
    "creado": "2026-09-04T17:58:29",
-   "actualizado": "2026-09-21T12:56:19",
+   "actualizado": "2026-09-23T18:50:07",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -1284,7 +1486,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 52417,
    "creado": "2026-09-04T17:58:43",
-   "actualizado": "2026-09-21T12:56:44",
+   "actualizado": "2026-09-23T18:50:40",
    "estado": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -1357,6 +1559,7 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:43",
    "actualizado": "2026-09-18T09:43:11",
+   "fin_tipo": "sin_plazo",
    "estado": "plazo_por_confirmar",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -1430,6 +1633,7 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:33",
    "actualizado": "2026-09-18T09:43:06",
+   "fin_tipo": "desconocida",
    "estado": "cerrada",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -1518,7 +1722,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 22620,
    "creado": "2026-09-04T17:58:20",
-   "actualizado": "2026-09-21T12:56:51",
+   "actualizado": "2026-09-23T18:50:47",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -1669,6 +1873,7 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:30",
    "actualizado": "2026-09-18T09:43:03",
+   "fin_tipo": "desconocida",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -1756,7 +1961,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 56452,
    "creado": "2026-09-04T17:58:23",
-   "actualizado": "2026-09-21T12:56:59",
+   "actualizado": "2026-09-23T18:50:57",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -1844,7 +2049,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 39954,
    "creado": "2026-09-04T17:58:24",
-   "actualizado": "2026-09-21T12:57:07",
+   "actualizado": "2026-09-23T18:51:05",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -2000,7 +2205,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 120000,
    "creado": "2026-09-04T17:58:21",
-   "actualizado": "2026-09-21T12:57:15",
+   "actualizado": "2026-09-23T18:51:14",
    "estado": "abierta",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -2151,7 +2356,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 60222,
    "creado": "2026-09-04T17:58:44",
-   "actualizado": "2026-09-21T12:57:23",
+   "actualizado": "2026-09-23T18:51:23",
    "estado": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -2225,6 +2430,7 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:30",
    "actualizado": "2026-09-18T09:43:04",
+   "fin_tipo": "desconocida",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización"
@@ -2297,6 +2503,7 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:31",
    "actualizado": "2026-09-18T09:43:04",
+   "fin_tipo": "desconocida",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización"
@@ -2382,7 +2589,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 78060,
    "creado": "2026-09-04T17:58:25",
-   "actualizado": "2026-09-21T12:57:31",
+   "actualizado": "2026-09-23T18:51:32",
    "estado": "abierta",
    "categorias_txt": [
     "Baterías / BESS",
@@ -2453,6 +2660,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:36",
    "actualizado": "2026-09-18T09:42:19",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2026-08-12",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -2535,7 +2744,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 6429,
    "creado": "2026-09-04T17:58:37",
-   "actualizado": "2026-09-21T12:57:38",
+   "actualizado": "2026-09-23T18:51:39",
    "estado": "abierta",
    "categorias_txt": [
     "Energías renovables",
@@ -2697,7 +2906,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 34476,
    "creado": "2026-09-04T17:58:26",
-   "actualizado": "2026-09-21T12:57:52",
+   "actualizado": "2026-09-23T18:51:49",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -2774,6 +2983,8 @@
    "texto_pdf_chars": 14190,
    "creado": "2026-09-04T17:58:45",
    "actualizado": "2026-09-18T09:42:25",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2026-08-17",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -2847,6 +3058,8 @@
    "texto_pdf_chars": 31769,
    "creado": "2026-09-04T17:58:46",
    "actualizado": "2026-09-18T09:42:27",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2026-07-02",
    "estado": "cerrada",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -2919,7 +3132,9 @@
    "texto_pdf_chars": 60000,
    "creado": "2026-09-04T17:58:46",
    "actualizado": "2026-09-18T09:42:28",
-   "estado": "cerrada",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2026-10-12",
+   "estado": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
     "Edificios / comunidades de propietarios"
@@ -2990,7 +3205,9 @@
    "texto_pdf_chars": 60000,
    "creado": "2026-09-04T17:58:47",
    "actualizado": "2026-09-18T09:42:33",
-   "estado": "cerrada",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2026-10-12",
+   "estado": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
     "Edificios / comunidades de propietarios"
@@ -3061,7 +3278,9 @@
    "texto_pdf_chars": 60000,
    "creado": "2026-09-04T17:58:48",
    "actualizado": "2026-09-18T09:42:35",
-   "estado": "cerrada",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2026-10-12",
+   "estado": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
     "Edificios / comunidades de propietarios"
@@ -3132,7 +3351,9 @@
    "texto_pdf_chars": 60000,
    "creado": "2026-09-04T17:58:49",
    "actualizado": "2026-09-18T09:42:40",
-   "estado": "cerrada",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2026-10-12",
+   "estado": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
     "Edificios / comunidades de propietarios"
@@ -3203,7 +3424,9 @@
    "texto_pdf_chars": 60000,
    "creado": "2026-09-04T17:58:49",
    "actualizado": "2026-09-18T09:42:41",
-   "estado": "cerrada",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2026-10-12",
+   "estado": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
     "Edificios / comunidades de propietarios"
@@ -3290,7 +3513,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 68931,
    "creado": "2026-09-04T17:58:50",
-   "actualizado": "2026-09-21T12:58:02",
+   "actualizado": "2026-09-23T18:51:58",
    "estado": "abierta",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -3381,7 +3604,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:51",
-   "actualizado": "2026-09-21T12:58:09",
+   "actualizado": "2026-09-23T18:52:07",
    "estado": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -3534,7 +3757,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:53",
-   "actualizado": "2026-09-21T12:58:17",
+   "actualizado": "2026-09-23T18:52:15",
    "estado": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -3619,7 +3842,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": null,
    "creado": "2026-09-04T17:58:53",
-   "actualizado": "2026-09-21T12:58:24",
+   "actualizado": "2026-09-23T18:52:22",
    "estado": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -3779,7 +4002,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 53328,
    "creado": "2026-09-04T17:58:55",
-   "actualizado": "2026-09-21T12:58:35",
+   "actualizado": "2026-09-23T18:52:30",
    "estado": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -3866,7 +4089,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 11094,
    "creado": "2026-09-04T17:58:38",
-   "actualizado": "2026-09-21T12:58:42",
+   "actualizado": "2026-09-23T18:52:37",
    "estado": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -3939,7 +4162,9 @@
    "texto_pdf_chars": 60000,
    "creado": "2026-09-04T17:58:56",
    "actualizado": "2026-09-18T09:42:57",
-   "estado": "cerrada",
+   "fin_tipo": "exacta",
+   "fecha_fin_estimada": "2026-09-30",
+   "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
     "Edificios / comunidades de propietarios"
@@ -4141,6 +4366,8 @@
    "texto_pdf_chars": 9168,
    "creado": "2026-09-04T17:58:57",
    "actualizado": "2026-09-16T19:36:52",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2026-07-14",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización"
@@ -4227,7 +4454,7 @@
    "resumen_proveedor": "basico",
    "texto_pdf_chars": 44144,
    "creado": "2026-09-04T17:58:40",
-   "actualizado": "2026-09-21T12:58:51",
+   "actualizado": "2026-09-23T18:52:45",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -4455,6 +4682,8 @@
    "texto_pdf_chars": 39653,
    "creado": "2026-09-04T17:58:58",
    "actualizado": "2026-09-04T22:54:15",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2026-06-04",
    "estado": "cerrada",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -4715,6 +4944,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:41:06",
    "actualizado": "2026-09-16T19:41:06",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2026-05-23",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -4774,6 +5005,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:41:07",
    "actualizado": "2026-09-16T19:41:07",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2026-05-23",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -4828,6 +5061,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:41:14",
    "actualizado": "2026-09-16T19:41:14",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2026-05-20",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización"
@@ -4885,6 +5120,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:41:07",
    "actualizado": "2026-09-16T19:41:07",
+   "fin_tipo": "exacta",
+   "fecha_fin_estimada": "2023-05-12",
    "estado": "cerrada",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -4943,6 +5180,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:41:10",
    "actualizado": "2026-09-16T19:41:10",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2026-05-18",
    "estado": "cerrada",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -5001,7 +5240,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:41:08",
    "actualizado": "2026-09-16T19:41:08",
-   "estado": "cerrada",
+   "fin_tipo": "sin_plazo",
+   "estado": "plazo_por_confirmar",
    "categorias_txt": [
     "Energías renovables",
     "Industria / pymes"
@@ -5059,7 +5299,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:41:09",
    "actualizado": "2026-09-16T19:41:09",
-   "estado": "cerrada",
+   "fin_tipo": "sin_plazo",
+   "estado": "plazo_por_confirmar",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
     "Industria / pymes"
@@ -5202,6 +5443,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:41:11",
    "actualizado": "2026-09-16T19:41:11",
+   "fin_tipo": "exacta",
+   "fecha_fin_estimada": "2026-12-31",
    "estado": "abierta",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -5366,6 +5609,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:41:11",
    "actualizado": "2026-09-16T19:41:11",
+   "fin_tipo": "exacta",
+   "fecha_fin_estimada": "2026-12-31",
    "estado": "abierta",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -5423,6 +5668,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:41:12",
    "actualizado": "2026-09-16T19:41:12",
+   "fin_tipo": "exacta",
+   "fecha_fin_estimada": "2026-12-31",
    "estado": "abierta",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -5667,6 +5914,7 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:40:50",
    "actualizado": "2026-09-16T19:40:50",
+   "fin_tipo": "desconocida",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -5726,6 +5974,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:40:45",
    "actualizado": "2026-09-16T19:40:45",
+   "fin_tipo": "exacta",
+   "fecha_fin_estimada": "2026-04-13",
    "estado": "cerrada",
    "categorias_txt": [
     "Baterías / BESS",
@@ -5893,6 +6143,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:40:59",
    "actualizado": "2026-09-16T19:40:59",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2026-04-02",
    "estado": "cerrada",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -6001,7 +6253,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:41:05",
    "actualizado": "2026-09-16T19:41:05",
-   "estado": "cerrada",
+   "fin_tipo": "sin_plazo",
+   "estado": "plazo_por_confirmar",
    "categorias_txt": [],
    "clientes_txt": [],
    "puntuacion": 0,
@@ -6250,6 +6503,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:40:51",
    "actualizado": "2026-09-16T19:40:51",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2026-05-06",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -6308,6 +6563,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:40:49",
    "actualizado": "2026-09-16T19:40:49",
+   "fin_tipo": "exacta",
+   "fecha_fin_estimada": "2026-04-30",
    "estado": "cerrada",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -6365,6 +6622,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:41:00",
    "actualizado": "2026-09-16T19:41:00",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2026-04-04",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización"
@@ -6417,6 +6676,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:40:52",
    "actualizado": "2026-09-16T19:40:52",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2026-04-04",
    "estado": "cerrada",
    "categorias_txt": [
     "Rehabilitación energética de edificios"
@@ -6690,6 +6951,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:40:54",
    "actualizado": "2026-09-16T19:40:54",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2026-03-26",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -6861,7 +7124,9 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:41:03",
    "actualizado": "2026-09-16T19:41:03",
-   "estado": "cerrada",
+   "fin_tipo": "exacta",
+   "fecha_fin_estimada": "2026-11-27",
+   "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
     "Edificios / comunidades de propietarios"
@@ -7080,6 +7345,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:40:57",
    "actualizado": "2026-09-16T19:40:57",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2026-03-04",
    "estado": "cerrada",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -7135,7 +7402,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:41:04",
    "actualizado": "2026-09-16T19:41:04",
-   "estado": "cerrada",
+   "fin_tipo": "sin_plazo",
+   "estado": "plazo_por_confirmar",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
     "Edificios / comunidades de propietarios"
@@ -7193,6 +7461,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:40:38",
    "actualizado": "2026-09-16T19:40:38",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2026-04-04",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -7517,6 +7787,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:40:33",
    "actualizado": "2026-09-16T19:40:33",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2026-03-19",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -7567,6 +7839,7 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:40:34",
    "actualizado": "2026-09-16T19:40:34",
+   "fin_tipo": "desconocida",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización"
@@ -8116,7 +8389,9 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:40:37",
    "actualizado": "2026-09-16T19:40:37",
-   "estado": "cerrada",
+   "fin_tipo": "exacta",
+   "fecha_fin_estimada": "2026-10-31",
+   "estado": "abierta",
    "categorias_txt": [
     "Solar FV / autoconsumo",
     "Industria / pymes"
@@ -8174,6 +8449,7 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:40:42",
    "actualizado": "2026-09-16T19:40:42",
+   "fin_tipo": "desconocida",
    "estado": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -8401,7 +8677,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:40:43",
    "actualizado": "2026-09-16T19:40:43",
-   "estado": "cerrada",
+   "fin_tipo": "sin_plazo",
+   "estado": "plazo_por_confirmar",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
     "Edificios / comunidades de propietarios"
@@ -8455,6 +8732,7 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:40:31",
    "actualizado": "2026-09-16T19:40:31",
+   "fin_tipo": "desconocida",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -8511,6 +8789,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:40:32",
    "actualizado": "2026-09-16T19:40:32",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2026-02-28",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -8569,6 +8849,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:40:32",
    "actualizado": "2026-09-16T19:40:32",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2026-02-28",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -9383,6 +9665,7 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:40:08",
    "actualizado": "2026-09-16T19:40:08",
+   "fin_tipo": "desconocida",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -9442,6 +9725,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:40:09",
    "actualizado": "2026-09-16T19:40:09",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2026-01-19",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -9504,6 +9789,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:40:10",
    "actualizado": "2026-09-16T19:40:10",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2026-01-19",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -9564,6 +9851,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:40:10",
    "actualizado": "2026-09-16T19:40:10",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2026-01-19",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -9622,6 +9911,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:40:11",
    "actualizado": "2026-09-16T19:40:11",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2026-01-19",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -9676,6 +9967,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:40:12",
    "actualizado": "2026-09-16T19:40:12",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2026-01-19",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -9727,6 +10020,7 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:40:12",
    "actualizado": "2026-09-16T19:40:12",
+   "fin_tipo": "desconocida",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -9893,6 +10187,7 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:40:14",
    "actualizado": "2026-09-16T19:40:14",
+   "fin_tipo": "desconocida",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización"
@@ -10155,6 +10450,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:40:22",
    "actualizado": "2026-09-16T19:40:22",
+   "fin_tipo": "exacta",
+   "fecha_fin_estimada": "2026-02-28",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -10208,7 +10505,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:40:22",
    "actualizado": "2026-09-16T19:40:22",
-   "estado": "cerrada",
+   "fin_tipo": "sin_plazo",
+   "estado": "plazo_por_confirmar",
    "categorias_txt": [
     "Rehabilitación energética de edificios"
    ],
@@ -10323,6 +10621,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:40:23",
    "actualizado": "2026-09-16T19:40:23",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2025-12-19",
    "estado": "cerrada",
    "categorias_txt": [
     "Energías renovables",
@@ -10382,6 +10682,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:40:15",
    "actualizado": "2026-09-16T19:40:15",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2025-12-25",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -10437,6 +10739,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:40:25",
    "actualizado": "2026-09-16T19:40:25",
+   "fin_tipo": "exacta",
+   "fecha_fin_estimada": "2026-01-15",
    "estado": "cerrada",
    "categorias_txt": [
     "Baterías / BESS"
@@ -10594,7 +10898,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:40:24",
    "actualizado": "2026-09-16T19:40:24",
-   "estado": "cerrada",
+   "fin_tipo": "sin_plazo",
+   "estado": "plazo_por_confirmar",
    "categorias_txt": [
     "Rehabilitación energética de edificios"
    ],
@@ -10706,6 +11011,7 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:40:18",
    "actualizado": "2026-09-16T19:40:18",
+   "fin_tipo": "desconocida",
    "estado": "cerrada",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -10760,7 +11066,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:40:26",
    "actualizado": "2026-09-16T19:40:26",
-   "estado": "abierta",
+   "fin_tipo": "sin_plazo",
+   "estado": "plazo_por_confirmar",
    "categorias_txt": [
     "Solar FV / autoconsumo"
    ],
@@ -10809,6 +11116,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:39:52",
    "actualizado": "2026-09-16T19:39:52",
+   "fin_tipo": "exacta",
+   "fecha_fin_estimada": "2022-08-25",
    "estado": "cerrada",
    "categorias_txt": [
     "Solar FV / autoconsumo"
@@ -10859,6 +11168,7 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:39:56",
    "actualizado": "2026-09-16T19:39:56",
+   "fin_tipo": "desconocida",
    "estado": "abierta",
    "categorias_txt": [
     "Energías renovables",
@@ -10912,6 +11222,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:39:59",
    "actualizado": "2026-09-16T19:39:59",
+   "fin_tipo": "exacta",
+   "fecha_fin_estimada": "2025-12-31",
    "estado": "cerrada",
    "categorias_txt": [
     "Energías renovables",
@@ -11376,6 +11688,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:39:57",
    "actualizado": "2026-09-16T19:39:57",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2025-11-09",
    "estado": "cerrada",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -11485,6 +11799,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:39:53",
    "actualizado": "2026-09-16T19:39:53",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2025-11-17",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -11760,6 +12076,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:39:58",
    "actualizado": "2026-09-16T19:39:58",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2025-10-21",
    "estado": "cerrada",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -12481,6 +12799,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:39:42",
    "actualizado": "2026-09-16T19:39:42",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2025-10-16",
    "estado": "cerrada",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -12539,7 +12859,9 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:39:42",
    "actualizado": "2026-09-16T19:39:42",
-   "estado": "abierta",
+   "fin_tipo": "exacta",
+   "fecha_fin_estimada": "2025-10-10",
+   "estado": "cerrada",
    "categorias_txt": [
     "Solar FV / autoconsumo",
     "Comunidades energéticas",
@@ -12595,6 +12917,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:39:44",
    "actualizado": "2026-09-16T19:39:44",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2025-10-08",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -12652,6 +12976,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:39:43",
    "actualizado": "2026-09-16T19:39:43",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2025-10-04",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -12821,6 +13147,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:39:26",
    "actualizado": "2026-09-16T19:39:26",
+   "fin_tipo": "exacta",
+   "fecha_fin_estimada": "2025-09-30",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -12875,7 +13203,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:39:27",
    "actualizado": "2026-09-16T19:39:27",
-   "estado": "cerrada",
+   "fin_tipo": "sin_plazo",
+   "estado": "plazo_por_confirmar",
    "categorias_txt": [
     "Solar FV / autoconsumo",
     "Industria / pymes"
@@ -13205,6 +13534,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:39:19",
    "actualizado": "2026-09-16T19:39:19",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2025-09-28",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -13367,7 +13698,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:39:30",
    "actualizado": "2026-09-16T19:39:30",
-   "estado": "cerrada",
+   "fin_tipo": "sin_plazo",
+   "estado": "plazo_por_confirmar",
    "categorias_txt": [
     "Solar FV / autoconsumo"
    ],
@@ -13421,6 +13753,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:39:30",
    "actualizado": "2026-09-16T19:39:30",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2025-08-26",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -13589,6 +13923,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:39:32",
    "actualizado": "2026-09-16T19:39:32",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2025-11-14",
    "estado": "cerrada",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -13644,6 +13980,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:39:33",
    "actualizado": "2026-09-16T19:39:33",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2025-11-14",
    "estado": "cerrada",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -13699,6 +14037,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:39:34",
    "actualizado": "2026-09-16T19:39:34",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2025-11-14",
    "estado": "cerrada",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -13754,6 +14094,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:39:34",
    "actualizado": "2026-09-16T19:39:34",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2025-11-14",
    "estado": "cerrada",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -13857,6 +14199,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:39:20",
    "actualizado": "2026-09-16T19:39:20",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2025-08-11",
    "estado": "cerrada",
    "categorias_txt": [
     "Rehabilitación energética de edificios"
@@ -13912,6 +14256,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:39:24",
    "actualizado": "2026-09-16T19:39:24",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2025-08-10",
    "estado": "cerrada",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -14025,6 +14371,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:39:36",
    "actualizado": "2026-09-16T19:39:36",
+   "fin_tipo": "exacta",
+   "fecha_fin_estimada": "2025-09-10",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización"
@@ -14076,6 +14424,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:39:37",
    "actualizado": "2026-09-16T19:39:37",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2025-09-03",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización"
@@ -14132,6 +14482,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:39:21",
    "actualizado": "2026-09-16T19:39:21",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2025-08-04",
    "estado": "cerrada",
    "categorias_txt": [
     "Energías renovables",
@@ -14192,6 +14544,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:39:38",
    "actualizado": "2026-09-16T19:39:38",
+   "fin_tipo": "exacta",
+   "fecha_fin_estimada": "2025-12-15",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -14306,6 +14660,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:39:25",
    "actualizado": "2026-09-16T19:39:25",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2025-07-21",
    "estado": "cerrada",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -14676,6 +15032,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:39:13",
    "actualizado": "2026-09-16T19:39:13",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2025-07-09",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización"
@@ -14789,6 +15147,7 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:39:06",
    "actualizado": "2026-09-16T19:39:06",
+   "fin_tipo": "desconocida",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -14847,6 +15206,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:39:13",
    "actualizado": "2026-09-16T19:39:13",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2025-07-04",
    "estado": "cerrada",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -14904,6 +15265,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:39:14",
    "actualizado": "2026-09-16T19:39:14",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2025-07-04",
    "estado": "cerrada",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -14956,6 +15319,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:39:14",
    "actualizado": "2026-09-16T19:39:14",
+   "fin_tipo": "exacta",
+   "fecha_fin_estimada": "2025-02-28",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización"
@@ -15054,6 +15419,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:39:15",
    "actualizado": "2026-09-16T19:39:15",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2025-06-19",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización"
@@ -15104,6 +15471,7 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:39:05",
    "actualizado": "2026-09-16T19:39:05",
+   "fin_tipo": "desconocida",
    "estado": "cerrada",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -15221,6 +15589,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:39:17",
    "actualizado": "2026-09-16T19:39:17",
+   "fin_tipo": "exacta",
+   "fecha_fin_estimada": "2025-11-30",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -15394,6 +15764,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:39:17",
    "actualizado": "2026-09-16T19:39:17",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2025-06-18",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -15454,6 +15826,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:39:04",
    "actualizado": "2026-09-16T19:39:04",
+   "fin_tipo": "exacta",
+   "fecha_fin_estimada": "2024-03-22",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización"
@@ -15506,6 +15880,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:39:18",
    "actualizado": "2026-09-16T19:39:18",
+   "fin_tipo": "exacta",
+   "fecha_fin_estimada": "2025-12-01",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -15558,6 +15934,7 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:39:08",
    "actualizado": "2026-09-16T19:39:08",
+   "fin_tipo": "desconocida",
    "estado": "abierta",
    "categorias_txt": [
     "Eficiencia energética / descarbonización"
@@ -15668,6 +16045,7 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:38:55",
    "actualizado": "2026-09-16T19:38:55",
+   "fin_tipo": "desconocida",
    "estado": "abierta",
    "categorias_txt": [
     "Solar FV / autoconsumo"
@@ -15780,6 +16158,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:38:44",
    "actualizado": "2026-09-16T19:38:44",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2025-12-13",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -15898,6 +16278,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:38:44",
    "actualizado": "2026-09-16T19:38:44",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2025-05-26",
    "estado": "cerrada",
    "categorias_txt": [
     "Energías renovables",
@@ -16225,6 +16607,7 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:38:40",
    "actualizado": "2026-09-16T19:38:40",
+   "fin_tipo": "desconocida",
    "estado": "abierta",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -16451,6 +16834,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:38:49",
    "actualizado": "2026-09-16T19:38:49",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2025-05-14",
    "estado": "cerrada",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -16508,6 +16893,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:38:49",
    "actualizado": "2026-09-16T19:38:49",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2025-05-14",
    "estado": "cerrada",
    "categorias_txt": [
     "Energías renovables",
@@ -16565,6 +16952,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:38:50",
    "actualizado": "2026-09-16T19:38:50",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2025-05-14",
    "estado": "cerrada",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -16622,6 +17011,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:38:51",
    "actualizado": "2026-09-16T19:38:51",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2025-05-14",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -16682,6 +17073,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:38:51",
    "actualizado": "2026-09-16T19:38:51",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2025-05-14",
    "estado": "cerrada",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -16737,6 +17130,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:39:00",
    "actualizado": "2026-09-16T19:39:00",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2025-05-14",
    "estado": "cerrada",
    "categorias_txt": [
     "Comunidades energéticas"
@@ -16906,6 +17301,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:38:52",
    "actualizado": "2026-09-16T19:38:52",
+   "fin_tipo": "exacta",
+   "fecha_fin_estimada": "2025-12-31",
    "estado": "cerrada",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -16963,6 +17360,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:38:53",
    "actualizado": "2026-09-16T19:38:53",
+   "fin_tipo": "exacta",
+   "fecha_fin_estimada": "2025-12-31",
    "estado": "cerrada",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -17067,6 +17466,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:38:53",
    "actualizado": "2026-09-16T19:38:53",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2025-05-07",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -17345,6 +17746,7 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:38:43",
    "actualizado": "2026-09-16T19:38:43",
+   "fin_tipo": "desconocida",
    "estado": "abierta",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -17404,6 +17806,7 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:38:54",
    "actualizado": "2026-09-16T19:38:54",
+   "fin_tipo": "desconocida",
    "estado": "cerrada",
    "categorias_txt": [
     "Comunidades energéticas",
@@ -17514,7 +17917,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:38:26",
    "actualizado": "2026-09-16T19:38:26",
-   "estado": "cerrada",
+   "fin_tipo": "sin_plazo",
+   "estado": "plazo_por_confirmar",
    "categorias_txt": [
     "Energías renovables"
    ],
@@ -17567,7 +17971,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:38:26",
    "actualizado": "2026-09-16T19:38:26",
-   "estado": "cerrada",
+   "fin_tipo": "sin_plazo",
+   "estado": "plazo_por_confirmar",
    "categorias_txt": [
     "Aerotermia / bomba de calor"
    ],
@@ -17789,6 +18194,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:38:23",
    "actualizado": "2026-09-16T19:38:23",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2025-04-20",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -17848,6 +18255,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:38:24",
    "actualizado": "2026-09-16T19:38:24",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2025-04-20",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -18211,6 +18620,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:38:35",
    "actualizado": "2026-09-16T19:38:35",
+   "fin_tipo": "exacta",
+   "fecha_fin_estimada": "2025-07-31",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización"
@@ -18264,6 +18675,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:38:27",
    "actualizado": "2026-09-16T19:38:27",
+   "fin_tipo": "exacta",
+   "fecha_fin_estimada": "2025-06-15",
    "estado": "cerrada",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -18376,6 +18789,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:38:36",
    "actualizado": "2026-09-16T19:38:36",
+   "fin_tipo": "exacta",
+   "fecha_fin_estimada": "2025-10-31",
    "estado": "cerrada",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -18431,6 +18846,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:38:36",
    "actualizado": "2026-09-16T19:38:36",
+   "fin_tipo": "exacta",
+   "fecha_fin_estimada": "2025-10-31",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -18899,6 +19316,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:38:39",
    "actualizado": "2026-09-16T19:38:39",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2025-04-18",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -19352,6 +19771,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:38:12",
    "actualizado": "2026-09-16T19:38:12",
+   "fin_tipo": "exacta",
+   "fecha_fin_estimada": "2025-10-31",
    "estado": "cerrada",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -19468,6 +19889,7 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:38:14",
    "actualizado": "2026-09-16T19:38:14",
+   "fin_tipo": "desconocida",
    "estado": "abierta",
    "categorias_txt": [
     "Rehabilitación energética de edificios",
@@ -19642,6 +20064,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:38:16",
    "actualizado": "2026-09-16T19:38:16",
+   "fin_tipo": "exacta",
+   "fecha_fin_estimada": "2025-02-28",
    "estado": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
@@ -19809,6 +20233,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:38:18",
    "actualizado": "2026-09-16T19:38:18",
+   "fin_tipo": "estimada",
+   "fecha_fin_estimada": "2025-02-13",
    "estado": "cerrada",
    "categorias_txt": [
     "Solar FV / autoconsumo",
@@ -19865,7 +20291,8 @@
    "texto_pdf_chars": null,
    "creado": "2026-09-16T19:38:18",
    "actualizado": "2026-09-16T19:38:18",
-   "estado": "cerrada",
+   "fin_tipo": "sin_plazo",
+   "estado": "plazo_por_confirmar",
    "categorias_txt": [
     "Eficiencia energética / descarbonización",
     "Edificios / comunidades de propietarios"
@@ -20272,6 +20699,410 @@
  ],
  "licitaciones": [
   {
+   "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20485114",
+   "fuente": "Plataformas CCAA",
+   "titulo": "Obras de mejora de la envolvente térmica y eliminación de barreras arquitectónicas en el edificio del Ayuntamiento de Aras (Navarra)",
+   "expediente": "3252_20/2026",
+   "organo": "PLENO DEL AYUNTAMIENTO DE ARAS",
+   "organo_padre": "Ayuntamiento de Aras",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Obras",
+   "procedimiento": "Abierto",
+   "cpv": [
+    "45313100"
+   ],
+   "presupuesto_sin_iva": 147132.25,
+   "presupuesto_con_iva": null,
+   "valor_estimado": 147132.25,
+   "fecha_limite": "2026-10-13",
+   "hora_limite": "23:59:00",
+   "lugar": null,
+   "nuts": "ES220",
+   "ccaa": "Navarra",
+   "municipio": null,
+   "duracion": "180 días",
+   "fondos_ue": "No hay financiación con fondos de la UE",
+   "n_lotes": 0,
+   "url": "https://hacienda.navarra.es/sicpportal/mtoAnunciosModalidad.aspx?cod=2609221403564DD32DFC",
+   "documentos": [],
+   "fecha_publicacion": "2026-09-23",
+   "actualizado": "2026-09-23",
+   "categorias": [
+    "rehabilitacion",
+    "edificios"
+   ],
+   "clientes": [
+    "comunidades"
+   ],
+   "creado": "2026-09-23T18:48:46",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 147132.25,
+    "texto": null,
+    "motivo": "Contrato de obras con valor estimado 147.132 € < 500.000 €: no es exigible la clasificación (art. 77.1.a LCSP). El órgano puede pedir solvencia por otros medios. y la clasificación sirve para acreditarla."
+   },
+   "clasificacion_txt": [],
+   "estado_panel": "abierta",
+   "categorias_txt": [
+    "Rehabilitación energética de edificios",
+    "Edificios / comunidades de propietarios"
+   ],
+   "clientes_txt": [
+    "Comunidades de propietarios / edificios"
+   ],
+   "puntuacion": 3,
+   "geo": {
+    "nombre": "Navarra",
+    "lat": 42.7,
+    "lon": -1.65,
+    "nivel": "provincia",
+    "codigo": "ES220"
+   }
+  },
+  {
+   "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20493851",
+   "fuente": "Plataformas CCAA",
+   "titulo": "SER-2026-0018: Redacción del proyecto básico y de ejecución y dirección de obra de actuaciones de mejora energética en el Hospital Gil Casares del Complejo Hospitalario Universitario de Santiago de Compostela.",
+   "expediente": "PcPG/2026/829201",
+   "organo": "Consellería de Sanidade- SERGAS",
+   "organo_padre": null,
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Servicios",
+   "procedimiento": "Abierto",
+   "cpv": [
+    "71221000",
+    "71247000"
+   ],
+   "presupuesto_sin_iva": 85721.42,
+   "presupuesto_con_iva": null,
+   "valor_estimado": 85012.99,
+   "fecha_limite": "2026-10-14",
+   "hora_limite": "23:59:00",
+   "lugar": null,
+   "nuts": "ES111",
+   "ccaa": "Galicia",
+   "municipio": null,
+   "duracion": null,
+   "fondos_ue": "No hay financiación con fondos de la UE",
+   "n_lotes": 1,
+   "url": "https://www.contratosdegalicia.gal/licitacion?N=829201",
+   "documentos": [],
+   "fecha_publicacion": "2026-09-22",
+   "actualizado": "2026-09-22",
+   "categorias": [
+    "rehabilitacion"
+   ],
+   "clientes": [],
+   "creado": "2026-09-23T18:48:47",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 85012.99,
+    "texto": null,
+    "motivo": "Contrato de servicios: la clasificación no es exigible (art. 77.1.b LCSP), aunque puede presentarse para acreditar la solvencia."
+   },
+   "clasificacion_txt": [],
+   "estado_panel": "abierta",
+   "categorias_txt": [
+    "Rehabilitación energética de edificios"
+   ],
+   "clientes_txt": [],
+   "puntuacion": 1,
+   "geo": {
+    "nombre": "A Coruña",
+    "lat": 43.2,
+    "lon": -8.45,
+    "nivel": "provincia",
+    "codigo": "ES111"
+   }
+  },
+  {
+   "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20486493",
+   "fuente": "Plataformas CCAA",
+   "titulo": "Subministrament, en modalitat d'arrendament de curta durada (carsharing), de vehicles 100% elèctrics destinats al personal de L'Energètica i serveis complementaris de gestió.",
+   "expediente": "ERPC-2026-71",
+   "organo": "Energies Renovables Públiques de Catalunya, SAU",
+   "organo_padre": "Departaments i sector públic de la Generalitat de Catalunya",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Suministros",
+   "procedimiento": "Otros",
+   "cpv": [
+    "34144900",
+    "50111100"
+   ],
+   "presupuesto_sin_iva": 14900.0,
+   "presupuesto_con_iva": null,
+   "valor_estimado": 59600.0,
+   "fecha_limite": "2026-10-07",
+   "hora_limite": "14:00:00",
+   "lugar": null,
+   "nuts": "ES51",
+   "ccaa": "Cataluña",
+   "municipio": null,
+   "duracion": "1 años",
+   "fondos_ue": "No hay financiación con fondos de la UE",
+   "n_lotes": 0,
+   "url": "https://contractaciopublica.cat/ca/detall-publicacio/b7a3c2da-8e15-45ea-99cf-14dd5e0e2691/300888210",
+   "documentos": [
+    {
+     "nombre": "Pliego administrativo (PCAP)",
+     "fichero": "Plec de clàusules particulars-000.pdf",
+     "url": "https://contractaciopublica.cat/portal-api/descarrega-document/302609627/1C36AB2D997DDDFD4115E05E9BF474A9"
+    },
+    {
+     "nombre": "Pliego técnico (PPT)",
+     "fichero": "PPT.pdf",
+     "url": "https://contractaciopublica.cat/portal-api/descarrega-document/302609628/F7D97B20186C839D41573D8020265DDE"
+    }
+   ],
+   "fecha_publicacion": "2026-09-21",
+   "actualizado": "2026-09-21",
+   "categorias": [],
+   "clientes": [],
+   "creado": "2026-09-23T18:48:47",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 59600.0,
+    "texto": null,
+    "motivo": "Contrato de suministros: la clasificación no es exigible; se acredita solvencia económica y técnica."
+   },
+   "clasificacion_txt": [],
+   "estado_panel": "abierta",
+   "categorias_txt": [],
+   "clientes_txt": [],
+   "puntuacion": 0,
+   "geo": {
+    "nombre": "Cataluña",
+    "lat": 41.8,
+    "lon": 1.6,
+    "nivel": "ccaa",
+    "codigo": "ES51"
+   }
+  },
+  {
+   "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20486549",
+   "fuente": "Plataformas CCAA",
+   "titulo": "Aprovechamiento de biomasa. Monte Santa Catalina y otros. JA-30020-AY",
+   "expediente": "CONTR 2026 0000267009",
+   "organo": "Delegación Territorial de Sostenibilidad y Medio Ambiente en Jaén",
+   "organo_padre": "Junta de Andalucía",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Privado",
+   "procedimiento": "Abierto",
+   "cpv": [
+    "03000000"
+   ],
+   "presupuesto_sin_iva": 400.0,
+   "presupuesto_con_iva": null,
+   "valor_estimado": 400.0,
+   "fecha_limite": "2026-10-06",
+   "hora_limite": "15:00:00",
+   "lugar": null,
+   "nuts": "ES616",
+   "ccaa": "Andalucía",
+   "municipio": null,
+   "duracion": "24 meses",
+   "fondos_ue": "No hay financiación con fondos de la UE",
+   "n_lotes": 0,
+   "url": "https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=1008303",
+   "documentos": [],
+   "fecha_publicacion": "2026-09-21",
+   "actualizado": "2026-09-21",
+   "categorias": [
+    "renovables"
+   ],
+   "clientes": [],
+   "creado": "2026-09-23T18:48:47",
+   "clasificacion": {
+    "exigida": null,
+    "certeza": "desconocido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 200.0,
+    "texto": null,
+    "motivo": "No hay datos suficientes en el anuncio (tipo de contrato o valor estimado) para determinarlo: hay que mirar el PCAP."
+   },
+   "clasificacion_txt": [],
+   "estado_panel": "abierta",
+   "categorias_txt": [
+    "Energías renovables"
+   ],
+   "clientes_txt": [],
+   "puntuacion": 1,
+   "geo": {
+    "nombre": "Jaén",
+    "lat": 38.0,
+    "lon": -3.45,
+    "nivel": "provincia",
+    "codigo": "ES616"
+   }
+  },
+  {
+   "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20486575",
+   "fuente": "Plataformas CCAA",
+   "titulo": "El contracte té per objecte el servei de consultoria energètica i estudis d’instal·lació fotovoltaica a empreses. Aquest serveihaurà d’incloure: \n\n•\tVisita a les empreses per ambdós serveis\n•\tEstudi de diagnosi energètica, proposta de mesures a implantar i cost previst\n•\tEstudi d’instal·lació de plaques fotovoltaiques, amb detall i cost previst.\n•\tInforme final per cada empresa\n•\tInforme conjunt final del servei desenvolupat a l’òrgan contractant",
+   "expediente": "JIA/2026/203",
+   "organo": "Promoció Econòmica de Sabadell, SL",
+   "organo_padre": "Entitats de l'administració local",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Servicios",
+   "procedimiento": "Otros",
+   "cpv": [
+    "71314300"
+   ],
+   "presupuesto_sin_iva": 10600.0,
+   "presupuesto_con_iva": null,
+   "valor_estimado": 10600.0,
+   "fecha_limite": "2026-10-05",
+   "hora_limite": "23:59:59",
+   "lugar": null,
+   "nuts": "ES511",
+   "ccaa": "Cataluña",
+   "municipio": null,
+   "duracion": "1 años",
+   "fondos_ue": "No hay financiación con fondos de la UE",
+   "n_lotes": 0,
+   "url": "https://contractaciopublica.cat/ca/detall-publicacio/f9d3e71d-c0e1-4def-9bd8-059bd2b7a064/300885934",
+   "documentos": [
+    {
+     "nombre": "Pliego administrativo (PCAP)",
+     "fichero": "PCAP + ANNEXOS - CONTULSTORIA ENERGÈTICA.pdf",
+     "url": "https://contractaciopublica.cat/portal-api/descarrega-document/302608310/8BE1DD414EF057F7C8BA382C0DB2FF21"
+    },
+    {
+     "nombre": "Pliego técnico (PPT)",
+     "fichero": "PPT - CONSULTORIA ENERGÈTICA.pdf",
+     "url": "https://contractaciopublica.cat/portal-api/descarrega-document/302608312/CFD68D56ED2BEFA30DEA9FF88B15BFED"
+    }
+   ],
+   "fecha_publicacion": "2026-09-21",
+   "actualizado": "2026-09-21",
+   "categorias": [
+    "fotovoltaica",
+    "industria"
+   ],
+   "clientes": [
+    "industria"
+   ],
+   "creado": "2026-09-23T18:48:47",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 10600.0,
+    "texto": null,
+    "motivo": "Contrato de servicios: la clasificación no es exigible (art. 77.1.b LCSP), aunque puede presentarse para acreditar la solvencia."
+   },
+   "clasificacion_txt": [],
+   "estado_panel": "abierta",
+   "categorias_txt": [
+    "Solar FV / autoconsumo",
+    "Industria / pymes"
+   ],
+   "clientes_txt": [
+    "Industria / empresas"
+   ],
+   "puntuacion": 3,
+   "geo": {
+    "nombre": "Barcelona",
+    "lat": 41.65,
+    "lon": 1.95,
+    "nivel": "provincia",
+    "codigo": "ES511"
+   }
+  },
+  {
+   "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20486673",
+   "fuente": "Plataformas CCAA",
+   "titulo": "Realització d’una instalꞏlació fotovoltaica de generació elèctrica en baixa tensió de 70,20 kWp, ubicada a la coberta de la pista poliesportiva al carrer Santa Madrona núm1.\nModalitat d’instalꞏlació generadora d'autoconsum colꞏlectiu acollida compartit entre 10 kW i 100 kW.",
+   "expediente": "01",
+   "organo": "Ajuntament de la Pobla de Massaluca",
+   "organo_padre": "Entitats de l'administració local",
+   "estado": "PUB",
+   "estado_txt": "En plazo",
+   "tipo": "Obras",
+   "procedimiento": "Abierto simplificado",
+   "cpv": [
+    "09331200",
+    "45261215"
+   ],
+   "presupuesto_sin_iva": 87787.11,
+   "presupuesto_con_iva": null,
+   "valor_estimado": 87787.11,
+   "fecha_limite": "2026-10-21",
+   "hora_limite": "15:00:00",
+   "lugar": null,
+   "nuts": "ES514",
+   "ccaa": "Cataluña",
+   "municipio": null,
+   "duracion": "3 meses",
+   "fondos_ue": "No hay financiación con fondos de la UE",
+   "n_lotes": 0,
+   "url": "https://contractaciopublica.cat/ca/detall-publicacio/45d679a5-ded0-4ce9-a940-d06e9000e6da/300875033",
+   "documentos": [
+    {
+     "nombre": "Pliego administrativo (PCAP)",
+     "fichero": "PlecClausulesAdminstrativesDefinitiu.pdf",
+     "url": "https://contractaciopublica.cat/portal-api/descarrega-document/302603277/B4ECE08C5B269F7FBF06600DAD013797"
+    },
+    {
+     "nombre": "Pliego técnico (PPT)",
+     "fichero": "034824_PLECrev_signed.pdf",
+     "url": "https://contractaciopublica.cat/portal-api/descarrega-document/302603305/95585BAD9F9802163749872CC42B5778"
+    }
+   ],
+   "fecha_publicacion": "2026-09-21",
+   "actualizado": "2026-09-21",
+   "categorias": [
+    "fotovoltaica"
+   ],
+   "clientes": [],
+   "creado": "2026-09-23T18:48:47",
+   "clasificacion": {
+    "exigida": false,
+    "certeza": "inferido",
+    "codigos": [],
+    "descripciones": [],
+    "categoria": null,
+    "anualidad_media": 87787.11,
+    "texto": null,
+    "motivo": "Contrato de obras con valor estimado 87.787 € < 500.000 €: no es exigible la clasificación (art. 77.1.a LCSP). El órgano puede pedir solvencia por otros medios. y la clasificación sirve para acreditarla."
+   },
+   "clasificacion_txt": [],
+   "estado_panel": "abierta",
+   "categorias_txt": [
+    "Solar FV / autoconsumo"
+   ],
+   "clientes_txt": [],
+   "puntuacion": 1,
+   "geo": {
+    "nombre": "Tarragona",
+    "lat": 41.15,
+    "lon": 0.8,
+    "nivel": "provincia",
+    "codigo": "ES514"
+   }
+  },
+  {
    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20463510",
    "fuente": "Plataformas CCAA",
    "titulo": "Contracte d'obres per a la Renovació de la climatització de la Casa de la Vila d'Ulldecona",
@@ -20430,16 +21261,16 @@
     {
      "nombre": "Pliego administrativo (PCAP)",
      "fichero": "Pliego_Clausulas_Administrativas_Particulares SOBR 0035.pdf",
-     "url": "https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13326784&R01HNoPortal=true"
+     "url": "https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13379897&R01HNoPortal=true"
     },
     {
      "nombre": "Pliego técnico (PPT)",
      "fichero": "MEMORIA SOBR 0035.pdf",
-     "url": "https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13326785&R01HNoPortal=true"
+     "url": "https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13379898&R01HNoPortal=true"
     }
    ],
    "fecha_publicacion": "2026-09-18",
-   "actualizado": "2026-09-18",
+   "actualizado": "2026-09-22",
    "categorias": [
     "eficiencia"
    ],
@@ -23652,16 +24483,16 @@
     {
      "nombre": "Pliego administrativo (PCAP)",
      "fichero": "Pliego admvo_suministro_2026_017.pdf",
-     "url": "https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13275256&R01HNoPortal=true"
+     "url": "https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13378661&R01HNoPortal=true"
     },
     {
      "nombre": "Pliego técnico (PPT)",
      "fichero": "4010-26 PPT _Protección_Lucernarios ARIZ Exp 2026_017.pdf",
-     "url": "https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13275254&R01HNoPortal=true"
+     "url": "https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13378663&R01HNoPortal=true"
     }
    ],
    "fecha_publicacion": "2026-09-15",
-   "actualizado": "2026-09-15",
+   "actualizado": "2026-09-22",
    "categorias": [
     "fotovoltaica"
    ],
@@ -24578,7 +25409,7 @@
    "url": "https://www.contratosdegalicia.gal/licitacion?N=829117",
    "documentos": [],
    "fecha_publicacion": "2026-09-11",
-   "actualizado": "2026-09-18",
+   "actualizado": "2026-09-21",
    "categorias": [
     "aerotermia"
    ],
@@ -25706,7 +26537,7 @@
    "url": "https://www.contratosdegalicia.gal/licitacion?N=829069",
    "documentos": [],
    "fecha_publicacion": "2026-09-08",
-   "actualizado": "2026-09-14",
+   "actualizado": "2026-09-21",
    "categorias": [
     "fotovoltaica",
     "edificios"
@@ -26191,7 +27022,7 @@
     "motivo": "Contrato de obras con valor estimado 115.383 € < 500.000 €: no es exigible la clasificación (art. 77.1.a LCSP). El órgano puede pedir solvencia por otros medios. y la clasificación sirve para acreditarla."
    },
    "clasificacion_txt": null,
-   "estado_panel": "abierta",
+   "estado_panel": "cerrada",
    "categorias_txt": [
     "Aerotermia / bomba de calor"
    ],
@@ -26494,7 +27325,7 @@
     "motivo": "Contrato de obras con valor estimado 535.489 € ≥ 500.000 €: la clasificación es requisito indispensable (art. 77.1.a LCSP). Categoría 3 por anualidad media de 535.489 €."
    },
    "clasificacion_txt": null,
-   "estado_panel": "abierta",
+   "estado_panel": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización"
    ],
@@ -26782,7 +27613,7 @@
     "AwardingCriteriaTypeCode: OBJ",
     "Description: Precio"
    ],
-   "estado_panel": "abierta",
+   "estado_panel": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización"
    ],
@@ -28336,7 +29167,7 @@
     "motivo": "Contrato de obras con valor estimado 1.979.405 € ≥ 500.000 €: la clasificación es requisito indispensable (art. 77.1.a LCSP). Categoría 4 por anualidad media de 1.979.405 €."
    },
    "clasificacion_txt": [],
-   "estado_panel": "abierta",
+   "estado_panel": "cerrada",
    "categorias_txt": [
     "Eficiencia energética / descarbonización"
    ],
@@ -28754,7 +29585,7 @@
     "Description: Según lo especificado en el apartado N del Resumen de Características del Pliego de Cláusulas Administrativas Particulares",
     "AwardingCriteriaTypeCode: OBJ"
    ],
-   "estado_panel": "abierta",
+   "estado_panel": "cerrada",
    "categorias_txt": [],
    "clientes_txt": [
     "Comunidades de propietarios / edificios"
@@ -294677,6 +295508,22 @@
  },
  "noticias": [
   {
+   "id": "311329a385ce28f9",
+   "fuente": "Gobierno de Canarias (noticias)",
+   "titulo": "La ACIISI prioriza la conexión entre la ciencia y el tejido productivo con 2,8 millones de euros",
+   "url": "https://www3.gobiernodecanarias.org/noticias/la-aciisi-prioriza-la-conexion-entre-la-ciencia-y-el-tejido-productivo-con-28-millones-de-euros/",
+   "fecha": "2026-09-23",
+   "resumen": "· El Programa de Actuaciones 2026 está publicado en la web · Entre las partidas destacan aportaciones a entidades del ecosistema de I+D y proyectos estratégicos como la Comunidad Energética de La Gomera Impulsar la actividad científica en Canarias y favorecer que el conocimiento generado en las islas se transforme en soluciones útiles [&#8230;]",
+   "ambito": "Canarias",
+   "categorias": [
+    "comunidades_energeticas"
+   ],
+   "creado": "2026-09-23T18:48:07",
+   "categorias_txt": [
+    "Comunidades energéticas"
+   ]
+  },
+  {
    "id": "9b9fe706eb852fc8",
    "fuente": "EREN / Energía CyL",
    "titulo": "AVEBIOM impulsa una red europea para reforzar el papel de la bioenergía forestal",
@@ -296087,6 +296934,17 @@
  },
  "ejecuciones": [
   {
+   "id": 52,
+   "inicio": "2026-09-23T18:47:45",
+   "fin": "2026-09-23T18:52:45",
+   "ok": 1,
+   "nuevas_convocatorias": 2,
+   "nuevas_noticias": 1,
+   "resumenes": 25,
+   "errores": [],
+   "nuevas_licitaciones": 6
+  },
+  {
    "id": 51,
    "inicio": "2026-09-22T11:11:49",
    "fin": "2026-09-22T11:11:49",
@@ -296239,20 +297097,110 @@
    "resumenes": 25,
    "errores": [],
    "nuevas_licitaciones": 7
-  },
-  {
-   "id": 37,
-   "inicio": "2026-09-16T19:10:10",
-   "fin": "2026-09-16T19:10:10",
-   "ok": 1,
-   "nuevas_convocatorias": 0,
-   "nuevas_noticias": 0,
-   "resumenes": 0,
-   "errores": [],
-   "nuevas_licitaciones": 0
   }
  ],
- "suscripciones": [],
+ "suscripciones": [
+  {
+   "email": "carmelo@ghcneutral.com",
+   "nombre": "Carmelo",
+   "ccaa": [
+    "Galicia"
+   ],
+   "categorias": [
+    "fotovoltaica",
+    "baterias",
+    "aerotermia",
+    "geotermia",
+    "rehabilitacion",
+    "eficiencia",
+    "renovables",
+    "comunidades_energeticas",
+    "movilidad",
+    "industria",
+    "edificios",
+    "agro"
+   ],
+   "subvenciones": 1,
+   "licitaciones": 1,
+   "activo": 1,
+   "desde": "2026-09-22T11:14:48",
+   "creado": "2026-09-22T11:14:48",
+   "actualizado": "2026-09-22T11:27:28"
+  },
+  {
+   "email": "rebeca@pansogal.com",
+   "nombre": "Rebeca_PANSOGAL",
+   "ccaa": [
+    "Andalucía",
+    "Aragón",
+    "Asturias",
+    "Baleares",
+    "Canarias",
+    "Cantabria",
+    "Castilla y León",
+    "Castilla-La Mancha",
+    "Cataluña",
+    "Ceuta",
+    "Comunidad Valenciana",
+    "Comunidad de Madrid",
+    "Extremadura",
+    "Galicia",
+    "La Rioja",
+    "Melilla",
+    "Nacional",
+    "Navarra",
+    "País Vasco",
+    "Región de Murcia"
+   ],
+   "categorias": [
+    "fotovoltaica",
+    "baterias",
+    "aerotermia",
+    "geotermia",
+    "rehabilitacion",
+    "eficiencia",
+    "renovables",
+    "comunidades_energeticas",
+    "movilidad",
+    "industria",
+    "edificios",
+    "agro"
+   ],
+   "subvenciones": 1,
+   "licitaciones": 1,
+   "activo": 1,
+   "desde": "2026-09-23T18:50:47",
+   "creado": "2026-09-23T18:50:47",
+   "actualizado": "2026-09-23T18:50:47"
+  },
+  {
+   "email": "rosario@pansogal.com",
+   "nombre": "Rosario_PANSOGAL",
+   "ccaa": [
+    "Galicia"
+   ],
+   "categorias": [
+    "fotovoltaica",
+    "baterias",
+    "aerotermia",
+    "geotermia",
+    "rehabilitacion",
+    "eficiencia",
+    "renovables",
+    "comunidades_energeticas",
+    "movilidad",
+    "industria",
+    "edificios",
+    "agro"
+   ],
+   "subvenciones": 1,
+   "licitaciones": 1,
+   "activo": 1,
+   "desde": "2026-09-23T18:49:56",
+   "creado": "2026-09-23T18:49:56",
+   "actualizado": "2026-09-23T18:49:56"
+  }
+ ],
  "categorias": {
   "fotovoltaica": "Solar FV / autoconsumo",
   "baterias": "Baterías / BESS",
@@ -296273,12 +297221,12 @@
   "industria": "Industria / empresas"
  },
  "kpis": {
-  "abiertas": 64,
-  "por_confirmar": 8,
+  "abiertas": 74,
+  "por_confirmar": 18,
   "proximas": 0,
-  "licitaciones_abiertas": 233,
-  "licitaciones_nuevas_7d": 3106,
-  "nuevas_7d": 5,
+  "licitaciones_abiertas": 234,
+  "licitaciones_nuevas_7d": 3094,
+  "nuevas_7d": 7,
   "noticias_7d": 2
  }
 }
