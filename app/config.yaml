@@ -1,0 +1,298 @@
+﻿# =====================================================================
+#  Rastreador diario de subvenciones y noticias — GHC (Gestión Huella Carbono)
+#  Configuración principal. Las claves API van en el fichero .env (ver .env.example)
+# =====================================================================
+
+general:
+  zona_horaria: Europe/Madrid
+  # Días hacia atrás que se consultan en cada ejecución (margen por si un día falla)
+  ventana_dias: 3
+  # En la primera ejecución (base de datos vacía) se carga este histórico
+  ventana_dias_inicial: 120
+  # Punto de partida de la carga histórica completa (python -m rastreador.run --historico)
+  fecha_historico: "2025-01-01"
+  # Convocatorias sin fecha de fin conocida se consideran vigentes durante estos días
+  dias_vigencia_sin_fecha: 60
+  # Ruta de la base de datos SQLite y del panel generado
+  db: data/subvenciones.sqlite
+  panel: panel/index.html
+  # Carpeta compartida (OneDrive/SharePoint sincronizado o unidad de red). Si se indica, TODOS los PCs con el
+  # programa instalado comparten la misma base de datos y el mismo panel: cada ejecución trae la base compartida,
+  # rastrea y la devuelve junto con el panel. Los compañeros sin el programa abren index.html desde esa carpeta.
+  # Es una subcarpeta (_compartido) de la carpeta del programa, para no mezclar la base y el panel con el código.
+  # ${OneDriveCommercial} = carpeta OneDrive de empresa del usuario que ejecuta (p. ej. C:/Users/X/OneDrive - PANSOGAL S.L),
+  # así la misma configuración vale en el PC de cada compañero.
+  carpeta_compartida: "C:/Users/PANSOGAL_SOLARNI/OneDrive - PANSOGAL S.L/PANSOGAL/00_COMERCIAL_ESTUDIOS/01_ESTUDIOS/02_DOCUMENTOS DE TRABAJO/04_SOFTWARE/RADAR SUBVENCIONES Y LICITACIONES_CLAUDE/_compartido"
+  # En modo automático (tarea programada) no se repite el rastreo si el panel compartido se actualizó hace menos de estas horas
+  min_horas_entre_actualizaciones: 6
+  # Máximo de resúmenes ejecutivos (LLM) nuevos por ejecución (control de coste)
+  max_resumenes_por_ejecucion: 25
+  # Máximo de caracteres del PDF de la convocatoria que se envían al LLM
+  max_caracteres_pdf: 120000
+
+# ---------------------------------------------------------------------
+# Publicación del panel en GitHub Pages (para verlo desde el móvil con una URL).
+# Requiere un repositorio con Pages activado y un token en .env (GITHUB_TOKEN).
+# AVISO: la página es pública para quien tenga la URL (GitHub Pages no admite contraseña).
+# ---------------------------------------------------------------------
+publicacion:
+  github:
+    activo: true
+    repo: "GHC-PANSOGAL/radar-subvenciones"
+    rama: main
+    # Dominio propio (opcional), p. ej. radar.ghcneutral.com. Requiere un registro DNS CNAME
+    # "radar" -> carmelo-dieta.github.io y activarlo en Settings -> Pages -> Custom domain.
+    dominio: ""
+    url: "https://ghc-pansogal.github.io/radar-subvenciones/"
+
+# ---------------------------------------------------------------------
+# Proveedor del resumen ejecutivo: "gemini" | "anthropic" | "perplexity" | "ninguno"
+#   gemini    -> Google AI Studio, clave gratuita (GEMINI_API_KEY). Recomendado.
+#   anthropic -> API de Anthropic, de pago por uso (ANTHROPIC_API_KEY)
+#   perplexity-> Agent API, de pago (PERPLEXITY_API_KEY)
+#   ninguno   -> resumen básico con los campos de la BDNS
+# ---------------------------------------------------------------------
+llm:
+  proveedor: gemini
+  gemini_modelo: gemini-2.5-flash
+  anthropic_modelo: claude-sonnet-4-5
+  perplexity_modelo: perplexity/sonar
+  # Segunda pasada: cuando la confianza calculada no es alta, se le devuelve el JSON al modelo con el
+  # texto para que corrija lo que no esté respaldado por una cita literal. Duplica las llamadas de esos casos.
+  verificar: true
+  # Pausa entre resúmenes (el nivel gratuito de Gemini limita las peticiones por minuto)
+  pausa_segundos: 7
+
+# ---------------------------------------------------------------------
+# Avisos por correo: un resumen al día, después del rastreo, con lo nuevo que encaje con los
+# filtros de cada persona. Las suscripciones se dan de alta en la pestaña "Avisos" del panel y
+# viven en la base compartida, así que valen para todos los PCs.
+# Solo envía el PC que hace el rastreo, y lo ya avisado queda anotado: nadie recibe lo mismo dos veces.
+# ---------------------------------------------------------------------
+avisos:
+  activo: true
+  # brevo | resend | smtp | fichero
+  #   brevo / resend -> API HTTPS, nivel gratuito (~300 correos/día). Clave en .env.
+  #   smtp           -> servidor SMTP clásico. AVISO: en Microsoft 365 la autenticación básica
+  #                     está en retirada y choca con los Security Defaults; puede dejar de funcionar.
+  #   fichero        -> no envía: deja el correo en data/avisos/ para verlo. Para probar sin clave.
+  proveedor: fichero
+  # Dirección desde la que se envía. Con brevo/resend hay que verificar el dominio para no caer en spam.
+  remitente: "radar@ghcneutral.com"
+  remitente_nombre: "Radar GHC"
+  # Tope de fichas por correo, para que un día de carga fuerte no mande un correo de 3 MB
+  max_por_correo: 25
+
+# ---------------------------------------------------------------------
+# Temáticas: una convocatoria/noticia entra en el panel si su título o
+# descripción contiene alguna palabra clave de al menos una categoría.
+# Se etiqueta con todas las categorías que cumpla.
+# ---------------------------------------------------------------------
+categorias:
+  # fuerte: true  -> basta con que aparezca para considerar el elemento relevante
+  # fuerte: false -> solo añade etiqueta; no hace relevante por sí sola
+  fotovoltaica:
+    etiqueta: "Solar FV / autoconsumo"
+    fuerte: true
+    palabras: [fotovoltaic, fotovoltaik, autoconsumo, autoconsum, plaques solars, placas solares, paneles solares, energía solar, enerxía solar, energia solar, solar térmica, instalaciones solares, instalación solar]
+  baterias:
+    etiqueta: "Baterías / BESS"
+    fuerte: true
+    palabras: [batería, baterias, baterías, almacenamiento energético, almacenamiento de energía, almacenamiento eléctrico, almacenamiento detrás del contador, sistemas de almacenamiento, bess]
+  aerotermia:
+    etiqueta: "Aerotermia / bomba de calor"
+    fuerte: true
+    palabras: [aerotermia, aerotèrmia, aerotérmic, aerotermic, aerotèrmic, bomba de calor, bombas de calor, bombes de calor, hidrotermia]
+  geotermia:
+    etiqueta: "Geotermia / puritermia"
+    fuerte: true
+    palabras: [geotermia, geotèrmia, geotérmic, geotermic, geotèrmic, xeotermia, puritermia]
+  rehabilitacion:
+    etiqueta: "Rehabilitación energética de edificios"
+    fuerte: true
+    palabras: [rehabilitación energética, rehabilitacion energetica, rehabilitación enerxética, rehabilitació energètica, envolvent tèrmica, envolvente térmica, sate, aislamiento térmico, eficiencia energética en edificios, mejora energética, eficiencia energética de viviendas, eficiencia energética en viviendas, pree 5000, programa pree, edificios residenciales]
+  eficiencia:
+    etiqueta: "Eficiencia energética / descarbonización"
+    fuerte: true
+    palabras: [eficiencia energética, eficiencia enerxética, eficiencia energetica, eficiència energètica, estalvi energètic, energia-eraginkortasun, millora energètica, ahorro energético, aforro enerxético, ahorro y eficiencia, descarbonización, descarbonizacion, auditoría energética, auditorías energéticas, transición energética, reducción del consumo energético, ahorro de energía, uso eficiente de la energía]
+  renovables:
+    etiqueta: "Energías renovables"
+    fuerte: true
+    palabras: [renovables térmicas, energías renovables, energias renovables, enerxías renovables, energies renovables, energía renovable, fuentes renovables, biomasa, calor renovable, hidrógeno renovable]
+  comunidades_energeticas:
+    etiqueta: "Comunidades energéticas"
+    fuerte: true
+    palabras: [comunidad energética, comunidades energéticas, comunidade enerxética, autoconsumo colectivo, autoconsumo compartido]
+  movilidad:
+    etiqueta: "Movilidad eléctrica / recarga"
+    fuerte: false
+    palabras: [punto de recarga, puntos de recarga, vehículo eléctrico, programa moves]
+  industria:
+    etiqueta: "Industria / pymes"
+    fuerte: false
+    palabras: [industria, industrial, pyme, pymes, empresas, empresa]
+  edificios:
+    etiqueta: "Edificios / comunidades de propietarios"
+    fuerte: false
+    palabras: [comunidades de propietarios, comunidad de propietarios, comunidades de vecinos, edificio, edificios, vivienda, viviendas, rehabilitación de edificios, rehabilitación edificatoria, rehabilitación residencial, rehabilitación de vivienda, rehabilitació]
+  agro:
+    etiqueta: "Agropecuario / ganadería"
+    fuerte: false
+    palabras: [explotaciones agrarias, explotación agraria, ganader, granja, granx, porcino, agropecuari, agrario, agraria, purines, purín, regadío, invernadero]
+
+# Palabras que descartan el resultado aunque haya coincidencia (ruido típico)
+exclusiones:
+  - "bolsa de trabajo"
+  - "concurso de méritos"
+  - "premio literario"
+  - "fiestas patronales"
+  - "actividades deportivas"
+  - "calor humano"
+  - "nombramiento"
+  - "oposiciones"
+  # Subvenciones nominativas / directas a un beneficiario concreto: no son convocatorias abiertas
+  - "nominativa"
+  - "concesión directa"
+  - "concesion directa"
+  - "subvención directa"
+  - "subvencion directa"
+  - "convenio de colaboración"
+  - "convenio con el ayuntamiento"
+  - "trabajos fin de grado"
+  - "trabajo fin de"
+  - "becas"
+  - "beca "
+  - "cooperación internacional"
+  - "cooperación al desarrollo"
+  - "retribución específica"
+  - "retribución especifica"
+
+# ---------------------------------------------------------------------
+# Tipos de cliente GHC: se detectan en el texto de beneficiarios y objeto
+# ---------------------------------------------------------------------
+clientes_ghc:
+  comunidades:
+    etiqueta: "Comunidades de propietarios / edificios"
+    palabras: [comunidades de propietarios, comunidad de propietarios, propietarios, edificios residenciales, vivienda, viviendas, edificio, edificios, persona física, personas físicas, particulares, familias]
+  agro:
+    etiqueta: "Sector agropecuario"
+    palabras: [agrari, ganader, granja, granx, porcino, explotación, explotacións, cooperativas agrarias, agroalimentari, purín]
+  industria:
+    etiqueta: "Industria / empresas"
+    palabras: [empresa, empresas, pyme, pymes, industria, industrial, autónomos, sociedades, entidades privadas, gran empresa, mercantil]
+
+# ---------------------------------------------------------------------
+# BDNS (Base de Datos Nacional de Subvenciones) — fuente principal, sin clave
+# ---------------------------------------------------------------------
+bdns:
+  activo: true
+  base_url: https://www.infosubvenciones.es/bdnstrans/api
+  # Consulta A: política de gasto 13 = Industria y Energía (todas)
+  finalidades: [13]
+  # Consulta B: texto libre (cualquiera de las palabras) en cualquier finalidad
+  # La BDNS busca por prefijo: "energ" encuentra energía/energética/enerxética…
+  texto_libre: "energ fotovolta autoconsum bater aeroterm geoterm renovable descarboniz eficiencia solar rehabilit"
+  # Tipos de administración a incluir: C Estado, A CCAA, L Local, O Otros
+  tipos_administracion: [C, A, L, O]
+  page_size: 200
+  pausa_segundos: 0.6
+  # La carga histórica se trocea en ventanas de estos días (la BDNS responde mal a periodos largos)
+  dias_por_consulta: 45
+  descargar_pdf: true
+
+# ---------------------------------------------------------------------
+# BOE — API abierta de sumario diario (sección III y V.B)
+# ---------------------------------------------------------------------
+boe:
+  activo: true
+  secciones: ["3", "5B"]
+  regex_ayuda: "subvenci|ayuda|convocatoria|incentivo|programa de"
+  regex_energia: "energ|renovable|autoconsumo|fotovolta|aerotermia|geoterm|eficiencia|descarboniza|rehabilitaci|almacenamiento"
+
+# ---------------------------------------------------------------------
+# Feeds RSS de organismos (noticias y avisos). Se filtran por categorías.
+# ---------------------------------------------------------------------
+rss:
+  activo: true
+  feeds:
+    - {nombre: "IDAE", url: "https://www.idae.es/rss.xml", ambito: "Estado"}
+    - {nombre: "CDTI", url: "https://www.cdti.es/rss.xml", ambito: "Estado"}
+    - {nombre: "BDNS convocatorias", url: "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/rss", ambito: "Estado"}
+    - {nombre: "FENERCOM (Madrid)", url: "https://www.fenercom.com/feed/", ambito: "Comunidad de Madrid"}
+    - {nombre: "EVE (Euskadi)", url: "https://www.eve.eus/feed/", ambito: "País Vasco"}
+    - {nombre: "FAEN (Asturias)", url: "https://faen.es/feed/", ambito: "Asturias"}
+    - {nombre: "IVACE (C. Valenciana)", url: "https://www.ivace.es/?format=feed&type=rss", ambito: "Comunidad Valenciana"}
+    - {nombre: "Institut Balear de l'Energia", url: "https://institutbalearenergia.com/feed/", ambito: "Baleares"}
+    - {nombre: "EREN / Energía CyL", url: "https://energiacastillayleon.com/feed/", ambito: "Castilla y León"}
+    - {nombre: "Gobierno de Canarias (noticias)", url: "https://www3.gobiernodecanarias.org/noticias/feed/", ambito: "Canarias"}
+    - {nombre: "JCCM noticias", url: "https://castillalamancha.es/actualidad/noticias-rss", ambito: "Castilla-La Mancha"}
+    - {nombre: "PROCESA (Ceuta)", url: "https://procesa.es/feed/", ambito: "Ceuta"}
+    - {nombre: "BOCM", url: "https://www.bocm.es/rss", ambito: "Comunidad de Madrid"}
+    - {nombre: "DOE (Extremadura)", url: "https://doe.juntaex.es/rss/index.php", ambito: "Extremadura"}
+    - {nombre: "BOCYL", url: "https://bocyl.jcyl.es/rss.do", ambito: "Castilla y León"}
+    - {nombre: "BOIB", url: "https://www.caib.es/eboibfront/indexrss.do?lang=ca", ambito: "Baleares"}
+
+# ---------------------------------------------------------------------
+# Perplexity Search API — rastreo abierto de noticias y ayudas (de pago, ~5$/1000 consultas)
+# ---------------------------------------------------------------------
+perplexity_search:
+  activo: false            # requiere PERPLEXITY_API_KEY (de pago). BDNS + BOE + PLACSP + RSS no lo necesitan.
+  max_resultados: 15
+  pais: ES
+  recencia: week          # hour | day | week | month | year
+  consultas:
+    - "nueva convocatoria ayudas autoconsumo fotovoltaico baterías empresas 2026"
+    - "subvenciones aerotermia geotermia sustitución calderas 2026 convocatoria abierta"
+    - "ayudas rehabilitación energética edificios comunidades de propietarios 2026 convocatoria"
+    - "ayudas eficiencia energética industria pymes convocatoria 2026"
+    - "ayudas granjas porcino energía renovable bomba de calor purines 2026"
+    - "subvención almacenamiento energético BESS industria convocatoria 2026"
+    - "IDAE nueva convocatoria ayudas energía"
+    - "comunidades energéticas ayudas convocatoria 2026"
+  # Dominios preferentes (máx. 20). Vacío = todo internet.
+  dominios: []
+
+# ---------------------------------------------------------------------
+# Licitaciones públicas — PLACSP (feeds Atom, sin clave). Cada página son 7-15 MB;
+# max_paginas limita cuántas se recorren hacia atrás por feed en cada ejecución.
+# ---------------------------------------------------------------------
+licitaciones:
+  activo: true
+  feeds:
+    - {nombre: "PLACSP", url: "https://contrataciondelestado.es/sindicacion/sindicacion_643/licitacionesPerfilesContratanteCompleto3.atom"}
+    - {nombre: "Plataformas CCAA", url: "https://contrataciondelestado.es/sindicacion/sindicacion_1044/PlataformasAgregadasSinMenores.atom"}
+  estados: [PUB, PRE]          # PUB en plazo, PRE anuncio previo
+  max_paginas: 8
+  # tope de tiempo de toda la etapa de licitaciones (s): lo que falte se recoge en la siguiente ejecución
+  tiempo_max_segundos: 240
+  ventana_dias: 2
+  # ------------------------------------------------------------------------------
+  # Histórico de licitaciones (python -m rastreador.run --historico).
+  # Los feeds Atom normales NO sirven para ir a 2024: van hacia atrás ~1 día por página de 7-15 MB.
+  # La PLACSP publica ficheros agregados; aquí van los patrones de URL que se prueban en orden
+  # ({anio} y {mes} se sustituyen). El primero que responda es el que se usa.
+  # Si ninguno funciona, mira https://contrataciondelestado.es/wps/portal/dataOpen y pega aquí la URL buena.
+  # ------------------------------------------------------------------------------
+  historico_urls:
+    - "https://contrataciondelestado.es/sindicacion/sindicacion_643/licitacionesPerfilesContratanteCompleto3_{anio}{mes}.zip"
+    - "https://contrataciondelestado.es/sindicacion/sindicacion_643/licitacionesPerfilesContratanteCompleto3_{anio}.zip"
+    - "https://contrataciondelestado.es/sindicacion/sindicacion_1044/PlataformasAgregadasSinMenores_{anio}{mes}.zip"
+    - "https://contrataciondelestado.es/sindicacion/sindicacion_1044/PlataformasAgregadasSinMenores_{anio}.zip"
+  # Prefijos CPV que hacen relevante una licitación (además del filtro de texto por categorías)
+  cpv_prefijos:
+    - "0933"       # energía solar, placas, módulos FV, instalación solar
+    - "45261215"   # cubiertas con placas solares
+    - "31712331"   # células fotovoltaicas
+    - "3140"       # acumuladores, pilas y baterías
+    - "3142"       # baterías de pilas
+    - "3143"       # acumuladores eléctricos (litio…)
+    - "3144"       # baterías
+    - "4251111"    # bombas de calor
+    - "4253300"    # partes de bombas de calor
+    - "45251141"   # centrales geotérmicas
+    - "4532"       # aislamiento (térmico)
+    - "45331"      # instalación calefacción, ventilación, climatización
+    - "4216"       # calderas
+    - "44621"      # calderas calefacción central
+    - "71314"      # servicios de energía, gestión energética, auditorías
+

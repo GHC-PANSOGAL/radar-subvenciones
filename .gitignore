@@ -1,0 +1,7 @@
+# Nunca en el repositorio: claves, base de datos de trabajo, paneles generados y entorno virtual
+.env
+.venv/
+data/
+panel/
+__pycache__/
+*.pyc

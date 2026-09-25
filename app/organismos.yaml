@@ -1,0 +1,201 @@
+# Organismos gestores de ayudas de energía en España (verificado 04/09/2026).
+# confianza: V = verificado (nombre + URLs responden), P = parcial (URL indexada, servidor bloquea acceso automatizado)
+# Se muestra en la pestaña "Organismos" del panel y sirve para asignar ámbito a las convocatorias.
+
+estado:
+  - nombre: "IDAE — Instituto para la Diversificación y Ahorro de la Energía"
+    web: https://www.idae.es/
+    ayudas: https://www.idae.es/ayudas-y-financiacion
+    noticias: https://www.idae.es/noticias
+    rss: https://www.idae.es/rss.xml
+    boletin: "BOE — https://www.boe.es/buscar/boe.php"
+    confianza: V
+  - nombre: "MITECO — Ministerio para la Transición Ecológica y el Reto Demográfico"
+    web: https://www.miteco.gob.es/es/energia.html
+    ayudas: https://www.miteco.gob.es/es/energia/ayudas.html
+    noticias: https://www.miteco.gob.es/es/prensa/ultimas-noticias.html
+    rss: ""
+    boletin: "BOE"
+    confianza: V
+  - nombre: "CDTI Innovación"
+    web: https://www.cdti.es/
+    ayudas: https://www.cdti.es/ayudas/todas
+    noticias: https://www.cdti.es/noticias
+    rss: https://www.cdti.es/rss.xml
+    boletin: "BOE"
+    confianza: V
+  - nombre: "BDNS — Base de Datos Nacional de Subvenciones (IGAE)"
+    web: https://www.infosubvenciones.es/bdnstrans/GE/es/index
+    ayudas: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias
+    noticias: ""
+    rss: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/rss
+    boletin: "BOE"
+    confianza: V
+  - nombre: "ICO — Instituto de Crédito Oficial (líneas ICO Verde / MRR)"
+    web: https://www.ico.es/
+    ayudas: https://www.ico.es/web/guest/ico/lineas-ico
+    noticias: https://www.ico.es/web/guest/actualidad/notas_de_prensa
+    rss: ""
+    boletin: "BOE"
+    confianza: V
+  - nombre: "ENISA (préstamos participativos, línea clima)"
+    web: https://www.enisa.es/
+    ayudas: https://www.enisa.es/servicios/financiacion
+    noticias: https://www.enisa.es/
+    rss: ""
+    boletin: "BOE"
+    confianza: V
+
+ccaa:
+  - ccaa: Galicia
+    organismo: "INEGA — Instituto Enerxético de Galicia"
+    web: https://www.inega.gal/
+    ayudas: https://www.inega.gal/gl/axudas
+    noticias: https://www.inega.gal/gl/novas
+    rss: ""
+    boletin: "DOG — https://www.xunta.gal/diario-oficial-galicia"
+    confianza: V
+  - ccaa: Andalucía
+    organismo: "Agencia Andaluza de la Energía"
+    web: https://www.agenciaandaluzadelaenergia.es/
+    ayudas: https://www.agenciaandaluzadelaenergia.es/es/node/3063
+    noticias: https://www.agenciaandaluzadelaenergia.es/
+    rss: ""
+    boletin: "BOJA — https://www.juntadeandalucia.es/eboja/buscador/"
+    confianza: P
+  - ccaa: Cataluña
+    organismo: "ICAEN — Institut Català d'Energia"
+    web: https://icaen.gencat.cat/
+    ayudas: https://icaen.gencat.cat/ca/ajuts-i-subvencions/
+    noticias: https://icaen.gencat.cat/ca/actualitat/noticies/
+    rss: ""
+    boletin: "DOGC — https://dogc.gencat.cat/ca/inici"
+    confianza: V
+  - ccaa: Comunidad Valenciana
+    organismo: "IVACE+i Energía"
+    web: https://www.ivace.es/
+    ayudas: https://www.ivace.es/index.php/es/ayudas/ayudas-vigentes
+    noticias: https://www.ivace.es/index.php/es/noticias
+    rss: "https://www.ivace.es/?format=feed&type=rss"
+    boletin: "DOGV — https://dogv.gva.es/"
+    confianza: V
+  - ccaa: Comunidad de Madrid
+    organismo: "FENERCOM + DG de Transición Energética y Economía Circular"
+    web: https://www.fenercom.com/
+    ayudas: https://www.fenercom.com/planes/programas-vigentes/
+    noticias: https://www.fenercom.com/noticias/
+    rss: https://www.fenercom.com/feed/
+    boletin: "BOCM — https://www.bocm.es/ (RSS https://www.bocm.es/rss)"
+    confianza: V
+  - ccaa: País Vasco
+    organismo: "EVE — Ente Vasco de la Energía"
+    web: https://www.eve.eus/
+    ayudas: https://www.eve.eus/programa-de-ayudas/
+    noticias: https://www.eve.eus/noticias/
+    rss: https://www.eve.eus/feed/
+    boletin: "BOPV — https://www.euskadi.eus/bopv/es"
+    confianza: V
+  - ccaa: Extremadura
+    organismo: "AGENEX — Agencia Extremeña de la Energía (buscador SICAREx)"
+    web: https://www.agenex.net/es/
+    ayudas: https://ayudas-energia.agenex.net/
+    noticias: https://www.agenex.net/es/publicaciones
+    rss: ""
+    boletin: "DOE — https://doe.juntaex.es/ (RSS https://doe.juntaex.es/rss/index.php)"
+    confianza: V
+  - ccaa: Castilla y León
+    organismo: "EREN — Ente Público Regional de la Energía"
+    web: https://energia.jcyl.es/
+    ayudas: https://www.ayudasenergiaempresas-cyl.es/
+    noticias: https://energia.jcyl.es/web/es/comunicacion/noticias.html
+    rss: https://energiacastillayleon.com/feed/
+    boletin: "BOCYL — https://bocyl.jcyl.es/ (RSS https://bocyl.jcyl.es/rss.do)"
+    confianza: V
+  - ccaa: Aragón
+    organismo: "DG de Energía y Minas (Gobierno de Aragón)"
+    web: https://www.aragon.es/-/energia-2
+    ayudas: https://www.aragon.es/temas/industria-energia-mineria/ayudas-subvenciones-industria-energia-mineria
+    noticias: https://www.aragon.es/
+    rss: ""
+    boletin: "BOA — https://www.boa.aragon.es/"
+    confianza: V
+  - ccaa: Asturias
+    organismo: "FAEN — Fundación Asturiana de la Energía"
+    web: https://faen.es/
+    ayudas: https://faen.es/te-ayudamos/
+    noticias: https://faen.es/noticias/
+    rss: https://faen.es/feed/
+    boletin: "BOPA — https://sede.asturias.es/bopa"
+    confianza: V
+  - ccaa: Canarias
+    organismo: "DG de Energía (Consejería de Transición Ecológica y Energía) — OECAN"
+    web: https://www.gobiernodecanarias.org/energia/
+    ayudas: https://www.gobiernodecanarias.org/energia/oecan/es/financiacion/subvenciones/
+    noticias: https://www3.gobiernodecanarias.org/noticias/category/consejerias/transicion-ecologica-y-energia/transicion-ecologica-transicion-ecologica-y-energia
+    rss: https://www3.gobiernodecanarias.org/noticias/feed/
+    boletin: "BOC — https://www.gobiernodecanarias.org/boc/"
+    confianza: V
+  - ccaa: Baleares
+    organismo: "DG d'Energia i Canvi Climàtic + Institut Balear de l'Energia (IBE)"
+    web: https://www.caib.es/sites/energiaicanviclimatic/ca/
+    ayudas: https://www.caib.es/sites/energiaicanviclimatic/ca/cita_pravia_consulta_subvencions/
+    noticias: https://institutbalearenergia.com/
+    rss: https://institutbalearenergia.com/feed/
+    boletin: "BOIB — https://www.caib.es/eboibfront/ca/cerca-completa"
+    confianza: V
+  - ccaa: Región de Murcia
+    organismo: "DG de Industria, Energía y Minas (portal MUI)"
+    web: https://mui.carm.es/
+    ayudas: https://mui.carm.es/web/mui/ayudas-y-subvenciones
+    noticias: https://mui.carm.es/web/mui/noticias1
+    rss: ""
+    boletin: "BORM — https://www.borm.es/#/home/buscador"
+    confianza: P
+  - ccaa: Navarra
+    organismo: "DG de Industria, Energía y Proyectos Estratégicos S3 (Gobierno de Navarra)"
+    web: https://www.navarra.es/es/energia
+    ayudas: "https://www.navarra.es/es/tramites/buscador/-/buscartramite/sort/mas_nuevo/facet/364844-5554860/tag/0/rpp/75/page/1"
+    noticias: https://www.navarra.es/es/noticias
+    rss: ""
+    boletin: "BON — https://bon.navarra.es/es/inicio"
+    confianza: P
+  - ccaa: La Rioja
+    organismo: "DG de Empresa, Energías e Internacionalización"
+    web: https://www.larioja.org/industria-energia/es
+    ayudas: https://www.larioja.org/industria-energia/es/energia/ayudas-vigentes-transicion-energetica
+    noticias: https://www.larioja.org/
+    rss: ""
+    boletin: "BOR — https://web.larioja.org/bor-portada"
+    confianza: V
+  - ccaa: Castilla-La Mancha
+    organismo: "DG de Transición Energética (Consejería de Desarrollo Sostenible)"
+    web: https://energia.castillalamancha.es/
+    ayudas: https://energia.castillalamancha.es/ayudas/autoconsumo-almacenamiento-e-instalaciones-termicas
+    noticias: https://energia.castillalamancha.es/noticias
+    rss: https://castillalamancha.es/actualidad/noticias-rss
+    boletin: "DOCM — https://docm.jccm.es/docm/"
+    confianza: V
+  - ccaa: Cantabria
+    organismo: "DG de Industria, Energía y Minas"
+    web: https://dgicc.cantabria.es/
+    ayudas: https://dgicc.cantabria.es/ayudas-y-subvenciones/energia
+    noticias: https://www.cantabria.es/web/comunicados
+    rss: ""
+    boletin: "BOC — https://boc.cantabria.es/boces/"
+    confianza: P
+  - ccaa: Ceuta
+    organismo: "PROCESA — Sociedad de Fomento de Ceuta"
+    web: https://procesa.es/
+    ayudas: https://procesa.es/ayudas-y-subvenciones/
+    noticias: https://procesa.es/
+    rss: https://procesa.es/feed/
+    boletin: "BOCCE — https://www.ceuta.es/ceuta/bocce"
+    confianza: P
+  - ccaa: Melilla
+    organismo: "Ciudad Autónoma de Melilla (programas vía IDAE)"
+    web: https://www.melilla.es/
+    ayudas: "https://www.melilla.es/melillaportal/contenedor.jsp?seccion=s_ldoc_d1_v1.jsp&codbusqueda=693&codMenuPN=602&codMenu=514"
+    noticias: https://www.melilla.es/
+    rss: ""
+    boletin: "BOME — https://bomemelilla.es/"
+    confianza: V
