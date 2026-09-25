@@ -57,19 +57,44 @@ jobs:
       - name: Ajustar la configuracion para este entorno
         run: |
           python3 - <<'EOF'
-          import re
+          import re, yaml
           from pathlib import Path
           p = Path("app/config.yaml"); t = p.read_text(encoding="utf-8")
-          # aqui no hay OneDrive: sin carpeta compartida, el programa trabaja solo con su base local
+
+          # Aqui no hay OneDrive: sin carpeta compartida el programa trabaja con su base local.
           t = re.sub(r'(?m)^(\s*carpeta_compartida:\s*).*$', r'\1""', t, count=1)
-          # el correo sale de verdad
-          t = re.sub(r'(?m)^(\s*proveedor:\s*)(brevo|resend|smtp|fichero)(\s*(?:#.*)?)$', r'\1smtp\3', t, count=1)
-          # PLACSP tarda ~7 veces mas desde EE.UU. que desde Galicia: aqui sobra tiempo, se amplia el tope
+          # PLACSP tarda ~7 veces mas desde EE.UU. que desde Galicia. Aqui sobra tiempo: se amplia el tope.
           t = re.sub(r'(?m)^(\s*tiempo_max_segundos:\s*).*$', r'\g<1>1500', t, count=1)
+
+          # El correo. En el config de la empresa avisos.activo va en false A PROPOSITO (los PCs no deben
+          # mandar nada, o llegarian duplicados); aqui es justo al reves. Se toca SOLO el bloque avisos:
+          # 'activo:' y 'proveedor:' aparecen tambien en bdns, boe, rss, licitaciones y publicacion.
+          lineas, dentro = t.splitlines(), False
+          for i, l in enumerate(lineas):
+              if l.startswith("avisos:"):
+                  dentro = True
+                  continue
+              if dentro:
+                  if l and not l[0].isspace() and not l.startswith("#"):
+                      break
+                  sangria, s = l[:len(l) - len(l.lstrip())], l.strip()
+                  if s.startswith("activo:"):
+                      lineas[i] = sangria + "activo: true"
+                  elif s.startswith("proveedor:"):
+                      lineas[i] = sangria + "proveedor: smtp"
+          t = "\n".join(lineas) + "\n"
           p.write_text(t, encoding="utf-8")
-          for l in t.splitlines():
-              if any(k in l for k in ("carpeta_compartida:", "proveedor:", "tiempo_max_segundos:")):
-                  print(" ", l.strip())
+
+          c = yaml.safe_load(t)
+          print("  avisos.activo    =", c["avisos"]["activo"])
+          print("  avisos.proveedor =", c["avisos"]["proveedor"])
+          print("  carpeta_compartida =", repr(c["general"]["carpeta_compartida"]))
+          print("  tiempo_max_segundos =", c["licitaciones"]["tiempo_max_segundos"])
+          # si algo de esto falla, mejor parar que rastrear en silencio sin mandar nada
+          assert c["avisos"]["activo"] is True, "avisos.activo no ha quedado en true: no saldria ningun correo"
+          assert c["avisos"]["proveedor"] == "smtp", "el proveedor no ha quedado en smtp"
+          assert c["bdns"]["activo"] and c["licitaciones"]["activo"] and c["boe"]["activo"], \
+              "se ha tocado un bloque que no era: el rastreo quedaria capado"
           EOF
 
       - name: Rastrear, generar el panel, publicar y avisar
