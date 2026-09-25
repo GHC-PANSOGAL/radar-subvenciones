@@ -70,7 +70,10 @@ llm:
 # Solo envía el PC que hace el rastreo, y lo ya avisado queda anotado: nadie recibe lo mismo dos veces.
 # ---------------------------------------------------------------------
 avisos:
-  activo: true
+  # false A PROPOSITO: los avisos los manda GitHub Actions (.github/workflows/radar-diario.yml),
+  # todos los dias a las 06:30 UTC, encienda alguien el PC o no. Si ademas los mandaran los PCs,
+  # cada uno llevaria su propia lista de 'ya avisado' y llegarian correos repetidos.
+  activo: false
   # brevo | resend | smtp | fichero
   #   brevo / resend -> API HTTPS, nivel gratuito (~300 correos/día). Clave en .env.
   #   smtp           -> servidor SMTP clásico. AVISO: en Microsoft 365 la autenticación básica
