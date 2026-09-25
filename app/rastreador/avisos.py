@@ -331,9 +331,12 @@ def ensayo(db: DB, cfg: dict, version: str, n: int = 3) -> str:
 
     No toca nada: NO apunta nada en `avisos_enviados` y NO mueve la fecha `desde`, así que estas
     mismas convocatorias volverán a avisarse cuando toque. Se puede repetir las veces que haga falta.
+
+    Devuelve (texto, todo_ok). El segundo valor importa en GitHub Actions: sin él, el paso salía en
+    verde aunque no hubiera salido ni un correo.
     """
     cav = dict(cfg.get("avisos") or {})
-    salida = []
+    salida, todo_ok = [], True
     for sus in listar(db):
         if not sus.get("activo"):
             continue
@@ -347,12 +350,13 @@ def ensayo(db: DB, cfg: dict, version: str, n: int = 3) -> str:
             continue
         asunto, html = redactar(sus, convs, lics, version)
         ok, msg = correo.enviar(cav, sus["email"], f"[ENSAYO] {asunto}", html)
+        todo_ok = todo_ok and ok
         salida.append(("  [OK]  " if ok else "  [X]   ") +
                       f"{sus['email']}: {len(convs)} convocatorias, {len(lics)} licitaciones — {msg}")
     if not salida:
-        return "No hay ninguna suscripción activa."
+        return "No hay ninguna suscripción activa.", True
     return ("Ensayo de aviso (no se apunta como enviado; volverás a recibirlas cuando toque):\n"
-            + "\n".join(salida))
+            + "\n".join(salida)), todo_ok
 
 
 # --------------------------------------------------------------------- consola
@@ -421,7 +425,14 @@ def main() -> None:
     elif "--enviar" in args:
         print(f"Correos enviados: {enviar_todo(db, cfg, __version__, forzar=True)}")
     elif "--ensayo" in args:
-        print(ensayo(db, cfg, __version__))
+        texto, ok = ensayo(db, cfg, __version__)
+        print(texto)
+        if not ok:
+            # salir con error a propósito: si no, en GitHub Actions el paso sale en verde
+            # aunque no haya salido ni un correo, y uno se queda pensando que funciona
+            print("\nAlgún envío ha fallado.")
+            db.con.close()
+            sys.exit(1)
     else:
         subs = listar(db)
         print(f"\nSuscripciones ({len(subs)}):")
