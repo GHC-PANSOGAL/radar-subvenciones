@@ -40,6 +40,11 @@ publicacion:
     activo: true
     repo: "GHC-PANSOGAL/radar-subvenciones"
     rama: main
+    # El panel se publica en su propia rama, que se reescribe entera cada vez (commit sin padre).
+    # Si se publicara en main, los 27 MB diarios de index.html + datos.json se quedarian en el
+    # historial para siempre y el repositorio acabaria pesando gigabytes.
+    # Requiere: Settings -> Pages -> Deploy from a branch -> gh-pages / root
+    rama_panel: gh-pages
     # Dominio propio (opcional), p. ej. radar.ghcneutral.com. Requiere un registro DNS CNAME
     # "radar" -> carmelo-dieta.github.io y activarlo en Settings -> Pages -> Custom domain.
     dominio: ""
