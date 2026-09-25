@@ -1,0 +1,51 @@
+name: sonda-es
+# Comprueba si las fuentes espanolas (BDNS y PLACSP) responden desde los runners de GitHub,
+# que estan en EE.UU. Es el unico riesgo que puede tumbar el plan de rastrear desde aqui.
+on:
+  workflow_dispatch:
+
+jobs:
+  sonda:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Donde estamos
+        run: |
+          echo "IP publica y pais del runner:"
+          curl -sS -m 30 https://ipinfo.io/json || echo "(no disponible)"
+
+      - name: BDNS - busqueda
+        run: |
+          set +e
+          URL="https://www.infosubvenciones.es/bdnstrans/api/convocatorias/busqueda?vpd=GE&order=fechaRecepcion&direccion=desc&page=0&pageSize=10&fechaDesde=01%2F09%2F2026&fechaHasta=25%2F09%2F2026&finalidad=13"
+          curl -sS -m 90 -o /tmp/b.json -w "BDNS HTTP %{http_code} en %{time_total}s (%{size_download} bytes)\n" \
+            -H "Accept: application/json" -H "User-Agent: Mozilla/5.0 RadarGHC" "$URL"
+          echo "--- primeros bytes ---"
+          head -c 300 /tmp/b.json; echo
+          python3 -c "import json;d=json.load(open('/tmp/b.json'));print('RESULTADOS BDNS:',len(d.get('content',[])))" \
+            || echo "BDNS: no se ha podido interpretar la respuesta"
+
+      - name: PLACSP - feed Atom (solo cabeceras, son 7-15 MB)
+        run: |
+          set +e
+          for U in \
+            "https://contrataciondelestado.es/sindicacion/sindicacion_643/licitacionesPerfilesContratanteCompleto3.atom" \
+            "https://contrataciondelestado.es/sindicacion/sindicacion_1044/PlataformasAgregadasSinMenores.atom" ; do
+            echo "== $U"
+            curl -sS -m 120 -o /tmp/p.xml -w "  HTTP %{http_code} en %{time_total}s (%{size_download} bytes)\n" \
+              -H "User-Agent: Mozilla/5.0 RadarGHC" --max-filesize 20000000 "$U"
+            echo "  primeras lineas:"; head -c 200 /tmp/p.xml; echo
+            echo "  entries: $(grep -c '<entry' /tmp/p.xml 2>/dev/null)"
+          done
+
+      - name: BOE
+        run: |
+          set +e
+          curl -sS -m 60 -o /tmp/boe.json -w "BOE HTTP %{http_code} en %{time_total}s\n" \
+            -H "Accept: application/json" "https://www.boe.es/datosabiertos/api/boe/sumario/20260922"
+          head -c 200 /tmp/boe.json; echo
+
+      - name: SMTP de ticaas (solo si el puerto 587 esta abierto de salida)
+        run: |
+          set +e
+          timeout 20 bash -c 'exec 3<>/dev/tcp/smtp.ticaas.net/587 && head -1 <&3' \
+            && echo "  587 ABIERTO" || echo "  587 CERRADO o no se resuelve"
