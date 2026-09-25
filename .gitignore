@@ -5,3 +5,7 @@ data/
 panel/
 __pycache__/
 *.pyc
+
+# El panel generado ya NO va en main: vive en la rama gh-pages, que se reescribe entera.
+index.html
+datos.json
