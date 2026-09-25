@@ -1,0 +1,101 @@
+name: Radar diario
+
+# Rastrea, publica el panel y manda los avisos por correo. Se ejecuta en los servidores de GitHub,
+# asi que NO hace falta que ningun PC de la empresa este encendido.
+#
+# 06:30 UTC = 08:30 hora peninsular en horario de verano, 07:30 en invierno.
+# GitHub puede retrasar las ejecuciones programadas en horas punta; para un aviso diario da igual.
+
+on:
+  schedule:
+    - cron: '30 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: radar
+  cancel-in-progress: false
+
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - name: Traer el codigo
+        uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Instalar dependencias
+        run: pip install -r app/requirements.txt
+
+      - name: Traer la base de datos de la rama datos
+        run: |
+          mkdir -p app/data
+          git fetch --depth 1 origin datos
+          git show origin/datos:subvenciones.sqlite.gz > /tmp/base.gz
+          gunzip -c /tmp/base.gz > app/data/subvenciones.sqlite
+          ls -la app/data/
+          python3 -c "
+          import sqlite3
+          c=sqlite3.connect('app/data/subvenciones.sqlite')
+          print('convocatorias:', c.execute('SELECT COUNT(*) FROM convocatorias').fetchone()[0])
+          print('licitaciones :', c.execute('SELECT COUNT(*) FROM licitaciones').fetchone()[0])
+          print('suscriptores :', c.execute('SELECT COUNT(*) FROM suscripciones').fetchone()[0])
+          "
+
+      - name: Ajustar la configuracion para este entorno
+        run: |
+          python3 - <<'EOF'
+          import re
+          from pathlib import Path
+          p = Path("app/config.yaml"); t = p.read_text(encoding="utf-8")
+          # aqui no hay OneDrive: sin carpeta compartida, el programa trabaja solo con su base local
+          t = re.sub(r'(?m)^(\s*carpeta_compartida:\s*).*$', r'\1""', t, count=1)
+          # el correo sale de verdad
+          t = re.sub(r'(?m)^(\s*proveedor:\s*)(brevo|resend|smtp|fichero)(\s*(?:#.*)?)$', r'\1smtp\3', t, count=1)
+          # PLACSP tarda ~7 veces mas desde EE.UU. que desde Galicia: aqui sobra tiempo, se amplia el tope
+          t = re.sub(r'(?m)^(\s*tiempo_max_segundos:\s*).*$', r'\g<1>1500', t, count=1)
+          p.write_text(t, encoding="utf-8")
+          for l in t.splitlines():
+              if any(k in l for k in ("carpeta_compartida:", "proveedor:", "tiempo_max_segundos:")):
+                  print(" ", l.strip())
+          EOF
+
+      - name: Rastrear, generar el panel, publicar y avisar
+        working-directory: app
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python -m rastreador.run
+
+      - name: Devolver la base a la rama datos
+        if: always()
+        run: |
+          [ -f app/data/subvenciones.sqlite ] || { echo "no hay base que guardar"; exit 0; }
+          gzip -9 -c app/data/subvenciones.sqlite > /tmp/nueva.gz
+          ls -la /tmp/nueva.gz
+          rm -rf /tmp/rama && mkdir /tmp/rama && cd /tmp/rama
+          cp /tmp/nueva.gz subvenciones.sqlite.gz
+          printf '# Rama `datos`\n\nBase de datos del Radar, comprimida. Se reescribe entera en cada\nejecucion (force push) para que el historial no crezca sin control.\nNo editar a mano: la genera .github/workflows/radar-diario.yml\n' > LEEME.md
+          git init -q
+          git config user.name "Radar GHC"
+          git config user.email "radar@ghcneutral.com"
+          git checkout -q -b datos
+          git add .
+          git commit -q -m "Base actualizada ($(date -u '+%Y-%m-%d %H:%M UTC'))"
+          git push -q -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" datos
+          echo "base devuelta a la rama datos"
+
+      - name: Registro
+        if: always()
+        run: tail -60 app/data/rastreador.log || echo "(sin registro)"
