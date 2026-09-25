@@ -1,8 +1,11 @@
-name: sonda-es
+name: sonda-es   # rev2
 # Comprueba si las fuentes espanolas (BDNS y PLACSP) responden desde los runners de GitHub,
 # que estan en EE.UU. Es el unico riesgo que puede tumbar el plan de rastrear desde aqui.
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/sonda.yml'
 
 jobs:
   sonda:
