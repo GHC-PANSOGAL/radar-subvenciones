@@ -10,6 +10,11 @@ on:
   schedule:
     - cron: '30 6 * * *'
   workflow_dispatch:
+    inputs:
+      ensayo:
+        description: 'Mandar ademas un aviso de ENSAYO a cada suscriptor (no cuenta como enviado)'
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -77,6 +82,16 @@ jobs:
           SMTP_PASS: ${{ secrets.SMTP_PASS }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python -m rastreador.run
+
+      - name: Aviso de ensayo (solo si se pide a mano)
+        if: inputs.ensayo
+        working-directory: app
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+        run: python -m rastreador.avisos --ensayo
 
       - name: Devolver la base a la rama datos
         if: always()
