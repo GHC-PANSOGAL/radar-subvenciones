@@ -14,7 +14,7 @@ import sys
 import time
 from datetime import datetime
 
-from . import __version__, autoactualizar, avisos, clasificacion, panel, resumen
+from . import __version__, autoactualizar, avisos, clasificacion, desdegithub, panel, resumen
 from .compartido import Compartido
 from .publicar import GitHubPages
 from .db import DB
@@ -53,6 +53,13 @@ def ejecutar(args) -> int:
         return 0
     if not comp.bloquear():
         return 0
+    # Quien rastrea de verdad es GitHub Actions. Antes de nada, traerse lo suyo: si no, este PC
+    # trabajaría sobre una base vieja y al subirla pisaría datos más nuevos que los suyos.
+    if comp.activo:
+        try:
+            desdegithub.traer(cfg, comp.carpeta / "subvenciones.sqlite")
+        except Exception as e:  # noqa: BLE001
+            log.warning("No se ha podido traer la base de GitHub (%s); se sigue con la local.", e)
     comp.traer()
     db = DB(RAIZ / g["db"])
     filtro = Filtro(cfg)
