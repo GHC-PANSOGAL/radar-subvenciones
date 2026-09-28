@@ -200,10 +200,17 @@ def ejecutar(args) -> int:
                 # registro: es exactamente lo que ocultó durante semanas que Google había retirado el
                 # modelo configurado. Si falla todo, se anota como error de la ejecución.
                 if pendientes and n_basicos == len(pendientes) and usa_llm:
-                    msg = (f"Los {n_basicos} resúmenes han salido en modo BÁSICO: el LLM no ha "
-                           f"respondido ni una vez. Revisa el modelo y la clave (CLAVES.bat).")
-                    log.error(msg)
-                    errores.append(msg)
+                    if resumen.cuota_agotada():
+                        # la cuota del nivel gratuito se repone sola: se avisa, pero no se da la
+                        # ejecución por fallida o acabaríamos ignorando el color rojo
+                        log.warning("Los %d resúmenes se han quedado en modo básico por CUOTA de Gemini. "
+                                    "Se reintentarán mañana; el rastreo y los avisos no se ven afectados.",
+                                    n_basicos)
+                    else:
+                        msg = (f"Los {n_basicos} resúmenes han salido en modo BÁSICO: el LLM no ha "
+                               f"respondido ni una vez, y no es por cuota. Revisa el modelo y la clave.")
+                        log.error(msg)
+                        errores.append(msg)
                 elif n_basicos:
                     log.warning("%d de %d resúmenes han salido en modo básico.", n_basicos, len(pendientes))
             except Exception as e:  # noqa: BLE001

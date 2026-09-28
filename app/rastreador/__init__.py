@@ -1,2 +1,2 @@
 """Radar de subvenciones y licitaciones — GHC."""
-__version__ = "1.20.2"
+__version__ = "1.20.3"

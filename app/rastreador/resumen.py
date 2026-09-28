@@ -187,6 +187,15 @@ _muertos: set[str] = set()            # modelos que han dado 404: no se reintent
 _agotado = False                      # cuota del día agotada: se deja de intentar
 
 
+def cuota_agotada() -> bool:
+    """¿La última tanda se quedó sin resúmenes por cuota y no por avería?
+
+    La diferencia importa: la cuota del nivel gratuito se repone sola al día siguiente, así que no
+    merece pintar la ejecución en rojo. Un modelo retirado o una clave mala, sí.
+    """
+    return _agotado
+
+
 def _gemini_cascada(cfg_llm: dict, instrucciones: str, entrada: str) -> dict | None:
     """Prueba varios modelos en orden hasta que uno responda.
 
