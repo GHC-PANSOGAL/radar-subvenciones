@@ -1,4 +1,4 @@
-﻿# =====================================================================
+# =====================================================================
 #  Rastreador diario de subvenciones y noticias — GHC (Gestión Huella Carbono)
 #  Configuración principal. Las claves API van en el fichero .env (ver .env.example)
 # =====================================================================
@@ -22,11 +22,11 @@ general:
   # Es una subcarpeta (_compartido) de la carpeta del programa, para no mezclar la base y el panel con el código.
   # ${OneDriveCommercial} = carpeta OneDrive de empresa del usuario que ejecuta (p. ej. C:/Users/X/OneDrive - PANSOGAL S.L),
   # así la misma configuración vale en el PC de cada compañero.
-  carpeta_compartida: "C:/Users/PANSOGAL_SOLARNI/OneDrive - PANSOGAL S.L/PANSOGAL/00_COMERCIAL_ESTUDIOS/01_ESTUDIOS/02_DOCUMENTOS DE TRABAJO/04_SOFTWARE/RADAR SUBVENCIONES Y LICITACIONES_CLAUDE/_compartido"
+  carpeta_compartida: "${OneDriveCommercial}/PANSOGAL/00_COMERCIAL_ESTUDIOS/01_ESTUDIOS/02_DOCUMENTOS DE TRABAJO/04_SOFTWARE/RADAR SUBVENCIONES Y LICITACIONES_CLAUDE/_compartido"
   # En modo automático (tarea programada) no se repite el rastreo si el panel compartido se actualizó hace menos de estas horas
   min_horas_entre_actualizaciones: 6
   # Máximo de resúmenes ejecutivos (LLM) nuevos por ejecución (control de coste)
-  max_resumenes_por_ejecucion: 25
+  max_resumenes_por_ejecucion: 12
   # Máximo de caracteres del PDF de la convocatoria que se envían al LLM
   max_caracteres_pdf: 120000
 
@@ -62,7 +62,7 @@ llm:
   # Modelos a probar en orden. Google retira modelos (2.5-flash empezo a dar 404 "no longer
   # available to new users") y tambien los satura a ratos (3.8-flash da 503 "high demand").
   # Con varios, un pico de demanda no deja la ejecucion del dia sin resumenes.
-  gemini_modelos: [gemini-3.8-flash, gemini-3.5-flash, gemini-3.6-flash, gemini-2.5-flash-lite]
+  gemini_modelos: [gemini-3.8-flash, gemini-3.5-flash, gemini-flash-latest]
   anthropic_modelo: claude-sonnet-4-5
   perplexity_modelo: perplexity/sonar
   # Segunda pasada: cuando la confianza calculada no es alta, se le devuelve el JSON al modelo con el
@@ -78,16 +78,13 @@ llm:
 # Solo envía el PC que hace el rastreo, y lo ya avisado queda anotado: nadie recibe lo mismo dos veces.
 # ---------------------------------------------------------------------
 avisos:
-  # false A PROPOSITO: los avisos los manda GitHub Actions (.github/workflows/radar-diario.yml),
-  # todos los dias a las 06:30 UTC, encienda alguien el PC o no. Si ademas los mandaran los PCs,
-  # cada uno llevaria su propia lista de 'ya avisado' y llegarian correos repetidos.
-  activo: false
+  activo: true
   # brevo | resend | smtp | fichero
   #   brevo / resend -> API HTTPS, nivel gratuito (~300 correos/día). Clave en .env.
   #   smtp           -> servidor SMTP clásico. AVISO: en Microsoft 365 la autenticación básica
   #                     está en retirada y choca con los Security Defaults; puede dejar de funcionar.
   #   fichero        -> no envía: deja el correo en data/avisos/ para verlo. Para probar sin clave.
-  proveedor: smtp
+  proveedor: fichero
   # Dirección desde la que se envía. Con brevo/resend hay que verificar el dominio para no caer en spam.
   remitente: "radar@ghcneutral.com"
   remitente_nombre: "Radar GHC"
@@ -306,4 +303,3 @@ licitaciones:
     - "4216"       # calderas
     - "44621"      # calderas calefacción central
     - "71314"      # servicios de energía, gestión energética, auditorías
-

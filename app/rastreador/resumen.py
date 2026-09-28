@@ -21,8 +21,10 @@ import logging
 import os
 import re
 
+import requests
+
 from .fuentes import perplexity
-from .util import http_post_json, normalizar, parse_fecha
+from .util import UA, http_post_json, normalizar, parse_fecha
 
 log = logging.getLogger("rastreador.resumen")
 
@@ -136,34 +138,53 @@ def _anthropic(modelo: str, instrucciones: str, entrada: str) -> dict | None:
     return perplexity._json_de_texto(texto)
 
 
-def _gemini(modelo: str, instrucciones: str, entrada: str) -> dict | None:
-    """Google Gemini API (AI Studio), un modelo concreto. Devuelve None si ese modelo no responde.
+def _gemini_intento(modelo: str, instrucciones: str, entrada: str) -> tuple[int | None, dict | None]:
+    """Una llamada a un modelo concreto. Devuelve (codigo_http, resultado).
 
-    Quien decide qué modelo usar es _gemini_cascada: aquí solo se intenta el que llegue.
+    Se hace la petición a mano en vez de con http_post_json porque aquí el **código** importa tanto
+    como el resultado, y quien decide qué hacer con él es _gemini_cascada:
+
+    * 404 → Google ha retirado ese modelo para esta clave. Descartarlo y pasar al siguiente.
+    * 429 → cuota del nivel gratuito agotada. Seguir pidiendo la agota más y no arregla nada.
+    * 503 → saturación puntual. Merece la pena probar otro modelo.
     """
     clave = os.environ.get("GEMINI_API_KEY")
     if not clave:
-        return None
+        return None, None
     cuerpo = {
         "systemInstruction": {"parts": [{"text": instrucciones}]},
         "contents": [{"role": "user", "parts": [{"text": entrada}]}],
         "generationConfig": {"temperature": 0.0, "maxOutputTokens": 8000,
                              "responseMimeType": "application/json", "responseSchema": ESQUEMA},
     }
-    datos = http_post_json(f"https://generativelanguage.googleapis.com/v1beta/models/{modelo}:generateContent",
-                           cuerpo, {"x-goog-api-key": clave, "Content-Type": "application/json"}, timeout=240)
-    if not datos:
-        return None
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/{modelo}:generateContent"
     try:
+        r = requests.post(url, json=cuerpo, timeout=240,
+                          headers={"x-goog-api-key": clave, "Content-Type": "application/json", "User-Agent": UA})
+    except requests.RequestException as e:
+        log.warning("Gemini %s: no se ha podido conectar (%s)", modelo, type(e).__name__)
+        return None, None
+    if r.status_code != 200:
+        log.warning("Gemini %s: HTTP %s %s", modelo, r.status_code, r.text[:160].replace("\n", " "))
+        return r.status_code, None
+    try:
+        datos = r.json()
         texto = "".join(p.get("text", "") for p in datos["candidates"][0]["content"]["parts"])
-    except (KeyError, IndexError, TypeError):
-        log.warning("Respuesta Gemini inesperada: %s", str(datos)[:300])
-        return None
-    return perplexity._json_de_texto(texto)
+    except (ValueError, KeyError, IndexError, TypeError):
+        log.warning("Gemini %s: respuesta inesperada: %s", modelo, r.text[:200])
+        return r.status_code, None
+    return 200, perplexity._json_de_texto(texto)
 
 
-MODELOS_GEMINI = ["gemini-3.8-flash", "gemini-3.5-flash", "gemini-3.6-flash", "gemini-2.5-flash-lite"]
+def _gemini(modelo: str, instrucciones: str, entrada: str) -> dict | None:
+    """Compatibilidad: solo el resultado, sin el código."""
+    return _gemini_intento(modelo, instrucciones, entrada)[1]
+
+
+MODELOS_GEMINI = ["gemini-3.8-flash", "gemini-3.5-flash", "gemini-flash-latest"]
 _modelo_bueno: str | None = None      # el primero que funcionó en esta ejecución
+_muertos: set[str] = set()            # modelos que han dado 404: no se reintentan en esta ejecución
+_agotado = False                      # cuota del día agotada: se deja de intentar
 
 
 def _gemini_cascada(cfg_llm: dict, instrucciones: str, entrada: str) -> dict | None:
@@ -180,22 +201,40 @@ def _gemini_cascada(cfg_llm: dict, instrucciones: str, entrada: str) -> dict | N
     Una vez que uno funciona, se recuerda para el resto de la ejecución y no se vuelve a empezar por
     arriba en cada ficha.
     """
-    global _modelo_bueno
+    global _modelo_bueno, _agotado
+    if _agotado:
+        return None
+
     configurado = cfg_llm.get("gemini_modelo")
-    orden = cfg_llm.get("gemini_modelos") or MODELOS_GEMINI
-    if configurado and configurado not in orden:
+    orden = [m for m in (cfg_llm.get("gemini_modelos") or MODELOS_GEMINI) if m not in _muertos]
+    if configurado and configurado not in orden and configurado not in _muertos:
         orden = [configurado, *orden]
-    if _modelo_bueno:
+    if _modelo_bueno and _modelo_bueno in orden:
         orden = [_modelo_bueno, *[m for m in orden if m != _modelo_bueno]]
+    if not orden:
+        return None
 
     for modelo in orden:
-        r = _gemini(modelo, instrucciones, entrada)
+        codigo, r = _gemini_intento(modelo, instrucciones, entrada)
         if r is not None:
             if _modelo_bueno != modelo:
                 log.info("Gemini: usando el modelo %s", modelo)
                 _modelo_bueno = modelo
             return r
-        log.warning("Gemini: %s no ha respondido; se prueba el siguiente.", modelo)
+        if codigo == 404:
+            # el modelo ya no existe para esta clave: no tiene sentido volver a pedirlo hoy
+            log.warning("Gemini: %s ya no está disponible; se descarta en esta ejecución.", modelo)
+            _muertos.add(modelo)
+            if _modelo_bueno == modelo:
+                _modelo_bueno = None
+            continue
+        if codigo == 429:
+            # cuota del nivel gratuito. Seguir probando modelos la agota más rápido y no arregla nada.
+            log.error("Gemini: cuota agotada (HTTP 429). Se dejan de pedir resúmenes en esta ejecución; "
+                      "los que falten se harán mañana.")
+            _agotado = True
+            return None
+        log.warning("Gemini: %s no ha respondido (%s); se prueba el siguiente.", modelo, codigo or "sin respuesta")
     log.warning("Gemini: ninguno de los modelos %s ha respondido.", orden)
     return None
 
