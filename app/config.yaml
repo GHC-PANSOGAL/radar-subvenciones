@@ -78,6 +78,9 @@ llm:
 # Solo envía el PC que hace el rastreo, y lo ya avisado queda anotado: nadie recibe lo mismo dos veces.
 # ---------------------------------------------------------------------
 avisos:
+  # Quien manda los avisos es GitHub Actions. Esta casilla es solo el interruptor general;
+  # la garantia de que un PC no mande correos en paralelo (y lleguen duplicados) esta en el
+  # codigo: avisos.solo_en_github, que mira si se esta ejecutando dentro de GitHub Actions.
   activo: true
   # brevo | resend | smtp | fichero
   #   brevo / resend -> API HTTPS, nivel gratuito (~300 correos/día). Clave en .env.

@@ -22,6 +22,7 @@ from __future__ import annotations
 
 import json
 import logging
+import os
 import sys
 import urllib.parse
 from datetime import datetime
@@ -294,6 +295,14 @@ def enviar_todo(db: DB, cfg: dict, version: str, forzar: bool = False) -> int:
     """Manda a cada suscriptor su resumen. Devuelve cuántos correos han salido."""
     cav = (cfg.get("avisos") or {})
     if not cav.get("activo") and not forzar:
+        return 0
+    # Quien manda los avisos es GitHub Actions. Esto no se deja en manos de una casilla del config
+    # porque el config viaja: se copia entre OneDrive, el repositorio y cada instalacion, y basta un
+    # despiste al sincronizarlo para que un PC empiece a mandar correos en paralelo y lleguen
+    # duplicados. El entorno no se copia: o estas dentro de Actions o no lo estas.
+    if cav.get("solo_en_github", True) and not os.environ.get("GITHUB_ACTIONS") and not forzar:
+        log.info("Avisos: este no es el servidor de GitHub; no se envia nada "
+                 "(los manda el workflow diario). Para forzarlo: --enviar")
         return 0
     preparar(db)
     enviados = 0
