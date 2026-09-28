@@ -1,0 +1,71 @@
+name: modelos-gemini
+# Temporal: pregunta a Google que modelos acepta NUESTRA clave, y deja la lista en el repositorio.
+# Motivo: gemini-2.5-flash devuelve 404 ("no longer available to new users") y todos los resumenes
+# salen en modo basico desde siempre. Antes de elegir modelo a ojo, que lo diga Google.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  modelos:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Listar y probar
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python3 - <<'EOF'
+          import json, os, urllib.request, urllib.error
+          clave = os.environ["GEMINI_API_KEY"]
+          salida = ["# Modelos de Gemini disponibles para nuestra clave", ""]
+
+          try:
+              req = urllib.request.Request(
+                  "https://generativelanguage.googleapis.com/v1beta/models",
+                  headers={"x-goog-api-key": clave})
+              with urllib.request.urlopen(req, timeout=60) as r:
+                  d = json.loads(r.read())
+              ms = [m for m in d.get("models", [])
+                    if "generateContent" in (m.get("supportedGenerationMethods") or [])]
+              salida.append(f"{len(ms)} modelos admiten generateContent:\n")
+              salida.append("```")
+              for m in sorted(ms, key=lambda x: x["name"]):
+                  salida.append(f"{m['name']:45} {m.get('displayName','')}")
+              salida.append("```")
+          except urllib.error.HTTPError as e:
+              salida.append(f"ERROR listando: HTTP {e.code} {e.read()[:300].decode(errors='replace')}")
+          except Exception as e:
+              salida.append(f"ERROR listando: {type(e).__name__} {e}")
+
+          salida += ["", "## Prueba real de generacion", "```"]
+          for modelo in ("gemini-2.5-flash", "gemini-3.8-flash", "gemini-flash-latest",
+                         "gemini-2.0-flash", "gemini-3.8-flash-lite"):
+              url = f"https://generativelanguage.googleapis.com/v1beta/models/{modelo}:generateContent"
+              body = json.dumps({"contents": [{"role": "user", "parts": [{"text": "Responde solo: OK"}]}],
+                                 "generationConfig": {"maxOutputTokens": 10, "temperature": 0}}).encode()
+              req = urllib.request.Request(url, data=body, method="POST",
+                  headers={"x-goog-api-key": clave, "Content-Type": "application/json"})
+              try:
+                  with urllib.request.urlopen(req, timeout=60) as r:
+                      d = json.loads(r.read())
+                  t = "".join(p.get("text", "") for p in d["candidates"][0]["content"]["parts"])
+                  salida.append(f"[OK]  {modelo:24} -> {t.strip()[:30]!r}")
+              except urllib.error.HTTPError as e:
+                  msg = e.read()[:200].decode(errors="replace").replace("\n", " ")
+                  salida.append(f"[X]   {modelo:24} -> HTTP {e.code} {msg}")
+              except Exception as e:
+                  salida.append(f"[?]   {modelo:24} -> {type(e).__name__}")
+          salida.append("```")
+          open("modelos-gemini.md", "w").write("\n".join(salida) + "\n")
+          print("\n".join(salida))
+          EOF
+      - name: Guardar
+        run: |
+          git config user.name "Radar GHC"
+          git config user.email "radar@ghcneutral.com"
+          git add modelos-gemini.md
+          git commit -m "Que modelos de Gemini acepta nuestra clave" || echo "sin cambios"
+          git push
