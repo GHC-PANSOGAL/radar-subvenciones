@@ -137,7 +137,10 @@ def _anthropic(modelo: str, instrucciones: str, entrada: str) -> dict | None:
 
 
 def _gemini(modelo: str, instrucciones: str, entrada: str) -> dict | None:
-    """Google Gemini API (AI Studio). Nivel gratuito suficiente: gemini-2.5-flash es 'free of charge'."""
+    """Google Gemini API (AI Studio), un modelo concreto. Devuelve None si ese modelo no responde.
+
+    Quien decide qué modelo usar es _gemini_cascada: aquí solo se intenta el que llegue.
+    """
     clave = os.environ.get("GEMINI_API_KEY")
     if not clave:
         return None
@@ -159,6 +162,44 @@ def _gemini(modelo: str, instrucciones: str, entrada: str) -> dict | None:
     return perplexity._json_de_texto(texto)
 
 
+MODELOS_GEMINI = ["gemini-3.8-flash", "gemini-3.5-flash", "gemini-3.6-flash", "gemini-2.5-flash-lite"]
+_modelo_bueno: str | None = None      # el primero que funcionó en esta ejecución
+
+
+def _gemini_cascada(cfg_llm: dict, instrucciones: str, entrada: str) -> dict | None:
+    """Prueba varios modelos en orden hasta que uno responda.
+
+    Hace falta por dos motivos distintos, y conviene no confundirlos:
+
+    * Google **retira** modelos. ``gemini-2.5-flash`` devolvía 404 con "no longer available to new
+      users", y como el código lo tragaba y caía al resumen básico, llevábamos semanas con las 343
+      fichas en modo básico sin que nada lo gritara.
+    * Google **satura** modelos. ``gemini-3.8-flash`` devuelve 503 "high demand" a ratos. Eso es
+      temporal, pero con un solo modelo configurado, un pico deja la ejecución del día sin resúmenes.
+
+    Una vez que uno funciona, se recuerda para el resto de la ejecución y no se vuelve a empezar por
+    arriba en cada ficha.
+    """
+    global _modelo_bueno
+    configurado = cfg_llm.get("gemini_modelo")
+    orden = cfg_llm.get("gemini_modelos") or MODELOS_GEMINI
+    if configurado and configurado not in orden:
+        orden = [configurado, *orden]
+    if _modelo_bueno:
+        orden = [_modelo_bueno, *[m for m in orden if m != _modelo_bueno]]
+
+    for modelo in orden:
+        r = _gemini(modelo, instrucciones, entrada)
+        if r is not None:
+            if _modelo_bueno != modelo:
+                log.info("Gemini: usando el modelo %s", modelo)
+                _modelo_bueno = modelo
+            return r
+        log.warning("Gemini: %s no ha respondido; se prueba el siguiente.", modelo)
+    log.warning("Gemini: ninguno de los modelos %s ha respondido.", orden)
+    return None
+
+
 def _llamar(prov: str, cfg_llm: dict, instrucciones: str, entrada: str) -> dict | None:
     if prov == "perplexity" and perplexity.disponible():
         return perplexity.resumir_con_agente(cfg_llm.get("perplexity_modelo", "perplexity/sonar"),
@@ -166,7 +207,7 @@ def _llamar(prov: str, cfg_llm: dict, instrucciones: str, entrada: str) -> dict 
     if prov == "anthropic":
         return _anthropic(cfg_llm.get("anthropic_modelo", "claude-sonnet-4-5"), instrucciones, entrada)
     if prov == "gemini":
-        return _gemini(cfg_llm.get("gemini_modelo", "gemini-2.5-flash"), instrucciones, entrada)
+        return _gemini_cascada(cfg_llm, instrucciones, entrada)
     return None
 
 

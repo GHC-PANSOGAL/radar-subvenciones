@@ -65,7 +65,7 @@ def ejecutar(args) -> int:
     filtro = Filtro(cfg)
     inicio = datetime.now().isoformat(timespec="seconds")
     errores: list[str] = []
-    nuevas_c = nuevas_n = n_res = nuevas_l = 0
+    nuevas_c = nuevas_n = n_res = nuevas_l = n_basicos = 0
 
     if not args.solo_panel:
         hasta = hoy()
@@ -181,18 +181,31 @@ def ejecutar(args) -> int:
                 bdns = BDNS(cfg["bdns"])
                 pendientes = db.convocatorias_sin_resumen(g["max_resumenes_por_ejecucion"])
                 log.info("Resúmenes pendientes: %d", len(pendientes))
+                usa_llm = cfg.get("llm", {}).get("proveedor", "ninguno") != "ninguno"
                 for i, fila in enumerate(pendientes, 1):
                     conv = DB._fila(fila)
                     log.info("Resumen %d/%d: %s", i, len(pendientes), (conv.get("titulo") or "")[:70])
                     texto = ""
-                    usa_llm = cfg.get("llm", {}).get("proveedor", "ninguno") != "ninguno"
                     if usa_llm and cfg["bdns"].get("descargar_pdf", True) and conv["fuente"] == "bdns":
                         det = bdns.detalle(conv["id_bdns"]) or {}
                         texto = bdns.descargar_pdf_texto(det, g["max_caracteres_pdf"])
                     res, prov = resumen.generar(conv, texto, cfg.get("llm", {}))
                     db.guardar_resumen(conv["id_bdns"], res, prov, len(texto) or None)
                     n_res += 1
+                    if prov == "basico":
+                        n_basicos += 1
                     time.sleep(float(cfg.get("llm", {}).get("pausa_segundos", 1)) if prov not in ("basico",) else 0.2)
+
+                # Contar 25 resúmenes "hechos" cuando los 25 han caído al modo básico es mentir en el
+                # registro: es exactamente lo que ocultó durante semanas que Google había retirado el
+                # modelo configurado. Si falla todo, se anota como error de la ejecución.
+                if pendientes and n_basicos == len(pendientes) and usa_llm:
+                    msg = (f"Los {n_basicos} resúmenes han salido en modo BÁSICO: el LLM no ha "
+                           f"respondido ni una vez. Revisa el modelo y la clave (CLAVES.bat).")
+                    log.error(msg)
+                    errores.append(msg)
+                elif n_basicos:
+                    log.warning("%d de %d resúmenes han salido en modo básico.", n_basicos, len(pendientes))
             except Exception as e:  # noqa: BLE001
                 log.exception("Fallo generando resúmenes")
                 errores.append(f"Resumen: {e}")

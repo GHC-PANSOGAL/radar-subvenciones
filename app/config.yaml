@@ -59,7 +59,10 @@ publicacion:
 # ---------------------------------------------------------------------
 llm:
   proveedor: gemini
-  gemini_modelo: gemini-2.5-flash
+  # Modelos a probar en orden. Google retira modelos (2.5-flash empezo a dar 404 "no longer
+  # available to new users") y tambien los satura a ratos (3.8-flash da 503 "high demand").
+  # Con varios, un pico de demanda no deja la ejecucion del dia sin resumenes.
+  gemini_modelos: [gemini-3.8-flash, gemini-3.5-flash, gemini-3.6-flash, gemini-2.5-flash-lite]
   anthropic_modelo: claude-sonnet-4-5
   perplexity_modelo: perplexity/sonar
   # Segunda pasada: cuando la confianza calculada no es alta, se le devuelve el JSON al modelo con el
@@ -84,7 +87,7 @@ avisos:
   #   smtp           -> servidor SMTP clásico. AVISO: en Microsoft 365 la autenticación básica
   #                     está en retirada y choca con los Security Defaults; puede dejar de funcionar.
   #   fichero        -> no envía: deja el correo en data/avisos/ para verlo. Para probar sin clave.
-  proveedor: fichero
+  proveedor: smtp
   # Dirección desde la que se envía. Con brevo/resend hay que verificar el dominio para no caer en spam.
   remitente: "radar@ghcneutral.com"
   remitente_nombre: "Radar GHC"
