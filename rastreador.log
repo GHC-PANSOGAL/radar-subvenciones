@@ -1,0 +1,125 @@
+2026-10-10 10:27:04 INFO    rastreador.run: Ventana de rastreo: 2026-10-07 → 2026-10-10
+2026-10-10 10:27:10 INFO    rastreador.bdns: BDNS 2026-10-07 → 2026-10-10: 13 convocatorias candidatas
+2026-10-10 10:27:11 INFO    rastreador.run: Nueva convocatoria 934605 [Canarias] Decreto Resolución 2026-7583 del Consejo de Gobierno del Cabildo Insular de Lanzarote y La
+2026-10-10 10:27:13 INFO    rastreador.boe: BOE 2026-10-07 → 2026-10-10: 0 anuncios relevantes
+2026-10-10 10:27:13 INFO    rastreador.rss: RSS IDAE                          10 elementos
+2026-10-10 10:27:13 INFO    rastreador.rss: RSS CDTI                          10 elementos
+2026-10-10 10:27:14 INFO    rastreador.rss: RSS BDNS convocatorias             0 elementos
+2026-10-10 10:27:16 INFO    rastreador.rss: RSS FENERCOM (Madrid)             10 elementos
+2026-10-10 10:27:17 INFO    rastreador.rss: RSS EVE (Euskadi)                 10 elementos
+2026-10-10 10:27:19 INFO    rastreador.rss: RSS FAEN (Asturias)                0 elementos
+2026-10-10 10:28:29 WARNING rastreador: GET https://www.ivace.es/?format=feed&type=rss falló tras 2 intentos: HTTPSConnectionPool(host='www.ivace.es', port=443): Read timed out. (read timeout=30)
+2026-10-10 10:28:29 INFO    rastreador.rss: RSS IVACE (C. Valenciana)          0 elementos
+2026-10-10 10:28:29 INFO    rastreador.rss: RSS Institut Balear de l'Energia  23 elementos
+2026-10-10 10:28:29 INFO    rastreador.rss: RSS EREN / Energía CyL            10 elementos
+2026-10-10 10:28:31 INFO    rastreador.rss: RSS Gobierno de Canarias (noticias)  50 elementos
+2026-10-10 10:28:33 INFO    rastreador.rss: RSS JCCM noticias                  0 elementos
+2026-10-10 10:28:35 INFO    rastreador.rss: RSS PROCESA (Ceuta)               10 elementos
+2026-10-10 10:28:36 INFO    rastreador.rss: RSS BOCM                           0 elementos
+2026-10-10 10:28:36 INFO    rastreador.rss: RSS DOE (Extremadura)              0 elementos
+2026-10-10 10:28:37 INFO    rastreador.rss: RSS BOCYL                          1 elementos
+2026-10-10 10:28:37 INFO    rastreador.rss: RSS BOIB                          15 elementos
+2026-10-10 10:28:37 INFO    rastreador.placsp: PLACSP PLACSP pág.1: descargando…
+2026-10-10 10:28:39 INFO    rastreador.placsp: PLACSP PLACSP pág.1: 74 entries en 2 s (más antigua 2026-10-09), relevantes acumuladas 1
+2026-10-10 10:28:39 INFO    rastreador.placsp: PLACSP PLACSP pág.2: descargando…
+2026-10-10 10:28:50 INFO    rastreador.placsp: PLACSP PLACSP pág.2: 499 entries en 11 s (más antigua 2026-10-09), relevantes acumuladas 10
+2026-10-10 10:28:50 INFO    rastreador.placsp: PLACSP PLACSP pág.3: descargando…
+2026-10-10 10:29:02 INFO    rastreador.placsp: PLACSP PLACSP pág.3: 496 entries en 12 s (más antigua 2026-10-09), relevantes acumuladas 12
+2026-10-10 10:29:02 INFO    rastreador.placsp: PLACSP PLACSP pág.4: descargando…
+2026-10-10 10:29:11 INFO    rastreador.placsp: PLACSP PLACSP pág.4: 497 entries en 9 s (más antigua 2026-10-09), relevantes acumuladas 15
+2026-10-10 10:29:11 INFO    rastreador.placsp: PLACSP PLACSP pág.5: descargando…
+2026-10-10 10:29:22 INFO    rastreador.placsp: PLACSP PLACSP pág.5: 497 entries en 11 s (más antigua 2026-10-09), relevantes acumuladas 18
+2026-10-10 10:29:22 INFO    rastreador.placsp: PLACSP PLACSP pág.6: descargando…
+2026-10-10 10:29:32 INFO    rastreador.placsp: PLACSP PLACSP pág.6: 499 entries en 9 s (más antigua 2026-10-08), relevantes acumuladas 23
+2026-10-10 10:29:32 INFO    rastreador.placsp: PLACSP PLACSP pág.7: descargando…
+2026-10-10 10:29:41 INFO    rastreador.placsp: PLACSP PLACSP pág.7: 500 entries en 10 s (más antigua 2026-10-08), relevantes acumuladas 29
+2026-10-10 10:29:41 INFO    rastreador.placsp: PLACSP PLACSP pág.8: descargando…
+2026-10-10 10:29:57 INFO    rastreador.placsp: PLACSP PLACSP pág.8: 499 entries en 16 s (más antigua 2026-10-08), relevantes acumuladas 34
+2026-10-10 10:29:57 INFO    rastreador.placsp: PLACSP Plataformas CCAA pág.1: descargando…
+2026-10-10 10:29:58 INFO    rastreador.placsp: PLACSP Plataformas CCAA pág.1: 20 entries en 0 s (más antigua 2026-10-09), relevantes acumuladas 36
+2026-10-10 10:29:58 INFO    rastreador.placsp: PLACSP Plataformas CCAA pág.2: descargando…
+2026-10-10 10:30:08 INFO    rastreador.placsp: PLACSP Plataformas CCAA pág.2: 500 entries en 11 s (más antigua 2026-10-09), relevantes acumuladas 41
+2026-10-10 10:30:08 INFO    rastreador.placsp: PLACSP Plataformas CCAA pág.3: descargando…
+2026-10-10 10:30:15 INFO    rastreador.placsp: PLACSP Plataformas CCAA pág.3: 499 entries en 7 s (más antigua 2026-10-09), relevantes acumuladas 44
+2026-10-10 10:30:15 INFO    rastreador.placsp: PLACSP Plataformas CCAA pág.4: descargando…
+2026-10-10 10:30:22 INFO    rastreador.placsp: PLACSP Plataformas CCAA pág.4: 491 entries en 6 s (más antigua 2026-10-08), relevantes acumuladas 51
+2026-10-10 10:30:22 INFO    rastreador.placsp: PLACSP Plataformas CCAA pág.5: descargando…
+2026-10-10 10:30:30 INFO    rastreador.placsp: PLACSP Plataformas CCAA pág.5: 500 entries en 8 s (más antigua 2026-10-08), relevantes acumuladas 55
+2026-10-10 10:30:30 INFO    rastreador.placsp: PLACSP Plataformas CCAA pág.6: descargando…
+2026-10-10 10:30:39 INFO    rastreador.placsp: PLACSP Plataformas CCAA pág.6: 414 entries en 10 s (más antigua 2026-10-07), relevantes acumuladas 60
+2026-10-10 10:30:40 INFO    rastreador.run: Nueva licitación [Canarias] Instalación de fotovoltaicas en espacios antropizados
+2026-10-10 10:30:40 INFO    rastreador.run: Nueva licitación [Castilla-La Mancha] Acuerdo Marco para el suministro de Sistemas de Alimentación Ininterrumpida (SAIs) y Cambi
+2026-10-10 10:30:40 INFO    rastreador.run: Nueva licitación [Andalucía] Servicio de auditoría en la Universidad de Cádiz, dentro del proyecto COMPITE Mejora de la
+2026-10-10 10:30:40 INFO    rastreador.run: Nueva licitación [Andalucía] Suministros, obras y servicios necesarios para acometer las obras  Reformas en Almacén Mun
+2026-10-10 10:30:40 INFO    rastreador.run: Nueva licitación [Canarias] Realización de las prestaciones integrales necesarias para la organización y celebración d
+2026-10-10 10:30:40 INFO    rastreador.run: Nueva licitación [Andalucía] Obras de rehabilitación y adecuación de inmueble municipal en plantas baja y sótano para a
+2026-10-10 10:30:40 INFO    rastreador.run: Nueva licitación [Castilla y León] Obras para la instalación de sistemas de climatizacion en centros civicos Pilarica y  Jose
+2026-10-10 10:30:40 INFO    rastreador.run: Nueva licitación [Andalucía] Obras Proyecto de renovación y mejora de la eficiencia energética de las instalaciones de 
+2026-10-10 10:30:40 INFO    rastreador.run: Nueva licitación [Castilla-La Mancha] Mejora de la eficiencia energética del Pabellón Polideportivo Municipal mediante la instal
+2026-10-10 10:30:40 INFO    rastreador.run: Nueva licitación [Castilla y León] 1. Mejora de la accesibilidad de la casa de cultura de Sabero
+2. Mejora energética en edif
+2026-10-10 10:30:40 INFO    rastreador.run: Nueva licitación [País Vasco] Servicio de auditoria y certificación energética, INSS Bizkaia.
+2026-10-10 10:30:40 INFO    rastreador.run: Nueva licitación [Comunidad de Madrid] Obras necesarias para la implementación del sistema de ventilación en la sala de criogeniz
+2026-10-10 10:30:40 INFO    rastreador.run: Nueva licitación [Andalucía] Mejora de la eficiencia energética de iluminación y pavimentación en C/ Ejido
+2026-10-10 10:30:40 INFO    rastreador.run: Nueva licitación [Extremadura] Servicio de alquiler, montaje, desmontaje y transporte de los elementos decorativos, de so
+2026-10-10 10:30:40 INFO    rastreador.run: Nueva licitación [Andalucía] Obra para la ejecución del proyecto de reducción de ruidos en las instalaciones del conjun
+2026-10-10 10:30:40 INFO    rastreador.run: Nueva licitación [Andalucía] ejecución de obras del proyecto de ejecución para la rehabilitación energética del edifici
+2026-10-10 10:30:40 INFO    rastreador.run: Nueva licitación [Navarra] HUN-OT02/2026-contrato mixto de suministro, servicios y obras para una eficiente gestión e
+2026-10-10 10:30:40 INFO    rastreador.run: Nueva licitación [Cataluña] Instal·lació interior de radiadors de l'edifici de l'Ajuntament i la Casa de Núria per pro
+2026-10-10 10:30:40 INFO    rastreador.run: Nueva licitación [Cataluña] El present contracte té per objecte la contractació del subministrament, instal·lació, con
+2026-10-10 10:30:40 INFO    rastreador.run: Nueva licitación [Cataluña] La present licitació té per objecte la contractació administrativa de l’execució de les ob
+2026-10-10 10:30:40 INFO    rastreador.run: Nueva licitación [Cataluña] L'objecte del contracte és l'execució de l'obra de Substitució de la coberta del camp de f
+2026-10-10 10:30:40 INFO    rastreador.run: Nueva licitación [País Vasco] Enajenación onerosa del ahorro de energía final generado en las actuaciones de eficiencia 
+2026-10-10 10:30:40 INFO    rastreador.run: Nueva licitación [Cataluña] Obres de substitució de finestres per a la millora energètica i el confort ambiental en al
+2026-10-10 10:30:40 INFO    rastreador.run: Nueva licitación [Cataluña] Material diverso de ferretería, pilas y pintura
+2026-10-10 10:30:40 INFO    rastreador.run: Resúmenes pendientes: 12
+2026-10-10 10:30:40 INFO    rastreador.run: Resumen 1/12: Decreto Resolución 2026-7583 del Consejo de Gobierno del Cabildo Insul
+2026-10-10 10:31:33 INFO    rastreador.resumen: Gemini: usando el modelo gemini-3.8-flash
+2026-10-10 10:31:57 WARNING rastreador.resumen: Gemini gemini-3.8-flash: HTTP 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later
+2026-10-10 10:31:57 WARNING rastreador.resumen: Gemini: gemini-3.8-flash no ha respondido (503); se prueba el siguiente.
+2026-10-10 10:32:13 INFO    rastreador.resumen: Gemini: usando el modelo gemini-3.5-flash
+2026-10-10 10:32:13 INFO    rastreador.resumen: Verificación de 934605: confianza media → media
+2026-10-10 10:32:20 INFO    rastreador.run: Resumen 2/12: SUBVENCIÓN PARA LA ADQUISICIÓN E INSTALACIÓN DE BATERÍAS DE ALMACENAMI
+2026-10-10 10:32:32 WARNING rastreador.resumen: Gemini gemini-3.5-flash: HTTP 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later
+2026-10-10 10:32:32 WARNING rastreador.resumen: Gemini: gemini-3.5-flash no ha respondido (503); se prueba el siguiente.
+2026-10-10 10:33:34 INFO    rastreador.resumen: Gemini: usando el modelo gemini-3.8-flash
+2026-10-10 10:33:41 INFO    rastreador.run: Resumen 3/12: Subvención al Colegio concertado Santa Ana de Monzón para la actuación
+2026-10-10 10:35:51 WARNING rastreador.resumen: Gemini gemini-3.8-flash: HTTP 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later
+2026-10-10 10:35:51 WARNING rastreador.resumen: Gemini: gemini-3.8-flash no ha respondido (503); se prueba el siguiente.
+2026-10-10 10:35:55 WARNING rastreador.resumen: Gemini gemini-3.5-flash: HTTP 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later
+2026-10-10 10:35:55 WARNING rastreador.resumen: Gemini: gemini-3.5-flash no ha respondido (503); se prueba el siguiente.
+2026-10-10 10:37:13 INFO    rastreador.resumen: Gemini: usando el modelo gemini-flash-latest
+2026-10-10 10:37:13 INFO    rastreador.resumen: Verificación de 925336: confianza media → media
+2026-10-10 10:37:20 INFO    rastreador.run: Resumen 4/12: Acuerdo de Consejo de Gobierno, del Cabildo Insular de Lanzarote y La 
+2026-10-10 10:38:29 WARNING rastreador.resumen: Gemini gemini-flash-latest: HTTP 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later
+2026-10-10 10:38:29 WARNING rastreador.resumen: Gemini: gemini-flash-latest no ha respondido (503); se prueba el siguiente.
+2026-10-10 10:39:05 WARNING rastreador.resumen: Gemini gemini-3.8-flash: HTTP 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later
+2026-10-10 10:39:05 WARNING rastreador.resumen: Gemini: gemini-3.8-flash no ha respondido (503); se prueba el siguiente.
+2026-10-10 10:39:23 WARNING rastreador.resumen: Gemini gemini-3.5-flash: HTTP 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later
+2026-10-10 10:39:23 WARNING rastreador.resumen: Gemini: gemini-3.5-flash no ha respondido (503); se prueba el siguiente.
+2026-10-10 10:39:23 WARNING rastreador.resumen: Gemini: ninguno de los modelos ['gemini-flash-latest', 'gemini-3.8-flash', 'gemini-3.5-flash'] ha respondido.
+2026-10-10 10:39:23 WARNING rastreador.resumen: Resumen LLM no disponible para 925135; se usa resumen básico
+2026-10-10 10:39:23 INFO    rastreador.run: Resumen 5/12: Debagoienan trantsizio energetikoaren inguruko deliberazio prozesua bu
+2026-10-10 10:40:17 WARNING rastreador.resumen: Gemini gemini-flash-latest: HTTP 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later
+2026-10-10 10:40:17 WARNING rastreador.resumen: Gemini: gemini-flash-latest no ha respondido (503); se prueba el siguiente.
+2026-10-10 10:41:03 INFO    rastreador.resumen: Gemini: usando el modelo gemini-3.8-flash
+2026-10-10 10:41:03 INFO    rastreador.resumen: Verificación de 924046: confianza media → media
+2026-10-10 10:41:10 INFO    rastreador.run: Resumen 6/12: BASES Y CONVOCATORIA ESPECÍFICAS PARA LA CONCESIÓN DE SUBVENCIONES COM
+2026-10-10 10:42:04 INFO    rastreador.run: Resumen 7/12: SN a la Comunidad energética Local CEL Salto del Calderón financiación
+2026-10-10 10:42:39 INFO    rastreador.run: Resumen 8/12: CONVOCATORIA PÚBLICA SUBVENCION CONCURRENCIA COMPETITIVA INSTALACIONES
+2026-10-10 10:43:17 INFO    rastreador.run: Resumen 9/12: CONSELL COMARCAL DE L`ALT URGELL. `Impulsa energia. Millora eficiència
+2026-10-10 10:44:11 INFO    rastreador.resumen: Verificación de 920162: confianza baja → baja
+2026-10-10 10:44:18 INFO    rastreador.run: Resumen 10/12: Convocatoria de subvenciones para mejoras en eficiencia energética y l
+2026-10-10 10:45:14 INFO    rastreador.run: Resumen 11/12: (REE) Eficiencia energética Terciario FNEE (Reg. 651/2014)
+2026-10-10 10:45:16 WARNING rastreador.resumen: Gemini gemini-3.8-flash: HTTP 429 {   "error": {     "code": 429,     "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error,
+2026-10-10 10:45:16 ERROR   rastreador.resumen: Gemini: cuota agotada (HTTP 429). Se dejan de pedir resúmenes en esta ejecución; los que falten se harán mañana.
+2026-10-10 10:45:16 WARNING rastreador.resumen: Resumen LLM no disponible para 919217; se usa resumen básico
+2026-10-10 10:45:16 INFO    rastreador.run: Resumen 12/12: (EE) Eficiencia energética Industrial FNEE (Reg. 651/2014)
+2026-10-10 10:45:17 WARNING rastreador.resumen: Resumen LLM no disponible para 919209; se usa resumen básico
+2026-10-10 10:45:17 WARNING rastreador.run: 3 de 12 resúmenes han salido en modo básico.
+2026-10-10 10:45:18 INFO    rastreador.avisos: Avisos: nada nuevo para carmelo@ghcneutral.com
+2026-10-10 10:45:20 INFO    rastreador.avisos: Aviso enviado a rebeca@pansogal.com: 1 convocatorias, 11 licitaciones (enviado)
+2026-10-10 10:45:20 INFO    rastreador.avisos: Avisos: nada nuevo para rosario@pansogal.com
+2026-10-10 10:45:20 INFO    rastreador.run: Avisos por correo enviados: 1
+2026-10-10 10:45:27 INFO    rastreador.publicar: Panel publicado en https://ghc-pansogal.github.io/radar-subvenciones/ (rama gh-pages, reescrita)
+2026-10-10 10:45:27 INFO    rastreador.run: Panel generado: /home/runner/work/radar-subvenciones/radar-subvenciones/app/panel/index.html  (nuevas convocatorias: 1, licitaciones: 24, noticias: 0, resúmenes: 12, errores: 0)
