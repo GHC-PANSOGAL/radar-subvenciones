@@ -146,6 +146,20 @@ def _encaja(fila: dict, sus: dict) -> bool:
     return True
 
 
+def categorias_huerfanas(db: DB, filtro) -> list[str]:
+    """Categorías que existen en el config pero que NO tiene marcada ningún suscriptor.
+
+    Pasa cada vez que se añade una temática nueva: las suscripciones guardan la lista que el usuario
+    marcó aquel día, así que una categoría nueva no la tiene nadie y todo lo que se etiquete solo con
+    ella es invisible, aunque esté en el panel. Ocurrió con "climatizacion" el 22/10/2026: nueve
+    licitaciones del SERGAS, tres de ellas a punto de cerrar, no llegaron a nadie.
+    """
+    suscritas = set()
+    for s in listar(db):
+        suscritas |= set(s.get("categorias") or [])
+    return [k for k in filtro.categorias if k not in suscritas]
+
+
 def pendientes(db: DB, sus: dict) -> tuple[list[dict], list[dict]]:
     """Novedades que tocan avisar a esta persona: (convocatorias, licitaciones)."""
     ya = {(r["tipo"], r["id"]) for r in db.con.execute(

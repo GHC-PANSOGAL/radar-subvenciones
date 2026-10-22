@@ -252,6 +252,10 @@ def ejecutar(args) -> int:
     # avisos por correo: solo los manda este PC porque es el que tiene el bloqueo compartido
     if not args.sin_avisos:
         try:
+            huerfanas = avisos.categorias_huerfanas(db, filtro)
+            if huerfanas:
+                log.warning("Hay categorías que NO tiene marcada ningún suscriptor: %s. "
+                            "Lo que se etiquete solo con ellas no llegará a nadie.", ", ".join(huerfanas))
             n = avisos.enviar_todo(db, cfg, __version__)
             if n:
                 log.info("Avisos por correo enviados: %d", n)
