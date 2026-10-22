@@ -1,4 +1,4 @@
-# =====================================================================
+﻿# =====================================================================
 #  Rastreador diario de subvenciones y noticias — GHC (Gestión Huella Carbono)
 #  Configuración principal. Las claves API van en el fichero .env (ver .env.example)
 # =====================================================================
@@ -22,7 +22,7 @@ general:
   # Es una subcarpeta (_compartido) de la carpeta del programa, para no mezclar la base y el panel con el código.
   # ${OneDriveCommercial} = carpeta OneDrive de empresa del usuario que ejecuta (p. ej. C:/Users/X/OneDrive - PANSOGAL S.L),
   # así la misma configuración vale en el PC de cada compañero.
-  carpeta_compartida: "${OneDriveCommercial}/PANSOGAL/00_COMERCIAL_ESTUDIOS/01_ESTUDIOS/02_DOCUMENTOS DE TRABAJO/04_SOFTWARE/RADAR SUBVENCIONES Y LICITACIONES_CLAUDE/_compartido"
+  carpeta_compartida: "C:/Users/PANSOGAL_SOLARNI/OneDrive - PANSOGAL S.L/PANSOGAL/00_COMERCIAL_ESTUDIOS/01_ESTUDIOS/02_DOCUMENTOS DE TRABAJO/04_SOFTWARE/RADAR SUBVENCIONES Y LICITACIONES_CLAUDE/_compartido"
   # En modo automático (tarea programada) no se repite el rastreo si el panel compartido se actualizó hace menos de estas horas
   min_horas_entre_actualizaciones: 6
   # Máximo de resúmenes ejecutivos (LLM) nuevos por ejecución (control de coste)
@@ -122,6 +122,10 @@ categorias:
     etiqueta: "Rehabilitación energética de edificios"
     fuerte: true
     palabras: [rehabilitación energética, rehabilitacion energetica, rehabilitación enerxética, rehabilitació energètica, envolvent tèrmica, envolvente térmica, sate, aislamiento térmico, eficiencia energética en edificios, mejora energética, eficiencia energética de viviendas, eficiencia energética en viviendas, pree 5000, programa pree, edificios residenciales]
+  climatizacion:
+    etiqueta: "Climatización / ACS"
+    fuerte: true
+    palabras: [climatizacion, climatizacion, climatizacio, enfriadora, enfriadoras, planta enfriadora, produccion de frio, produccion de agua fria, agua fria, agua caliente sanitaria, acs, sala de calderas, caldera de gas, sustitucion de caldera, sustitucion de calderas, calefaccion, calefaccio, ventilacion, fancoil, fan-coil, climatizadora, climatizadoras]
   eficiencia:
     etiqueta: "Eficiencia energética / descarbonización"
     fuerte: true
@@ -290,6 +294,28 @@ licitaciones:
     - "https://contrataciondelestado.es/sindicacion/sindicacion_1044/PlataformasAgregadasSinMenores_{anio}{mes}.zip"
     - "https://contrataciondelestado.es/sindicacion/sindicacion_1044/PlataformasAgregadasSinMenores_{anio}.zip"
   # Prefijos CPV que hacen relevante una licitación (además del filtro de texto por categorías)
+  # Que categoria implica cada CPV. Tiene que cubrir lo mismo que cpv_prefijos: si un CPV sirve
+  # para guardar una licitacion pero no para etiquetarla, esa licitacion se guarda y no avisa nunca.
+  # El prefijo mas largo que encaje es el que manda.
+  cpv_categorias:
+    "0933":       fotovoltaica      # energia solar, placas, modulos FV
+    "45261215":   fotovoltaica      # cubiertas con placas solares
+    "31712331":   fotovoltaica      # celulas fotovoltaicas
+    "09332000":   fotovoltaica      # instalacion solar termica/FV
+    "3140":       baterias
+    "3142":       baterias
+    "3143":       baterias          # acumuladores electricos (litio...)
+    "3144":       baterias
+    "4251111":    aerotermia        # bombas de calor
+    "4253300":    aerotermia        # partes de bombas de calor
+    "45251141":   geotermia         # centrales geotermicas
+    "4532":       rehabilitacion    # aislamiento termico
+    "45261410":   rehabilitacion    # impermeabilizacion y aislamiento de cubiertas
+    "45331":      climatizacion     # calefaccion, ventilacion y climatizacion (CPV 45331xxx)
+    # NO se mapean los CPV de electricidad generica (45310, 45315, 71314): entran alumbrados
+    # navidenos y reformas de locales que no son trabajo de GHC. Esos CPV siguen sirviendo para
+    # guardar la licitacion en el panel, pero no para mandar un correo.
+
   cpv_prefijos:
     - "0933"       # energía solar, placas, módulos FV, instalación solar
     - "45261215"   # cubiertas con placas solares
@@ -306,3 +332,4 @@ licitaciones:
     - "4216"       # calderas
     - "44621"      # calderas calefacción central
     - "71314"      # servicios de energía, gestión energética, auditorías
+

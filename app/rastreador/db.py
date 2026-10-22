@@ -213,6 +213,36 @@ class DB:
         return [self._fila(f) for f in self.con.execute(
             "SELECT * FROM ejecuciones ORDER BY id DESC LIMIT ?", (n,)).fetchall()]
 
+    def reetiquetar_mudas(self, filtro) -> int:
+        """Vuelve a etiquetar las licitaciones guardadas que no tienen ninguna categoría.
+
+        Las etiquetas se calculan al guardar, así que una mejora del filtro (una palabra clave o un
+        CPV nuevo) solo servía de ahí en adelante: lo ya guardado se quedaba mudo para siempre y
+        nunca generaba un aviso, aunque estuviera en el panel. Esto lo repasa en cada ejecución.
+
+        Solo toca las que están vacías: una licitación ya etiquetada no se recalcula, para no
+        cambiarle las etiquetas a algo de lo que ya se avisó.
+        """
+        filas = self.con.execute(
+            "SELECT id, titulo, cpv FROM licitaciones WHERE categorias IS NULL OR categorias='[]'"
+        ).fetchall()
+        cambios = []
+        for f in filas:
+            try:
+                cpv = json.loads(f["cpv"]) if f["cpv"] else []
+            except (ValueError, TypeError):
+                cpv = []
+            cats = filtro.categorias_de(f["titulo"])
+            for c in filtro.categorias_de_cpv(cpv):
+                if c not in cats:
+                    cats.append(c)
+            if cats:
+                cambios.append((json.dumps(cats, ensure_ascii=False), f["id"]))
+        if cambios:
+            self.con.executemany("UPDATE licitaciones SET categorias=? WHERE id=?", cambios)
+            self.con.commit()
+        return len(cambios)
+
     @staticmethod
     def _fila(f: sqlite3.Row) -> dict:
         d = dict(f)

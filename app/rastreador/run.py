@@ -165,12 +165,31 @@ def ejecutar(args) -> int:
                     lote = placsp.leer(dias_atras(lcfg.get("ventana_dias", 2)), lambda t: filtro.es_relevante(t))
                 for lic in lote:
                     lic["ccaa"] = detectar_ccaa(lic.get("lugar"), lic.get("organo_padre"), regiones=[lic.get("nuts") or ""])
-                    lic["categorias"] = filtro.categorias_de(lic["titulo"])
+                    # titulo Y CPV: el CPV es lo que de verdad dice de que va la obra, y hay
+                    # titulos ("produccion de agua fria para climatizacion") sin una sola palabra
+                    # clave cuyo CPV no deja lugar a dudas
+                    cats = filtro.categorias_de(lic["titulo"])
+                    for c in filtro.categorias_de_cpv(lic.get("cpv")):
+                        if c not in cats:
+                            cats.append(c)
+                    lic["categorias"] = cats
                     lic["clientes"] = filtro.clientes_de(lic["titulo"], lic.get("organo"))
                     lic["clasificacion"] = clasificacion.analizar(lic)
                     if db.guardar_licitacion(lic):
                         nuevas_l += 1
                         log.info("Nueva licitación [%s] %s", lic.get("ccaa"), lic["titulo"][:90])
+
+                # Repesca: re-etiquetar las licitaciones ya guardadas que se quedaron sin categoria.
+                # Hace falta porque las etiquetas se calculan al guardar: cuando se anade una palabra
+                # clave o un CPV nuevo, todo lo anterior se queda como estaba y sigue sin avisar. Es
+                # barato (una pasada sobre las mudas) y hace que cualquier mejora del filtro valga
+                # tambien hacia atras.
+                try:
+                    n_rep = db.reetiquetar_mudas(filtro)
+                    if n_rep:
+                        log.info("Repesca: %d licitaciones guardadas sin etiqueta ya tienen categoría.", n_rep)
+                except Exception as e:  # noqa: BLE001
+                    log.warning("No se ha podido repescar licitaciones sin etiqueta (%s)", e)
             except Exception as e:  # noqa: BLE001
                 log.exception("Fallo en PLACSP")
                 errores.append(f"PLACSP: {e}")

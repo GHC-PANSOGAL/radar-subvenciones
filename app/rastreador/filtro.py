@@ -26,6 +26,27 @@ class Filtro:
             k: {"etiqueta": v["etiqueta"], "re": _patron(v["palabras"])}
             for k, v in config.get("clientes_ghc", {}).items()
         }
+        # CPV -> categoria. Sin esto, el programa guardaba una licitacion por su CPV pero no la
+        # etiquetaba (las etiquetas salian solo del titulo), y como el aviso exige etiqueta, nunca
+        # avisaba: 1.172 de 3.430 licitaciones estaban guardadas y mudas. Un titulo como "sustitucion
+        # del sistema de produccion de agua fria destinado a la climatizacion" no contiene ninguna
+        # palabra clave, pero su CPV 45331230 dice exactamente lo que es.
+        self.cpv_categorias = {
+            str(pref): cat for pref, cat in (config.get("licitaciones", {}).get("cpv_categorias") or {}).items()
+        }
+
+    def categorias_de_cpv(self, cpvs: list[str] | None) -> list[str]:
+        """Categorias implicadas por los codigos CPV, por prefijo y de mas especifico a mas general."""
+        salida = []
+        for c in cpvs or []:
+            c = str(c).strip()
+            for pref in sorted(self.cpv_categorias, key=len, reverse=True):
+                if c.startswith(pref):
+                    cat = self.cpv_categorias[pref]
+                    if cat not in salida:
+                        salida.append(cat)
+                    break
+        return salida
 
     def categorias_de(self, *textos: str | None) -> list[str]:
         """Devuelve las claves de categoría que aparecen en los textos (vacío = no relevante)."""
