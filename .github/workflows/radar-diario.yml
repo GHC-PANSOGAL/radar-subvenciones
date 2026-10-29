@@ -28,7 +28,10 @@ concurrency:
 jobs:
   radar:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    # 120 y no 60: con 60 la ejecucion murio los dias 23 y 27 de octubre de 2026 justo antes de
+    # enviar los avisos (PLACSP tarda hasta 10 min por pagina desde EE.UU. y los resumenes otro
+    # tanto). Los avisos ya van antes que los resumenes, pero esto es el colchon por si acaso.
+    timeout-minutes: 120
     steps:
       - name: Traer el codigo
         uses: actions/checkout@v4
