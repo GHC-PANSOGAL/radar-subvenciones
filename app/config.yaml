@@ -279,7 +279,7 @@ licitaciones:
   estados: [PUB, PRE]          # PUB en plazo, PRE anuncio previo
   max_paginas: 8
   # tope de tiempo de toda la etapa de licitaciones (s): lo que falte se recoge en la siguiente ejecución
-  tiempo_max_segundos: 240
+  tiempo_max_segundos: 900
   ventana_dias: 2
   # ------------------------------------------------------------------------------
   # Histórico de licitaciones (python -m rastreador.run --historico).

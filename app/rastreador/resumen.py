@@ -159,7 +159,10 @@ def _gemini_intento(modelo: str, instrucciones: str, entrada: str) -> tuple[int 
     }
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{modelo}:generateContent"
     try:
-        r = requests.post(url, json=cuerpo, timeout=240,
+        # 90 s y no 240: con 240, un Gemini lento multiplicado por 3 modelos de la cascada y 12
+        # fichas se comia 31 minutos (28/10/2026) y dejaba la ejecucion sin tiempo. Un resumen que
+        # tarda mas de minuto y medio no vale lo que cuesta; se reintenta mañana.
+        r = requests.post(url, json=cuerpo, timeout=90,
                           headers={"x-goog-api-key": clave, "Content-Type": "application/json", "User-Agent": UA})
     except requests.RequestException as e:
         log.warning("Gemini %s: no se ha podido conectar (%s)", modelo, type(e).__name__)

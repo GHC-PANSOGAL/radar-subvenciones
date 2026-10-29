@@ -194,6 +194,26 @@ def ejecutar(args) -> int:
                 log.exception("Fallo en PLACSP")
                 errores.append(f"PLACSP: {e}")
 
+        # --------------------------------------------------- avisos por correo
+        # Van AQUI, antes de los resúmenes, y no al final como estaban. Los resúmenes tardan media
+        # hora larga (Gemini agota su tiempo de espera y se prueban varios modelos) y la etapa de
+        # licitaciones otro tanto; los días 23 y 27 de octubre de 2026 la ejecución se comió los 60
+        # minutos de tope y murió antes de enviar nada. Un resumen que falta se nota poco; un aviso
+        # que no sale es una licitación perdida. Lo que el aviso necesita ya está hecho aquí: el
+        # rastreo.
+        if not args.sin_avisos:
+            try:
+                huerfanas = avisos.categorias_huerfanas(db, filtro)
+                if huerfanas:
+                    log.warning("Hay categorías que NO tiene marcada ningún suscriptor: %s. "
+                                "Lo que se etiquete solo con ellas no llegará a nadie.", ", ".join(huerfanas))
+                n = avisos.enviar_todo(db, cfg, __version__)
+                if n:
+                    log.info("Avisos por correo enviados: %d", n)
+            except Exception as e:  # noqa: BLE001
+                log.exception("Fallo enviando los avisos por correo")
+                errores.append(f"Avisos: {e}")
+
         # ------------------------------------------------ resúmenes ejecutivos
         if not args.sin_llm:
             try:
@@ -249,19 +269,6 @@ def ejecutar(args) -> int:
         except Exception as e:  # noqa: BLE001
             log.warning("No se ha podido generar el panel público (%s); NO se publicará nada.", e)
 
-    # avisos por correo: solo los manda este PC porque es el que tiene el bloqueo compartido
-    if not args.sin_avisos:
-        try:
-            huerfanas = avisos.categorias_huerfanas(db, filtro)
-            if huerfanas:
-                log.warning("Hay categorías que NO tiene marcada ningún suscriptor: %s. "
-                            "Lo que se etiquete solo con ellas no llegará a nadie.", ", ".join(huerfanas))
-            n = avisos.enviar_todo(db, cfg, __version__)
-            if n:
-                log.info("Avisos por correo enviados: %d", n)
-        except Exception as e:  # noqa: BLE001
-            log.exception("Fallo enviando los avisos por correo")
-            errores.append(f"Avisos: {e}")
     db.con.close()
     comp.llevar(__version__)
     comp.liberar()
