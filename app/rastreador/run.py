@@ -14,7 +14,8 @@ import sys
 import time
 from datetime import datetime
 
-from . import __version__, autoactualizar, avisos, clasificacion, desdegithub, panel, resumen
+from . import (__version__, autoactualizar, avisos, clasificacion, desdegithub, panel,
+               resumen, suscripciones_sync)
 from .compartido import Compartido
 from .publicar import GitHubPages
 from .db import DB
@@ -203,6 +204,12 @@ def ejecutar(args) -> int:
         # rastreo.
         if not args.sin_avisos:
             try:
+                # Las suscripciones mandan desde GitHub: es donde las escribe el panel al dar de
+                # alta. La base se reescribe entera en cada ejecución, así que si no se releyeran
+                # aquí, un alta hecha desde un PC no llegaría nunca a recibir nada.
+                n_sus = suscripciones_sync.fusionar_en_base(db, cfg)
+                if n_sus:
+                    log.info("Suscripciones traídas de GitHub: %d nuevas o cambiadas.", n_sus)
                 huerfanas = avisos.categorias_huerfanas(db, filtro)
                 if huerfanas:
                     log.warning("Hay categorías que NO tiene marcada ningún suscriptor: %s. "

@@ -42,6 +42,42 @@ def _contar(db: Path) -> tuple[int, int]:
         return -1, -1
 
 
+def _salvar_suscripciones(actual: Path, nueva: Path) -> int:
+    """Copia a `nueva` las suscripciones que estén en `actual` y no en ella. Devuelve cuántas."""
+    if not actual.exists():
+        return 0
+    try:
+        viejo = sqlite3.connect(f"file:{actual}?mode=ro", uri=True)
+        viejo.row_factory = sqlite3.Row
+        filas = viejo.execute("SELECT * FROM suscripciones").fetchall()
+        viejo.close()
+    except sqlite3.Error:
+        return 0
+    if not filas:
+        return 0
+    try:
+        con = sqlite3.connect(nueva)
+        ya = {r[0] for r in con.execute("SELECT email FROM suscripciones")}
+        cols = [d[0] for d in con.execute("SELECT * FROM suscripciones LIMIT 0").description]
+        n = 0
+        for f in filas:
+            if f["email"] in ya:
+                continue
+            valores = [f[c] if c in f.keys() else None for c in cols]
+            con.execute(f"INSERT INTO suscripciones ({','.join(cols)}) "
+                        f"VALUES ({','.join('?' * len(cols))})", valores)
+            n += 1
+        if n:
+            con.commit()
+            log.warning("Se han conservado %d suscripciones que estaban aquí y no en la base de "
+                        "GitHub. Revisa que estén sincronizadas.", n)
+        con.close()
+        return n
+    except sqlite3.Error as e:
+        log.warning("No se han podido conservar las suscripciones locales (%s)", e)
+        return 0
+
+
 def traer(cfg: dict, destino: Path) -> bool:
     """Deja en `destino` la base de GitHub si mejora la que hay. Devuelve True si la ha sustituido."""
     gh = (cfg.get("publicacion") or {}).get("github") or {}
@@ -78,6 +114,11 @@ def traer(cfg: dict, destino: Path) -> bool:
         if actuales == nuevas:
             log.info("La base de GitHub es la misma que ya hay (%d convocatorias, %d licitaciones).", *nuevas)
             return False
+
+        # Las suscripciones del fichero de aquí NO se tiran: la base que baja de GitHub se escribió
+        # allí y no sabe nada de las altas hechas desde un PC desde entonces. Sustituir sin más borró
+        # dos altas el 29/10/2026 sin dejar rastro. Se copian a la base nueva antes de sustituir.
+        _salvar_suscripciones(destino, descomprimida)
 
         destino.parent.mkdir(parents=True, exist_ok=True)
         tmp_destino = destino.with_name(destino.name + ".descarga")

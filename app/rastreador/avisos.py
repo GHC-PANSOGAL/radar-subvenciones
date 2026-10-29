@@ -399,6 +399,13 @@ def _guardar_compartido(cfg: dict, version: str, s: dict) -> str:
         comp.traer()                      # partir de lo que haya en la carpeta compartida
         db = DB(db_local)
         msg = guardar(db, s)
+        # Y a GitHub, que es quien manda los correos y quien reescribe la base entera cada día.
+        # Sin esto el alta vivía solo en OneDrive y la siguiente ejecución del rastreo la borraba,
+        # sin dejar rastro: pasó el 29/10/2026 con dos altas.
+        from . import suscripciones_sync
+        ok, detalle = suscripciones_sync.subir(cfg, listar(db))
+        msg += "\n  " + ("Sincronizado con GitHub: los avisos ya le llegarán." if ok
+                          else "AVISO: " + detalle)
         panel.generar(db, cfg, panel_local)   # el panel se regenera con la lista al día
         db.con.close()
         comp.llevar(version)              # y se devuelve todo a la carpeta compartida
