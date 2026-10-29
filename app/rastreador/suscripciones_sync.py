@@ -107,7 +107,25 @@ def fusionar_en_base(db, cfg: dict) -> int:
         email = (s.get("email") or "").strip().lower()
         if not email:
             continue
-        if actuales.get(email) != s:
+        if _distintas(actuales.get(email), s):
             avisos.guardar(db, s)
             n += 1
     return n
+
+
+# Campos que de verdad definen una suscripción. Comparar los diccionarios enteros no sirve: traen
+# fechas y claves que cambian solas, y entonces cada ejecución decía "2 cambiadas" sin que lo fueran.
+CAMPOS = ("nombre", "ccaa", "categorias", "subvenciones", "licitaciones", "activo")
+
+
+def _distintas(a: dict | None, b: dict) -> bool:
+    if a is None:
+        return True
+    for k in CAMPOS:
+        va, vb = a.get(k), b.get(k)
+        if isinstance(va, list) or isinstance(vb, list):
+            if sorted(va or []) != sorted(vb or []):
+                return True
+        elif bool(va) != bool(vb) if k in ("subvenciones", "licitaciones", "activo") else va != vb:
+            return True
+    return False
