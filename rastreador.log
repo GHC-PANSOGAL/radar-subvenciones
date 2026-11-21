@@ -1,0 +1,179 @@
+2026-11-21 12:12:37 INFO    rastreador.run: Ventana de rastreo: 2026-11-18 → 2026-11-21
+2026-11-21 12:12:44 INFO    rastreador.bdns: BDNS 2026-11-18 → 2026-11-21: 17 convocatorias candidatas
+2026-11-21 12:12:45 INFO    rastreador.boe: BOE 2026-11-18 → 2026-11-21: 2 anuncios relevantes
+2026-11-21 12:12:46 INFO    rastreador.rss: RSS IDAE                          10 elementos
+2026-11-21 12:12:46 INFO    rastreador.rss: RSS CDTI                          10 elementos
+2026-11-21 12:12:46 INFO    rastreador.rss: RSS BDNS convocatorias             0 elementos
+2026-11-21 12:12:48 INFO    rastreador.rss: RSS FENERCOM (Madrid)             10 elementos
+2026-11-21 12:12:49 INFO    rastreador.rss: RSS EVE (Euskadi)                 10 elementos
+2026-11-21 12:12:51 INFO    rastreador.rss: RSS FAEN (Asturias)                0 elementos
+2026-11-21 12:12:52 INFO    rastreador.rss: RSS IVACE (C. Valenciana)          0 elementos
+2026-11-21 12:12:53 INFO    rastreador.rss: RSS Institut Balear de l'Energia  24 elementos
+2026-11-21 12:12:53 INFO    rastreador.rss: RSS EREN / Energía CyL            10 elementos
+2026-11-21 12:12:56 INFO    rastreador.rss: RSS Gobierno de Canarias (noticias)  50 elementos
+2026-11-21 12:15:01 WARNING rastreador: GET https://castillalamancha.es/actualidad/noticias-rss falló tras 2 intentos: HTTPSConnectionPool(host='castillalamancha.es', port=443): Max retries exceeded with url: /actualidad/noticias-rss (Caused by ConnectTimeoutError(<HTTPSConnection(host='castillalamancha.es', port=443) at 0x7f5ef9fa8f80>, 'Connection to castillalamancha.es timed out. (connect timeout=30)'))
+2026-11-21 12:15:01 INFO    rastreador.rss: RSS JCCM noticias                  0 elementos
+2026-11-21 12:15:03 INFO    rastreador.rss: RSS PROCESA (Ceuta)               10 elementos
+2026-11-21 12:15:04 INFO    rastreador.rss: RSS BOCM                           0 elementos
+2026-11-21 12:15:04 INFO    rastreador.rss: RSS DOE (Extremadura)              0 elementos
+2026-11-21 12:15:05 INFO    rastreador.rss: RSS BOCYL                          1 elementos
+2026-11-21 12:15:05 INFO    rastreador.rss: RSS BOIB                          15 elementos
+2026-11-21 12:15:05 INFO    rastreador.placsp: PLACSP PLACSP pág.1: descargando…
+2026-11-21 12:15:23 INFO    rastreador.placsp: PLACSP PLACSP pág.1: 342 entries en 18 s (más antigua 2026-11-20), relevantes acumuladas 3
+2026-11-21 12:15:23 INFO    rastreador.placsp: PLACSP PLACSP pág.2: descargando…
+2026-11-21 12:15:49 INFO    rastreador.placsp: PLACSP PLACSP pág.2: 500 entries en 26 s (más antigua 2026-11-20), relevantes acumuladas 10
+2026-11-21 12:15:49 INFO    rastreador.placsp: PLACSP PLACSP pág.3: descargando…
+2026-11-21 12:16:04 INFO    rastreador.placsp: PLACSP PLACSP pág.3: 499 entries en 15 s (más antigua 2026-11-20), relevantes acumuladas 15
+2026-11-21 12:16:04 INFO    rastreador.placsp: PLACSP PLACSP pág.4: descargando…
+2026-11-21 12:16:34 INFO    rastreador.placsp: PLACSP PLACSP pág.4: 492 entries en 29 s (más antigua 2026-11-20), relevantes acumuladas 16
+2026-11-21 12:16:34 INFO    rastreador.placsp: PLACSP PLACSP pág.5: descargando…
+2026-11-21 12:16:49 INFO    rastreador.placsp: PLACSP PLACSP pág.5: 498 entries en 16 s (más antigua 2026-11-20), relevantes acumuladas 19
+2026-11-21 12:16:49 INFO    rastreador.placsp: PLACSP PLACSP pág.6: descargando…
+2026-11-21 12:17:06 INFO    rastreador.placsp: PLACSP PLACSP pág.6: 500 entries en 17 s (más antigua 2026-11-20), relevantes acumuladas 23
+2026-11-21 12:17:06 INFO    rastreador.placsp: PLACSP PLACSP pág.7: descargando…
+2026-11-21 12:17:18 INFO    rastreador.placsp: PLACSP PLACSP pág.7: 498 entries en 12 s (más antigua 2026-11-20), relevantes acumuladas 29
+2026-11-21 12:17:18 INFO    rastreador.placsp: PLACSP PLACSP pág.8: descargando…
+2026-11-21 12:17:27 INFO    rastreador.placsp: PLACSP PLACSP pág.8: 498 entries en 9 s (más antigua 2026-11-19), relevantes acumuladas 34
+2026-11-21 12:17:27 INFO    rastreador.placsp: PLACSP Plataformas CCAA pág.1: descargando…
+2026-11-21 12:17:31 INFO    rastreador.placsp: PLACSP Plataformas CCAA pág.1: 400 entries en 4 s (más antigua 2026-11-20), relevantes acumuladas 40
+2026-11-21 12:17:31 INFO    rastreador.placsp: PLACSP Plataformas CCAA pág.2: descargando…
+2026-11-21 12:17:41 INFO    rastreador.placsp: PLACSP Plataformas CCAA pág.2: 499 entries en 10 s (más antigua 2026-11-20), relevantes acumuladas 43
+2026-11-21 12:17:41 INFO    rastreador.placsp: PLACSP Plataformas CCAA pág.3: descargando…
+2026-11-21 12:17:44 INFO    rastreador.placsp: PLACSP Plataformas CCAA pág.3: 428 entries en 4 s (más antigua 2026-11-19), relevantes acumuladas 48
+2026-11-21 12:17:44 INFO    rastreador.placsp: PLACSP Plataformas CCAA pág.4: descargando…
+2026-11-21 12:17:49 INFO    rastreador.placsp: PLACSP Plataformas CCAA pág.4: 500 entries en 4 s (más antigua 2026-11-19), relevantes acumuladas 52
+2026-11-21 12:17:49 INFO    rastreador.placsp: PLACSP Plataformas CCAA pág.5: descargando…
+2026-11-21 12:17:53 INFO    rastreador.placsp: PLACSP Plataformas CCAA pág.5: 500 entries en 4 s (más antigua 2026-11-19), relevantes acumuladas 56
+2026-11-21 12:17:53 INFO    rastreador.placsp: PLACSP Plataformas CCAA pág.6: descargando…
+2026-11-21 12:17:57 INFO    rastreador.placsp: PLACSP Plataformas CCAA pág.6: 498 entries en 4 s (más antigua 2026-11-18), relevantes acumuladas 59
+2026-11-21 12:17:57 INFO    rastreador.run: Nueva licitación [Canarias] Mantenimiento y conservación de las instalaciones de climatización de los edificios Ciberc
+2026-11-21 12:17:57 INFO    rastreador.run: Nueva licitación [Asturias] El contrato tiene por objeto la prestación de los servicios de inspección periódica,  sigu
+2026-11-21 12:17:57 INFO    rastreador.run: Nueva licitación [Andalucía] Contrato de suministro de combustible de calefacción, biomasa en forma de hueso seco, para
+2026-11-21 12:17:57 INFO    rastreador.run: Nueva licitación [Extremadura] Obras de instalación fotovoltaica de autoconsumo colectivo con acumulación en la piscina m
+2026-11-21 12:17:57 INFO    rastreador.run: Nueva licitación [Comunidad Valenciana] Reparación de diversas patologías y sustitución del sistema de climatización, en Museo Arq
+2026-11-21 12:17:57 INFO    rastreador.run: Nueva licitación [Comunidad Valenciana] Suministro eléctrico 100% procedente de fuentes renovables (E-FER) para todos los puntos d
+2026-11-21 12:17:57 INFO    rastreador.run: Nueva licitación [Galicia] Mejora energética y adaptación del local social de Cruxeiras (Ames)
+2026-11-21 12:17:57 INFO    rastreador.run: Nueva licitación [Andalucía] Servicio de redacción del proyecto, dirección facultativa y coordinación de seguridad y sa
+2026-11-21 12:17:57 INFO    rastreador.run: Nueva licitación [Andalucía] Servicio de redacción del proyecto, dirección facultativa y coordinación de seguridad y sa
+2026-11-21 12:17:57 INFO    rastreador.run: Nueva licitación [Comunidad Valenciana] Obra de sustitución de tres máquinas de climatización del CPD de la Autoridad Portuaria de
+2026-11-21 12:17:57 INFO    rastreador.run: Nueva licitación [Aragón] Obras de sustitución de bomba de calor aire-agua para climatización del Centro Cultural El
+2026-11-21 12:17:57 INFO    rastreador.run: Nueva licitación [Andalucía] Segunda Fase De Renovación De Equipos De Producción Frío Y Calor En Edificio Terminal
+2026-11-21 12:17:57 INFO    rastreador.run: Nueva licitación [Canarias] Suministro De Variadores Para Hipódromos De Sate
+2026-11-21 12:17:57 INFO    rastreador.run: Nueva licitación [Andalucía] Mantenimiento preventivo y su correctivo asociado de los centros de transformación, cuadro
+2026-11-21 12:17:57 INFO    rastreador.run: Nueva licitación [Extremadura] Servicio de Redacción de Proyectos Básico y de Ejecución, dirección facultativa completa y
+2026-11-21 12:17:57 INFO    rastreador.run: Nueva licitación [Castilla-La Mancha] Obras de sustitución del muro de contención en el chaflán de la calle Hospital, plataforma
+2026-11-21 12:17:57 INFO    rastreador.run: Nueva licitación [Aragón] Reforma del ala sur del edificio municipal de Calle Zinqueta. Fase Nº 3
+2026-11-21 12:17:57 INFO    rastreador.run: Nueva licitación [Cataluña] L'objecte del contracte és l'execució de les obres contingudes en el “Projecte bàsic i exe
+2026-11-21 12:17:57 INFO    rastreador.run: Nueva licitación [Cataluña] L’objecte del present projecte consisteix en la implantació d’un sistema de climatització 
+2026-11-21 12:17:57 INFO    rastreador.run: Nueva licitación [País Vasco] Servicio de asistencia técnica en la redacción proyecto de ejecución para las obras de mej
+2026-11-21 12:17:57 INFO    rastreador.run: Nueva licitación [País Vasco] Suministro e instalación de aerotermia para ACS en el Colegio Mayor Miguel de Unamuno de l
+2026-11-21 12:17:59 INFO    rastreador.avisos: Aviso enviado a aroman@pansogal.com: 0 convocatorias, 4 licitaciones (enviado)
+2026-11-21 12:18:01 INFO    rastreador.avisos: Aviso enviado a carmelo@ghcneutral.com: 0 convocatorias, 1 licitaciones (enviado)
+2026-11-21 12:18:02 INFO    rastreador.avisos: Aviso enviado a rebeca@pansogal.com: 0 convocatorias, 25 licitaciones (enviado)
+2026-11-21 12:18:04 INFO    rastreador.avisos: Aviso enviado a rosario@pansogal.com: 0 convocatorias, 1 licitaciones (enviado)
+2026-11-21 12:18:06 INFO    rastreador.avisos: Aviso enviado a sergio.gonzalez@pansogal.com: 0 convocatorias, 4 licitaciones (enviado)
+2026-11-21 12:18:06 INFO    rastreador.run: Avisos por correo enviados: 5
+2026-11-21 12:18:06 INFO    rastreador.run: Resúmenes pendientes: 12
+2026-11-21 12:18:06 INFO    rastreador.run: Resumen 1/12: SUBVENCIONES PARA ACTUACIONES DE AHORRO ENERGÉTICO EN LOS ESTABLECIMIE
+2026-11-21 12:18:07 WARNING pypdf._cmap: fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/XEZOHF+Times-Bold', '/FontDescriptor': IndirectObject(13, 0, 140045901113936), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 232, '/Widths': [250, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 250, 0, 250, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 722, 667, 722, 722, 667, 611, 778, 0, 389, 500, 0, 667, 944, 722, 778, 611, 0, 722, 556, 667, 722, 722, 0, 722, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 444, 0, 0, 0, 278, 0, 0, 0, 0, 556, 500, 0, 0, 444, 389, 333, 556, 500, 0, 0, 0, 444, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 333, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 667, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 778, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 444], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+2026-11-21 12:18:07 WARNING pypdf._cmap: fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/VWBDWF+Times-Roman', '/FontDescriptor': IndirectObject(17, 0, 140045901113936), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 250, '/Widths': [250, 0, 0, 0, 0, 0, 0, 180, 0, 0, 0, 0, 250, 0, 250, 278, 500, 500, 500, 500, 0, 500, 500, 500, 500, 0, 0, 0, 0, 0, 0, 0, 0, 722, 667, 667, 722, 611, 0, 722, 0, 333, 389, 0, 611, 889, 722, 722, 556, 722, 667, 556, 611, 722, 722, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 444, 500, 444, 500, 444, 333, 500, 500, 278, 278, 0, 278, 778, 500, 500, 500, 500, 333, 389, 278, 500, 500, 722, 0, 500, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 333, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 667, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 722, 0, 0, 0, 0, 0, 0, 722, 0, 0, 0, 0, 0, 444, 0, 0, 0, 0, 0, 0, 444, 444, 444, 0, 0, 0, 278, 0, 0, 0, 0, 500, 500, 0, 0, 0, 0, 0, 0, 500], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+2026-11-21 12:18:07 WARNING pypdf._cmap: fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/XEZOHF+Times-Bold', '/FontDescriptor': IndirectObject(13, 0, 140045901113936), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 232, '/Widths': [250, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 250, 0, 250, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 722, 667, 722, 722, 667, 611, 778, 0, 389, 500, 0, 667, 944, 722, 778, 611, 0, 722, 556, 667, 722, 722, 0, 722, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 444, 0, 0, 0, 278, 0, 0, 0, 0, 556, 500, 0, 0, 444, 389, 333, 556, 500, 0, 0, 0, 444, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 333, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 667, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 778, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 444], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+2026-11-21 12:18:07 WARNING pypdf._cmap: fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/VWBDWF+Times-Roman', '/FontDescriptor': IndirectObject(17, 0, 140045901113936), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 250, '/Widths': [250, 0, 0, 0, 0, 0, 0, 180, 0, 0, 0, 0, 250, 0, 250, 278, 500, 500, 500, 500, 0, 500, 500, 500, 500, 0, 0, 0, 0, 0, 0, 0, 0, 722, 667, 667, 722, 611, 0, 722, 0, 333, 389, 0, 611, 889, 722, 722, 556, 722, 667, 556, 611, 722, 722, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 444, 500, 444, 500, 444, 333, 500, 500, 278, 278, 0, 278, 778, 500, 500, 500, 500, 333, 389, 278, 500, 500, 722, 0, 500, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 333, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 667, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 722, 0, 0, 0, 0, 0, 0, 722, 0, 0, 0, 0, 0, 444, 0, 0, 0, 0, 0, 0, 444, 444, 444, 0, 0, 0, 278, 0, 0, 0, 0, 500, 500, 0, 0, 0, 0, 0, 0, 500], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+2026-11-21 12:18:31 WARNING rastreador.resumen: Gemini gemini-3.8-flash: HTTP 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later
+2026-11-21 12:18:31 WARNING rastreador.resumen: Gemini: gemini-3.8-flash no ha respondido (503); se prueba el siguiente.
+2026-11-21 12:18:45 INFO    rastreador.resumen: Gemini: usando el modelo gemini-3.5-flash
+2026-11-21 12:20:15 WARNING rastreador.resumen: Gemini gemini-3.5-flash: no se ha podido conectar (ReadTimeout)
+2026-11-21 12:20:15 WARNING rastreador.resumen: Gemini: gemini-3.5-flash no ha respondido (sin respuesta); se prueba el siguiente.
+2026-11-21 12:20:23 WARNING rastreador.resumen: Gemini gemini-3.8-flash: HTTP 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later
+2026-11-21 12:20:23 WARNING rastreador.resumen: Gemini: gemini-3.8-flash no ha respondido (503); se prueba el siguiente.
+2026-11-21 12:20:51 WARNING rastreador.resumen: Gemini gemini-flash-latest: HTTP 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later
+2026-11-21 12:20:51 WARNING rastreador.resumen: Gemini: gemini-flash-latest no ha respondido (503); se prueba el siguiente.
+2026-11-21 12:20:51 WARNING rastreador.resumen: Gemini: ninguno de los modelos ['gemini-3.5-flash', 'gemini-3.8-flash', 'gemini-flash-latest'] ha respondido.
+2026-11-21 12:20:58 INFO    rastreador.run: Resumen 2/12: RESOLUCIÓN de 9 de abril de 2025, de la presidenta del Instituto Valen
+2026-11-21 12:21:33 INFO    rastreador.run: Resumen 3/12: Segunda convocatoria de ayudas a proyectos de eficiencia energética en
+2026-11-21 12:21:36 WARNING rastreador.resumen: Gemini gemini-3.5-flash: HTTP 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later
+2026-11-21 12:21:36 WARNING rastreador.resumen: Gemini: gemini-3.5-flash no ha respondido (503); se prueba el siguiente.
+2026-11-21 12:21:43 WARNING rastreador.resumen: Gemini gemini-3.8-flash: HTTP 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later
+2026-11-21 12:21:43 WARNING rastreador.resumen: Gemini: gemini-3.8-flash no ha respondido (503); se prueba el siguiente.
+2026-11-21 12:23:13 WARNING rastreador.resumen: Gemini gemini-flash-latest: no se ha podido conectar (ReadTimeout)
+2026-11-21 12:23:13 WARNING rastreador.resumen: Gemini: gemini-flash-latest no ha respondido (sin respuesta); se prueba el siguiente.
+2026-11-21 12:23:13 WARNING rastreador.resumen: Gemini: ninguno de los modelos ['gemini-3.5-flash', 'gemini-3.8-flash', 'gemini-flash-latest'] ha respondido.
+2026-11-21 12:23:13 WARNING rastreador.resumen: Resumen LLM no disponible para 826286; se usa resumen básico
+2026-11-21 12:23:14 INFO    rastreador.run: Resumen 4/12: Fomento de instalaciones de autoconsumo con o sin almacenamiento eléct
+2026-11-21 12:25:33 WARNING rastreador.resumen: Gemini gemini-3.5-flash: no se ha podido conectar (ReadTimeout)
+2026-11-21 12:25:33 WARNING rastreador.resumen: Gemini: gemini-3.5-flash no ha respondido (sin respuesta); se prueba el siguiente.
+2026-11-21 12:25:37 WARNING rastreador.resumen: Gemini gemini-3.8-flash: HTTP 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later
+2026-11-21 12:25:37 WARNING rastreador.resumen: Gemini: gemini-3.8-flash no ha respondido (503); se prueba el siguiente.
+2026-11-21 12:25:41 WARNING rastreador.resumen: Gemini gemini-flash-latest: HTTP 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later
+2026-11-21 12:25:41 WARNING rastreador.resumen: Gemini: gemini-flash-latest no ha respondido (503); se prueba el siguiente.
+2026-11-21 12:25:41 WARNING rastreador.resumen: Gemini: ninguno de los modelos ['gemini-3.5-flash', 'gemini-3.8-flash', 'gemini-flash-latest'] ha respondido.
+2026-11-21 12:25:48 INFO    rastreador.run: Resumen 5/12: Concesión de una subvención al Ayuntamiento de Sangüesa para la realiz
+2026-11-21 12:25:55 WARNING rastreador.resumen: Gemini gemini-3.5-flash: HTTP 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later
+2026-11-21 12:25:55 WARNING rastreador.resumen: Gemini: gemini-3.5-flash no ha respondido (503); se prueba el siguiente.
+2026-11-21 12:26:00 WARNING rastreador.resumen: Gemini gemini-3.8-flash: HTTP 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later
+2026-11-21 12:26:00 WARNING rastreador.resumen: Gemini: gemini-3.8-flash no ha respondido (503); se prueba el siguiente.
+2026-11-21 12:26:04 WARNING rastreador.resumen: Gemini gemini-flash-latest: HTTP 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later
+2026-11-21 12:26:04 WARNING rastreador.resumen: Gemini: gemini-flash-latest no ha respondido (503); se prueba el siguiente.
+2026-11-21 12:26:04 WARNING rastreador.resumen: Gemini: ninguno de los modelos ['gemini-3.5-flash', 'gemini-3.8-flash', 'gemini-flash-latest'] ha respondido.
+2026-11-21 12:26:04 WARNING rastreador.resumen: Resumen LLM no disponible para 825058; se usa resumen básico
+2026-11-21 12:26:04 INFO    rastreador.run: Resumen 6/12: ORDEN del CTEE, bases reguladoras y convocatoria subv. régimen conc. c
+2026-11-21 12:27:31 WARNING rastreador.resumen: Gemini gemini-3.5-flash: HTTP 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later
+2026-11-21 12:27:31 WARNING rastreador.resumen: Gemini: gemini-3.5-flash no ha respondido (503); se prueba el siguiente.
+2026-11-21 12:27:34 WARNING rastreador.resumen: Gemini gemini-3.8-flash: HTTP 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later
+2026-11-21 12:27:34 WARNING rastreador.resumen: Gemini: gemini-3.8-flash no ha respondido (503); se prueba el siguiente.
+2026-11-21 12:27:38 WARNING rastreador.resumen: Gemini gemini-flash-latest: HTTP 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later
+2026-11-21 12:27:38 WARNING rastreador.resumen: Gemini: gemini-flash-latest no ha respondido (503); se prueba el siguiente.
+2026-11-21 12:27:38 WARNING rastreador.resumen: Gemini: ninguno de los modelos ['gemini-3.5-flash', 'gemini-3.8-flash', 'gemini-flash-latest'] ha respondido.
+2026-11-21 12:27:38 WARNING rastreador.resumen: Resumen LLM no disponible para 824933; se usa resumen básico
+2026-11-21 12:27:38 INFO    rastreador.run: Resumen 7/12: CONVOCATORIA Y BASES REGULADORAS PARA LA CONCESIÓN DE SUBVENCIONES PAR
+2026-11-21 12:27:45 WARNING rastreador.resumen: Gemini gemini-3.5-flash: HTTP 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later
+2026-11-21 12:27:45 WARNING rastreador.resumen: Gemini: gemini-3.5-flash no ha respondido (503); se prueba el siguiente.
+2026-11-21 12:27:52 WARNING rastreador.resumen: Gemini gemini-3.8-flash: HTTP 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later
+2026-11-21 12:27:52 WARNING rastreador.resumen: Gemini: gemini-3.8-flash no ha respondido (503); se prueba el siguiente.
+2026-11-21 12:27:56 WARNING rastreador.resumen: Gemini gemini-flash-latest: HTTP 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later
+2026-11-21 12:27:56 WARNING rastreador.resumen: Gemini: gemini-flash-latest no ha respondido (503); se prueba el siguiente.
+2026-11-21 12:27:56 WARNING rastreador.resumen: Gemini: ninguno de los modelos ['gemini-3.5-flash', 'gemini-3.8-flash', 'gemini-flash-latest'] ha respondido.
+2026-11-21 12:27:56 WARNING rastreador.resumen: Resumen LLM no disponible para 824793; se usa resumen básico
+2026-11-21 12:27:56 INFO    rastreador.run: Resumen 8/12: Convenio Ayuntamiento Corella: proyecto de producción de energía renov
+2026-11-21 12:28:02 WARNING rastreador.resumen: Gemini gemini-3.5-flash: HTTP 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later
+2026-11-21 12:28:02 WARNING rastreador.resumen: Gemini: gemini-3.5-flash no ha respondido (503); se prueba el siguiente.
+2026-11-21 12:28:12 WARNING rastreador.resumen: Gemini gemini-3.8-flash: HTTP 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later
+2026-11-21 12:28:12 WARNING rastreador.resumen: Gemini: gemini-3.8-flash no ha respondido (503); se prueba el siguiente.
+2026-11-21 12:28:14 WARNING rastreador.resumen: Gemini gemini-flash-latest: HTTP 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later
+2026-11-21 12:28:14 WARNING rastreador.resumen: Gemini: gemini-flash-latest no ha respondido (503); se prueba el siguiente.
+2026-11-21 12:28:14 WARNING rastreador.resumen: Gemini: ninguno de los modelos ['gemini-3.5-flash', 'gemini-3.8-flash', 'gemini-flash-latest'] ha respondido.
+2026-11-21 12:28:14 WARNING rastreador.resumen: Resumen LLM no disponible para 823539; se usa resumen básico
+2026-11-21 12:28:15 INFO    rastreador.run: Resumen 9/12: Convenio Fundación Residencia Hogar San José para un sistema de aerote
+2026-11-21 12:28:33 WARNING rastreador.resumen: Gemini gemini-3.5-flash: HTTP 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later
+2026-11-21 12:28:33 WARNING rastreador.resumen: Gemini: gemini-3.5-flash no ha respondido (503); se prueba el siguiente.
+2026-11-21 12:28:42 WARNING rastreador.resumen: Gemini gemini-3.8-flash: HTTP 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later
+2026-11-21 12:28:42 WARNING rastreador.resumen: Gemini: gemini-3.8-flash no ha respondido (503); se prueba el siguiente.
+2026-11-21 12:28:49 WARNING rastreador.resumen: Gemini gemini-flash-latest: HTTP 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later
+2026-11-21 12:28:49 WARNING rastreador.resumen: Gemini: gemini-flash-latest no ha respondido (503); se prueba el siguiente.
+2026-11-21 12:28:49 WARNING rastreador.resumen: Gemini: ninguno de los modelos ['gemini-3.5-flash', 'gemini-3.8-flash', 'gemini-flash-latest'] ha respondido.
+2026-11-21 12:28:49 WARNING rastreador.resumen: Resumen LLM no disponible para 823526; se usa resumen básico
+2026-11-21 12:28:49 INFO    rastreador.run: Resumen 10/12: ANULADA ACUERDO de Pleno de 25 de marzo, de Aprobación de las Bases Re
+2026-11-21 12:29:11 WARNING rastreador.resumen: Gemini gemini-3.5-flash: HTTP 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later
+2026-11-21 12:29:11 WARNING rastreador.resumen: Gemini: gemini-3.5-flash no ha respondido (503); se prueba el siguiente.
+2026-11-21 12:30:41 WARNING rastreador.resumen: Gemini gemini-3.8-flash: no se ha podido conectar (ReadTimeout)
+2026-11-21 12:30:41 WARNING rastreador.resumen: Gemini: gemini-3.8-flash no ha respondido (sin respuesta); se prueba el siguiente.
+2026-11-21 12:30:42 WARNING rastreador.resumen: Gemini gemini-flash-latest: HTTP 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later
+2026-11-21 12:30:42 WARNING rastreador.resumen: Gemini: gemini-flash-latest no ha respondido (503); se prueba el siguiente.
+2026-11-21 12:30:42 WARNING rastreador.resumen: Gemini: ninguno de los modelos ['gemini-3.5-flash', 'gemini-3.8-flash', 'gemini-flash-latest'] ha respondido.
+2026-11-21 12:30:42 WARNING rastreador.resumen: Resumen LLM no disponible para 823273; se usa resumen básico
+2026-11-21 12:30:43 INFO    rastreador.run: Resumen 11/12: Instalación solar fotovoltaica en el edificio Fira de Girona
+2026-11-21 12:33:17 WARNING rastreador.resumen: Gemini gemini-3.5-flash: no se ha podido conectar (ReadTimeout)
+2026-11-21 12:33:17 WARNING rastreador.resumen: Gemini: gemini-3.5-flash no ha respondido (sin respuesta); se prueba el siguiente.
+2026-11-21 12:33:18 WARNING rastreador.resumen: Gemini gemini-3.8-flash: HTTP 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later
+2026-11-21 12:33:18 WARNING rastreador.resumen: Gemini: gemini-3.8-flash no ha respondido (503); se prueba el siguiente.
+2026-11-21 12:33:21 WARNING rastreador.resumen: Gemini gemini-flash-latest: HTTP 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later
+2026-11-21 12:33:21 WARNING rastreador.resumen: Gemini: gemini-flash-latest no ha respondido (503); se prueba el siguiente.
+2026-11-21 12:33:21 WARNING rastreador.resumen: Gemini: ninguno de los modelos ['gemini-3.5-flash', 'gemini-3.8-flash', 'gemini-flash-latest'] ha respondido.
+2026-11-21 12:33:28 INFO    rastreador.run: Resumen 12/12: Fomento de instalaciones de energía solar fotovoltaica y microeólica
+2026-11-21 12:35:15 WARNING rastreador.resumen: Gemini gemini-3.5-flash: no se ha podido conectar (ReadTimeout)
+2026-11-21 12:35:15 WARNING rastreador.resumen: Gemini: gemini-3.5-flash no ha respondido (sin respuesta); se prueba el siguiente.
+2026-11-21 12:35:15 WARNING rastreador.resumen: Gemini gemini-3.8-flash: HTTP 429 {   "error": {     "code": 429,     "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error,
+2026-11-21 12:35:15 ERROR   rastreador.resumen: Gemini: cuota agotada (HTTP 429). Se dejan de pedir resúmenes en esta ejecución; los que falten se harán mañana.
+2026-11-21 12:35:22 WARNING rastreador.run: 7 de 12 resúmenes han salido en modo básico.
+2026-11-21 12:35:33 INFO    rastreador.publicar: Panel publicado en https://ghc-pansogal.github.io/radar-subvenciones/ (rama gh-pages, reescrita)
+2026-11-21 12:35:33 INFO    rastreador.run: Panel generado: /home/runner/work/radar-subvenciones/radar-subvenciones/app/panel/index.html  (nuevas convocatorias: 0, licitaciones: 21, noticias: 0, resúmenes: 12, errores: 0)
